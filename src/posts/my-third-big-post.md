@@ -115,4 +115,5 @@ console.log(foo(5));
 Autoconverted link https://github.com/nodeca/pica
 
 ## Images
-{% image "pjdl.jpg" %}
+
+![](img/pjdl.jpg)

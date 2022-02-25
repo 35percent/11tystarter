@@ -31,6 +31,13 @@ module.exports = function (eleventyConfig) {
       eleventyConfig.addLiquidShortcode("image", imageShortcode);
       eleventyConfig.addJavaScriptFunction("image", imageShortcode);
     };
+    
+    async function imageShortcode(src, alt, sizes) {
+      // […]
+      return Image.generateHTML(metadata, imageAttributes, {
+        whitespaceMode: "inline"
+      });
+    }
     // --- END, eleventy-img
 
   // Merge data instead of overriding

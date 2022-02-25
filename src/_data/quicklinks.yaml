@@ -3,12 +3,17 @@ links:
   - title: Netlify CMS
     url: "https://www.netlifycms.org/"
     desc: Open source content management for your Git workflow
+    image: https://35percent.org/img/pjdl.jpg
   - title: Eleventy
     url: "https://www.11ty.dev/"
     desc: Eleventy is a simpler static site generator.
+    image: https://35percent.org/img/pjdl.jpg
   - title: Alpine.js
     url: "https://github.com/alpinejs/alpine"
     desc: A minimal framework for composing JavaScript behavior in your markup.
+    image: https://35percent.org/img/pjdl.jpg
   - title: Tailwind CSS
     url: "https://tailwindcss.com/"
     desc: A utility-first CSS framework for rapidly building custom designs.
+    image: https://35percent.org/img/pjdl.jpg
+

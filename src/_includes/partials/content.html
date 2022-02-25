@@ -3,12 +3,14 @@
     {% if quicklinks.links %}
 
         {% for item in quicklinks.links %}
-            <a href="{{item.url}}" target="_blank" class="p-5 border rounded border-gray-200 hover:border-purple-400">
-                <h3>{{item.title}}
-                    →</h3>
-                <p>{{item.desc}}</p>
-            </a>
-        {% endfor %}
+	<a href="{{ item.url }}" class="flex flex-col items-center bg-white rounded-lg border shadow-md md:flex-row md:max-w-full hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+            <img class="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" src="{{ item.image }}" alt="">
+                <div class="flex flex-col justify-between p-4 leading-normal">
+                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{{ item.title }}</h5>
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{{ item.desc }}</p>
+            </div>
+          </a>
+	{% endfor %}
 
     {% endif %}
 

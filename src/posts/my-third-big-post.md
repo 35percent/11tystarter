@@ -116,4 +116,4 @@ Autoconverted link https://github.com/nodeca/pica
 
 ## Images
 
-![Minion](https://octodex.github.com/images/minion.png)
+{% image "https://octodex.github.com/images/minion.png", "photo of my cat" %}

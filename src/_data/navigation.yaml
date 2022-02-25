@@ -2,9 +2,9 @@
 items:
   - text: Menu One
     url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: Heygate estate redevelopment
+    url: "/heygate"
+  - text: Estate Demolitions
+    url: "/estate"
   - text: Blog
     url: "/blog"

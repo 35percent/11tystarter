@@ -8,36 +8,36 @@ module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
 
-  // --- START, eleventy-img
-  function imageShortcode(src, alt, sizes="(min-width: 1024px) 100vw, 50vw") {
-    console.log(`Generating image(s) from:  ${src}`)
-    let options = {
-      widths: [600, 900, 1500],
-      formats: ["webp", "jpeg"],
-      urlPath: "/img/",
-      outputDir: "./_site/img/",
-      filenameFormat: function (id, src, width, format, options) {
-        const extension = path.extname(src)
-        const name = path.basename(src, extension)
-        return `${name}-${width}w.${format}`
-      }
-    }
 
-    // generate images
-    Image(src, options)
-
+  async function imageShortcode(src, alt, sizes) {
+    let metadata = await Image(src, {
+      widths: [300, 600],
+      formats: ["avif", "jpeg"]
+    });
+  
     let imageAttributes = {
       alt,
       sizes,
       loading: "lazy",
       decoding: "async",
-    }
-    // get metadata
-    metadata = Image.statsSync(src, options)
-    return Image.generateHTML(metadata, imageAttributes)
+    };
+  
+    // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+    return Image.generateHTML(metadata, imageAttributes);
   }
-  eleventyConfig.addShortcode("image", imageShortcode)
-  // --- END, eleventy-img
+  
+  module.exports = function(eleventyConfig) {
+    eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+    eleventyConfig.addLiquidShortcode("image", imageShortcode);
+    eleventyConfig.addJavaScriptFunction("image", imageShortcode);
+  };
+
+  async function imageShortcode(src, alt, sizes) {
+    // […]
+    return Image.generateHTML(metadata, imageAttributes, {
+      whitespaceMode: "inline"
+    });
+  }
 
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);

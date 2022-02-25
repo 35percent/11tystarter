@@ -5,8 +5,8 @@ backend:
   ### enable below lines for github integration ###
   name: github
   repo: 35percent/11tystarter
-media_folder: "src/static/img"
-public_folder: "/img"
+media_folder: "src/img"
+public_folder: "img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true

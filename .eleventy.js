@@ -9,32 +9,29 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false);
 
 
-  async function imageShortcode(src, alt, sizes) {
-    let metadata = await Image(src, {
-      widths: [300, 600],
-      formats: ["avif", "jpeg"]
-    });
+  function imageShortcode(src, cls, alt, sizes, widths) {
+    let options = {
+      widths: widths,
+      formats: ['jpeg'],
+    };
+  
+    // generate images, while this is async we don’t wait
+    Image(src, options);
   
     let imageAttributes = {
+      class: cls,
       alt,
       sizes,
       loading: "lazy",
       decoding: "async",
     };
-  
-    // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+    // get metadata even the images are not fully generated
+    let metadata = Image.statsSync(src, options);
     return Image.generateHTML(metadata, imageAttributes);
   }
   
-  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
-  eleventyConfig.addLiquidShortcode("image", imageShortcode);
-  eleventyConfig.addJavaScriptFunction("image", imageShortcode);
-
-  async function imageShortcode(src, alt, sizes) {
-    // […]
-    return Image.generateHTML(metadata, imageAttributes, {
-      whitespaceMode: "inline"
-    });
+  module.exports = function(eleventyConfig) {
+    eleventyConfig.addNunjucksShortcode("myImage", imageShortcode);
   }
 
   // Merge data instead of overriding

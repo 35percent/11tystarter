@@ -116,4 +116,4 @@ Autoconverted link https://github.com/nodeca/pica
 
 ## Images
 
-{% image "./static/img/minion.png", "photo of minion cat" %}
+{% image ".src/static/img/minion.png", "photo of minion cat" %}

@@ -28,7 +28,7 @@ function imageShortcode(src, cls, alt, sizes, widths) {
 }
 
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addNunjucksShortcode("myImage", imageShortcode);
+  eleventyConfig.addNunjucksShortcode("image", imageShortcode);
 }
 
 module.exports = function (eleventyConfig) {

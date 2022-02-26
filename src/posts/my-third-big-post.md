@@ -116,4 +116,4 @@ Autoconverted link https://github.com/nodeca/pica
 
 ## Images
 
-![](img/pjdl.jpg)
+{% "img/pjdl.jpg", "image of pj and dl") %}

@@ -2,11 +2,38 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
+const Image = require("@11ty/eleventy-img");
+
+function imageShortcode(src, cls, alt, sizes, widths) {
+  let options = {
+    urlPath: "src/img/",
+    outputDir: "./_site/img/",
+    widths: widths,
+    formats: ['jpeg'],
+  };
+
+  // generate images, while this is async we don’t wait
+  Image(src, options);
+
+  let imageAttributes = {
+    class: cls,
+    alt,
+    sizes,
+    loading: "lazy",
+    decoding: "async",
+  };
+  // get metadata even the images are not fully generated
+  let metadata = Image.statsSync(src, options);
+  return Image.generateHTML(metadata, imageAttributes);
+}
+
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addNunjucksShortcode("myImage", imageShortcode);
+}
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
-
   
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {

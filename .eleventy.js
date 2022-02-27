@@ -13,8 +13,8 @@ module.exports = function (eleventyConfig) {
     let options = {
       widths: [600, 900, 1500],
       formats: ["webp", "jpeg"],
-      urlPath: "/images/",
-      outputDir: "./_site/images/",
+      urlPath: "/src/img/",
+      outputDir: "./_site/img/",
       filenameFormat: function (id, src, width, format, options) {
         const extension = path.extname(src)
         const name = path.basename(src, extension)

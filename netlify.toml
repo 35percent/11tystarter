@@ -1,3 +1,4 @@
 [build]
   publish = "_site"
+  command = "npm install --save-dev @11ty/eleventy-img"
   command = "npm run build"

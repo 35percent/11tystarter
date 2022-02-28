@@ -12,7 +12,9 @@ module.exports = function (eleventyConfig) {
   async function imageShortcode(src, alt, sizes) {
     let metadata = await Image(src, {
       widths: [300, 600],
-      formats: ["avif", "jpeg"]
+      formats: ["avif", "jpeg"],
+      urlPath: "/img/",
+      outputDir: "./_site/img/"
     });
   
     let imageAttributes = {

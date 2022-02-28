@@ -36,7 +36,7 @@ module.exports = function (eleventyConfig) {
     metadata = Image.statsSync(src, options)
     return Image.generateHTML(metadata, imageAttributes)
   }
-  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+  eleventyConfig.addLiquidShortcode("image", imageShortcode);
   // --- END, eleventy-img
 
   // Merge data instead of overriding

@@ -1,6 +1,6 @@
 ---
 title: The Heygate diaspora
-image: img/LeaseholderDisplacement3.png
+image: ./src/img/LeaseholderDisplacement3.png
 ---
 Information obtained during the public inquiry convened to hear the compulsory purchase order to evict remaining leaseholders, shows that both leaseholders and tenants have been [displaced far and wide](https://35percent.org/the-heygate-diaspora/).
 

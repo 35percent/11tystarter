@@ -1,6 +1,6 @@
 ---
 title: Elmington estate
-image: img/elmington.jpg
+image: ./src/img/elmington.jpg
 ---
 Demolition of 519 homes on Camberwell's Elmington estate began in 2008. The Elmington estate's 'regeneration' was part of the Council's 'Southwark Estates Initiative'. The estate was made up of 4 towers and 14 low-rise maisonette blocks. Although found to be structurally sound the estate was earmarked for redevelopment, including demolition, as part of a government-backed estate renewal strategy, which sought to create more ‘mixed communities’.
 

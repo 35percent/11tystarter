@@ -1,6 +1,6 @@
 ---
 title: Tustin estate
-image: img/tustin4.jpeg
+image: ./src/img/tustin4.jpeg
 ---
 298 homes are earmarked for demolition on the Tustin estate off the Old Kent Road.
 

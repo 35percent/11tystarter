@@ -1,6 +1,6 @@
 ---
 title: Heygate estate
-image: img/heygategardens.jpg
+image: ./src/img/heygategardens.jpg
 ---
  
 In 2014, demolition started on the Heygate estate's 1,212 council homes. Council leader Peter John [describes](https://web.archive.org/web/20160503113339/https://progressonline.org.uk/2016/01/14/camerons-has-much-to-learn-on-housing/) the Heygate and Aylesbury estates as _“symbols of inner-city neglect, with crime, antisocial behaviour, health inequalities and unemployment the only things that flourished there”_.

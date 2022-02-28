@@ -1,6 +1,6 @@
 ---
 title: "Lendlease Greenwash"
-image: img/elephantparkmarketing.jpg
+image: ./src/img/elephantparkmarketing.jpg
 ---
 Developer Lendlease has rebranded its 25 acre Heygate redevelopment [_'Elephant Park'_](https://elephantpark.co.uk) and made much of the new 'public' park it will be building. But many still remember that the site used to be home to a sizeable public park called Elephant Park, which enjoyed public open space designation in the council's planning policy[^3] and Metropolitan Open Space protection by form of covenant. 
 

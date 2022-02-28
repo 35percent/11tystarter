@@ -109,4 +109,4 @@ console.log(foo(5));
 
 ## Images
 
-{% image "./src/img/pjdl.jpg", "image of pj and dl" %}
+{% picture "./src/img/pjdl.jpg", "image of pj and dl" %}

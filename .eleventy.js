@@ -29,9 +29,9 @@ module.exports = function (eleventyConfig) {
     whitespaceMode: "inline"
   }
   
-  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
-  eleventyConfig.addLiquidShortcode("image", imageShortcode);
-  eleventyConfig.addJavaScriptFunction("image", imageShortcode);
+  eleventyConfig.addNunjucksAsyncShortcode("picture", imageShortcode);
+  eleventyConfig.addLiquidShortcode("picture", imageShortcode);
+  eleventyConfig.addJavaScriptFunction("picture", imageShortcode);
 
   // --- END, eleventy-img
 

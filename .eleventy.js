@@ -9,7 +9,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false);
 
   // --- START, eleventy-img
-  async function imageShortcode(src, alt, sizes) {
+  async function imageShortcode(src, alt, sizes="(min-width: 650px) 100vw, 50vw")) {
     let metadata = await Image(src, {
       widths: [400, 650, 800, 1200],
       formats: ["avif", "jpeg"],

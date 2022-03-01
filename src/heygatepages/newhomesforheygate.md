@@ -1,6 +1,6 @@
 ---
 title: The new homes that never got built
-image: ./src/img/newhomesforheygate.jpg
+image: img/newhomesforheygate.jpg
 ---
 As part of the new masterplan, Southwark identified 15 council-owned sites (including play areas, a car park, a vacant nursing home) surrounding the Elephant & Castle, which it plans to hand over to housing associations in return for them building an element of 'social' housing for rehousing Heygate tenants.
 

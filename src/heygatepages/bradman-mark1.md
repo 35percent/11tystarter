@@ -1,6 +1,6 @@
 ---
 title: "The original plans and (broken) promises"
-image: img/slrplans.jpg
+image: ./src/img/slrplans.jpg
 description: The original vision promised much more than was actually delivered.
 ---
 Southwark Council selects a development partner, property developer Godfrey Bradman and starts working up a masterplan for the regeneration. It is July 2000 before the plans are first presented to Heygate residents. 

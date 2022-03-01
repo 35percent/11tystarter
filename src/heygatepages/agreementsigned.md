@@ -1,6 +1,6 @@
 ---
 title: Sold for a pittance
-image: img/pjdl.jpg
+image: ./src/img/pjdl.jpg
 description: Council sells estate for less than it cost to empty it.
 ---
 In July 2007, Southwark Council valued its 25 acre Heygate site at £150m[^1]. The estate comprised 1,212 council homes of which 189 were owned by leaseholders.

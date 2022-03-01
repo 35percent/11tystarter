@@ -1,6 +1,6 @@
 ---
 title: Ledbury estate
-image: ./src/img/ledbury3.jpg
+image: img/ledbury3.jpg
 ---
 224 homes have been earmarked for demolition on Southwark's Ledbury estate off the Old Kent Road.
 

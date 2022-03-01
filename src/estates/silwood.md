@@ -1,6 +1,6 @@
 ---
 title: Silwood estate
-image: ./src/img/silwood90s.jpg
+image: img/silwood90s.jpg
 ---
 
 In 2004, demolition started of 95 council homes on the Silwood Estate, Rotherhithe.  This was phases 4a & 4b (comprising Gillam House, 11-33 Debnams Rd and a council depot) of a joint regeneration with Lewisham Council.  The site was handed to Notting Hill Genesis housing association, which has built 182 new homes of which 55 were approved as social rent. It has been [shown](https://35percent.org/redefining-social-rent/) that these 'social rented' homes have been delivered as affordable rent - i.e. up to 80% market rent.

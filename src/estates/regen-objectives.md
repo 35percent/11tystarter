@@ -1,6 +1,7 @@
 ---
 title: "20 years of demolitions and sell-offs"
 image: img/blairvisitsaylesbury1997.jpg
+thumb: ./src/img/blairvisitsaylesbury1997thumb.jpg
 ---
 
 In June 1997, Tony Blair chose the Aylesbury estate to launch the Labour government's urban regeneration plans, where he describes _"an underclass of people cut off from society's mainstream without any sense of shared purpose."_

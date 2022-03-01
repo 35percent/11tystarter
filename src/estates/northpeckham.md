@@ -1,6 +1,7 @@
 ---
 title: North Peckham estate
 image: img/northpeckhamaerial.jpg
+thumb: ./src/img/northpeckhamaerialthumb.jpg
 ---
 North Peckham estate regeneration was Southwark's first regeneration scheme and was initially put together in the mid 1990's, for the purposes of securing redevelopment funds from the government's Single Regeneration Budget (SRB). It entailed the complete demolition of the 40-acre North Peckham estate of 1,444 council homes and included four adjacent estates, the Sumner, Willowbrook and Gloucester Grove and Camden estates. 
 

@@ -9,8 +9,9 @@ prism: true
         <h1 class="font-bold text-5xl">{{title}}</h1>
     </div>
     <article class="prose lg:prose-xl my-4 mx-auto">
+        <center>
         {% picture imagewithpath, "Header image", "(min-width: 30em) 50vw, 100vw "%}
-
+        </center>
         {{ content | safe }}</article>
 
 </div>

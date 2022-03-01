@@ -6,10 +6,9 @@ title: "Southwark's estate demolitions"
 <div class="w-full max-w-2xl grid grid-cols-1 lg:grid-cols-2 gap-4 my-8 px-4 lg:mx-0">
 
     {% set postslist = collections.estate %}
-    {% set imagewithpath = './src/' + post.data.image %}
-
 
     {% for post in postslist | reverse %}
+    {% set imagewithpath = './src/' + post.data.image %}
     <a href="{{ post.url }}" class="flex flex-col items-center bg-white rounded-lg border shadow-md md:flex-row md:max-w-full hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
         {% picture imagewithpath, "thumbnail image of estate", class="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" %}
             <div class="flex flex-col justify-between p-4 leading-normal">

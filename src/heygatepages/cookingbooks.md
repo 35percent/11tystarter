@@ -1,6 +1,6 @@
 ---
 title: Cooking the Books
-image: ./src/img/viability.png
+image: img/viability.png
 ---
 Despite a policy requirement of 35%, the [Regeneration Agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) signed by the council leader in 2010 stipulated that Lendlease was to provide _"A minimum of 25 per cent Affordable Housing"_(pg 95), which is _"to be divided equally between Social Rented Housing and Intermediate Affordable Housing"_(page 1).
 

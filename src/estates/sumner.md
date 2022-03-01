@@ -1,7 +1,7 @@
 ---
 title: Sumner estate
 image: img/sumnerdemolition.png
-thumb: ./src/img/sumnerdemolitionthumb.jpg
+thumb: img/sumnerdemolitionthumb.jpg
 ---
 The Sumner estate was demolished as part of the Five Estates North Peckham regeneration. It was built partly in the interwar period (13 blocks, 535 dwellings) and partly in the early 1950s (nine blocks, 247 dwellings) - a total of 782 dwellings over 22 blocks, from four to six storeys high.
 

@@ -1,7 +1,7 @@
 ---
 title: Gloucester Grove estate
 image: img/northpeckhamdemo.jpg
-thumb: ./src/img/northpeckhamdemothumb.jpg
+thumb: img/northpeckhamdemothumb.jpg
 ---
 Gloucester Grove estate was part demolished and part refurbished. It originally consisted of 1,210 flats and maisonettes distributed in 29 blocks, from three to ten storeys high. Only 3 of the 29 blocks have been retained and refurbished.
 

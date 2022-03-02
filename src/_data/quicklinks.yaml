@@ -3,7 +3,7 @@ links:
   - title: Social or affordable rent?
     url: "/redefining-social-rent"
     desc: Southwark continues to turn a blind eye to housing associations charging up to 80% market rent for social rented homes.
-    image: ./src/img/arthumb.jpg
+    image: ../img/arthumb.jpg
   - title: Eleventy
     url: "https://www.11ty.dev/"
     desc: Eleventy is a simpler static site generator.

@@ -1,10 +1,8 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Heygate estate redevelopment
-    url: "/heygate"
-  - text: Estate Demolitions
-    url: "/estate"
+  - text: About us
+    url: "/about"
+  - text: Campaign issues
+    url: "/issues"
   - text: Blog
     url: "/blog"

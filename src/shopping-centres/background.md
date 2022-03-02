@@ -1,0 +1,23 @@
+---
+title: Background
+image: images/elephant_castle.jpg
+---
+The Elephant & Castle shopping centre used to be owned by Godfrey Bradman, the property tycoon who redeveloped the City of London's [Broadgate estate](https://en.wikipedia.org/wiki/Broadgate){:target="_blank"} in the 1980s.
+
+Bradman was originally selected as the council's development partner for the E&C regeneration back in April 2000, but his [masterplan](https://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#6){:target="_blank"} came to an abrupt end when Southwark [terminated negotiations](https://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#7){:target="_blank"} in April 2002.
+
+The shopping centre was then [sold](https://www.standard.co.uk/business/markets/property-southwark-gets-a-new-lease-of-life-8841328.html){:target="_blank"} to a joint-venture between Kuwaiti real-estate group [__Salhia__](https://www.salhia.com){:target="_blank"} and West Midlands-based regeneration developer [__St Modwen__](https://stmodwen.co.uk){:target="_blank"} for £29m in 2004.
+
+Having lost out to Lendlease in its 2007 bid to be the council's regeneration partner for the Elephant, including the Heygate estate, St Modwen put forward its proposals to the council for the redevelopment of the shopping centre. But it was knocked back due to the large number of residential units it wanted to build on the site; St Modwen [said](https://www.london-se1.co.uk/news/view/5831){:target="_blank"} it needed to include 1000 residential units in the development to make it viable, but the council said it would [refuse](https://crappistmartin.github.io/images/Estates_Gazette_18March2014.pdf){:target="_blank"} to consider more than 500.
+ 
+As a result of the stalemate, St Modwen [sold](https://crappistmartin.github.io/images/LRDeeds_ShoppingCentre.pdf){:target="_blank"} the shopping centre in 2014 for £80m to __Delancey DV4__, a developer funded by George Soros, managed by [Tory donor](https://www.independent.co.uk/news/uk/politics/party-funding-tory-coffers-benefit-from-fear-of-labour-mansion-tax-9716614.html){:target="_blank"} Jamie Ritblatt, registered in the British Virgin Islands and which has been [accused](https://crappistmartin.github.io/images/PrivateEyeNo1311.pdf){:target="_blank"} of _'aggressive tax avoidance'_. Jamie is son of Sir John Ritblat, property tycoon who owns __British Land__ and is a long-standing Tory donor. __British Land__ has been selected as the Council's development partner for its massive [46-acre Canada Water regeneration scheme](https://35percent.org/canada-water/#british-land-masterplan-site). 
+
+![](https://35percent.org/img/jamieandjohnritblat.jpg)
+*Jamie Ritblat(left) and Sir John Ritblat(right)*
+
+Delancey, which is also developing neighbouring site ['Elephant One'](https://crappistmartin.github.io/tribeca-square){:target="_blank"}, [employed](https://crappistmartin.github.io/images/delanceyinvite.pdf){:target="_blank"} former deputy Southwark council leader [Kim Humphries](https://www.linkedin.com/pub/kim-humphreys/5/312/a34){:target="_blank"} to advise on its development and lead its consultation plans. Kim is now ['Carvil Ventures Ltd'](https://carvil-ventures.co.uk/){:target="_blank"} - an independent corporate finance and real-estate consultancy, which is advising Delancey. Kim [made his name](https://youtu.be/E9-cfAdGiFA?t=6m44s){:target="_blank"} in the [Heygate clearances](https://35percent.org/2013-06-08-the-heygate-diaspora/){:target="_blank"} and is not the first Council member to disappear through Southwark's [revolving doors](/revolving-doors){:target="_blank"}. 
+
+![Kim Humphries](https://35percent.org/img/carvilkimcollage.jpg) 
+*Former deputy Council leader Kim Humphries - now working for Delancey*
+
+Despite attracting over [a thousand formal objections](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&keyVal=_STHWR_DCAPR_9569810) and after [failing to get approval](https://www.bbc.co.uk/news/uk-england-london-42719607) from Southwark's planning committee on 16 Jan 2018, developer Delancey's [application](https://planbuild.southwark.gov.uk/documents/?casereference=16/AP/4458&system=DC){:target="_blank"} for the redevelopment of the [Elephant & Castle shopping centre](https://35percent.org/shopping-centre/){:target="_blank"}, was [narrowly approved](https://35percent.org/2018-07-09-delancey/) on 3 July 2018, after a total of three deferments.

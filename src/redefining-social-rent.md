@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 title: Affordable Housing Monitoring
 featured: true
 image: img/rsr.png

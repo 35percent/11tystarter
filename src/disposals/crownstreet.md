@@ -1,6 +1,5 @@
 ---
 title: Crown Street Depot 
-date: '2012-10-27'
 image: img/crownstreetdepot.png
 layout: page
 ---

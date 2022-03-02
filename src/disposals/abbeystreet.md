@@ -1,6 +1,5 @@
 ---
 title: Abbey Street Children's Home 
-date: '2011-08-01'
 layout: page
 image: img/abbeystreet.jpg
 ---

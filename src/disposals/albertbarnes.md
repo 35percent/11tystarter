@@ -1,6 +1,5 @@
 ---
 title: Albert Barnes estate green space 
-date: '2013-01-27'
 image: img/albertbarnes.jpg
 layout: page
 ---

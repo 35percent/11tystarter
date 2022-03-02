@@ -1,7 +1,6 @@
 ---
 title: Camberwell Town Hall 
 layout: page
-date: '2014-12-27'
 published: true
 image: img/PeckhamTownHall.jpg
 ---

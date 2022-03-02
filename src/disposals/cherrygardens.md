@@ -1,6 +1,5 @@
 ---
 title: Cherry Gardens School 
-date: '2019-10-27'
 image: img/cherrygardens.jpg
 layout: page
 ---

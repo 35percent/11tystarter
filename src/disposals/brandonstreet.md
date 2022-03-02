@@ -1,6 +1,5 @@
 ---
 title: Brandon St Ball Court 
-date: '2012-04-27'
 image: img/brandonstreet.png
 layout: page
 ---

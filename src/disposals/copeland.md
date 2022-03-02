@@ -1,6 +1,5 @@
 ---
 title: Copeland Road Car Park 
-date: '2019-10-27'
 image: img/copeland.png
 layout: page
 ---

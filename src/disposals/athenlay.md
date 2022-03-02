@@ -1,6 +1,5 @@
 ---
 title: Athenlay Road 
-date: '2013-10-27'
 image: img/athenlay.png
 layout: page
 ---

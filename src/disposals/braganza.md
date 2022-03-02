@@ -1,6 +1,5 @@
 ---
 title: Braganza Street Workshops 
-date: '2019-10-27'
 image: img/braganzaaerial.jpg
 layout: page
 ---

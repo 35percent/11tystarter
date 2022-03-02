@@ -1,6 +1,5 @@
 ---
 title: Bermondsey Town Hall 
-date: '2012-12-12'
 image: img/bermondseytownhall.jpg
 layout: page
 ---

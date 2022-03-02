@@ -1,6 +1,5 @@
 ---
 title: Devonshire Grove (Old Kent Road)
-date: '2019-10-27'
 image: img/devonshire.jpg
 layout: page
 ---

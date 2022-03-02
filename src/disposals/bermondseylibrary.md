@@ -1,6 +1,5 @@
 ---
 title: Bermondsey Library 
-date: '2011-10-27'
 image: img/bermondseylibrary.png
 layout: page
 ---

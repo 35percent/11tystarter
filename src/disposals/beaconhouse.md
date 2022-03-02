@@ -1,6 +1,5 @@
 ---
 title: Beacon estate green space
-date: '2013-10-27'
 image: img/beaconhouse.png
 layout: page
 ---

@@ -1,6 +1,5 @@
 ---
 title: Badminton House 
-date: '2013-10-27'
 image: img/badmintonhouse.jpg
 layout: page
 ---

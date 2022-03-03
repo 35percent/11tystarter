@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Heygate Viability Figures Tribunal Appeal"
-date: 2014-02-01 13:48
+date: 2014-02-01
 image: img/Tribunalfolderssmall.jpg
 ---
 The 35% Campaign will be giving evidence this week at the 5-day Tribunal hearing for [Southwark Council's Appeal](http://www.standard.co.uk/news/london/southwark-in-tribunal-fight-to-keep-15bn-heygate-estate-deal-secret-8808759.html) against the Information Commissioner's ruling to disclose the Heygate financial viability figures.

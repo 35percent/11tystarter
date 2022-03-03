@@ -1,8 +1,8 @@
 ---
 title: "Who will pay for the 116 social housing units?"
 image: img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg
+description: Southwark negotiates itself out of a multi-million pound payment and it now looks like the 116 new social rented homes will be funded entirely by the Council.
 ---
-Southwark negotiates itself out of a multi-million pound payment at the Elephant.
 
 Southwark Council has waived a payment of £46.6m from developer Delancey in their legal agreement for the redevelopment of the Elephant & Castle shopping centre. The payment would have been made by Delancey in the event of Southwark having to take over the construction of the 116 social rented units in the scheme, but never found its way into the [final s106 agreement](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!vE9wO3JaHe3qFSlAm%2fikmA%3d%3d!%7d%7d%7d)
 

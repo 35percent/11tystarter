@@ -1,6 +1,7 @@
 ---
 title: Revolving doors
 image: img/pjterrapin.png
+description: After ten years of being wined and dined by Lendlease's lobbying agent, our Council leader who signed the regeneration agreement with them has just taken up a job with them.
 ---
 In 2021, Council leader Peter John announced that he would be standing down after more than a decade at the helm of the Council. It then transpired that he had been [appointed Chairman](https://www.35percent.org/former-council-leader-slides-through-the-revolving-doors/) of [Terrapin Group](https://www.terrapingroup.co.uk/ourPeople/17), a lobbying firm whose client list is dominated by property developers including the Council's development partner for the Heygate estate (Lendlease).
 

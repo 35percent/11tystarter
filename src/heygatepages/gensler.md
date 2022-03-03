@@ -1,6 +1,7 @@
 ---
 title: Gensler report
 image: img/genslersummary.jpg
+description: Architect's study shows that refurbishment would be better economically and environmentally.
 ---
 In 2012, global architect, planning and consulting firm Gensler entered a competition organised by Building Trust International. The HOME competition – was a project focused on providing residents most at risk in developed cities with a safe place to live. The competition’s task was to create an urban dwelling for under £20k, and it resulted in over 450 applications.
 

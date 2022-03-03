@@ -1,8 +1,8 @@
 ---
 title: Transport Interchange
 image: img/shoppingcentreaccess.png
+description: The initial plans proposed a brand new transport interchange connecting the train station directly with the tube. This has now been shelved.
 ---
-The initial plans proposed a brand new transport interchange connecting the train station directly with the tube. Like most of the other public benefits of the scheme these plans have now been shelved.
 
 Transport for London's [initial response to the scheme](https://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!eFbtnvDjhOiqL4IpxHg%2f%2fw%3d%3d!%7d%7d%7d){:target="_blank"} outlined a number of significant transport issues that needed to be resolved. One of these was the access route for service vehicles to the new shopping centre, which was originally going to be provided by an underground tunnel from Delancey's neighbouring [Elephant One](/tribeca-square) (formerly Tribeca Square) development. Indeed, Delancey's [viability assessment](https://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf) for Elephant One argued that the ramp for the underground tunnel would cost £12.5m and the development could therefore not viably provide ANY affordable housing. The council accepted the argument and even [signed over land](https://35percent.org/img/DelanceyEadon_MarketSquare_Agreement.pdf) to Delancey's shell company (Eadon Ltd), in order to build the underground access tunnel. However, Delancey's planning application now says that it wants to use a different, direct access route off New Kent Road instead. TFL says that this will cause congestion for buses and affect safe passage across the new pedestrian routes.
 

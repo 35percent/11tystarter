@@ -1,6 +1,7 @@
 ---
 title: "Delancey's offshore connections"
 image: img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg
+description: The entire Elephant & Castle town centre has been registered to a shell company registered in the British Virgin Islands.
 ---
 Developer Delancey has registered its land holdings at the Elephant & Castle to tax havens in Bermuda, Panama and the British Virgin Islands. 
 

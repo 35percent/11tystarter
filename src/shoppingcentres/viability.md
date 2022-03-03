@@ -1,6 +1,7 @@
 ---
 title: Delancey cooks the books
 image: img/delanceyfvaprofit.png 
+description: Delancey cooks the books to reduce the affordable housing offer.
 ---
 Delancey has been granted permission to build 979 Build to Rent homes totalling 106,471sqm of residential floorspace and while 35% will be 'affordable' only 9,141sqm (8.6% - 116 homes) will be social rent. 
 

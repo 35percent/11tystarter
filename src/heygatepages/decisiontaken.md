@@ -1,6 +1,7 @@
 ---
 title: "Decision taken without consultation"
 image: img/lovetheelephantbanner.jpg
+description: Decision is taken to demolish the estate 3 years before any discussion with residents.
 ---
 A decision is taken behind closed doors by Southwark's Regeneration chief Fred Manson to include the Heygate estate within the wider regeneration of Elephant & Castle. 
 His report acknowledges that _'This overall proposal raises very big issues which involve a large number of different interest groups. Even raising such matters can lead to difficulties.'_

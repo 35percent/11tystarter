@@ -1,8 +1,8 @@
 ---
 title: Renewable Energy
 image: img/greenwash.png
+description: The original plans proposed the scheme be supplied by 100% on-site generated renewable energy but the final consented scheme will provide just 1%.
 ---
-The original plans proposed the scheme be supplied by 100% on-site generated renewable energy but the final consented scheme will provide just 1%.
 
 The original regeneration plans proposed a [Multi-Utility Services Co.](https://www.london-se1.co.uk/news/view/2270) (MUSCo) renewable energy plant, which was [supposed](https://www.southwark.gov.uk/assets/attach/1814/Elephant_and_Castle_Regeneration_Agreement_Appendix_6.pdf) to provide _"the generation of renewable energy"_ in a _"sustainable network of heat, water and telecoms"_ for all new developments at the Elephant. The MUSCo was going to generate 100% renewable energy from a biomass energy centre making the Elephant & Castle regeneration a 'zero carbon' development with 'carbon positive' homes.
 

@@ -1,6 +1,6 @@
 ---
 title: Background
-image: images/elephant_castle.jpg
+image: img/elephant_castle.jpg
 ---
 The Elephant & Castle shopping centre used to be owned by Godfrey Bradman, the property tycoon who redeveloped the City of London's [Broadgate estate](https://en.wikipedia.org/wiki/Broadgate){:target="_blank"} in the 1980s.
 

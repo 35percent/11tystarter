@@ -3,6 +3,7 @@ layout: posts
 title: "£63m public money to build 274 private homes"
 date: 2015-06-19
 image: img/uncle.jpg
+description: All eyes have been on Southwark Council's controversial redevlopment of the Heygate estate and its low-profile acquisition of the London Park Hotel site has gone un-noticed - until now..
 ---
 Tory Housing Minister Brandon Lewis has [announced](https://www.egi.co.uk/news/lewis-announces-252m-prs-boost/) the third round of successful bidders in the government's [Build to Rent fund](https://www.gov.uk/government/news/1000-new-homes-for-private-rent-in-london).
 

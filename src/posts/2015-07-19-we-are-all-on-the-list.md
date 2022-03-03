@@ -3,6 +3,7 @@ layout: posts
 title: "We're all on the list"
 date: 2015-07-19
 image: img/silwoodpredemo.jpg
+description: Southwark Council seeks to re-designate its council estates as brownfield land - i.e. ripe for redevelopment.
 ---
 Southwark council is due to discuss progress on its plans to build 11,000 council homes on [Tuesday evening](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=5138&Ver=4) and will be considering a [report](https://moderngov.southwark.gov.uk/documents/s55626/Appendix%204%20Savills%20Evaluation.pdf) by global property consultant __Savills__. This measures the performance of all Southwark's 406 council estates or _'asset groups'_ as Savills calls them. Savills does not use Peter John's ['penile drugs injection'](https://crappistmartin.github.io/images/page_17.jpg) test as a measure of a community's success, but its pseudo-scientific approach is not much better. It lumps together stock condition and maintenance costs with socio-economic measurements such as income levels and educational attainment, to give each council estate a rating.
 

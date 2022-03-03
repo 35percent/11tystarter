@@ -3,6 +3,7 @@ layout: posts
 title: Aylesbury redevelopment - decision day
 date: 2015-04-18
 image: img/Aylesburyoutline2.jpg
+description: Southwark Labour Councillors set to dutifuly fall in to line to approve controversial Aylesbury estate redevelopment.
 ---
 The planning applications for the redevelopment of the Aylesbury estate are to be considered by Southwark council's planning commitee on [Thursday evening](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=4808&Ver=4). Officers recommend that approval be granted - their report on the outline masterplan application can be found [here](https://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d).
 

@@ -3,6 +3,7 @@ layout: posts
 title: "Aylesbury estate - 42 more residents face Compulsory Purchase"
 date: 2014-06-30
 image: img/cpoinquiry2.png
+description: More CPO acquisitions on the Aylesbury estate - who are the new homes being built for then?
 ---
 In China homeowners who stand in the way of new developments can refuse compensation if they are prepared to stay put in ['nail houses'](http://www.theguardian.com/cities/gallery/2014/apr/15/china-nail-houses-in-pictures-property-development). In Britain homeowners don't have that option - sooner or later they would have to accept whatever is offered, as the leaseholders on Southwark's Aylesbury estate are finding out. 
 

@@ -3,6 +3,7 @@ layout: posts
 title: "Setting the record straight"
 date: 2014-09-20
 image: img/heygategardens.jpg
+description: Southwark fights back against claims that its deal with Lendlease will leave it out of pocket.
 ---
 Southwark Council has had its feathers ruffled by both the Guardian and the BBC lately. A [Guardian article](http://www.theguardian.com/cities/2014/sep/17/truth-property-developers-builders-exploit-planning-cities) by Oliver Wainright uses the redevelopment of the Heygate estate as an example of how developers are _'exploiting planning authorities and ruining our cities'_. 
 

@@ -3,7 +3,9 @@ layout: posts
 title: "PRS - (Private Rip-off Sector)"
 date: 2014-07-19
 image: img/tribecasquare2.jpg
+description: Delancey cashes in on the the PRS (private rented sector) BTR (Build to Rent) bollocks.
 ---
+
 Delancey has been very shy about telling us what rents it will be charging for its new Private Rented Sector (PRS) homes in its [shopping centre](http://www.london-se1.co.uk/news/view/7258) and [Tribeca Square](http://www.london-se1.co.uk/news/view/7208) developments (which could total around 2000 units). We can now tell you: at least £375 per week for a 1-bed and £500 per week for a 2-bed flat; hardly rents that are _"relevant to Londoners earning London wages"_ as Delancey has hitherto [maintained](http://www.london-se1.co.uk/news/view/7378). We know this because it is written in the evidence[^1] submitted on behalf of Delancey by its representative Deloitte to next week's [public inquiry](http://www.southwark.gov.uk/info/856/planning_policy/2696/community_infrastructure_levy) examining Southwark's new Community Infrastructure Levy (CIL) charging schedules: 
 
 ![](http://crappistmartin.github.io/images/DelanceyCILSubmissionPRSRentLevels.png)

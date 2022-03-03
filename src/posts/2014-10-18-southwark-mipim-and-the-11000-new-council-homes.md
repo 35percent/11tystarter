@@ -3,6 +3,7 @@ layout: posts
 title: "MIPIM, Southwark and its 11000 new 'private and social' council homes"
 date: 2014-10-18
 image: img/southwarkMIPIMstand.png
+description: When Southwark goes cap in hand to a property developers' Jamboree you need to ask what kind of homes they are begging the developers to build.
 ---
 The MIPIM Jamboree last week attracted much protest and media comment, including articles in the [Guardian](http://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim) and on the [Left Foot Forward](http://leftfootforward.org/2014/10/the-mipim-property-fair-everything-wrong-with-regeneration/) blog, which noted that _"the Heygate Estate has become the paradigmatic example of the MIPIM-model of property development"_.
 

@@ -3,6 +3,7 @@ layout: posts
 title: "Southwark's rogue landlords - enforcement or endorsement?"
 date: 2014-05-16
 image: img/109Wendover.JPG
+description: Southwark has one rule for leaseholders who they're taking to court and a different rule for all the others.
 ---
 We have written briefly before about the [Aylesbury estate leaseholders](http://heygate.github.io/img/SNWolverton.pdf) subjected to [CPO proceedings](http://heygate.github.io/img/ObjectionCPOAugust2012.pdf) and how the council's low valuations of their homes shares similarities with the story of the Heygate's leaseholders.
 

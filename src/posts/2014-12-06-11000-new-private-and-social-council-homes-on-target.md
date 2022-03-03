@@ -3,6 +3,7 @@ layout: posts
 title: "Council sells council homes to build new ('social and private') 'council' homes"
 date: 2014-12-06
 image: img/southwarkMIPIMstand.png
+description: Southwark Council begs developers to come and build in the borough - whatever! just build something! We are open for business!
 ---
 We [wrote](/2014-10-04-lets-talk-about-peters-promises/) in October about the council's plan to earmark a number of its housing estates for demolition using an ['Asset Performance Evaluation Tool'](http://crappistmartin.github.io/images/SNhat.pdf), which would take into account factors like residents' income. The results of its survey were supposed to be presented at next week's Cabinet meeting, but the [December Cabinet report](http://moderngov.southwark.gov.uk/documents/s50476/Report%20Pipeline%20for%20the%20Delivery%20of%201500%20New%20Council%20Homes.pdf) shows that this has now been postponed until January.
 

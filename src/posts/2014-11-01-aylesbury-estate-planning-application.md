@@ -3,6 +3,7 @@ layout: posts
 title: "Aylesbury estate planning applications - 934 social rented homes to be lost"
 date: 2014-11-01
 image: img/aylesburynetloss.png
+description: Finally all becomes clear as the first phase of the Aylesbury estate redevelopment is submitted. How many social rented homes? Will they be social rent or 80% market rent?
 ---
 After waiting over a month for them to be 'validated' by the council, the planning documents for the Aylesbury estate revelopment are now online.
 The application for the First Development Site seeks permission to demolish the Bradenham, Chartridge & Chiltern blocks comprising 630 homes and replace them with 815 new homes ([ref:14-AP-3843](http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeDocs&TheSystemkey=9557152)); 362 of these will be at 'target rent' - a net loss of 204 units (provided that target rent is equivalent to social rent). The amount of free market housing on this first phase will increase from 64 homes (initially bought under right-to-buy) to 412 and there will also be 102 intermediate units. 

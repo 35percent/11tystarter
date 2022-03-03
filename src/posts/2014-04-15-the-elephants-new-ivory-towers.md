@@ -3,6 +3,7 @@ layout: posts
 title: "The Elephant's new Ivory Towers"
 date: 2014-04-15
 image: img/delanceyshoppingcentrecgi.jpg
+description: All the shiny new towers at Elephant and Castle and how they address local housing need.
 ---
 <center>
 <iframe src="http://crappistmartin.github.io/ivorytowers" width="600" height="400"></iframe>

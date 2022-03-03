@@ -3,6 +3,7 @@ layout: posts
 title: "Aylesbury Applications Approved"
 date: 2015-04-26
 image: img/aylesburydrone.jpg
+description: Southwark's planning committee battons down the hatches and unanimously approves controversial Aylesbury estate regeneration despite serious concerns raised by objectors.
 ---
 Southwark council battoned down the hatches at their Tooley Street headquarters last Thursday, in preparation for the controversial Aylesbury planning application committee hearing.
 In the event, Aylesbury tenants and leaseholders were bitterly disappointed when the six hour meeting approved the [applications](/2014-11-01-aylesbury-estate-planning-application/).

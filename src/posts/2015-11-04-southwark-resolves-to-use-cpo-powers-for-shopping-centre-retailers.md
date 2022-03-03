@@ -3,6 +3,7 @@ layout: posts
 title: "CPO powers to be used on shopping centre traders"
 date: 2015-11-04
 image: img/scelephant.jpg
+description: Southwark Council prepares yet again to use its statutory CPO powers to get rid of existing communities to further its regeneration objectives.
 ---
 
 Southwark Council's Cabinet has [said](https://moderngov.southwark.gov.uk/documents/s57189/Report%20Elephant%20and%20castle.pdf) it will be prepared to use Compulsory Purchase powers to remove retailers from the Elephant & Castle shopping centre, to enable its redevelopment by its owner Delancey.

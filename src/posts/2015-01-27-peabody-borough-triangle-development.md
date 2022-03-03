@@ -3,6 +3,7 @@ layout: posts
 title: "Peabody's philanthropic glass towers - 0% social housing"
 date: 2015-01-27
 image: img/BoroughTriangle.png
+description: What kind of housing association abandons the concept of social rented housing?
 ---
 Peabody Housing Association has finally submitted a [Planning application](https://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeDocs&TheSystemkey=9556404) for its long-awaited _Borough Triangle_ development at Elephant & Castle. This large triangle of land sits between Southbank University, Borough road and the Crown Court on Newington Causeway.  
 

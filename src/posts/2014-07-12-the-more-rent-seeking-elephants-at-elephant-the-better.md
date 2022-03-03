@@ -3,6 +3,7 @@ layout: posts
 title: "Where there's bronze there's brass"
 date: 2014-07-12
 image: img/photo-5-1.jpg
+description: Heygate Pyramid scheme set to divide opinion one way or the other.
 ---
 Just when we thought the Heygate pyramid had set the limits on misconceived artistic collaborations at the Elephant, we got wind of the latest 'triumphant elephant' sculpture proposal.
 According to [documents](http://crappistmartin.github.io/images/samkeil_bio_2010.pdf) posted on artist Sam Keil's website _"the team responsible for the redevelopment of the Elephant and Castle district in South London have commissioned Sam to sculpt a major piece for a new public square"_.

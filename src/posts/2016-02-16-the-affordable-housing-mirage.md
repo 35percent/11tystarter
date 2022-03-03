@@ -3,6 +3,7 @@ layout: posts
 title: "Affordable housing - a mirage wrapped in an illusion"
 date: 2016-02-16
 image: img/arexampless.png
+description: Southwark Council responds to our complaint about non-delivery of affordable housing by claming that there's nothing to see here - move on!
 ---
 
 Taking its cue from the 35% campaign's [corporate complaint](https://crappistmartin.github.io/images/Corporate_Complaint_15_Dec_2015Final.pdf), Southwark News has [revealed](https://www.southwarknews.co.uk/news/southwark-council-takes-legal-advice-over-social-housing-promises/) the reality behind the great affordable housing illusion.

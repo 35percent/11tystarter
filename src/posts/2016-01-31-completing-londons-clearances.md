@@ -3,6 +3,7 @@ layout: posts
 title: "Completing london's clearances"
 date: 2016-01-31
 image: img/peterjohnquote_1and2.png
+description: David Cameron's estate clearance policies endorsed by our own Council.
 ---
 David Cameron's [announcement](https://www.gov.uk/government/news/prime-minister-pledges-to-transform-sink-estates) that the government will be regenerating 100 council estates across the country, should send a chill down the spine of every council tenant and leaseholder in the country.
 

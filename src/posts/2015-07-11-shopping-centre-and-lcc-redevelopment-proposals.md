@@ -3,6 +3,7 @@ layout: posts
 title: "Completing the masterplan - Shopping centre traders to be booted out"
 date: 2015-07-12
 image: img/traderscomp.jpeg
+description: Finally it has become clear that existing traders in E&C shopping centre are not to be included in the developer's plans to rebuild the shopping centre.
 ---
 Just as the dust settles on the rubble of the Heygate estate, consultation begins on the demise of another large part of the Elephant & Castle's local community.
 

@@ -3,6 +3,7 @@ layout: posts
 title: "Stand up for more social housing (at 80% market rent)"
 date: 2015-03-18
 image: img/arexampless.png
+description: Southwark Council's redevelopment partner for the regeneration of the Aylesbury estate is one of the core drivers behind the Tories' new re-classification of social rent levels.
 ---
 _"Let's all of us stand up for more social housing"_ was the [call to arms](https://twitter.com/NottingHillHG/status/577771553842167808) during the ['impassioned speech'](https://www.24dash.com/news/housing/2015-03-18-The-Homes-for-Britain-bus-relay-reaches-Westminister) from Notting Hill Housing Trust's Director Kate Davies at yesterday's ['Homes for Britain'](https://www.theguardian.com/society/2015/mar/17/london-housing-rally-protesters-gather-at-homes-for-britain-event) rally. The rally was part of an ongoing campaign organised by the [National Housing Federation](https://www.housing.org.uk/), of which NHHT is a founding member. 
 

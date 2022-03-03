@@ -3,6 +3,7 @@ layout: posts
 title: "Notting Hill Housing Trust - Quids in with Boris"
 date: 2014-08-19
 image: img/kdquotes.png
+description: Notting Hill Housing Trust is Southwark's selected development partner for the Aylesbury estate regeneration but its CEO is the brainchild of the Tories' policy of abolishing social rented housing.
 ---
 Notting Hill Housing Trust is an important provider of housing in Southwark, both 'affordable' and [private](http://www.southwarknews.co.uk/00,news,26531,440,00.htm). It has plans to build more than 4000 homes in Southwark; 3500 of these will be on the Aylesbury estate, which it is redeveloping [in partnership](http://www.nottinghillhousing.org.uk/about-us/building-new-homes/our-developments/aylesbury-estate-southwark) with Britain's largest - and the mayor's favourite - housebuilder Barratt Homes. According to the NHHT [website](http://www.nottinghillhousing.org.uk/asset/view/6912.pdf), a hybrid application comprising outline planning for the whole Aylesbury and detailed planning for the first phase is due to be submitted by the NHHT/Barratt consortium next month.
 

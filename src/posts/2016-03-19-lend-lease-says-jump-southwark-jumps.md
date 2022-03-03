@@ -3,6 +3,7 @@ layout: posts
 title: "Lendlease says jump - Southwark jumps"
 date: 2016-03-19
 image: img/rd.jpg
+description: Yet again Southwark dances to the tune of Lendlease's demands at Elephant & Castle.
 ---
 <img src="https://crappistmartin.github.io/images/viabilityspd.png" Height="300" width="200" align="left" style="margin:20px"> Southwark Council has bowed to developers' will and restricted public access to financial viability appraisals of planning applications. Instead of being published when planning applications are submitted, the appraisals will be published just one week before the planning committee takes its decision. The changes were made following pressure from developers, who have long been using these appraisals to reduce the amount of affordable housing they have to build.
 

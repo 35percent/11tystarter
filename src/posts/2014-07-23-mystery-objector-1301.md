@@ -3,6 +3,7 @@ layout: posts
 title: "Southwark's mysterious estate renewal zone"
 date: 2014-07-23
 image: img/aylesburydrone.jpg
+description: Has Notting Hill Genesis really lobbied the Council to reduce its CIL contributions for the Aylesbury estate redevelopment?
 ---
 Our [search](/2014-07-19-community-infrastructure-levy/) to identify mystery Objector 1301 - who is lobbying for subsidies to knock down Southwark's council estates at next week's [CIL public inquiry](http://www.southwark.gov.uk/info/856/planning_policy/2696/community_infrastructure_levy) - has brought some clarity but also some more mystery with it.
 

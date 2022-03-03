@@ -3,6 +3,7 @@ layout: posts
 title: "Notting Hill no social Housing Trust"
 date: 2014-06-16
 image: img/kdquotes.png
+description: Southwark's new development partner for the Aylsebury estate regeneration exposes their true colours.
 ---
 One of the most characterful development sites within the the Elephant and Castle Opportunity Area is the [Manor Place Baths](http://www.southwarknews.co.uk/elephant-and-castle-home/elephant-and-castle-history/00,news,10016,5757,00.htm).  The baths provided laundry and bathing facilities to Walworth people for 80 years, until demolition of the surrounding streets and the removal of the local population to the Heygate and Ayelsbury estates sounded its death knell in the 80’s; it was replaced as a swimming pool by the Elephant & Castle leisure centre, the baths were filled in by Southwark Council in 1998 and the buildings were then used by the Council's Environmental Services department until their relocation in 2012. 
 

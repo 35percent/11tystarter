@@ -3,6 +3,7 @@ layout: posts
 title: Manifesto for the destruction of council estates
 date: 2015-03-28
 image: img/HeygateDemolition.jpeg
+description: Southwark Labour Council contributes an entire chapter to the Tories' new manifesto for the demolition of council estates.
 ---
 The prestigious __Institute of Public Policy Research (IPPR)__ has published a [policy paper](https://www.ippr.org/publications/city-villages-more-homes-better-communities) that proposes the wholesale demolition of London's council estates, in the name of regeneration and to allow for the creation of so-called 'City Villages'. 
 

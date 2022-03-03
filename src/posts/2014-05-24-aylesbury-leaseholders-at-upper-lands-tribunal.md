@@ -3,6 +3,7 @@ layout: posts
 title: "Another Aylesbury leaseholder goes to lands tribunal"
 date: 2014-05-24
 image: img/aylesburydrone.jpg
+description: Southwark Council is yet again taking Aylesbury estate residents to court who don't want to leave their homes and accept a pittance in return.
 ---
 As mentioned in our previous [blog post](/2014-05-16-southwark-gives-green-light-to-slum-landlords/), this week will see a second Aylesbury estate leaseholder taking the council to the [Lands Tribunal](http://www.justice.gov.uk/tribunals/lands) over low valuations following its [Compulsory Purchase Order](http://heygate.github.io/img/ObjectionCPOAugust2012.pdf) of homeowners on the Wolverton block [(site 7 of the regen)](http://www.southwark.gov.uk/info/200179/aylesbury_estate/1965/project_overview/3). 59 family maisonettes, a sports pitch and around [30 mature trees](http://www.peoplesrepublicofsouthwark.co.uk/hold-news/news/3200-sedan-way-chainsaw-massacre) have been demolished to make way for ['Harvard Gardens'](http://www.albany-place.co.uk/). 
 

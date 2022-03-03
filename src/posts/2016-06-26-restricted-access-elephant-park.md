@@ -3,6 +3,7 @@ title: "Restricted Access - Elephant Park"
 layout: posts
 date: 2016-06-26
 image: img/heygategardens.jpg
+description: New Heygate estate green space will be smaller than expected and privately managed.
 ---
 Lend Lease and Southwark Council have flouted public undertakings not to fence in the centrepiece of the Elephant Park redevelopment of the Heygate estate. The new 'public park' ([falsely](https://35percent.org/sustainable-development/#londons-largest-park-in-70-years) billed as the [largest in central London for 70 years](https://www.southwark.gov.uk/news/article/1718/elephant_park_comes_to_life)) is in fact just another example of a linear park - much loved by developers because they can line it with shops on both sides. This one will be no wider than the Old Kent Road at any given point. 
 

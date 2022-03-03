@@ -3,6 +3,7 @@ layout: posts
 title: "Aylesbury leaseholder fights 'incestuous' valuations"
 date: 2014-05-30
 image: img/wolvertonleaseholders.png
+description: This is the other side of the estate 'regeneration' process that rarely gets seen.
 ---
 As reported in our previous blog post, this week saw a second Aylesbury leaseholder fighting the council's controversial compensation valuations at the Upper Lands Tribunal. In buying back homes on the estate the Council has consistently maintained that all leaseholders are given 'market value' in compensation for the loss of their homes. Last week [we learned](/2014-05-16-southwark-gives-green-light-to-slum-landlords/) how it arrives at its market value calculation by using illegaly-converted flats as comparable market evidence. This week we learned more about its valuation procedures. 
 

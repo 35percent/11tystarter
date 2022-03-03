@@ -1,6 +1,6 @@
 ---
 title: "Victory for Aylesbury Leaseholders"
-description: "Government blocks compulsory purchase order"
+description: "Government blocks compulsory purchase order issued by Southwark Council on Aylesbury estate leaseholders."
 layout: posts
 date: 2016-09-18
 image: img/alag.png

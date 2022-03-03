@@ -2,7 +2,8 @@
 layout: posts
 title: "Southwark backs down over 'social' housing definitions"
 date: 2015-09-24
-image: img/nhghomesearch.jpg  
+image: img/nhghomesearch.jpg 
+description: New evidence shows that Southwark doesn't even care if social rented housing is provided at 80% market rents.  
 ---
 We have been blogging for some time now about developments routinely breaching planning conditions and Southwark's failure to monitor compliance. In March this year we [stumbled upon](/2015-03-18-stand-up-for-more-social-housing/) a development by [Notting Hill Housing Association](https://www.nottinghillhousing.org.uk/), that had delivered __affordable rent__ instead of the __social rent__ agreed at planning approval.  
 

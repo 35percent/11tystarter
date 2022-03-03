@@ -3,6 +3,7 @@ layout: posts
 title: "Camberwell Chic"
 date: 2016-03-12
 image: img/cgreen.jpg
+description: A trip down the Camberwell Road looking at the all the unaffordable private developments that have been approved. 
 ---
 With the redevelopment of the nearby [Aylesbury](https://crappistmartin.github.io/aylesbury-estate/) and [Elmington estates](https://crappistmartin.github.io/elmington-estate-regeneration/) now under full steam, [epic regeneration](https://www.southwarkregeneration.co.uk/) has now officially embraced Camberwell and social rented housing is the victim.  
 

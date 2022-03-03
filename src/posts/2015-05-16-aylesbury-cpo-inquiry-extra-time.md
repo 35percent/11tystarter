@@ -3,6 +3,7 @@ layout: posts
 title: "Aylesbury CPO Inquiry - Extra Time"
 date: 2015-05-16
 image: img/aylesburyinquiry.jpg
+description: Southwark Council's unequitable decision to force Aylesbury estate Leaseholders out of their homes has met with increased resistance.
 ---
 The Aylesury CPO Inquiry resumed back at the Den on Tuesday, but by the end of day the Inspector had decided extra time was needed. She accepted the objectors' argument that there were still legal questions to be answered, among others about the absence of a successful ballot result in favour of demolition. She also agreed that objectors needed more time to get legal assistance and that it will probably be autumn before the the inquiry resumes.  We understand that the leaseholders have since instructed Landmark Chambers to act on their behalf. 
 

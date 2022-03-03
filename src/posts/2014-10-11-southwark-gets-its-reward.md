@@ -3,6 +3,7 @@ layout: posts
 title: "Southwark gets its reward"
 date: 2014-10-11
 image: img/MipimAwards.jpg
+description: Whose regeneration?
 ---
 Southwark prides itself on being a 'developer friendly' borough. It has been [endorsed](http://vimeo.com/71882474#t=125s) by Lend Lease Director Rob Deck as a __'can do'__ council and it has been [shortlisted](http://www.mipimuk-awards.co.uk/mipimukawards2014/shortlist) (by developers) for the award of __'Best UK Planning Authority'__ at next week's [__MIPIM__ jamboree](http://www.mipimuk.co.uk/). But pressure is mounting on all councils including Southwark to withdraw from the MIPIM backscratching get-together. Over two dozen community groups, charities and trade unions have [opposed MIPIM](http://radicalhousingnetwork.org/mipim-uk/whos-opposing-mipim/). Unite, Britains largest union has [written](http://www.unitetheunion.org/news/labour-councillors-urged-to-boycott-property-developers-fair-as-londons-housing-crisis-mounts/) to all of London's Labour-controlled councils  asking them to _"withdraw from participation in MIPIM and the close relationships with private developers that the event seeks to foster."_; three have done so but not Southwark.
 

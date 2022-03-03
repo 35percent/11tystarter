@@ -3,6 +3,7 @@ layout: posts
 title: "mind the (Elephantine) gap"
 date: 2014-08-12
 image: img/shoppingcentrecomp.png
+description: Is Southwark really going to subsidise the redevelopment of Elephant and Castle's transport networks when this was supposed to be paid for by developers?
 ---
 A £64m funding gap for the infrastructure improvements of the Elephant & Castle regeneration has been identified by Southwark Council. The figure is given in its [submission](http://www.southwark.gov.uk/download/downloads/id/10740/addendum_to_cdeip1) to the Government inspector examining Southwark's plans for raising funds from developers through the new Community Infrastructure Levy.
 

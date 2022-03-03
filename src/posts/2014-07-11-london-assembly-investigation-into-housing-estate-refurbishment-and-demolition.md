@@ -3,6 +3,7 @@ layout: posts
 title: "London Assembly investigates refurbishment vs demolition"
 date: 2014-07-11
 image: img/laestateregeneration.jpg
+description: Is demolishing council estates always better than refurbishing them?
 ---
 
 Last Friday saw the second meeting of the London Assembly's 

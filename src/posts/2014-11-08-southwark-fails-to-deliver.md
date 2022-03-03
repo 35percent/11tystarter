@@ -3,6 +3,7 @@ layout: posts
 title: "Southwark fails to deliver"
 date: 2014-11-08
 image: img/showustheviability.jpg 
+description: Southwark continues to fight tooth-and-nail against publication of the confidential figures used by Lendlease to reduce the affordable housing offer on the redeveloped Heygate estate.
 ---
 The Heygate viability assessment saga took a new turn last week. Southwark Council failed to produce the assessment by the given deadline and all parties have been called back to a Tribunal hearing on 11th Dec. 
 

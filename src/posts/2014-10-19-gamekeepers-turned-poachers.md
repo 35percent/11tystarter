@@ -3,6 +3,7 @@ layout: posts
 title: "Southwark's gamekeepers turned poachers"
 date: 2014-10-19
 image: img/rdoors.jpg
+description: It appears that there is a revolving door between Southwark Councillors and property developers and their lobbyists.
 ---
 Last week's [international property fair __MIPIM__](http://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim) wasn't just for developers and councils, it was also for those who help developers lobby councils. [__Four Communications__](http://www.fourcommunications.com/) is one such company. It says it offers teams of experts who _"provide support at every stage of the planning, marketing and communications process"_ and helps to secure [_"political support in the face of public opposition"_](https://www.fourcommunications.com/work-gallery/helping-secure-new-community-stadium).  
  

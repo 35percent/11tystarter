@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Blackfriars affordable housing circus"
-subtitle: "£10m wasted buying new pseudo-council homes that should have been provided as social rent anyway"
+description: "£10m wasted buying new pseudo-council homes that should have been provided as social rent anyway"
 date: 2017-04-29
 image: img/erlang-house.jpg
 ---

@@ -2,7 +2,7 @@
 layout: posts
 date: 2020-04-04
 title: Shopping centre CPO - Southwark ploughs on regardless
-subtitle: "Southwark exercises CPO powers to clear E&C shopping centre site for Delancey"
+description: "Southwark exercises CPO powers to clear E&C shopping centre site for Delancey"
 image: img/traderscompevicted.jpeg
 ---
 Southwark Council is [set to assume Compulsory Purchase Order](https://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50015357) (CPO) powers, on behalf of [offshore developer Delancey](https://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/), at its Cabinet meeting this [Tues 7 April](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=6420&Ver=4) (postponed from 24 March).  While this extraordinary move will strengthen Delancey's hand in ongoing negotiations with various development stakeholders, such as TfL, and will relieve Delancey of funding risks, the scheme itself remains unchanged, delivering only 116 social rented units and displacing traders wholesale.  

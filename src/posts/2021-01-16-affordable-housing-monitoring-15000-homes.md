@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Social Rent or Affordable Rent?
-subtitle: "Five years on from Ombudsman's report the question mark remains."
+description: "Five years on from Ombudsman's report the question mark remains."
 date: 2021-01-16
 image: img/neoguardian.png
 ---

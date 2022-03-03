@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Castle Square - Delancey responds
-subtitle: Small progress but still not enough on traders' temporary premises
+description: Small progress but still not enough on traders' temporary premises
 date: 2018-11-24
 image: img/tempboxpark.png
 ---

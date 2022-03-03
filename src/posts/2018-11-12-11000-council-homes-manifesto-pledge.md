@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: '11000 new council homes: figures show loss rather than gain'
-subtitle: "Southwark demolishing and selling off council homes faster than it's building them"
+description: "Southwark demolishing and selling off council homes faster than it's building them"
 date: 2018-11-12
 image: img/councilstock.png
 ---
@@ -63,7 +63,7 @@ Even if we were to count all the hostel units and purchased S106 units as counci
                 text: "Southwark's Council Homes",
                 x: -20 //center
             },
-            subtitle: {
+            description: {
                  text: 'Source: <a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx">https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/674346/LT_116.xlsx</a>',
 		x: -20
             },

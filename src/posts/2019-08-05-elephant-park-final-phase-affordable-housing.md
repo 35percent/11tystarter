@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Elephant Park MP5 - the final chapter
-excerpt: "Final phase of Heygate redevelopment proposes increase in homes, but with decrease in affordable"
+description: "Final phase of Heygate redevelopment proposes increase in homes, but with decrease in affordable"
 date: 2019-08-05
 image: img/heygategardens.jpg
 ---

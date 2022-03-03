@@ -2,7 +2,7 @@
 layout: posts
 date: 2017-05-08
 title: "Aylesbury CPO- what's really happened"
-subtitle: "Beyond the spin of Southwark Council's press office"
+description: "Beyond the spin of Southwark Council's press office"
 image: img/aylesburydrone.jpg
 ---
 To paraphrase Winston Churchill - there are lies, there are damn lies and then there are Southwark Council press releases.

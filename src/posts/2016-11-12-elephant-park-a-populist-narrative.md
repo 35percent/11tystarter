@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Elephant Park - a populist narrative"
-subtitle: "Overseas investors and the Heygate estate"
+description: "Overseas investors and the Heygate estate"
 date: 2016-11-12
 image: img/westgroveCN.png  
 ---

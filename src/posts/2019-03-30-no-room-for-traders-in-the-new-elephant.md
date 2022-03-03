@@ -2,7 +2,7 @@
 layout: posts
 date: 2019-03-30
 title: 'No room for traders in the new Elephant'
-excerpt: 'Shopping centre traders left out in the cold'
+description: 'Shopping centre traders left out in the cold'
 image: img/36.png
 ---
 Just thirty-six independent traders from the Elephant & Castle shopping centre have been allocated new space in which to trade, in the event of the centre's demolition and redevelopment. Despite [concerns](https://twitter.com/MerrillDarren/status/1112289309351182336) raised by the Chair of the 'Traders Panel' [and his fellow panel member](https://twitter.com/mariaadderley/status/1112309409361874944), the figure is trumpeted in a [self-congratulatory press-release](https://www.southwark.gov.uk/news/2019/mar/thirty-six-local-businesses-secure-new-home-in-the-heart-of-elephant-castle) from Southwark Council and belies the true situation which is that at least [40 traders have been left out in the cold](https://twitter.com/LatinElephant?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), according to [Latin Elephant](https://latinelephant.org/), who champion the cause of all independant ethnic minority traders.  Southwark News reported that [28 applications for space were rejected](https://www.southwarknews.co.uk/news/nearly-30-elephant-and-castle-traders-rejected-for-delancey-relocation-units/).

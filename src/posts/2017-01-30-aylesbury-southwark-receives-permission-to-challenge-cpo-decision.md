@@ -2,7 +2,7 @@
 layout: posts
 date: 2017-01-30
 title: 'Aylesbury: Southwark finally granted leave to appeal CPO decision.'
-subtitle: Council succeeds at second attempt
+description: Council succeeds at second attempt
 image: img/aylesburyleaseholdersfairprice.png
 ---
 As has been [widely reported](https://www.southwarknews.co.uk/news/council-given-permission-take-aylesbury-estate-cpo-case-high-court-disappointing-blow-campaigners/), Southwark Council finally got permission to make its case against the Secretary of State, for his refusal to grant compulsory purchase powers over Aylesbury estate leaseholders. It was Southwark's second attempt, after first being [flatly refused](https://35percent.org/img/Scan0017.pdf) just before Christmas. There can now be a full court hearing, involving all parties, including the leaseholders, probably some time in April.

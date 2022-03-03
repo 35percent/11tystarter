@@ -2,7 +2,7 @@
 layout: posts
 title: More boroughs neglect social housing delivery
 date: 2017-01-16
-subtitle: More boroughs found allowing developers to substitute affordable rent for social rent
+description: More boroughs found allowing developers to substitute affordable rent for social rent
 image: img/kdquotes.png
 ---
 We [reported in December](https://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) how Southwark Council has been slammed by the ombudsman for having no monitoring or enforcement of section 106 affordable housing provision. 

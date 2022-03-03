@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Affordable housing loopholes in Old Kent Road plan"
-subtitle: "Loopholes in draft Old Kent Rd planning policy offer numerous 
+description: "Loopholes in draft Old Kent Rd planning policy offer numerous 
 exploits for developers"
 date: 2016-11-21
 image: img/okrheader.png

@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: The Elephant goes offshore
-subtitle: Developer Delancey registers its Elephant & Castle land holdings offshore
+description: Developer Delancey registers its Elephant & Castle land holdings offshore
 image: img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg
 ---
 Developer Delancey has registered its land holdings at the Elephant & Castle to tax havens in Bermuda, Panama and the British Virgin Islands. 

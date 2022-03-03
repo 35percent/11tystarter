@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Lendlease banks £113m profit from 'unviable' joint venture with Southwark
-subtitle: "Council's share of the bumper profit from its regeneration partner is a pitiful £12m"
+description: "Council's share of the bumper profit from its regeneration partner is a pitiful £12m"
 date: 2017-04-12
 image: img/pjdl.jpg
 ---

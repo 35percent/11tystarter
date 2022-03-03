@@ -2,7 +2,7 @@
 layout: posts
 title: "Elephant Park - planning committee misled?"
 date: 2020-03-01
-subtitle: Lendlease fails to declare public funding for affordable housing
+description: Lendlease fails to declare public funding for affordable housing
 image: img/eparkaerial.jpg
 ---
 

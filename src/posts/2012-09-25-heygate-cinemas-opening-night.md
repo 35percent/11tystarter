@@ -37,7 +37,7 @@ further afield. She also claimed she had been victimised after speaking out
 against the regeneration.
 
 The film was accompanied by a number of newsclips about the estate and an 
-excerpt from the film-makers' new feature-length documentary about the 
+description from the film-makers' new feature-length documentary about the 
 regeneration of the estate ([Larry and Janet Move 
 out](https://larryandjanetmoveout.com)).  Film-makers David Reeve and Patrick 
 Steel have been filming on the estate since the decant started, and have 

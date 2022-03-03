@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Canada Water regeneration finally up for approval
-excerpt: "15 hectares of public land, 4000 new homes but affordable housing policy requirements not met."
+description: "15 hectares of public land, 4000 new homes but affordable housing policy requirements not met."
 date: 2019-09-22
 image: img/cwateraerial.jpeg
 ---

@@ -2,7 +2,7 @@
 layout: posts
 title: 'Elephant Park - final phase, final windfall for Lendlease'
 date: 2020-02-21
-subtitle: "Last phase of Heygate regeneration set for approval with increase in number of homes but no increase in affordable."
+description: "Last phase of Heygate regeneration set for approval with increase in number of homes but no increase in affordable."
 image: img/heygatefigures.jpg
 ---
 We [blogged last year](https://35percent.org/2019-08-05-elephant-park-final-phase-affordable-housing/) about the final phase (MP5 H7) of the Heygate regeneration. 

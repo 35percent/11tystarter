@@ -2,7 +2,7 @@
 layout: posts
 date: 2020-01-27
 title: 'Shopping centre traders demand fair play'
-subtitle: Elephant traders to send deputation to Southwark Council Assembly
+description: Elephant traders to send deputation to Southwark Council Assembly
 image: img/jan2020protestcropped.jpg
 ---
 

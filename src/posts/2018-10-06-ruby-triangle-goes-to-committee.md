@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Ruby Triangle
-subtitle: First major Old Kent Road application goes to committee
+description: First major Old Kent Road application goes to committee
 date: 2018-10-08
 image: img/rubytriangle2.png
 ---

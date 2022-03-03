@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Elephant & Castle shopping centre update"
-subtitle: "Revised planning application still falls well short of policy requirements"
+description: "Revised planning application still falls well short of policy requirements"
 date: 2017-09-23
 image: img/delanceyaerial.png
 ---

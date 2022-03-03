@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "CPO legal challenge called in for scrutiny"
-subtitle: "Southwark's decision to challenge the Secretary of State's CPO decision has been called in by its Overview & Scrutiny Committee"
+description: "Southwark's decision to challenge the Secretary of State's CPO decision has been called in by its Overview & Scrutiny Committee"
 date: 2016-10-10
 image: img/oscpic.jpg
 ---

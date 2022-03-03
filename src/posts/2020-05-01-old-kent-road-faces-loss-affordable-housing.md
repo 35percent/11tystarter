@@ -2,7 +2,7 @@
 layout: posts
 date: 2020-05-01
 title: Old Kent Rd scheme faces loss of affordable housing
-subtitle: Berkeley Homes threatens to reduce affordable housing at Malt Street
+description: Berkeley Homes threatens to reduce affordable housing at Malt Street
 image: images/malt.png
 ---
 

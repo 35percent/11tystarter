@@ -1,6 +1,6 @@
 ---
 title: "No profit for Southwark"
-subtitle: "The true value of the Heygate regeneration"
+description: "The true value of the Heygate regeneration"
 layout: posts
 date: 2016-05-11
 image: img/pjdl.jpg

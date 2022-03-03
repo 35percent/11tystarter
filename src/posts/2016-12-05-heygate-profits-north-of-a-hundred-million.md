@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Heygate profit - north of the facts"
-subtitle: "Council leader Peter John claims Heygate deal will provide Council with 'north of £100m profit'"
+description: "Council leader Peter John claims Heygate deal will provide Council with 'north of £100m profit'"
 date: 2016-12-05
 image: img/heygategardens.jpg
 ---

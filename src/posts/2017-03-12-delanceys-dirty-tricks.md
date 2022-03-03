@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Delancey's dirty tricks"
-subtitle: "Market Square earmarked for displaced shopping centre traders disappears"
+description: "Market Square earmarked for displaced shopping centre traders disappears"
 date: 2017-03-12
 image: img/marketsquare.png
 ---

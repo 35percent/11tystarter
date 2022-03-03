@@ -2,7 +2,7 @@
 layout: posts
 date: 2020-08-03
 title: Campaigners demand that UAL withdraws from shopping centre development.
-subtitle: "Campaigners respond to University of the Art's Black Lives Matter statement."
+description: "Campaigners respond to University of the Art's Black Lives Matter statement."
 image: img/shameonual.jpg
 ---
 

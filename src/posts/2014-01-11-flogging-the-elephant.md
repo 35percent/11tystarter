@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "D'One at the Elephant"
-date: 2014-01-11 13:21
+date: 2014-01-11
 image: img/leisurecentreaerial.jpg
 ---
 

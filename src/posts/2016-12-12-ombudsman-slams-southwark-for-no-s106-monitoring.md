@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Southwark's lost section 106 social housing"
-subtitle: "Ombudsman finds Council doesn't know how much social housing it's getting from developers"
+description: "Ombudsman finds Council doesn't know how much social housing it's getting from developers"
 date: 2016-12-12
 image: img/LGOFinalDecisionSOR.png
 ---

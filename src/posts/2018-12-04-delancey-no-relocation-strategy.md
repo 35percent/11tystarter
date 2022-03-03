@@ -2,7 +2,7 @@
 layout: posts
 title: Elephant shopping centre - decision day
 date: 2018-12-08
-subtitle: "Mayor's verdict due on Monday"
+description: "Mayor's verdict due on Monday"
 image: img/sadiqkhansc.jpg
 ---
 Mayor of London, Sadiq Khan is due to make a decision on the [Elephant shopping centre planning application](https://35percent.org/shopping-centre) on Monday, 10 December.  Southwark [resolved to approve](https://35percent.org/2018-07-09-delancey/) developer Delancey's proposals back in July, after fierce opposition and three planning committee meetings.  Southwark referred the decision to the Mayor on 29 November, when it sent him the [legal s106 agreement](https://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cmd1tKmi8kCHCJ6ouDat0w%3d%3d!%7d%7d%7d), which seals the application; he can either approve, direct refusal or take the decision over himself.

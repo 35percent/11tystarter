@@ -2,7 +2,7 @@
 layout: posts
 date: 2020-02-17
 title: The Biscuit Factory is back
-subtitle: Sadiq gives the Duke of Westminster a second chance
+description: Sadiq gives the Duke of Westminster a second chance
 image: img/biscuitfactory7.png
 ---
 We [blogged](https://35percent.org/2018-09-25-grosvenor-taking-the-biscuit-factory/) back in 2018 about the redevelopment of the former Peek Freans biscuit factory and adjoining Bermondsey college campus site.

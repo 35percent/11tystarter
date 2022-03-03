@@ -1,10 +1,10 @@
 ---
 layout: posts
 title: Legal battle for the Elephant and Castle shopping centre ends
-date: 2021-06-12T08:54:43.747Z
+date: 2021-06-12
 image: img/up-the-elephant-high-court.jpg
+description: Final decision from the Appeal Court goes Delancey's way
 ---
-### Final decision goes Delancey's way
 
 The Appeal Court has [upheld the High Court decision](https://www.bailii.org/ew/cases/EWCA/Civ/2021/827.html) allowing developers Delancey to proceed with the demolition and redevelopment of the Elephant and Castle Shopping Centre, after it found that there were no grounds for reversing the High Court's decision.
 

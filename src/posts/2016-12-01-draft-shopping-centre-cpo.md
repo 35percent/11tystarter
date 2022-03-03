@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Going nowhere in a hurry"
-subtitle: "Shopping Centre's major leaseholder says he's staying put"
+description: "Shopping Centre's major leaseholder says he's staying put"
 date: 2016-12-01
 image: img/Patrick-Duffey-Elephant-and-Castle-Shopping-Centre.jpg
 ---

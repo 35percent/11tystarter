@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "2019 - New Year's Resolutions"
-excerpt: Ten things Southwark Council should do in 2019
+description: Ten things Southwark Council should do in 2019
 date: 2019-01-14
 image: img/samplecouncilhomessold.png
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Victory for Aylesbury Leaseholders"
-subtitle: "Government blocks compulsory purchase order"
+description: "Government blocks compulsory purchase order"
 layout: posts
 date: 2016-09-18
 image: img/alag.png

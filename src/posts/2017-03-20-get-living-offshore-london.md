@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Get Living London - get lost HMRC
-subtitle: How Delancey continues to exploit the Elephant and avoid the taxman
+description: How Delancey continues to exploit the Elephant and avoid the taxman
 date: 2017-03-20
 image: img/getlivingbvi.png
 ---

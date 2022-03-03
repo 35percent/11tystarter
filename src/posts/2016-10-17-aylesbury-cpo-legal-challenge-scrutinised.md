@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Scrutiny fails - Southwark submits grounds of appeal"
-subtitle: "Council submits grounds of appeal while Scrutiny Committee rejects call for legal challenge to be reconsidered"
+description: "Council submits grounds of appeal while Scrutiny Committee rejects call for legal challenge to be reconsidered"
 date: 2016-10-17
 image: img/oscprotest.jpg
 ---

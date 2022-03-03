@@ -3,7 +3,7 @@ layout: posts
 date: 2020-05-01
 title: Old Kent Rd scheme faces loss of affordable housing
 description: Berkeley Homes threatens to reduce affordable housing at Malt Street
-image: images/malt.png
+image: img/malt.png
 ---
 
 [Berkeley Homes](https://www.berkeley-oldkentroad.co.uk/) is the first developer in Southwark to threaten to reduce the affordable housing in one of its schemes, since the onset of the Coronavirus crisis.  Berkeley secured planning permission for the [Malt St development](https://35percent.org/2019-06-01-malt-street-berkeley-homes-old-kent-road/), just off the Old Kent Rd, in June 2019, with a promise to build 40% affordable housing.  Since then it has joined-up with Peabody, who had a smaller, neighbouring development on [Nyes Wharf](https://moderngov.southwark.gov.uk/documents/s77120/Item%203%20-%20Report%2017AP4596.pdf).  Together the two sites will provide 1,569 new homes, with 40% affordable housing (359 at social rent and 222 shared-ownership), [delivered by Peabody](https://www.peabodysales.co.uk/blog/future-developments-sales-launches/peabody-secure-deal-to-deliver-224-new-shared-ownership-homes-in-southwark-in-collaboration-with-berkeley-homes/).

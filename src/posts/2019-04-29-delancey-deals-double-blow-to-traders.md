@@ -2,7 +2,7 @@
 layout: posts
 date: 2019-04-29
 title: Delancey deals double blow to shopping centre traders
-description: Tesco leaves, bingo hall boarded
+description: Tesco leaves, bingo hall boarded up
 image: img/schoarding.jpg
 --- 
 Traders at the Elephant and Castle shopping centre were dealt a double blow last week, by the closure of Tesco and the erection of a large unsightly hoarding, isolating shops on the second floor.

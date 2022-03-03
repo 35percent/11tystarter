@@ -3,6 +3,7 @@ layout: posts
 date: 2019-03-05
 title: "Elephant shopping centre plans - judicial review sought"
 image: img/stoptheelephant.jpg
+description: Plans are afoot to challenge Southwark's planning consent in court.
 ---
 ## Crowdfunding appeal launched - please donate!
 A coalition of local people and groups fighting for a fairer regeneration at the Elephant and Castle, including the 35% Campaign, are supporting a legal application to overturn the planning approval for the redevelopment of the Elephant and Castle shopping centre.

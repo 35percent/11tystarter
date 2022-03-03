@@ -3,6 +3,7 @@ layout: posts
 title: Southwark rips up Aylesbury Area Action Plan
 date: 2021-05-09
 image: img/screenshot_2021-04-14-aylesbury-area-action-plan-january-2010-aylesbury-aap-2010-pdf.png
+description: Council suddenly decides to rip up 182-page planning guidance document for the Aylesbury regeneration without any consultation. 
 ---
 Without consultation, Southwark Council has decided to scrap the 182-page planning document which sets the parameters for its redevelopment of the Aylesbury estate. The so-called Aylesbury Area Action Plan (AAAP) will instead be replaced by a [2-page 'Area Vision and 5-page 'site allocation'](https://www.southwark.gov.uk/assets/attach/38832/EIP202a-Aylesbury-Background-Paper-Update-20042021.pdf), as part of the [New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/new-southwark-plan).
 

@@ -3,6 +3,7 @@ layout: posts
 title: "Lendlease's final plot for Elephant Park - offices, not homes"
 date: 2021-09-17
 image: img/h1.png
+description: Lendlease seeks to squeeze one final drop out of Southwark's regeneration of the Heygate estate.
 ---
 ### Southwark to change rules to allow office block on former Heygate estate.
 

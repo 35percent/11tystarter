@@ -3,8 +3,8 @@ layout: posts
 date: 2018-06-26
 title: Shopping Centre redevelopment - Delancey tries again
 image: img/stoptheelephant.jpg
+description: Developer Delancey returns for the third time. 
 ---
-## Application returns to the planning committee
 
 Elephant shopping centre owner and developer Delancey will be hoping it is third time lucky when Southwark's planning committee considers their application for redeveloping the centre on 3 July.  The committee chose not approve the application at two meetings in January and the decision was further deferred because of local elections in May.  
 

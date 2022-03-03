@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Heygate FOI appeal decision - Tribunal delivers verdict"
-date: 2014-05-10 13:47
+date: 2014-05-10
 image: img/Tribunalfolderssmall.jpg
 ---
 The 35% campaign welcomes the latest - and hopefully final - decision in the battle to make the Heygate viability assessment public. The Information Tribunal has [directed](http://www.informationtribunal.gov.uk/DBFiles/Decision/i1279/London%20Borough%20of%20Southwark%20EA.2013.0162%20%2809.05.14%29.pdf) that the whole viability assessment be made public, apart from developer Lend Lease's bespoke development model in the assessment's final appendix and the calculations concerning retail & office space - all other information has to be disclosed. Lend Lease and Southwark have been given 28 days to supply the information Commmissioner with the information as outlined by the Tribunal's decision notice. All parties may appeal the decision but only on a point of law.

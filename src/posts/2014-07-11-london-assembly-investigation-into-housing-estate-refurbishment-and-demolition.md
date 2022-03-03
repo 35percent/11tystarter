@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "London Assembly investigates refurbishment vs demolition"
-date: 2014-07-11 17:30
+date: 2014-07-11
 image: img/laestateregeneration.jpg
 ---
 

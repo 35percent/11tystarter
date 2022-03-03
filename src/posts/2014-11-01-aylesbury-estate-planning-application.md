@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Aylesbury estate planning applications - 934 social rented homes to be lost"
-date: 2014-11-01 07:57:54 +0000
+date: 2014-11-01
 image: img/aylesburynetloss.png
 ---
 After waiting over a month for them to be 'validated' by the council, the planning documents for the Aylesbury estate revelopment are now online.

@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Where there's bronze there's brass"
-date: 2014-07-12 11:03
+date: 2014-07-12
 image: img/photo-5-1.jpg
 ---
 Just when we thought the Heygate pyramid had set the limits on misconceived artistic collaborations at the Elephant, we got wind of the latest 'triumphant elephant' sculpture proposal.

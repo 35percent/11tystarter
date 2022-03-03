@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Southwark fails to deliver"
-date: 2014-11-08 19:10:35 +0000
+date: 2014-11-08
 image: img/showustheviability.jpg 
 ---
 The Heygate viability assessment saga took a new turn last week. Southwark Council failed to produce the assessment by the given deadline and all parties have been called back to a Tribunal hearing on 11th Dec. 

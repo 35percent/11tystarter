@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Elephant Traders - not in the pink"
-date: 2014-09-27 09:31:46 +0100
+date: 2014-09-27
 image: img/traderscomp.jpeg
 ---
 We [blogged](/2014-07-12-the-more-rent-seeking-elephants-at-elephant-the-better/) on 12th July about [_Social Life_](http://www.social-life.co/blog/post/Trading_Places_Elephant_and_Castle_regen/), a social enterprise based on the Pullens estate. They have now completed their research on the Elephant & Castle shopping centre redevelopment and how it is affecting the traders there. A concise and impressive report is now available [here](http://tradingplaces-elephant.tumblr.com/). Its conclusions will not surprise people familiar with the shopping centre. It says: _"Overall, traders are anxious and concerned about the redvelopment. Many of the traders have mixed feelings about the plans."_;_"The shopping centre is an important social space for traders, local people and regular customers and it plays a hugely important role in the social life of the local community."_;_"The shopping centre supports dense networks of social relationships in the local area, across London and globally."_

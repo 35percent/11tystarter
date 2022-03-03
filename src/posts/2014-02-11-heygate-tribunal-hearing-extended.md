@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Heygate Tribunal Hearing Extended"
-date: 2014-02-11 09:40
+date: 2014-02-11
 image: img/Tribunalfolderssmall.jpg
 ---
 The scheduled 5 day hearing of Southwark Council’s appeal against the [Information Commissioner’s order](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0461281.ashx) to release the viability assessment for the Heygate redevelopment will now run into a sixth day. The Tribunal will reconvene on the 18 February to hear final submissions from barristers.  The viability assessment details why developers Lend Lease cannot deliver the 35% affordable housing required by Southwark’s housing policy, as well as failing to fulfil other policy objectives such as providing a car-free development.

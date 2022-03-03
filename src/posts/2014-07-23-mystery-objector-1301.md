@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Southwark's mysterious estate renewal zone"
 date: 2014-07-23 09:06
 image: img/aylesburydrone.jpg

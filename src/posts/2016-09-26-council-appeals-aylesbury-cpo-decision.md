@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Southwark to appeal against lost CPO decision
 subtitle: "Council to mount legal challenge against the Secretary of State"
 date: 2016-09-26

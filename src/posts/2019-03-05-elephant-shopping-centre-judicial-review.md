@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 date: 2019-03-05
 title: "Elephant shopping centre plans - judicial review sought"
 image: img/stoptheelephant.jpg

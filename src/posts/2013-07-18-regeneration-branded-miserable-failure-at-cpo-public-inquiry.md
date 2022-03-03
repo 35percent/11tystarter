@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Regeneration branded 'miserable failure' at CPO Public Inquiry"
 date: 2013-07-18
 image: img/larryandjanetleave.png

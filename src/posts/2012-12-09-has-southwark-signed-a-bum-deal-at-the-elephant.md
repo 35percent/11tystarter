@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Has Southwark sold the Elephant short?"
 date: 2012-12-09
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Affordable housing loopholes in Old Kent Road plan"
 subtitle: "Loopholes in draft Old Kent Rd planning policy offer numerous 
 exploits for developers"

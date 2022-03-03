@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Aylesbury Crowdfunding kicks off to successful start"
 subtitle: "Launch of our campaign to fight the Council's appeal of Aylesbury CPO decision raises over £2000 in first week"
 date: 2016-10-25

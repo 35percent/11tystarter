@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Heygate viability assessment finally revealed"
 date: 2015-06-25
 image: img/Tribunalfolderssmall.jpg

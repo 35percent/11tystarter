@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 date: 2019-10-17
 title: 'High Court hearing looms for Elephant shopping centre'
 excerpt: Legal challenge goes to High Court next week

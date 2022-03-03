@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Elephant shopping centre - decision day
 date: 2018-12-08
 subtitle: "Mayor's verdict due on Monday"

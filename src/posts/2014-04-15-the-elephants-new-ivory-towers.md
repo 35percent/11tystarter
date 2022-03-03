@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "The Elephant's new Ivory Towers"
 date: 2014-04-15 12:37
 image: img/delanceyshoppingcentrecgi.jpg

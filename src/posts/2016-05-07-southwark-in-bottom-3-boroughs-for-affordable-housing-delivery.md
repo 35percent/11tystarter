@@ -1,6 +1,6 @@
 ---
 title: 'Southwark in bottom 3 boroughs for affordable housing delivery'
-layout: post
+layout: posts
 date: 2016-05-07
 image: img/LTF_table.png
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Affordable housing - a mirage wrapped in an illusion"
 date: 2016-02-16
 image: img/arexampless.png

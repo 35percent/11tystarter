@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Traders Betrayed"
 subtitle: "Southwark's forgotten promises to E&C shopping centre traders"
 date: 2017-04-02

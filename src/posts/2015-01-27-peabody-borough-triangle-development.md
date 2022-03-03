@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Peabody's philanthropic glass towers - 0% social housing"
 date: 2015-01-27
 image: img/BoroughTriangle.png

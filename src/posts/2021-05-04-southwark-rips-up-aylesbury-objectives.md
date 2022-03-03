@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Southwark rips up Aylesbury Area Action Plan
 date: 2021-05-09
 image: img/screenshot_2021-04-14-aylesbury-area-action-plan-january-2010-aylesbury-aap-2010-pdf.png

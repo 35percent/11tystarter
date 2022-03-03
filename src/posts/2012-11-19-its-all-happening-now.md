@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "It's all happening now"
 date: 2012-11-24
 image: img/heygategardens.jpg

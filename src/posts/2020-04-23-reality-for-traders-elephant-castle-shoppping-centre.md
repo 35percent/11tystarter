@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 date: 2020-04-23
 title: The harsh reality of relocation for shopping centre traders
 subtitle: Law centre survey shows that nearly half of traders have nowhere to go

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Aylesbury CPO Inquiry - Extra Time"
 date: 2015-05-16
 image: img/aylesburyinquiry.jpg

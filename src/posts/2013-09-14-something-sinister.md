@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Something Sinister?"
 date: 2013-09-14
 image: img/Heygate_classified.jpg

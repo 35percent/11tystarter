@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "How to avoid providing affordable housing - a guide for developers"
 date: 2013-07-30
 image: img/viability.png

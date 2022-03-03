@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "mind the (Elephantine) gap"
 date: 2014-08-12 18:09
 image: img/shoppingcentrecomp.png

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "How green will the new Heygate be?"
 date: 2012-11-10
 image: img/heygatetrees.jpg

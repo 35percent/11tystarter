@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 date: 2020-04-04
 title: Shopping centre CPO - Southwark ploughs on regardless
 subtitle: "Southwark exercises CPO powers to clear E&C shopping centre site for Delancey"

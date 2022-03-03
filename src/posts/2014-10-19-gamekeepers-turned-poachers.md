@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Southwark's gamekeepers turned poachers"
 date: 2014-10-19 11:37
 image: img/rdoors.jpg

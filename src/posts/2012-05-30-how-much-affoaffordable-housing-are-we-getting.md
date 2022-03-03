@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "How much affordable housing are we getting?"
 date: 2012-05-30
 image: img/heygatesiteplan.jpg

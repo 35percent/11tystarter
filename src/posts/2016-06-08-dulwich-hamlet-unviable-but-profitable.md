@@ -1,6 +1,6 @@
 ---
 title: "Dulwich Hamlet - unviable but profitable"
-layout: post
+layout: posts
 date: 2016-06-08
 image: img/dh.jpg
 ---

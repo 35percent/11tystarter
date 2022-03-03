@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Stand up for more social housing (at 80% market rent)"
 date: 2015-03-18
 image: img/arexampless.png

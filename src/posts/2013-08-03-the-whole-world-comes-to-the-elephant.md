@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "The Elephant - Sold on and Sold out"
 date: 2013-08-03
 image: img/bojoandpj2.jpg

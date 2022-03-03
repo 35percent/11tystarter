@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 date: 2019-03-30
 title: 'No room for traders in the new Elephant'
 excerpt: 'Shopping centre traders left out in the cold'

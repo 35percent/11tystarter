@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Delancey's subsidised profit
 date: 2018-07-02
 image: img/scelephant.jpg

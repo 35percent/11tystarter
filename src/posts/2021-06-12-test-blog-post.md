@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Legal battle for the Elephant and Castle shopping centre ends
 date: 2021-06-12T08:54:43.747Z
 image: img/up-the-elephant-high-court.jpg

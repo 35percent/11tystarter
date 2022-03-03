@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Castle Square - Delancey responds
 subtitle: Small progress but still not enough on traders' temporary premises
 date: 2018-11-24

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "London's largest new private park in 70 years"
 date: 2012-07-04
 image: img/elephantpark_marketing.jpg

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "The Heygate Diaspora"
 date: 2013-06-08
 image: img/DisplacedTenants.png

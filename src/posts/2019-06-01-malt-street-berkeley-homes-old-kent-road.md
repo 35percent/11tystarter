@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 date: 2019-06-01
 title: Malt Street - the next big Old Kent Road development
 excerpt: Big questions for Berkeley Homes still unanswered

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Council Housing - going up or coming down?"
 date: 2015-01-11
 image: img/councilstock.png

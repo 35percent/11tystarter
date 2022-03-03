@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "East Walworth by-election - the result"
 date: 2012-11-30
 ---

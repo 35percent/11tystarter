@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "CPO powers to be used on shopping centre traders"
 date: 2015-11-04
 image: img/scelephant.jpg

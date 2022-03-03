@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "MIPIM, Southwark and its 11000 new 'private and social' council homes"
 date: 2014-10-18 11:54:16 +0100
 image: img/southwarkMIPIMstand.png

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Notting Hill comes clean on rents"
 date: 2015-10-12
 image: img/arexampless.png

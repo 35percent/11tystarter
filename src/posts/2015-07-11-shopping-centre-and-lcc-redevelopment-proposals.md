@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Completing the masterplan - Shopping centre traders to be booted out"
 date: 2015-07-12
 image: img/traderscomp.jpeg

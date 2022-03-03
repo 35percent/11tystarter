@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 date: 2017-05-08
 title: "Aylesbury CPO- what's really happened"
 subtitle: "Beyond the spin of Southwark Council's press office"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Environmental Impact Understatement"
 date: 2012-06-26
 image: img/heygategardens.jpg

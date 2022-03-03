@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Heygate FOI appeal decision - Tribunal delivers verdict"
 date: 2014-05-10 13:47
 image: img/Tribunalfolderssmall.jpg

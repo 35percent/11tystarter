@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Town hall sell off - price on application"
 date: 2016-02-12
 image: img/PeckhamTownHall.jpg

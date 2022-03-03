@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "At fault and unjust - Southwark slammed by Ombudsman"
 date: 2016-06-18
 image: img/FINALDECISION.png

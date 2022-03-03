@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Manifesto for the destruction of council estates
 date: 2015-03-28
 image: img/HeygateDemolition.jpeg

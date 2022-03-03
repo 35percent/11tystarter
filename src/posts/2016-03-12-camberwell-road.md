@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Camberwell Chic"
 date: 2016-03-12
 image: img/cgreen.jpg

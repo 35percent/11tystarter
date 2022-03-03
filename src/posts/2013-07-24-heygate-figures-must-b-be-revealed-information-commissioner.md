@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Heygate Figures must be Revealed - Information Commissioner"
 date: 2013-07-24
 image: img/Tribunalfolderssmall.jpg

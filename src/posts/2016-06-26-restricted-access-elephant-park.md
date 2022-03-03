@@ -1,6 +1,6 @@
 ---
 title: "Restricted Access - Elephant Park"
-layout: post
+layout: posts
 date: 2016-06-26
 image: img/heygategardens.jpg
 ---

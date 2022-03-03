@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Middlemen on the make"
 date: 2014-03-31 07:32
 image: img/rdoors.jpg

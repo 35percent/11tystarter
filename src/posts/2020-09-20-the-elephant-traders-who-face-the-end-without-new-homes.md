@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: The Elephant traders who face the end without new homes
 subtitle: "Only 40 traders have 'found new premises' as centre closure looms"
 image: img/lescreenshot.png

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Hoarding the Elephant"
 date: 2013-05-18
 image: img/tribecasquare2.jpg

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Southwark backs down over 'social' housing definitions"
 date: 2015-09-24
 image: img/nhghomesearch.jpg  

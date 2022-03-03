@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 date: 2019-06-15
 title: Delays and Delancey
 excerpt: Delancey looks to escape blame for its own faults

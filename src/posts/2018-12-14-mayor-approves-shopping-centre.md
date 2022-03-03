@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "E&C shopping centre - Delancey stumbles after Mayor's approval"
 date: 2018-12-16
 excerpt: A week of mixed fortunes for developer

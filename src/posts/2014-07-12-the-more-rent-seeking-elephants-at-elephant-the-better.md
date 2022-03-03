@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Where there's bronze there's brass"
 date: 2014-07-12 11:03
 image: img/photo-5-1.jpg

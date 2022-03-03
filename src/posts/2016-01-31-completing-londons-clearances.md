@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Completing london's clearances"
 date: 2016-01-31
 image: img/peterjohnquote_1and2.png

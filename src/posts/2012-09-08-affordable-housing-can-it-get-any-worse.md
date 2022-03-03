@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Affordable Housing - Can it get any worse?"
 date: 2012-09-08
 image: img/whatisaffordable.jpg

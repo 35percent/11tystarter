@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "£63m public money to build 274 private homes"
 date: 2015-06-19
 image: img/uncle.jpg

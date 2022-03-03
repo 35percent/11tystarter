@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 date: 2019-05-27
 title: Southernwood Retail Park
 excerpt: Third of big four Old Kent Rd developments goes to committee 

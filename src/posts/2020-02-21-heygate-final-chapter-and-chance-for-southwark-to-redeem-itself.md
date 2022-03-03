@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: 'Elephant Park - final phase, final windfall for Lendlease'
 date: 2020-02-21
 subtitle: "Last phase of Heygate regeneration set for approval with increase in number of homes but no increase in affordable."

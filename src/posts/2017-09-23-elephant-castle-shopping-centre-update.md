@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Elephant & Castle shopping centre update"
 subtitle: "Revised planning application still falls well short of policy requirements"
 date: 2017-09-23

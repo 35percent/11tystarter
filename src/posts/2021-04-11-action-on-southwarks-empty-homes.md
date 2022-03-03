@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 date: 2021-04-11
 title: Action on Southwark's empty homes
 subtitle: "Day of action to highlight borough's estimated 2,300 empty homes"

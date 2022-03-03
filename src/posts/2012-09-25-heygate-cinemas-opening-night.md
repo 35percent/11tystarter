@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Heygate Cinema Celebrates Opening Night"
 date: 2012-09-25
 image: img/heygate_cinema.JPG

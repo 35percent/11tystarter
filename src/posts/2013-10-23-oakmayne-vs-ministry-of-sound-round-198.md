@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Oakmayne vs Ministry of Sound - Round 198"
 date: 2013-10-23
 image: img/251london.jpg

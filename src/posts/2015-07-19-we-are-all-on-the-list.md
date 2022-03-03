@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "We're all on the list"
 date: 2015-07-19
 image: img/silwoodpredemo.jpg

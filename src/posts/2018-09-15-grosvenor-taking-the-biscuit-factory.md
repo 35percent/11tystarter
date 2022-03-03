@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Grosvenor takes the biscuit factory
 subtitle: "Bermondsey's Biscuit Factory redevelopment falls well short of policy requirements"
 date: 2018-09-25

@@ -1,6 +1,6 @@
 ---
 title: "Opportunity knocks down the Old Kent Road"
-layout: post
+layout: posts
 date: 2016-07-10
 image: img/20000homes.png
 ---

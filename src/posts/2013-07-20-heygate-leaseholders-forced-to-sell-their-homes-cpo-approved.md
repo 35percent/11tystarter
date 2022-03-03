@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Heygate leaseholders forced to sell their homes - CPO approved"
 date: 2013-07-20
 image: img/lendleasestole.jpg

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "It's all about Financial Viability"
 date: 2012-07-03
 image: img/hca.png

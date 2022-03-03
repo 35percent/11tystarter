@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Aylesbury leaseholder fights 'incestuous' valuations"
 date: 2014-05-30 08:08
 image: img/wolvertonleaseholders.png

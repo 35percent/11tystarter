@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Southwark's rogue landlords - enforcement or endorsement?"
 date: 2014-05-16 10:53
 image: img/109Wendover.JPG

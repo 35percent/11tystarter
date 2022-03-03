@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Heygate Tribunal Hearing Extended"
 date: 2014-02-11 09:40
 image: img/Tribunalfolderssmall.jpg

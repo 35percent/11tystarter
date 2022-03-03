@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Setting the record straight"
 date: 2014-09-20 13:15:14 +0100
 image: img/heygategardens.jpg

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Heygate sell-off: How much are we getting?"
 date: 2015-12-20
 image: img/bbcptics.png

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Notting Hill Housing Trust - Quids in with Boris"
 date: 2014-08-19 17:53:38 +0100
 image: img/kdquotes.png

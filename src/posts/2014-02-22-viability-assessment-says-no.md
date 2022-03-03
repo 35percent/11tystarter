@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Mission Possible - bringing viability assessments out of the dark"
 date: 2014-02-22 12:04
 image: img/viability.png

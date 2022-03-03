@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Heygate Viability Figures Tribunal Appeal"
 date: 2014-02-01 13:48
 image: img/Tribunalfolderssmall.jpg

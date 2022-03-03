@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Council leader Peter John - the alternative facts"
 date: 2017-10-02
 image: img/peter-john-strata.gif

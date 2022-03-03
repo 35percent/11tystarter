@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "A little bit of Shoreditch coming to the Elephant?"
 date: 2013-06-22
 image: img/boxpark.jpg

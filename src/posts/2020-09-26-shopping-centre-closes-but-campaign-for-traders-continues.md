@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: 'Shopping Centre closes, but campaign for traders continues'
 subtitle: Protesters mark the final day for Elephant shopping centre
 date: 2020-09-28

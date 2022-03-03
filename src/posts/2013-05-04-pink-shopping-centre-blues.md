@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Pink Shopping Centre Blues"
 date: 2013-05-04
 image: img/southwark.jpg

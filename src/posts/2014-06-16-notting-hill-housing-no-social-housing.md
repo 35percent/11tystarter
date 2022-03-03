@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Notting Hill no social Housing Trust"
 date: 2014-06-16 19:17
 image: img/kdquotes.png

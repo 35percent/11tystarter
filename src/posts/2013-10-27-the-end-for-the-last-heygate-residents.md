@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "The end for the last Heygate residents"
 date: 2013-10-27
 image: img/larryandjanetleave.png

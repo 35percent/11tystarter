@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: No room for social rent at Pocket Living on the Old Kent Road
 subtitle: '100% affordable housing, zero social rent, zero family housing'
 date: 2020-10-06

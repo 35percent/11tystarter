@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Heygate Application - Will objectors get a fair hearing?"
 date: 2013-01-02
 image: img/lovetheelephantbanner.jpg

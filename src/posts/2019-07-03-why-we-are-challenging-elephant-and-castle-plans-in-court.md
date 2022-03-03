@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Why we're challenging the Elephant & Castle redevelopment plans in court"
 date: 2019-07-03
 image: img/lovetheelephantbanner.jpg

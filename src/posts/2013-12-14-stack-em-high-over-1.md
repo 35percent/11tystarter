@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Stack em high - 1,000 homes on the shopping centre site?"
 date: 2013-12-14
 image: img/delanceyshoppingcentrecgi.jpg

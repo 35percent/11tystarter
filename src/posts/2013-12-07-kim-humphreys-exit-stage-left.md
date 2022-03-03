@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Kim Humphreys - exit stage left, enter stage right"
 date: 2013-12-07
 image: img/photo-5-1.jpg

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Aylesbury Update: cost of leaseholder buy-outs leaps"
 date: 2022-02-02
 image: img/screenshot-2022-01-25-at-13-29-33-southwarkcouncil.png

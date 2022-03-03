@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Elephant Traders - not in the pink"
 date: 2014-09-27 09:31:46 +0100
 image: img/traderscomp.jpeg

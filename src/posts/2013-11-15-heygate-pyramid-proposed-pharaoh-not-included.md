@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Heygate pyramid proposed – pharaoh included?"
 date: 2013-11-15
 image: img/pjtutankhaman.jpg

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Another Aylesbury leaseholder goes to lands tribunal"
 date: 2014-05-24 14:12
 image: img/aylesburydrone.jpg

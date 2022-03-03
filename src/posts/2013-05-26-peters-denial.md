@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Peter's Denial"
 date: 2013-05-26
 image: img/pj-strata.gif

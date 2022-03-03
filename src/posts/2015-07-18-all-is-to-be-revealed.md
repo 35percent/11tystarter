@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Councillor John promises to reveal all"
 date: 2015-07-18
 image: img/pjsn.jpg

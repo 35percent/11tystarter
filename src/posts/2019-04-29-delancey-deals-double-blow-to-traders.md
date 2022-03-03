@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 date: 2019-04-29
 title: Delancey deals double blow to shopping centre traders
 excerpt: Tesco leaves, bingo hall boarded

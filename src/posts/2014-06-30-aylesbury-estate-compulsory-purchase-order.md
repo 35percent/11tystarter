@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Aylesbury estate - 42 more residents face Compulsory Purchase"
 date: 2014-06-30 16:17
 image: img/cpoinquiry2.png

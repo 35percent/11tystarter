@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Southwark sends in the Heavies"
 date: 2013-11-06
 image: img/heavies.png

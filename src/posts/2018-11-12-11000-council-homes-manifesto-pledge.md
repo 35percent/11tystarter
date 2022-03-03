@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: '11000 new council homes: figures show loss rather than gain'
 subtitle: "Southwark demolishing and selling off council homes faster than it's building them"
 date: 2018-11-12

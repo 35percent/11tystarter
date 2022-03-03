@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Neo Elephant - social tenants not welcome"
 date: 2012-10-27
 image: img/onetheelephantgold.jpg

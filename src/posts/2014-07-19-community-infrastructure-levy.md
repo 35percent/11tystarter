@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "PRS - (Private Rip-off Sector)"
 date: 2014-07-19 13:20
 image: img/tribecasquare2.jpg

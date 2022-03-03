@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Former Council leader glides through revolving doors"
 date: 2021-08-11
 image: img/rdoors2.jpg

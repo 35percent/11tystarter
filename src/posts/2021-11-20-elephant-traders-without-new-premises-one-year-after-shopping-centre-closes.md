@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Elephant traders without new premises one year after shopping centre closes
 date: 2021-12-06
 published: true

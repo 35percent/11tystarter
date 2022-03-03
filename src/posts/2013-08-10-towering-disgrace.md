@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Towering Disgrace"
 date: 2013-08-10
 image: img/london360.jpg

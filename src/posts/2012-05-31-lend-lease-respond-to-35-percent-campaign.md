@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "How low can you go?"
 date: 2012-05-31
 image: img/HeygateAerialAutumn2.jpg

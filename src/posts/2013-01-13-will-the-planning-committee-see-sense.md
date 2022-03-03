@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Will the Planning Committee see sense?"
 date: 2013-01-13
 image: img/planningcommittee.jpg

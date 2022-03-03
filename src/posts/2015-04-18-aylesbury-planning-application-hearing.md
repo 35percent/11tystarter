@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Aylesbury redevelopment - decision day
 date: 2015-04-18
 image: img/Aylesburyoutline2.jpg

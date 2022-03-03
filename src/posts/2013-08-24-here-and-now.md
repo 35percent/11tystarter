@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Here and Now"
 date: 2013-08-24
 image: img/diewelt.png

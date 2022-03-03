@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Aylesbury CPO Inquiry - Into the Lion's Den"
 date: 2015-05-02
 image: img/cpoinquiry2.png

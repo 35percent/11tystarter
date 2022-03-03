@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Southwark responds to shopping centre campaigners
 subtitle: Council put on defensive by fierce criticism
 date: 2020-08-31

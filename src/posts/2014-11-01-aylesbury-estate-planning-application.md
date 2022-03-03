@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Aylesbury estate planning applications - 934 social rented homes to be lost"
 date: 2014-11-01 07:57:54 +0000
 image: img/aylesburynetloss.png

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Lendlease says jump - Southwark jumps"
 date: 2016-03-19
 image: img/rd.jpg

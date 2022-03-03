@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Fairer Future - Delivering our Promises"
 date: 2012-11-04
 image: img/fairerfuture.png

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Elephant traders still homeless
 date: 2020-01-20
 subtitle: "Survey shows two-thirds of current traders have nowhere to go."

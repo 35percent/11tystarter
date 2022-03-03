@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Council to remove last shopping centre traders using CPO powers
 subtitle: "Southwark bails out Delancey by purchasing E&C shopping centre and LCC in order to override traders' and residents' legal rights."
 date: 2020-03-23

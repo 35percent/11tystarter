@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: The Elephant goes offshore
 subtitle: Developer Delancey registers its Elephant & Castle land holdings offshore
 image: img/Jamie-Ritblat-Cllr-Dora-Dixon-Fyle.jpg

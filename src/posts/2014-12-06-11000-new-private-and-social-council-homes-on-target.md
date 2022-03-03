@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Council sells council homes to build new ('social and private') 'council' homes"
 date: 2014-12-06 09:16:18 +0000
 image: img/southwarkMIPIMstand.png

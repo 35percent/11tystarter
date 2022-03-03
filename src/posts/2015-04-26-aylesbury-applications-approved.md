@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Aylesbury Applications Approved"
 date: 2015-04-26
 image: img/aylesburydrone.jpg

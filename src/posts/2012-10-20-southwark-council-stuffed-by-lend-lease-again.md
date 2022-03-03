@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Southwark Council rolled over by Lend Lease - again!"
 date: 2012-10-20
 image: img/rdoors.jpg

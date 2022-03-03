@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 date: 2018-06-26
 title: Shopping Centre redevelopment - Delancey tries again
 image: img/stoptheelephant.jpg

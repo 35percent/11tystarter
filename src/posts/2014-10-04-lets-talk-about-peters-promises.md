@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Let's talk about... Peter's promises"
 date: 2014-10-04 15:21:48 +0100
 image: img/SN1100homes.png

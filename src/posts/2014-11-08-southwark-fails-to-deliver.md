@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Southwark fails to deliver"
 date: 2014-11-08 19:10:35 +0000
 image: img/showustheviability.jpg 

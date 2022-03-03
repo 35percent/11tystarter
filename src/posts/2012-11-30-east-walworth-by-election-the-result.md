@@ -2,6 +2,7 @@
 layout: posts
 title: "East Walworth by-election - the result"
 date: 2012-11-30
+image: img/heygate.jpg
 ---
 Congratulations to the successful labour party candidate and new East Walworth ward councillor Rebecca Lury. Commiserations to Ben Johnson (Lib Dem) and Stuart Millson (Conservative). 
 

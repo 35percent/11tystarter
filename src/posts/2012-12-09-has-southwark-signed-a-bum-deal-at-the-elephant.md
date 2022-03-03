@@ -2,6 +2,7 @@
 layout: posts
 title: "Has Southwark sold the Elephant short?"
 date: 2012-12-09
+image: img/pjdl.jpg
 ---
 [Council documents](https://moderngov.southwark.gov.uk/documents/b4142/Supplemental%201%20Tuesday%2030-Nov-2010%2019.00%20Regeneration%20and%20Leisure%20Scrutiny%20Sub-Committee.pdf?T=9) show that Southwark taxpayers have now forked out at least £38m in emptying the Heygate estate, and are about to put their hands in their pockets for at least another [£15m to pay for its demolition](https://betterelephant.github.io/images/SNJuly2012.jpg).
 

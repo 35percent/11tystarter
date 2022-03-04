@@ -50,5 +50,5 @@ You can sign up to our mailing list by using the form below and receive email al
 <!--End mc_embed_signup-->
 
 
-If you would like to get in touch please send us a message using our [contact form](/contact) or email us at:
+If you would like to get in touch please email us at:
 <a href="mailto:35percentelephant@gmail.com">35percentelephant@gmail.com</a>

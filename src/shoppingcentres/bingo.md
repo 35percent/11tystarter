@@ -7,3 +7,9 @@ Palace Bingo hall on the first floor of the shopping centre was an important loc
 Ethnic (BAME) backgrounds use the facility, and its loss could result in adverse equality implications."_ It then goes on to explain that this is 'mitigated' by Delancey's offer to give 'first right of refusal' to a bingo operator for use of some of the new leisure space in its scheme (para 125).  
 
 In Palace Bingo's [response to this](https://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!mlQECLDoZucrky0D%2fJLzhw%3d%3d!%7d%7d%7d) it said: _"At the time of publishing the report and your Cabinet meeting there had been no dialogue[with Delancey], and subsequent discussions have not been meaningful or substantive thus far."_ In March 2019 the Bingo Hall closed and the operator has no plans to return to the redeveloped centre.
+
+Film-maker Jo Pritchard made a documentary about the bingo hall, described as _a" loud emotional portrait that says goodbye to the iconic London Palace. Meet the regulars that loved and relied on it, and the owner who couldn’t save it."_
+
+The film was listed for a BAFTA award and can be viewed online here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W2n9rVlcQ0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

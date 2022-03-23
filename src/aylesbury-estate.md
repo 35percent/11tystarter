@@ -74,18 +74,28 @@ At the 2015 CPO Public Inquiry, Professor Jane Rendell from the Bartlett School 
 
 Objectors gave evidence showing that later phases of the estate had been allocated funds under the council's [WDS programme](http://www.southwark.gov.uk/info/200510/major_works/3407/1_what_is_warm_dry_and_safe) (Decent Homes Standard works programme). They showed the Inquiry [section 20 invoices](http://crappistmartin.github.io/images/DHS_MajorWorks_Section20Invoice.pdf) that they had been sent by the council, detailing the estimated cost of the Decent Homes Standard major works charges, i.e. bringing the homes up to modern standards. These showed that homes on the estate were being brought up to Decent Homes Standard at an average cost of just £20,261 per home[^1]. 
 
+## The cost so far
+The first public funding spent on the scheme was the £56m from the government’s NDC (New Deal for Communities) programme.
 
-It was also [confirmed](http://35percent.org/img/alag_cpoinquiry_correspondence.pdf) during the course of the 2015 Public Inquiry, that the council has spent a staggering £46.8m on the Aylesbury regeneration scheme to date and it was later [revealed](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk) that the Council could end up losing £85m on the scheme while Notting Hill is guaranteed a 21% protected profit.
+The scheme was subsequently allocated 46m from the government’s Estate Regeneration Fund and £27m from GLA funding to date (see source [here](https://moderngov.southwark.gov.uk/documents/s52526/Report%20Aylesbury%20Regeneration%20Update.pdf)), plus £13m of HCA funding, which helped build the completed phase 1a of the scheme (see source on page 20 of the [this document](https://35percent.org/img/Estate-Regen-Sourcebook-Web-Version.pdf)).
+
+In addition, the Council has spent a considerable amount of its own HRA account funds on the scheme. At April 2015, the Council had already spent £46.8m on the scheme (see paras 6-7 of [this](https://www.35percent.org/img/alag_cpoinquiry_correspondence.pdf) response to an FOI request).
+
+[This Cabinet report](https://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) confirms that the Council subsequently expected to spend £52m between 2015 and 2020.
+
+Then in July 2020, the Council [committed](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/) a further £193m just in order to complete the first phase of the scheme alone.
+
+This amounts to a total £433.8m of public funds just in order to complete the first of four phases of the estate's redevelopment.
+
+In 2016, the Council [agreed](https://moderngov.southwark.gov.uk/documents/s63817/Report.Aylesbury%20Regeneration%20Delivery.pdf) to fund £22m of works that NHHT was originally required to fund under the original DPA agreement.
+
+In 2018, it was [revealed](https://www.theguardian.com/cities/2018/sep/12/london-council-aylesbury-estate-development-southwark-financial-risk) that the Council could end up losing vast amounts of public money on the scheme while Notting Hill is guaranteed a 21% protected profit.
 
 According to Notting Hill's [viability assessment](/img/document.pdf) its 21% profit extracted from the redevelopment is currently estimated to amount to £163m[^7].
 
-We argue that with £52m of council funds earmarked for the scheme over the next 3 years alone, there is a strong [business case for a moratorium](http://35percent.org/2016-09-26-council-appeals-aylesbury-cpo-decision/#the-business-case-for-a-moratorium).
-
-When the Council Executive took its [decision](http://moderngov.southwark.gov.uk/CeListDocuments.aspx?CommitteeId=118&MeetingId=986&DF=27/09/2005&Ver=2) to redevelop the estate in September 2005, it did so on the basis of a [costings estimate](http://crappistmartin.github.io/images/annexc.pdf) which calculated that the scheme would incur an overall cost to the Council of £16.1m over the scheme's 10-year development period. However, the Council's [budget books](http://www.southwark.gov.uk/download/downloads/id/11869/budget_book_201516_-_capital_programme) show that it is spending nearly £14m on the Aylesbury scheme during the past year alone. Later figures showed that the Council's estimated cost of decanting and demolishing the estate had ballooned to £150m[^4], but it is likely that even this figure will now be well exceeded.
+When the Council Executive took its [decision](http://moderngov.southwark.gov.uk/CeListDocuments.aspx?CommitteeId=118&MeetingId=986&DF=27/09/2005&Ver=2) to redevelop the estate in September 2005, it did so on the basis of a [costings estimate](http://crappistmartin.github.io/images/annexc.pdf) which calculated that the scheme would be cost broadly cost neutral to the Council. Later estimates in 2014 showed that the Council's estimated costs had ballooned to £150m[^4], but this figure has been well exceeded and the first development site is not even completed yet. 
 
 ![](/img/landassembly.png) 
-
-The scheme has also been [allocated 46m from the government’s Estate Regeneration Fund and £27m from GLA funding](http://moderngov.southwark.gov.uk/documents/s52526/Report%20Aylesbury%20Regeneration%20Update.pdf) to date, plus [£13m of HCA funding](http://www.urbandesignlondon.com/wordpress/wp-content/uploads/Estate-Regen-Sourcebook-Web-Version.pdf) (for the completed phase 1 of the scheme). In addition, the scheme has received £56m from the government’s NDC (New Deal for Communities) programme. This amounts to a total of £222m of public funding allocated so far, of which £97.5m has been spent.
 
 ## Six Acres estate
 Other London boroughs take a different approach to regeneration. Islington has an estate called the Six Acres estate near Finsbury Park. The Six Acres estate was built at the same time as Heygate & Aylesury, by the same contractors (Laing) using the [same system](http://crappistmartin.github.io/images/LBI_SixAcres_Jespersen12M.pdf) (Jespersen 12M). 

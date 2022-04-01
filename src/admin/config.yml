@@ -1,3 +1,5 @@
+publish_mode: editorial_workflow
+
 backend:
   # Use netlify identity as backend
   name: git-gateway

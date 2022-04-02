@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Major Schemes
-subtitle: >-
-  Major developments approved in Southwark and their contribution to local
-  housing need
-published: true
+description: Major developments approved in Southwark and their contribution to local housing need
+image: img/majschemes.png
 ---
 The last ten years has seen a flurry of high-profile, high-density, high-rise developments approved in Southwark - but how have they benefitted the local community? The following table shows the major schemes approved over approximately the last ten years and the number of social rented homes provided in each development.
 

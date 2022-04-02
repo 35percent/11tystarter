@@ -1,0 +1,735 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+
+<html>
+<head>
+ <title>Old Kent Road Opportunity Area - Map</title>
+    <meta charset="utf-8" />
+  <link rel="stylesheet" href="https://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css">
+  <script src="https://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
+  <script src="https://crappistmartin.github.io/javascripts/OSMBuildings-Leaflet.js"></script>
+
+
+
+
+</head>
+<body>
+
+<div id="map" style="width: 1500px; height: 1000px"></div>
+<script>
+var map = new L.Map('map').setView([51.480999,-0.060811], 15);
+new L.TileLayer('https://{s}.tiles.mapbox.com/v3/enrico-in-w.ka4k56fp/{z}/{x}/{y}.png',
+  { attribution: 'Map tiles &copy; <a href="https://mapbox.com">MapBox</a>', maxZoom: 17 }).addTo(map);
+
+
+
+
+
+
+L.polygon([
+[51.491431,-0.090551],
+[51.493355,-0.091753],
+[51.49421,-0.09186],
+[51.494196,-0.092719],
+[51.494504,-0.092053],
+[51.494704,-0.091109],
+[51.494677,-0.090809],
+[51.494637,-0.090251],
+[51.494717,-0.088942],
+[51.495506,-0.087225],
+[51.495586,-0.086389],
+[51.495546,-0.085187],
+[51.494985,-0.084629],
+[51.494838,-0.084136],
+[51.495559,-0.083342],
+[51.495332,-0.082934],
+[51.496454,-0.081067],
+[51.49596,-0.079329],
+[51.495612,-0.078256],
+[51.495038,-0.076604],
+[51.494343,-0.075853],
+[51.493756,-0.074587],
+[51.492941,-0.073342],
+[51.49266,-0.072913],
+[51.49262,-0.072012],
+[51.492206,-0.072033],
+[51.491845,-0.072076],
+[51.491284,-0.072269],
+[51.490816,-0.072463],
+[51.490309,-0.072634],
+[51.490081,-0.070939],
+[51.489707,-0.068321],
+[51.489587,-0.067441],
+[51.489534,-0.065618],
+[51.489534,-0.063665],
+[51.489507,-0.062978],
+[51.489814,-0.061884],
+[51.490055,-0.060918],
+[51.490349,-0.059888],
+[51.491217,-0.060382],
+[51.492099,-0.060918],
+[51.492473,-0.059481],
+[51.491324,-0.057077],
+[51.490643,-0.055425],
+[51.489788,-0.053537],
+[51.488999,-0.051692],
+[51.488318,-0.050039],
+[51.488144,-0.050275],
+[51.487917,-0.050619],
+[51.487783,-0.051005],
+[51.487717,-0.051541],
+[51.487786,-0.052258],
+[51.487396,-0.0527],
+[51.486861,-0.05255],
+[51.486634,-0.052453],
+[51.48594,-0.052367],
+[51.485385,-0.052217],
+[51.485238,-0.052378],
+[51.485144,-0.052775],
+[51.485098,-0.053033],
+[51.484329,-0.05284],
+[51.483488,-0.052732],
+[51.482733,-0.052764],
+[51.482091,-0.052775],
+[51.481523,-0.052915],
+[51.480828,-0.053054],
+[51.48008,-0.053387],
+[51.479659,-0.053569],
+[51.479218,-0.053869],
+[51.478897,-0.054084],
+[51.47861,-0.054266],
+[51.478029,-0.052657],
+[51.477661,-0.052743],
+[51.477674,-0.054063],
+[51.477307,-0.054138],
+[51.477287,-0.054824],
+[51.477307,-0.05564],
+[51.477374,-0.056745],
+[51.477461,-0.058022],
+[51.477414,-0.058655],
+[51.477167,-0.059545],
+[51.476973,-0.060039],
+[51.476799,-0.060607],
+[51.476665,-0.061069],
+[51.47726,-0.061412],
+[51.478062,-0.062109],
+[51.47877,-0.062635],
+[51.479245,-0.063096],
+[51.479064,-0.063633],
+[51.478824,-0.064706],
+[51.478717,-0.065435],
+[51.478536,-0.066637],
+[51.478396,-0.067334],
+[51.478209,-0.068514],
+[51.478129,-0.068986],
+[51.477915,-0.069469],
+[51.477668,-0.070124],
+[51.477661,-0.070317],
+[51.477668,-0.070853],
+[51.479793,-0.072162],
+[51.4802,-0.072827],
+[51.480568,-0.073224],
+[51.481089,-0.07375],
+[51.481483,-0.074126],
+[51.481971,-0.074072],
+[51.482672,-0.074115],
+[51.48326,-0.074072],
+[51.48324,-0.07478],
+[51.483187,-0.075864],
+[51.48314,-0.077012],
+[51.484256,-0.076797],
+[51.484343,-0.077966],
+[51.485111,-0.077773],
+[51.485345,-0.076582],
+[51.48626,-0.076389],
+[51.486888,-0.076303],
+[51.487135,-0.07611],
+[51.487556,-0.075542],
+[51.487984,-0.076379],
+[51.48767,-0.076894],
+[51.488919,-0.079125],
+[51.488872,-0.079501],
+[51.489554,-0.080734],
+[51.490436,-0.081979],
+[51.490168,-0.082784],
+[51.490001,-0.083427],
+[51.489741,-0.08479],
+[51.489273,-0.086635],
+[51.489975,-0.087258],
+[51.490696,-0.087912],
+[51.491104,-0.088309]
+
+		]).addTo(map).bindPopup('Old Kent Road</br>Opportunity Area');
+
+
+L.polygon([
+[51.491522,-0.090594],
+[51.492103,-0.091045],
+[51.492744,-0.088727],
+[51.491989,-0.088309],
+[51.491929,-0.088062],
+[51.491589,-0.087676],
+[51.491361,-0.087483],
+[51.491067,-0.088191]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/salisbury.jpg" width="200"></br>Salisbury estate</br>223 Council Homes</br>NPV: NEGATIVE</br>Sustainability: Below Average</br>Combined Score: 4.75</br>');
+
+
+L.polygon([
+[51.493552,-0.085326],
+[51.492524,-0.08715],
+[51.49231,-0.086871],
+[51.49255,-0.086507],
+[51.492424,-0.086356],
+[51.492143,-0.08568],
+[51.492724,-0.084511],
+[51.493092,-0.08509],
+[51.493312,-0.084779]
+
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/mardyke.jpg" width="200"></br>Mardyke Hse/Darwin/Mason St</br>ca. 100 Council Homes</br>NPV: NEGATIVE</br>Sustainability: Below Average</br>Combined Score: 4.40');
+
+L.polygon([
+[51.491054,-0.088191],
+[51.491736,-0.086217],
+[51.490546,-0.083975],
+[51.490366,-0.084715],
+[51.491154,-0.086024],
+[51.490453,-0.087054]
+
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/barlow.jpg" width="200"></br>Barlow estate</br>197 Council Homes</br>NPV: NEGATIVE</br>NPV: -£4,147 per dwelling</br>Sustainability: Below Average</br>Combined Score: 4.38');
+
+
+L.polygon([
+[51.491769,-0.086131],
+[51.490607,-0.084082],
+[51.490005,-0.083567],
+[51.490687,-0.081378],
+[51.491849,-0.082816],
+[51.491448,-0.083631],
+[51.492424,-0.085176]
+
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/congreve.jpg" width="200"></br>Congreve estate</br>266 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 4.09');
+
+L.polygon([
+[51.490126,-0.085788],
+[51.490553,-0.085166],
+[51.490366,-0.084726],
+[51.490587,-0.08405],
+[51.489945,-0.083567],
+[51.489665,-0.085047]
+
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/alvey.jpg" width="200"></br>Alvey estate</br>189 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 4.24');
+
+L.polygon([
+[51.49042,-0.082076],
+[51.489598,-0.080853],
+[51.489872,-0.080348],
+[51.490618,-0.081518]
+
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/minnowwalk.png" width="200"></br>Minnow Walk estate</br>24 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 4.47');
+
+L.polygon([
+[51.489756,-0.080407],
+[51.489365,-0.081249],
+[51.488597,-0.080246],
+[51.488437,-0.08067],
+[51.487742,-0.082306],
+[51.487441,-0.083025],
+[51.487114,-0.082746],
+[51.486904,-0.082558],
+[51.487906,-0.080252],
+[51.487401,-0.079324],
+[51.488423,-0.078036]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/kinglake.jpg" width="200"></br>Kinglake estate</br>408 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 4.16');
+
+L.polygon([
+[51.486329,-0.072446],
+[51.48687,-0.071931],
+[51.486559,-0.070982],
+[51.486232,-0.071175],
+[51.485841,-0.070193],
+[51.485628,-0.070435]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/mawbey.jpg" width="200"></br>Mawbey estate</br>105 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 4.75');
+
+
+L.polygon([
+[51.493100891115596, -0.07834196090698242],
+[51.49352840069308, -0.07774114608764648],
+[51.49445020457691, -0.076904296875],
+[51.49291385441471, -0.07413625717163086],
+[51.49227257990011, -0.07460832595825195],
+[51.49261993804863, -0.07576704025268555],
+[51.492032099631466, -0.07658243179321289],
+[51.49307417163387, -0.07829904556274414]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/setchell.jpg" width="200"></br>Setchell estate</br>311 Council Homes</br>NPV: Below Average</br>Sustainability: Below Average</br>Combined Score: 4.69');
+
+L.polygon([
+[51.491286,-0.07537],
+[51.492999,-0.073965],
+[51.493093,-0.073675],
+[51.492802,-0.073316],
+[51.492642,-0.07279],
+[51.492589,-0.072076],
+[51.492108,-0.072049],
+[51.491356,-0.072269],
+[51.490327,-0.072634],
+[51.490554,-0.07368],
+[51.490755,-0.073557],
+[51.490995,-0.074185],
+[51.490895,-0.074453],
+[51.491006,-0.07471],
+[51.491196,-0.074485],
+[51.491356,-0.074839],
+[51.491196,-0.075096]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/longfield.jpg" width="200"></br>Longfield estate</br>401 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 5.05');
+
+L.polygon([
+[51.48692,-0.074115],
+[51.487278,-0.073675],
+[51.487081,-0.073192],
+[51.48821,-0.072066],
+[51.488671,-0.071615],
+[51.488831,-0.07286],
+[51.488982,-0.073594],
+[51.488033,-0.074882],
+[51.487602,-0.075445]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/astley.jpg" width="200"></br>Astley estate</br>314 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 5.22');
+
+L.polygon([
+[51.490037,-0.071121],
+[51.489479,-0.071374],
+[51.489305,-0.07059],
+[51.489238,-0.07015],
+[51.488998,-0.070199],
+[51.488914,-0.069571],
+[51.489786,-0.069298]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/lynton.jpg" width="200"></br>Lynton estate</br>45 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 4.93');
+
+L.polygon([
+[51.485096,-0.069094],
+[51.485838,-0.068466],
+[51.486068,-0.068917],
+[51.486336,-0.068836],
+[51.486326,-0.068112],
+[51.487041,-0.068026],
+[51.487111,-0.068799],
+[51.487535,-0.068665],
+[51.487395,-0.067892],
+[51.487762,-0.06757],
+[51.488053,-0.068284],
+[51.488176,-0.068863],
+[51.488484,-0.070258],
+[51.488534,-0.070773],
+[51.487177,-0.070837],
+[51.486987,-0.070902],
+[51.48672,-0.071084],
+[51.486526,-0.071175],
+[51.486279,-0.071272],
+[51.485988,-0.070505],
+[51.485708,-0.070601],
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/avondale.jpg" width="200"></br>Avondale Square estate</br>640 Council Homes</br>Owned by City of London');
+
+L.polygon([
+[51.494265,-0.08391],
+[51.493988,-0.083631],
+[51.494549,-0.082591],
+[51.49495,-0.083089],
+[51.495314,-0.083701],
+[51.49499,-0.084318]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/creasy.jpg" width="200"></br>Creasy estate</br>45 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 5.23');
+
+L.polygon([
+[51.495334,-0.083722],
+[51.495514,-0.083481],
+[51.495344,-0.0831],
+[51.495748,-0.082639],
+[51.494913,-0.081394],
+[51.494132,-0.082735],
+[51.494302,-0.083025],
+[51.494683,-0.082569]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/swanmead.jpg" width="200"></br>Swan Mead estate</br>38 Council Homes</br>NPV: Above Average</br>Sustainability: Above Average</br>Combined Score: 5.64');
+
+L.polygon([
+[51.494526,-0.081958],
+[51.494896,-0.081319],
+[51.495457,-0.081416],
+[51.495187,-0.080171],
+[51.494519,-0.080413],
+[51.494075,-0.081126]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/harold.jpg" width="200"></br>Harold estate</br>88 Council Homes</br>NPV: Above Average</br>Sustainability: Above Average</br>Combined Score: 5.61');
+
+L.polygon([
+[51.481896,-0.074099],
+[51.481949,-0.073332],
+[51.480663,-0.072811],
+[51.480523,-0.073106],
+[51.481275,-0.073922],
+[51.481455,-0.074072]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/pennackroad.jpg" width="200"></br>Pennack Road estate</br>92 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 5.66');
+
+
+L.polygon([
+[51.480979,-0.072559],
+[51.4812,-0.071915],
+[51.480558,-0.071561],
+[51.479496,-0.071079],
+[51.479737,-0.069759],
+[51.479175,-0.069458],
+[51.478634,-0.069791],
+[51.478086,-0.069598],
+[51.478186,-0.070553],
+[51.480178,-0.071518],
+[51.480178,-0.072173]
+		
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/colegrove.jpg" width="200"></br>Colegrove estate</br>25 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 5.60');
+
+L.polygon([
+[51.478039,-0.070499],
+[51.478246,-0.069577],
+[51.478547,-0.069791],
+[51.479222,-0.069448],
+[51.479062,-0.06816],
+[51.479543,-0.067774],
+[51.479382,-0.067248],
+[51.479656,-0.06713],
+[51.479603,-0.066615],
+[51.479737,-0.065703],
+[51.478721,-0.065392],
+[51.47824,-0.068504],
+[51.478053,-0.069222],
+[51.477739,-0.069888],
+[51.477652,-0.070381]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/lindley.jpg" width="200"></br>Lindley estate</br>304 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 4.73');
+
+L.polygon([
+[51.481676884910684, -0.07181882858276367],
+[51.48022028542385, -0.07087469100952148],
+[51.48048755486967, -0.06963014602661133],
+[51.48127599060938, -0.06995201110839844],
+[51.48136953292825, -0.06950139999389648],
+[51.482131227525294, -0.06978034973144531]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/unwin.jpg" width="200"></br>Unwin estate</br>144 Council Homes</br>NPV: Above Average</br>Sustainability: Above Average</br>Combined Score: 5.66');
+
+L.polygon([
+[51.48207777568792, -0.06984472274780273],
+[51.480594462209446, -0.06907224655151367],
+[51.48042073765504, -0.06969451904296875],
+[51.479899560021394, -0.06947994232177734],
+[51.48000646873949, -0.06872892379760742],
+[51.47972583282001, -0.06759166717529297],
+[51.481503164479484, -0.06641149520874023],
+[51.47968574183342, -0.0657033920288086],
+[51.48000646873949, -0.0637507438659668],
+[51.48124926419734, -0.06452322006225586],
+[51.481730337217954, -0.06345033645629883],
+[51.48316016318391, -0.06516695022583008]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/friary.jpg" width="200"></br>Friary estate</br>817 Council Homes</br>NPV: Above Average</br>Sustainability: Above Average</br>Combined Score: 4.98');
+
+
+
+L.polygon([
+[51.478803731212125, -0.06450176239013672],
+[51.47984610556836, -0.06493091583251953],
+[51.480340556868285, -0.0623774528503418],
+[51.481022089062506, -0.06282806396484375],
+[51.48104881560771, -0.06441593170166016],
+[51.4819040567838, -0.06345033645629883],
+[51.48242521151098, -0.06299972534179688],
+[51.48096863592516, -0.06074666976928711],
+[51.479151191977905, -0.06304264068603516],
+[51.47850972388131, -0.06246328353881836],
+[51.47813552999197, -0.06422281265258789]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/ledbury.jpg" width="200"></br>Ledbury estate</br>396 Council Homes</br>NPV: Above Average</br>Sustainability: Above Average</br>Combined Score: 4.81');
+
+L.polygon([
+[51.48018019487188, -0.060210227966308594],
+[51.47988619641403, -0.06151914596557617],
+[51.47896409804834, -0.06280660629272461],
+[51.47789497515628, -0.061948299407958984],
+[51.47836271950517, -0.059223175048828125]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/carolinegdns.png" width="200"></br>Caroline Gdns estate</br>174 Council Homes</br>NPV: Below Average</br>Sustainability: Below Average</br>Combined Score: 4.60');
+
+L.polygon([
+[51.47976592377138, -0.059909820556640625],
+[51.47809543760746, -0.0589442253112793],
+[51.478536451898776, -0.05722761154174805],
+[51.47949865009663, -0.058193206787109375]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/gervase.png" width="200"></br>Gervase Street estate</br>38 Council Homes</br>NPV: Below Average</br>Sustainability: Below Average</br>Combined Score: 3.69');
+
+L.polygon([
+[51.47810880173955, -0.05903005599975586],
+[51.47895073416685, -0.0557255744934082],
+[51.47845626779935, -0.0543522834777832],
+[51.47385881036938, -0.05744218826293945],
+[51.47385881036938, -0.05772113800048828],
+[51.47631797314678, -0.05795717239379883],
+[51.47746731898247, -0.058579444885253906]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/brimmington.png" width="200"></br>Brimmington estate</br>474 Council Homes</br>NPV: Below Average</br>Sustainability: Below Average</br>Combined Score: 4.71');
+
+L.polygon([
+[51.47824244284504, -0.05428791046142578],
+[51.47764105478667, -0.05280733108520508],
+[51.47661199460564, -0.052721500396728516],
+[51.476571900881936, -0.05357980728149414],
+[51.47627787916467, -0.05360126495361328],
+[51.476304608490004, -0.055468082427978516]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/pomeroy.jpg" width="200"></br>Pomeroy estate</br>222 Council Homes</br>NPV: Below Average</br>Sustainability: Below Average</br>Combined Score: 5.18');
+
+L.polygon([
+[51.47764105478667, -0.0616908073425293],
+[51.477868246762895, -0.06038188934326172],
+[51.477066387677866, -0.059587955474853516],
+[51.47662535917238, -0.060982704162597656]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/holme.jpg" width="200"></br>Holme House estate</br>18 Council Homes</br>NPV: Below Average</br>Sustainability: Below Average</br>Combined Score: 4.89');
+
+L.polygon([
+[51.480233648933336, -0.0583648681640625],
+[51.47891064249891, -0.0548243522644043],
+[51.47964565081156, -0.05420207977294922],
+[51.48028710293213, -0.053751468658447266],
+[51.480888456101646, -0.053751468658447266],
+[51.4819441458204, -0.05392313003540039],
+[51.48195750882479, -0.05632638931274414],
+[51.48122253776961, -0.05731344223022461]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/tustin.jpg" width="200"></br>Tustin estate</br>424 Council Homes</br>NPV: Below Average</br>Sustainability: Below Average</br>Combined Score: 4.61');
+
+L.polygon([
+[51.486206745613686, -0.06330013275146484],
+[51.485672272190435, -0.06257057189941406],
+[51.485845976740165, -0.05797863006591797],
+[51.48797046346199, -0.05832195281982422],
+[51.48735584225961, -0.06113290786743164]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/bonamy.png" width="200"></br>Bonamy estate</br>310 Council Homes</br>NPV: Above Average</br>Sustainability: Above Average</br>Combined Score: 5.88</br>(redeveloped Bonamy estate)');
+
+L.polygon([
+[51.4887053257637, -0.05767822265625],
+[51.49045558645383, -0.059909820556640625],
+[51.49121712928709, -0.05872964859008789],
+[51.489587144891544, -0.05628347396850586]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/rennie.jpg" width="200"></br>Rennie estate</br>301 Council Homes</br>NPV: Above Average</br>Sustainability: Below Average</br>Combined Score: 5.12');
+
+L.polygon([
+[51.488369,-0.069695],
+[51.488349,-0.069662],
+[51.488723,-0.069619],
+[51.489157,-0.069619],
+[51.489103,-0.068976],
+[51.48893,-0.068976],
+[51.488863,-0.068332],
+[51.488743,-0.066229],
+[51.488656,-0.065618],
+[51.487139,-0.065886],
+[51.487433,-0.066808],
+[51.487901,-0.067956],
+[51.488115,-0.06845],
+[51.488369,-0.069695]
+
+		], {color: '#ff4000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/stjamesplace.jpg" width="200"></br>St James Place estate</br>Ca. 100 Housing association homes</br>Notting Hill Housing Association</br>Market rents</br>foliolondon.co.uk');
+
+L.polygon([
+[51.487153,-0.065854],
+[51.488957,-0.065575],
+[51.488983,-0.064749],
+[51.488943,-0.064234],
+[51.488957,-0.063643],
+[51.489043,-0.063268],
+[51.489237,-0.06285],
+[51.489224,-0.062206],
+[51.489377,-0.061069],
+[51.48903,-0.06065],
+[51.48915,-0.060103],
+[51.48909,-0.059513],
+[51.489491,-0.058923],
+[51.489017,-0.05814],
+[51.488716,-0.057635],
+[51.488362,-0.057925],
+[51.488095,-0.058386],
+[51.487868,-0.059191],
+[51.487634,-0.060232],
+[51.487373,-0.061358],
+[51.487266,-0.06168],
+[51.487387,-0.061927],
+[51.487387,-0.06227],
+[51.487226,-0.064437],
+[51.487166,-0.065875]
+
+], {color: '#ff4000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/stevenson.png" width="200"></br>Stevenson Crescent estate</br>Ca. 200 Housing association homes</br>Hyde/Hexagon Housing Association</br>(redeveloped Bonamy estate)');
+
+L.polygon([
+[51.485322,-0.058107],
+[51.486204,-0.058333],
+[51.487113,-0.058451],
+[51.487934,-0.058676],
+[51.488061,-0.058279],
+[51.487988,-0.058075],
+[51.487914,-0.057743],
+[51.487881,-0.057378],
+[51.487934,-0.056766],
+[51.487974,-0.056326],
+[51.487954,-0.055972],
+[51.487814,-0.055543],
+[51.487547,-0.055189],
+[51.487133,-0.054921],
+[51.486485,-0.054567],
+[51.485756,-0.05417],
+[51.48569,-0.054545],
+[51.485509,-0.05461],
+[51.485209,-0.054653],
+[51.485182,-0.055103],
+[51.484701,-0.055221],
+[51.484794,-0.05668],
+[51.484841,-0.058],
+[51.485342,-0.058129]
+
+		], {color: '#ff4000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/bramcotegrove.jpg" width="200"></br>Bramcote Grove estate</br>Ca. 200 Housing association homes</br>SLDHA Housing Association</br>(redeveloped Bonamy estate)');
+
+L.polygon([
+[51.49531855350365, -0.08649587631225586],
+[51.495759401243255, -0.08488655090332031],
+[51.49558573446086, -0.08465051651000977],
+[51.495131525901776, -0.0842213630676269],
+[51.49483762383412, -0.08469343185424805],
+[51.49482426460418, -0.08520841598510742],
+[51.49493113833391, -0.08585214614868164],
+[51.49529183532179, -0.08645296096801758]
+
+		], {color: '#FF0000'}).addTo(map).bindPopup('<img src="https://35percent.org/img/haddonhall.png" width="200"></br>Haddonhall estate</br>& Leathermarket JMB blocks</br>217 TMO-managed council homes');
+
+var bakerlooIcon1 = L.icon({
+    iconUrl: 'img/Underground-logo.png',
+    
+    iconSize:     [65, 65], // size of the icon
+    iconAnchor:   [45, 45], // point of the icon which will correspond to marker's location
+    popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+});
+
+L.marker([51.48849154886116, -0.0756382942199707], {icon: bakerlooIcon1}).addTo(map);
+
+var bakerlooIcon2 = L.icon({
+    iconUrl: 'img/Underground-logo.png',
+    
+    iconSize:     [65, 65], // size of the icon
+    iconAnchor:   [45, 45], // point of the icon which will correspond to marker's location
+    popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+});
+
+L.marker([51.48024701243891, -0.058557987213134766], {icon: bakerlooIcon2}).addTo(map);
+
+
+
+
+
+
+
+
+new OSMBuildings(map).setData(onetheelephant).setDate(new Date(2013, 03, 01, 17, 30));
+
+var info = L.control();
+
+	info.onAdd = function (map) {
+		this._div = L.DomUtil.create('div', 'info');
+		this.update();
+		return this._div;
+};
+
+info.update = function (props) {
+	this._div.innerHTML = '<h4>US Population Density</h4>' +  (props ?
+				'<b>' + props.name + '</b><br />' + props.density + ' people / mi<sup>2</sup>'
+				: 'Hover over a state');
+};
+
+info;
+
+
+
+function style(feature) {
+			return {
+				weight: 2,
+				opacity: 1,
+				color: 'white',
+				dashArray: '3',
+				fillOpacity: 0.7,
+				fillColor: 'black'
+	};
+}
+
+function highlightFeature(e) {
+    var layer = e.target;
+
+    layer.setStyle({
+        weight: 10,
+        color: '#4D4DFF',
+        dashArray: '',
+        fillOpacity: 0.7
+    });
+
+    if (!L.Browser.ie && !L.Browser.opera) {
+        layer.bringToFront();
+    }
+
+info.update(layer.feature.properties);
+
+}
+
+var geojson;
+
+function resetHighlight(e) {
+    geojson.resetStyle(e.target);
+    info.update();
+}
+
+function zoomToFeature(e) {
+    map.fitBounds(e.target.getBounds());
+}
+
+function onEachFeature(feature, layer) {
+    layer.on({
+        mouseover: highlightFeature,
+        mouseout: resetHighlight,
+        click: zoomToFeature
+    });
+}
+
+geojson = L.geoJson(onetheelephant, {
+    style: style,
+    onEachFeature: onEachFeature
+});
+
+
+
+
+
+
+
+
+
+</script>
+</body>
+</html>

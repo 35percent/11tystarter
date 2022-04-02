@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Blackfriars Circus"
-image: img/tweetwilliamsblackfriars.png
+image: img/tweetmwilliamsblackfriars.png
 ---
 Barratt Homes, Britains third-largest housebuilder, [posted](https://www.cityam.com/223932/building-bonanza-barratt-profits-jump-45-cent) a 45% rise in profits to £565.5m last year.
 

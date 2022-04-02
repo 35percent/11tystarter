@@ -1,8 +1,8 @@
 ---
 title: 'Bermondsey Works'
 layout: page
+image: img/bwks.jpg
 ---
-![](https://www.se16.com/wp-content/uploads/Appendix-Image.jpg)
 
 CIL [exemption](https://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!9yfPr65e8LF7VyEMlMJXXA%3d%3d!%7d%7d%7d) form says that the developer is Telford Homes (aka Higgins?) and HOusing association is Wandle.
 

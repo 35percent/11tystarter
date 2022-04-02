@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Manor Place depot"
+image: img/mpd.jpg
 ---
 ![](https://www.britishlistedbuildings.co.uk/images/buildings/en/471/471093-18941-800.jpg)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "North Peckham regeneration"
-image: img/camden-estate-2.jpg
+image: img/northpeckhamaerial.jpg
 ---
 The [GLA report](https://legacy.london.gov.uk/mayor/planning_decisions/strategic_dev/dec1802/five_estates_peckham_report.rtf) relating to the North Peckham estate regeneration describes the scheme as follows: 
 

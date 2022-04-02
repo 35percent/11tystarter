@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Maydew House"
+image: img/mdew.jpg
 ---
-![](https://s0.geograph.org.uk/geophotos/02/70/11/2701156_6a4b82c2.jpg)
 
 This 24-storey block containing 144 council flats overlooking Southwark Park, has been decanted [(amidst protest)](https://www.facebook.com/pages/Save-Maydew-House/316012601837) after the council [declared](https://www.southwarknews.co.uk/00,news,20152,440,00.htm) (without disclosing the figures) that the cost of repair was _"difficult to justify"_. The Council served a Compulsory Purchase Order on the remaining leaseholders and tenants of the block (and neighbouring Abbeyfield estate) in 2012[^1].
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Camberwell Road"
+image: img/camberwellfieldslogo.png
 ---
 With the redevelopment of the nearby [Aylesbury](https://crappistmartin.github.io/aylesbury-estate/) and [Elmington estates](https://crappistmartin.github.io/elmington-estate-regeneration/) now under full steam, [epic regeneration](https://www.southwarkregeneration.co.uk/) has now officially embraced Camberwell and social rented housing is the victim.  
 

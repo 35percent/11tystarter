@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "London 360 Tower"
+image: img/lph.jpg
 ---
-![](https://www.the-latest.com/sites/default/files/images/12_1.jpg)
 
 This site was formerly home to [__Rowton House__, an 805-bed hostel](https://www.southwarknews.co.uk/history/the-cleanest-place-to-doss-since-leaving-home/) built in 1897. The hostel was converted to a hotel in the 1970s and changed its name to the __London Park Hotel__. The hotel then reverted back to a hostel in the 1990s when it was used to provide low-cost accommodation for refugees and asylum seekers.
 

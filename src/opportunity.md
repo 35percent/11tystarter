@@ -10,7 +10,7 @@ The subsequent [2002 Masterplan](https://35percent.org/img/slrplans.pdf) pledged
 
 ![](https://35percent.org/img/slrplans.jpg)
 
-This hasn't happened, mainly because Southwark Council has [rolled over](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) to developers along the way. Now of the 5,937 new homes being built at the Elephant a grand total of 298 will be social rent (4%) and a question mark hangs over whether half of these will be built by the developer or at the council's cost. Doubt also remains over the [question](https://35percent.org/redefining-social-rent) of whether the small number of social rented homes built to date have been provided as such and not at 80% market rent.
+This hasn't happened, mainly because Southwark Council has [rolled over](https://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright) to developers along the way. Now of the 5,937 new homes being built at the Elephant, a grand total of 298 will be social rent (4%) and a question mark hangs over whether half of these will be built by the developer or at the council's cost. Doubt also remains over the [question](https://35percent.org/redefining-social-rent) of whether the small number of social rented homes built to date have been provided as such and not at 80% market rent.
 
 | Scheme |      Social Rented      |  Total Homes |
 |----------|:-------------:|------:|
@@ -32,7 +32,7 @@ Instead, over a thousand council homes elsewhere in the borough have been taken 
 
 The original plans for the Elephant and Castle opportunity area envisaged 4,200 new homes including over 1,000 replacement council homes. In the event the number of homes has already been exceed by nearly a third and not one replacement council home has been built in the opportunity area.
 
-Some people are asking whether the revolving doors](https://35percent.org/revolving-doors) between Southwark's elected representatives and property developers at the Elephant may have played a role in Southwark's failure to secure a more equitable outcome for the regeneration.
+Some people are asking whether the [revolving doors](https://35percent.org/revolving-doors) between Southwark's elected representatives and property developers at the Elephant may have played a role in Southwark's failure to secure a more equitable outcome for the regeneration.
 
 For example, Council leader Peter John led Southwark from 2010 to 2020 and was the one who signed the [questionable](https://www.35percent.org/no-profit-share-the-true-value-of-the-heygate-regeneration/) development partnership agreement with Lendlease:
 

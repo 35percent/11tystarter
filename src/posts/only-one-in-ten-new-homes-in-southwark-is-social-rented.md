@@ -11,7 +11,7 @@ The reality is different.  Only one in ten new homes built in Southwark since 20
 
 ##### Eighteen years of low social rent, but high free-market numbers
 
-The contrast between the small number of social rent and the large number of free-market homes built is stark, as our chart below shows.  The Datahub figure show that nearly 70% of all new homes are free-market (nearly 18,000 in number) against just 10.7% social rent, with the rest made up of other affordable homes.
+The contrast between the small number of social rent and the large number of free-market homes built is stark, as our chart below shows.  The Datahub figure show that nearly 70% of all new homes are free-market (nearly 18,000 in number) against just 10.7% social rent, with the rest made up of other affordable homes[^4].
 
 Bar chart by 35% Campaign.  Source: Planning London Datahub, Residential Completion Dashboard
 
@@ -44,3 +44,5 @@ The need for social rented housing has continued to rise since Southwark made it
 [^2] The Planning London Datahub is a *'collaborative project between all of the Planning Authorities in London'* including Southwark.  It is part of the London Datastore and is a 'new data base that includes data fed live from the boroughs...'.  The Datahub's Residential Completion Dashboard shows all housing completions for all the boroughs in London.
 
 [^3] 4,956 social rented homes were completed, 2,280 homes were lost, leaving a 2,676 net gain for the eighteen financial years FY2004-FY2021 - an average of 144.4 homes per annum.  See the Residential Cpmpletion Dashboard, data filtered for Southwark.
+
+[^4] 17,651 free-market (69.81%), 2,711

@@ -3,11 +3,11 @@ title: Only one in ten new homes in Southwark is social rented
 description: Southwark losses 91 social rented homes in 2021
 date: 2022-04-11T07:28:12.088Z
 ---
-Council hoardings publicising the Council's delivery of 11,000 council homes are a familiar sight around Southwark.  They promote the Council's creditable council house building programme, which it launched in 2013 and describes as the *'most ambitious...in the country'*[^1]*.*
+Council hoardings publicising the Council's delivery of 11,000 council homes are a familiar sight around Southwark.  They promote the Council's creditable council house building programme, which it launched in 2013 and describes as the *['most ambitious...in the country'](https://www.southwark.gov.uk/housing/new-council-homes/why-we-re-building)*[^1]*.*
 
 The impression Southwark wants to create is that building social housing is the Council's top priority - as it should be in a borough where only 7% of households can afford free-market housing.
 
-The reality is different.  Only one in ten new homes built in Southwark since 2004 is social rented.  The figure has emerged from analysis of the London Mayor's new Planning Datahub.  The Datahub documents all the homes built in London since 2004, including those built in Southwark[^2].  The Datahub shows that after demolitions are taken into account, only 2,711 out of twenty-five thousand new homes in Southwark are social rented[^3].
+The reality is different.  Only one in ten new homes built in Southwark since 2004 is social rented.  The figure has emerged from analysis of the London Mayor's [new Planning Datahub](https://data.london.gov.uk/dataset/planning-london-datahub?_gl=1*1q4sghb*_ga*Nzk4MDMxOTU4LjE2NDU2OTEwODg.*_ga_PY4SWZN1RJ*MTY0OTUwNzM1OC45LjEuMTY0OTUwNzM4My4w).  The Datahub documents all the homes built in London since 2004, including those built in Southwark[^2].  The Datahub shows that after demolitions are taken into account, only 2,711 out of twenty-five thousand new homes in Southwark are social rented[^3].
 
 ##### Eighteen years of low social rent, but high free-market numbers
 
@@ -17,7 +17,7 @@ Bar chart by 35% Campaign.  Source: Planning London Datahub, Residential Complet
 
 ##### Lost Heygate homes
 
-The Datahub also shows that more social rented homes were demolished in 2021 than were built.  Only 31 were built, while 122 were demolished, with a net loss of 91 homes.  Southwark claim this is a *'discrepancy'* but the lost units can be identified through the Datahub as being from the demolished Heygate estate[^5].
+The Datahub also shows that more social rented homes were demolished in 2021 than were built.  Only 31 were built, while 122 were demolished, with a net loss of 91 homes.  Southwark claim this is a *['discrepancy'](https://www.southwarknews.co.uk/news/number-of-new-social-rents-decreases-by-20/)* but the lost units can be identified through the Datahub as being from the demolished Heygate estate[^5].
 
 The Datahub shows the loss clearly, in percentage terms, as minus 20.4% of the total housing delivered in 2021[^6].
 

@@ -5,6 +5,8 @@ date: 2022-04-11T07:28:12.088Z
 ---
 Council hoardings publicising the Council's delivery of 11,000 council homes are a familiar sight around Southwark.  They promote the Council's creditable council house building programme, which it launched in 2013 and describes as the *'most ambitious...in the country'.*
 
+The impression Southwark wants to create is that building social housing is the Council's top priority - as it should be in a borough where only 7% of households can afford free-market housing.
+
 The reality is different.  Only one in ten new homes built in Southwark since 2004 is social rented.  The figure has emerged from the London Mayor's new Planning Datahub, which documents all the homes built in London since 2004, including those built in Southwark.  The Datahub shows that after demolitions are taken into account, only 2,676 out of twenty-five thousand new homes in Southwark are social rented.
 
 ##### Eighteen years of low social rent, but high free-market numbers

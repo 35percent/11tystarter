@@ -7,7 +7,7 @@ Council hoardings publicising the Council's delivery of 11,000 council homes are
 
 The impression Southwark wants to create is that building social housing is the Council's top priority - as it should be in a borough where only 7% of households can afford free-market housing.
 
-The reality is different.  Only one in ten new homes built in Southwark since 2004 is social rented.  The figure has emerged from the London Mayor's new Planning Datahub, which documents all the homes built in London since 2004, including those built in Southwark[^2].  The Datahub shows that after demolitions are taken into account, only 2,676 out of twenty-five thousand new homes in Southwark are social rented[^3].
+The reality is different.  Only one in ten new homes built in Southwark since 2004 is social rented.  The figure has emerged from analysis of the London Mayor's new Planning Datahub.  The Datahub documents all the homes built in London since 2004, including those built in Southwark[^2].  The Datahub shows that after demolitions are taken into account, only 2,711 out of twenty-five thousand new homes in Southwark are social rented[^3].
 
 ##### Eighteen years of low social rent, but high free-market numbers
 
@@ -43,6 +43,6 @@ The need for social rented housing has continued to rise since Southwark made it
 
 [^2] The Planning London Datahub is a *'collaborative project between all of the Planning Authorities in London'* including Southwark.  It is part of the London Datastore and is a 'new data base that includes data fed live from the boroughs...'.  The Datahub's Residential Completion Dashboard shows all housing completions for all the boroughs in London.
 
-[^3] 4,956 social rented homes were completed, 2,280 homes were lost, leaving a 2,676 net gain for the eighteen financial years FY2004-FY2021 - an average of 144.4 homes per annum.  See the Residential Cpmpletion Dashboard, data filtered for Southwark.
+[^3] 4,989 social rented homes were completed, 2,897 homes were lost, leaving a 2,711 net gain for the eighteen financial years FY2004-FY2021 - an average of 150.6 homes per annum.  From analysis of the the Residential Completion Dashboard, data filtered for Southwark.
 
 [^4] 17,651 free-market (69.81%), 2,711....

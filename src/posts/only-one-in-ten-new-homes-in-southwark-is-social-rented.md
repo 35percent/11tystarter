@@ -45,4 +45,4 @@ The need for social rented housing has continued to rise since Southwark made it
 
 [^3] 4,956 social rented homes were completed, 2,280 homes were lost, leaving a 2,676 net gain for the eighteen financial years FY2004-FY2021 - an average of 144.4 homes per annum.  See the Residential Cpmpletion Dashboard, data filtered for Southwark.
 
-[^4] 17,651 free-market (69.81%), 2,711
+[^4] 17,651 free-market (69.81%), 2,711....

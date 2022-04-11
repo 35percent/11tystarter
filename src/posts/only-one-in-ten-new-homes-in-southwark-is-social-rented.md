@@ -32,3 +32,7 @@ it should be noted that these figures are from all social rented housing in the 
 Southwark is only able to claim that it has fulfilled its 2013 pledge to build 2,500 council homes by 2022, by using an elastic definition if what 'build' actually means.  For Southwark, it means the homes do not have to be completed, just started, and can also include other homes brought back into use, according to this Southwark News article.
 
 Southwark also apparently include in the definition of council housing homes gained from private developments, through planning requirements.  If this is the case then there is no real gain in social rented housing numbers, because these would have been built anyway, and at private developer's cost.
+
+##### We need less free-market housing, more social rent
+
+The need for social rented housing has continued to rise since Southwark made its 2013 pledge to build 11,000 council homes over thirty years.  The pledge is a good one, but it will probably only maintain the 2013 number of homes, not increase it.  Southwark also does itself no favours by exaggerating the progress it is making towards the 11,000 council homes target.  The amount of council and social housing being built in the borough is a fraction of the amount of free-market housing and unless this changes and we start getting more social housing from private developers as well as council homes, then Southwark's housing crisis will continue.

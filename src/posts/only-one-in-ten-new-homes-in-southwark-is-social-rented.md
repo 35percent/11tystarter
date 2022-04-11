@@ -3,11 +3,11 @@ title: Only one in ten new homes in Southwark is social rented
 description: Southwark losses 91 social rented homes in 2021
 date: 2022-04-11T07:28:12.088Z
 ---
-Council hoardings publicising the Council's delivery of 11,000 council homes are a familiar sight around Southwark.  They promote the Council's creditable council house building programme, which it launched in 2013 and describes as the *'most ambitious...in the country'.*
+Council hoardings publicising the Council's delivery of 11,000 council homes are a familiar sight around Southwark.  They promote the Council's creditable council house building programme, which it launched in 2013 and describes as the *'most ambitious...in the country'*[^1]*.*
 
 The impression Southwark wants to create is that building social housing is the Council's top priority - as it should be in a borough where only 7% of households can afford free-market housing.
 
-The reality is different.  Only one in ten new homes built in Southwark since 2004 is social rented.  The figure has emerged from the London Mayor's new Planning Datahub, which documents all the homes built in London since 2004, including those built in Southwark.  The Datahub shows that after demolitions are taken into account, only 2,676 out of twenty-five thousand new homes in Southwark are social rented.
+The reality is different.  Only one in ten new homes built in Southwark since 2004 is social rented.  The figure has emerged from the London Mayor's new Planning Datahub, which documents all the homes built in London since 2004, including those built in Southwark[^2].  The Datahub shows that after demolitions are taken into account, only 2,676 out of twenty-five thousand new homes in Southwark are social rented[^3].
 
 ##### Eighteen years of low social rent, but high free-market numbers
 
@@ -38,3 +38,9 @@ Southwark also apparently include in the definition of council housing homes gai
 ##### We need less free-market housing, more social rent
 
 The need for social rented housing has continued to rise since Southwark made its 2013 pledge to build 11,000 council homes over thirty years.  The pledge is a good one, but it will probably only maintain the 2013 number of homes, not increase it.  Southwark also does itself no favours by exaggerating the progress it is making towards the 11,000 council homes target.  The amount of council and social housing being built in the borough is a fraction of the amount of free-market housing and unless this changes and we start getting more social housing from private developers as well as council homes, then Southwark's housing crisis will continue.
+
+[^1] 'CACI Paycheck data confirms that 93% of households in Southwark have a household income that requires social and intermediate housing' - para 2, pg 108 Southwark Plan 2022
+
+[^2] The Planning London Datahub is a *'collaborative project between all of the Planning Authorities in London'* including Southwark.  It is part of the London Datastore and is a 'new data base that includes data fed live from the boroughs...'.  The Datahub's Residential Completion Dashboard shows all housing completions for all the boroughs in London.
+
+[^3] 4,956 social rented homes were completed, 2,280 homes were lost, leaving a 2,676 net gain for the eighteen financial years FY2004-FY2021 - an average of 144.4 homes per annum.  See the Residential Cpmpletion Dashboard, data filtered for Southwark.

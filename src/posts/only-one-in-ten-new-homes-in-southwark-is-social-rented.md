@@ -7,7 +7,7 @@ Hoardings publicising the Council's delivery of 11,000 council homes are a famil
 
 The impression Southwark wants to create is that building social housing is the Council's top priority - as it should be in a borough where only 7% of households can afford free-market housing[^1].
 
-The reality is different.  Only one in ten new homes built in Southwark since 2004 is social rented.  The figure has emerged from analysis of the London Mayor's [new Planning Datahub](https://data.london.gov.uk/dataset/planning-london-datahub?_gl=1*1q4sghb*_ga*Nzk4MDMxOTU4LjE2NDU2OTEwODg.*_ga_PY4SWZN1RJ*MTY0OTUwNzM1OC45LjEuMTY0OTUwNzM4My4w).  The Datahub documents all the homes built in London since 2004, including those built in Southwark[^2].  The Datahub shows that after losses are taken into account, only 2,711 out of twenty-five thousand new homes in Southwark are social rented[^3].
+The reality is different.  Only one in ten new homes built in Southwark since 2004 is social rented.  The figure has emerged from analysis of the London Mayor's [new Planning Datahub](https://data.london.gov.uk/dataset/planning-london-datahub?_gl=1*1q4sghb*_ga*Nzk4MDMxOTU4LjE2NDU2OTEwODg.*_ga_PY4SWZN1RJ*MTY0OTUwNzM1OC45LjEuMTY0OTUwNzM4My4w).  The Datahub documents all the homes built in London since 2004, including those built in Southwark[^2].  The Datahub analysis shows that after losses are taken into account, only 2,711 out of twenty-five thousand new homes in Southwark are social rented[^3].
 
 ##### Eighteen years of low social rent, but high free-market numbers
 

@@ -51,4 +51,4 @@ The need for social rented housing has continued to rise since Southwark made it
 
 [^6] The net gains/losses for FY2021 are 442 free-market units (98.7%), -91 social rent (-20.4%), 39 affordable rent (8.7%), intermediate 58 (13%).  From an analysis of the Residential Completion Dashboard, data filtered for Southwark.
 
-[^7]  Southwark's Table 8 gives 'Gross' figures; the Datahub describes the same figures as 'Gains'.  The Data hub figures for FY2019 and FY2020 vary from Southwark's, giving  a total for Gains of 2,170, against Southwarks figure of 2,208. Datahub figures from an analysis of the Residential Completion Dashboard, data filtered for Southwark.
+[^7]  Southwark's Table 8 gives 'Gross' figures; the Datahub describes the same figures as 'Gains'.  The Data hub figures for FY2019 and FY2020 vary from Southwark's, giving  a total for Gains of 2,170, against Southwark's figure of 2,208. Datahub figures from an analysis of the Residential Completion Dashboard, data filtered for Southwark.

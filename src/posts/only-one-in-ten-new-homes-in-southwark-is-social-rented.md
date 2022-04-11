@@ -16,3 +16,5 @@ Bar chart by 35% Campaign.  Source: Planning London Datahub, Residential Complet
 ##### Lost Heygate homes
 
 The Datahub also shows that more social rented homes were demolished in 2021 than were built.  Only 31 were built, while 122 were demolished, with a net loss of 91 homes.  Southwark claim this is a 'discrepancy' but the lost units can be identified through the Datahub as being from the demolished Heygate estate.
+
+The Datahub shows the loss clearly, in percentage terms, as minus 20.4% of the total housing delivered in 2021.

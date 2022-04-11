@@ -19,7 +19,7 @@ Bar chart by 35% Campaign.  Source: Planning London Datahub, Residential Complet
 
 The Datahub also shows that more social rented homes were demolished in 2021 than were built.  Only 31 were built, while 122 were demolished, with a net loss of 91 homes.  Southwark claim this is a *'discrepancy'* but the lost units can be identified through the Datahub as being from the demolished Heygate estate[^5].
 
-The Datahub shows the loss clearly, in percentage terms, as minus 20.4% of the total housing delivered in 2021.
+The Datahub shows the loss clearly, in percentage terms, as minus 20.4% of the total housing delivered in 2021[^6].
 
 ##### Southwark misses the target
 
@@ -47,4 +47,6 @@ The need for social rented housing has continued to rise since Southwark made it
 
 [^4] 17,651 free-market (69.81%), 2,711 social rent (10.72%), 339 affordable rent (1.34%), 3,572 intermediate (14.13%), 57 Discount Market Rent (0.23%), 956 Other (3.39%) - 25,286 units in total.  Completed during the eighteen years FY2004-FY2021.  Figures do not include non-conventional units and empty homes brought back into use.  From an analysis of the the Residential Completion Dashboard, data filtered for Southwark.
 
-[^5] 31 social rented homes were completed in Southwark in 2021, while 122 were demolished, all on Elephant Park Plot H2 (14/AP/3438/3439), leaving a net loss of 91 units.  From an analysis of the the Residential Completion Dashboard, data filtered for Southwark.  More social rented homes were lost than completed  in FY 2004 (-140), FY2015 (-121), FY2016 (-166), FY2021 (-91).
+[^5] 31 social rented homes were completed in Southwark in 2021, while 122 were demolished, all on Elephant Park Plot H2 (14/AP/3438/3439), leaving a net loss of 91 units.  More social rented homes were lost than completed  in FY 2004 (-140), FY2015 (-121), FY2016 (-166), FY2021 (-91).  From an analysis of the the Residential Completion Dashboard, data filtered for Southwark. 
+
+[^6] The net gains/losses for FY2021 are 442 free-market units (98.7%), -91 social rent (-20.4%), 39 affordable rent (8.7%), intermediate 58 (13%).  From an analysis of the the Residential Completion Dashboard, data filtered for Southwark.

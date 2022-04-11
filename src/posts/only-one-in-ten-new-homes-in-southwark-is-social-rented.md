@@ -15,7 +15,7 @@ Bar chart by 35% Campaign.  Source: Planning London Datahub, Residential Complet
 
 ##### Lost Heygate homes
 
-The Datahub also shows that more social rented homes were demolished in 2021 than were built.  Only 31 were built, while 122 were demolished, with a net loss of 91 homes.  Southwark claim this is a 'discrepancy' but the lost units can be identified through the Datahub as being from the demolished Heygate estate.
+The Datahub also shows that more social rented homes were demolished in 2021 than were built.  Only 31 were built, while 122 were demolished, with a net loss of 91 homes.  Southwark claim this is a *'discrepancy'* but the lost units can be identified through the Datahub as being from the demolished Heygate estate.
 
 The Datahub shows the loss clearly, in percentage terms, as minus 20.4% of the total housing delivered in 2021.
 
@@ -29,4 +29,6 @@ it should be noted that these figures are from all social rented housing in the 
 
 ##### The Council plays with the figures
 
-Soutwark is only able
+Southwark is only able to claim that it has fulfilled its 2013 pledge to build 2,500 council homes by 2022, by using an elastic definition if what 'build' actually means.  For Southwark, it means the homes do not have to be completed, just started, and can also include other homes brought back into use, according to this Southwark News article.
+
+Southwark also apparently include in the definition of council housing homes gained from private developments, through planning requirements.  If this is the case then there is no real gain in social rented housing numbers, because these would have been built anyway, and at private developer's cost.

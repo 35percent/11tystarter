@@ -7,7 +7,7 @@ Council hoardings publicising the Council's delivery of 11,000 council homes are
 
 The impression Southwark wants to create is that building social housing is the Council's top priority - as it should be in a borough where only 7% of households can afford free-market housing[^1].
 
-The reality is different.  Only one in ten new homes built in Southwark since 2004 is social rented.  The figure has emerged from analysis of the London Mayor's [new Planning Datahub](https://data.london.gov.uk/dataset/planning-london-datahub?_gl=1*1q4sghb*_ga*Nzk4MDMxOTU4LjE2NDU2OTEwODg.*_ga_PY4SWZN1RJ*MTY0OTUwNzM1OC45LjEuMTY0OTUwNzM4My4w).  The Datahub documents all the homes built in London since 2004, including those built in Southwark[^2].  The Datahub shows that after demolitions are taken into account, only 2,711 out of twenty-five thousand new homes in Southwark are social rented[^3].
+The reality is different.  Only one in ten new homes built in Southwark since 2004 is social rented.  The figure has emerged from analysis of the London Mayor's [new Planning Datahub](https://data.london.gov.uk/dataset/planning-london-datahub?_gl=1*1q4sghb*_ga*Nzk4MDMxOTU4LjE2NDU2OTEwODg.*_ga_PY4SWZN1RJ*MTY0OTUwNzM1OC45LjEuMTY0OTUwNzM4My4w).  The Datahub documents all the homes built in London since 2004, including those built in Southwark[^2].  The Datahub shows that after losses are taken into account, only 2,711 out of twenty-five thousand new homes in Southwark are social rented[^3].
 
 ##### Eighteen years of low social rent, but high free-market numbers
 
@@ -17,7 +17,7 @@ Bar chart by 35% Campaign.  Source: Planning London Datahub, Residential Complet
 
 ##### Lost Heygate homes
 
-The Datahub also shows that more social rented homes were demolished in 2021 than were built.  Only 31 were built, while 122 were demolished, with a net loss of 91 homes.  Southwark claim this is a *['discrepancy'](https://www.southwarknews.co.uk/news/number-of-new-social-rents-decreases-by-20/)* but the lost units can be identified through the Datahub as being from the demolished Heygate estate[^5].
+The Datahub also shows that more social rented homes were lost in 2021 than were built.  Only 31 were built, while 122 were demolished, with a net loss of 91 homes.  Southwark claim this is a *['discrepancy'](https://www.southwarknews.co.uk/news/number-of-new-social-rents-decreases-by-20/)* but the lost units can be identified through the Datahub as being from the demolished Heygate estate[^5].
 
 The Datahub shows the loss clearly, in percentage terms, as minus 20.4% of the total housing delivered in 2021[^6].
 
@@ -43,7 +43,7 @@ The need for social rented housing has continued to rise since Southwark made it
 
 [^2] The [Planning London Datahub](https://www.london.gov.uk/what-we-do/planning/who-we-work/borough-webpages#:~:text=The%20Planning%20DataHub%20is%20a,shared%20understanding%20of%20the%20data.) is a *'collaborative project between all of the Planning Authorities in London'* including Southwark.  It is part of the [London Datastore](https://data.london.gov.uk/) and is a 'new data base that includes data fed live from the boroughs...'.  The Datahub's [Residential Completion Dashboard](https://public.tableau.com/views/PlanningLondonDatahub-Dashboard/MainDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link) shows all housing completions for all the boroughs in London.
 
-[^3] 5,761 social rented homes were completed, 3,050 s/r homes were lost, leaving a 2,711 net gain for the eighteen financial years FY2004-FY2021 - an average of 150.6 homes per annum.  25,286 homes of all tenures were built in total.  From an analysis of the [Residential Completion Dashboard](https://public.tableau.com/views/PlanningLondonDatahub-Dashboard/MainDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link), data filtered for Southwark.
+[^3] 5,761 social rented homes were completed, 3,050 s/r homes were lost, leaving a 2,711 net gain for the eighteen financial years FY2004-FY2021 - an average of 150.6 homes per annum.  25,286 homes of all tenures were  completed in total.  From an analysis of the [Residential Completion Dashboard](https://public.tableau.com/views/PlanningLondonDatahub-Dashboard/MainDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link), data filtered for Southwark.
 
 [^4] 17,651 free-market (69.81%), 2,711 social rent (10.72%), 339 affordable rent (1.34%), 3,572 intermediate (14.13%), 57 Discount Market Rent (0.23%), 956 Other (3.39%) - 25,286 units in total.  Completed during the eighteen years FY2004-FY2021.  Figures do not include non-conventional units and empty homes brought back into use.  From an analysis of the [Residential Completion Dashboard](https://public.tableau.com/views/PlanningLondonDatahub-Dashboard/MainDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link), data filtered for Southwark.
 

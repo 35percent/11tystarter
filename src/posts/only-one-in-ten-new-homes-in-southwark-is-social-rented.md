@@ -27,7 +27,7 @@ Southwark has claimed that it has more than met its target to build 2,500 counci
 
 But this target has in fact been missed.  Only 2,208 social rented homes have been built in Southwark since 2013, and this includes any council housing built.  This figure is calculated from Southwark's own Housing Facts and Figures webpage Table 8.  The Mayor's Datahub shows that over the same period 1,136 social rent homes have been lost, mainly through estate demolitions, leaving a net gain of only 1,072 social rented homes.
 
-it should be noted that these figures are from all social rented housing in the borough.  It is made up of social housing on private developments, as well as any council housing.  The number of council homes built will therefore be a smaller number than the number of social rented homes.
+it should be noted that these figures are from all social rented housing in the borough.  It is made up of social housing on private developments, as well as any council housing.  The number of council homes built will therefore be a smaller number than the number of social rented homes[^7].
 
 ##### The Council plays with the figures
 
@@ -43,10 +43,12 @@ The need for social rented housing has continued to rise since Southwark made it
 
 [^2] The Planning London Datahub is a *'collaborative project between all of the Planning Authorities in London'* including Southwark.  It is part of the London Datastore and is a 'new data base that includes data fed live from the boroughs...'.  The Datahub's Residential Completion Dashboard shows all housing completions for all the boroughs in London.
 
-[^3] 4,989 social rented homes were completed, 2,897 s/r homes were lost, leaving a 2,711 net gain for the eighteen financial years FY2004-FY2021 - an average of 150.6 homes per annum.  25,286 homes of all tenures were built in total.  From an analysis of the the Residential Completion Dashboard, data filtered for Southwark.
+[^3] 5,608 social rented homes were completed, 2,897 s/r homes were lost, leaving a 2,711 net gain for the eighteen financial years FY2004-FY2021 - an average of 150.6 homes per annum.  25,286 homes of all tenures were built in total.  From an analysis of the the Residential Completion Dashboard, data filtered for Southwark.
 
 [^4] 17,651 free-market (69.81%), 2,711 social rent (10.72%), 339 affordable rent (1.34%), 3,572 intermediate (14.13%), 57 Discount Market Rent (0.23%), 956 Other (3.39%) - 25,286 units in total.  Completed during the eighteen years FY2004-FY2021.  Figures do not include non-conventional units and empty homes brought back into use.  From an analysis of the the Residential Completion Dashboard, data filtered for Southwark.
 
 [^5] 31 social rented homes were completed in Southwark in 2021, while 122 were demolished, all on Elephant Park Plot H2 (14/AP/3438/3439), leaving a net loss of 91 units.  More social rented homes were lost than completed  in FY 2004 (-140), FY2015 (-121), FY2016 (-166), FY2021 (-91).  From an analysis of the the Residential Completion Dashboard, data filtered for Southwark. 
 
 [^6] The net gains/losses for FY2021 are 442 free-market units (98.7%), -91 social rent (-20.4%), 39 affordable rent (8.7%), intermediate 58 (13%).  From an analysis of the the Residential Completion Dashboard, data filtered for Southwark.
+
+[^7]  From an analysis of the the Residential Completion Dashboard, data filtered for Southwark.

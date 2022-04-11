@@ -43,6 +43,6 @@ The need for social rented housing has continued to rise since Southwark made it
 
 [^2] The Planning London Datahub is a *'collaborative project between all of the Planning Authorities in London'* including Southwark.  It is part of the London Datastore and is a 'new data base that includes data fed live from the boroughs...'.  The Datahub's Residential Completion Dashboard shows all housing completions for all the boroughs in London.
 
-[^3] 4,989 social rented homes were completed, 2,897 s/r homes were lost, leaving a 2,711 net gain for the eighteen financial years FY2004-FY2021 - an average of 150.6 homes per annum.  25, 286 homes of all tenures were built in total.  From an analysis of the the Residential Completion Dashboard, data filtered for Southwark.
+[^3] 4,989 social rented homes were completed, 2,897 s/r homes were lost, leaving a 2,711 net gain for the eighteen financial years FY2004-FY2021 - an average of 150.6 homes per annum.  25,286 homes of all tenures were built in total.  From an analysis of the the Residential Completion Dashboard, data filtered for Southwark.
 
-[^4] 17,651 free-market (69.81%), 2,711
+[^4] 17,651 free-market (69.81%), 2,711 social rent (10.72%), 339 affordable rent (1.34%), 3,572 intermediate (14.13%), 57 Discount Market Rent (0.23%), 956 Other (3.39%) - 25,286 units in total.  Completed during the eighteen years FY2004-FY2021.  Figures do not include non-conventional units and empty homes brought back into use.  From an analysis of the the Residential Completion Dashboard, data filtered for Southwark.

@@ -23,9 +23,9 @@ The Datahub shows the loss clearly, in percentage terms, as minus 20.4% of the t
 
 ##### Southwark misses the target
 
-Southwark has claimed that it has more than met its target to build 2,500 council homes by 2022, a pledge it made in 2013.
+Southwark has [claimed that it has more than met its target](<claimed that it has more than met its target>) to build 2,500 council homes by 2022, a pledge it made in 2013.
 
-But this target has in fact been missed.  Only 2,208 social rented homes have been built in Southwark since 2013, and this includes any council housing built.  This figure is calculated from Southwark's own Housing Facts and Figures webpage Table 8.  The Mayor's Datahub shows that over the same period 1,136 social rent homes have been lost, mainly through estate demolitions, leaving a net gain of only 1,072 social rented homes[^7].
+But this target has in fact been missed.  Only 2,208 social rented homes have been built in Southwark since 2013, and this includes any council housing built.  This figure is calculated from Southwark's own [Housing Facts and Figures webpage Table 8.](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/monitoring/authority-monitoring-report/housing?chapter=4)  The Mayor's Datahub shows that over the same period 1,136 social rent homes have been lost, mainly through estate demolitions, leaving a net gain of only 1,072 social rented homes[^7].
 
 it should be noted that these figures are from all social rented housing in the borough.  It is made up of social housing on private developments, as well as any council housing.  The number of council homes built will therefore be a smaller number than the number of social rented homes.
 

@@ -1,7 +1,8 @@
 ---
 title: Only one in ten new homes in Southwark is social rented
 description: Southwark losses 91 social rented homes in 2021
-date: 2022-04-12T09:02:51.308Z
+date: 2022-04-12
+image: img/screenshot-2022-04-12-at-10-13-39-southwark_completions_bar_chart_market_social_rent_fy20042021-pdf.png
 ---
 Hoardings publicising the Council's delivery of 11,000 council homes are a familiar sight around Southwark.  They promote the Council's creditable council house building programme, which it launched in 2013 and describes as the *['most ambitious...in the country'](https://www.southwark.gov.uk/housing/new-council-homes/why-we-re-building).*
 

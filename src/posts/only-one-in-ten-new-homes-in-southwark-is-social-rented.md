@@ -1,9 +1,11 @@
 ---
 title: Only one in ten new homes in Southwark is social rented
 description: Southwark losses 91 social rented homes in 2021
-date: 2022-04-11T07:28:12.088Z
+date: 2022-04-12T09:02:51.308Z
 ---
 Hoardings publicising the Council's delivery of 11,000 council homes are a familiar sight around Southwark.  They promote the Council's creditable council house building programme, which it launched in 2013 and describes as the *['most ambitious...in the country'](https://www.southwark.gov.uk/housing/new-council-homes/why-we-re-building).*
+
+![](img/hoarding_southwark_pk_rd_mar_2022_resize-2-.jpg)
 
 The impression Southwark wants to create is that building social housing is the Council's top priority - as it should be in a borough where only 7% of households can afford free-market housing[^1].
 
@@ -13,6 +15,8 @@ The reality is different.  Only one in ten new homes built in Southwark since 20
 
 The contrast between the small number of social rent and the large number of free-market homes built is stark, as our chart below shows.  The Datahub figures show that nearly 70% of all new homes are free-market (nearly 18,000 in number) against just 10.7% social rent, with the rest made up of other affordable homes[^4].
 
+![](img/screenshot-2022-04-12-at-10-13-39-southwark_completions_bar_chart_market_social_rent_fy20042021-pdf.png)
+
 Bar chart by 35% Campaign.  Source: Planning London Datahub, Residential Completion Dashboard
 
 ##### Lost Heygate homes
@@ -20,6 +24,8 @@ Bar chart by 35% Campaign.  Source: Planning London Datahub, Residential Complet
 The Datahub also shows that more social rented homes were lost in 2021 than were built.  Only 31 were built, while 122 were demolished, with a net loss of 91 homes.  Southwark claim this is a *['discrepancy'](https://www.southwarknews.co.uk/news/number-of-new-social-rents-decreases-by-20/)* but the lost units can be identified through the Datahub as being from the demolished Heygate estate[^5].
 
 The Datahub shows the loss clearly, in percentage terms, as minus 20.4% of the total housing delivered in 2021[^6].
+
+![](img/screenshot_planning_london_datahub_london_datastore_google_chrome_010422_highlight-3-.png)
 
 ##### Southwark misses the target
 

@@ -14,4 +14,6 @@ Rakesh says *'It was a mammoth task to raise what I did.  Even when Southwark sa
 
 *'We were assured that we would get the funds we would need to relocate and that this was written into the legal s106 agreements that Southwark had with Lendlease and Delancey.  I am simply asking Southwark to enforce these agreements'.*
 
-*'*
+### Giving with one hand, taking with another
+
+Rakesh goes on, *'Lendlease and Delancey are only offering a fraction of the total relocation costs, despite the legal agreements.  Lendlease's offer of £200,000 is for me to do the work that they should have done themselves, to bring the unit up to a basic standard.  They also said that I can have £160,00 upfront, but I have to accept a higher rent to the value of that amount when I move in.  Lendlease giving with one hand, only to take away with the other.*

@@ -10,4 +10,8 @@ Rakesh Patel, of Pricebusters DIY and hardware store, has written to Southwark's
 
 Rakesh has managed to raise over £550,000 himself, but now faces raising an additional £238,000.
 
-Rakesh says 'It was a mammoth task to raise what I did.  Even when Southwark said I would have to find £238,000 more, I did my best to find it.
+Rakesh says *'It was a mammoth task to raise what I did.  Even when Southwark said I would have to find £238,000 more, I did my best to find it.  But it is not possible for a small independent trader to get this kind of money and without it my business will be finished.'*
+
+*'We were assured that we would get the funds we would need to relocate and that this was written into the legal s106 agreements that Southwark had with Lendlease and Delancey.  I am simply asking Southwark to enforce these agreements'.*
+
+*'*

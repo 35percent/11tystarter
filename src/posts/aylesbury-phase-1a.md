@@ -5,7 +5,7 @@ date: 2022-04-06T07:31:35.210Z
 ---
 Land transferred at nil sum to L&Q: https://moderngov.southwark.gov.uk/Data/Executive/20061128/Agenda/Item%2012%20-%20Procurement%20of%20a%20RSL%20and%20Developer%20for%20Phase%201A%20New%20Housing%20and%20%20Aylesbury%20Resource%20Centre.PDF
 
-Audit shows 46 at 'affordable rent'.
+Audit shows 46 at 'affordable rent'. 07/CO/0046.  Open Land East of Red Lion Row etc SE17 2ES. 260 total units, but only 254 returned - 230 a/r, 30 inter. RSL 'to be confirmed'.
 
 biomass
 

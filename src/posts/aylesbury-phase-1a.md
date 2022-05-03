@@ -9,7 +9,7 @@ See also [Phase 1a Aylesbury Regeneration – Site Disposal](https://moderngov.s
 
 
 
-Audit shows 46 at 'affordable rent'. 07/CO/0046.  Open Land East of Red Lion Row etc SE17 2ES. 260 total units, but only 254 returned - 230 a/r, 30 inter. RSL 'to be confirmed'.
+Audit shows 46 at 'affordable rent'. 07/CO/0046.  Open Land East of Red Lion Row etc SE17 2ES. 260 total units, but only 254 returned - 230 a/r, 30 inter (no market). RSL 'to be confirmed'.
 
 SI06 ([Second deed 25 Sept 2007](https://pfm.exacom.co.uk/southwark/deed.php?id=159&appno=07/CO/0046&deed=1)) 25 Sept 2007 - definition 'Social Rent Terms (pg 12); Schedule 3 'Rented Affordable' 90 units; 'Intermediate Affordable' 29 units; 'Market Housing' 141 units - total 260 units. 
 

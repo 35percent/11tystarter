@@ -5,9 +5,9 @@ date: 2022-04-06T07:31:35.210Z
 ---
 Land transferred at nil sum (?) to L&Q: https://moderngov.southwark.gov.uk/Data/Executive/20061128/Agenda/Item%2012%20-%20Procurement%20of%20a%20RSL%20and%20Developer%20for%20Phase%201A%20New%20Housing%20and%20%20Aylesbury%20Resource%20Centre.PDF
 
+![](img/spmaps.png)
+
 See also [Phase 1a Aylesbury Regeneration – Site Disposal](https://moderngov.southwark.gov.uk/Data/Council%20Assembly/20080709/Agenda/Item%2061%20-Phase%201a%20Aylesbury%20Regeneration%20-%20Site%20Disposal%20Open%20Report.pdf). Para 26 'the sale represents an undervalue'
-
-
 
 Audit shows 46 at 'affordable rent'. 07/CO/0046.  Open Land East of Red Lion Row etc SE17 2ES. 260 total units, but only 254 returned - 230 a/r, 30 inter (no market). RSL 'to be confirmed'.
 

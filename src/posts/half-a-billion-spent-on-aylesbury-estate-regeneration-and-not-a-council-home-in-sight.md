@@ -35,4 +35,8 @@ In addition, the Council has spent a considerable amount of its own HRA account 
 
 This comes after the Council's [decision](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/) in 2020 to spend £193m just in order to complete the first phase of the scheme alone, after its development partner said it wouldn't proceed on the agreed basis.
 
+There is also the £35m cost to the Council of building the replacement library and health centre (see para 10 of [this Cabinet report](https://moderngov.southwark.gov.uk/documents/s71667/Report%20Aylesbury%20Estate%20Community%20facilities%20at%20Plot%2018%20Delivery.pdf)). Note that Notting Hill Genesis is contributing £3m towards the cost of these so the overall cost to the Council is £32m.
+
+Land payment FDS
+
 This amounts to a total £433.8m of public funds just in order to complete the first of four phases of the estate's redevelopment.

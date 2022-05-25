@@ -4,7 +4,7 @@ title: Half a billion spent on Aylesbury estate regeneration and not a council
 description: The spiralling costs of a scheme that is too big to fail (politcally)
 date: 2022-05-24T10:38:48.648Z
 ---
-£480m of public money has been spent on the Aylesbury estate regeneration before the first council home on the first phase has even been completed.
+£480m of public money has been spent on the Aylesbury estate regeneration before the first council home on the first phase has even been completed.[^1]
 
 That's ££ per dwelling for the 750 homes demolished on the estate to date. Elsewhere on the estate the Council has just refurbished 80 homes which cost just £10k per dwelling.
 
@@ -26,3 +26,13 @@ Aylesbury estate was selected by Tony Blair for his \[first speech as prime mini
 
 Blair vowed to \_'learn from the mistakes of the past'\_ and replace the dogma of bygone housing policies with pragmatism and common sense. The estate's regeneration was subsequently initiated as part of New Labour's '\[Urban Task Force](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance)' inner-city renewal programme. The project was subsequently awarded £56m funding under the \['New Deal for Communities'](http://en.wikipedia.org/wiki/New_Deal_for_Communities) partnership and regeneration plans were drawn up to transfer the estate to a housing association for redevelopment.
 
+__Footnotes:__ 
+[^1]: The first public funding spent on the scheme was the £56m from the government’s NDC (New Deal for Communities) programme.
+
+The scheme was subsequently allocated 46m from the government’s Estate Regeneration Fund and £27m from GLA funding to date (see source [here](https://moderngov.southwark.gov.uk/documents/s52526/Report%20Aylesbury%20Regeneration%20Update.pdf)), plus £13m of HCA funding, which helped build the completed phase 1a of the scheme (see source on page 20 of the [this document](https://35percent.org/img/Estate-Regen-Sourcebook-Web-Version.pdf)).
+
+In addition, the Council has spent a considerable amount of its own HRA account funds on the scheme. This [Jan 2022 Cabinet report](https://moderngov.southwark.gov.uk/documents/s104415/Report%20Future%20of%20Aylesbury%20Estate.pdf) shows that £65.42m of HRA funds have been spent to date(para 18) and releases a further £29.8m for ongoing acquisitions of leaseholders (para 43).
+
+This comes after the Council's [decision](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/) in 2020 to spend £193m just in order to complete the first phase of the scheme alone, after its development partner said it wouldn't proceed on the agreed basis.
+
+This amounts to a total £433.8m of public funds just in order to complete the first of four phases of the estate's redevelopment.

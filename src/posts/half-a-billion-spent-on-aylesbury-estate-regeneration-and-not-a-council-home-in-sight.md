@@ -22,7 +22,7 @@ Elsewhere on the estate the Council has just refurbished 80 homes at a cost just
 Southwark Council has always argued that it simply didn't have enough money to refurbish the estate..
 
 ## Too big to fail
-Aylesbury estate was selected by Tony Blair for his \[first speech as prime minister](http://www.independent.co.uk/news/blairs-pledge-to-the-dark-estates-1253883.html) on 2nd June 1997, where he made his 'forgotten people' speech, \[saying](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml) there must be no more \_"no-hope areas"\_ in new Labour's Britain.
+Aylesbury estate was selected by Tony Blair for his \[first speech as prime minister](http://www.independent.co.uk/news/blairs-pledge-to-the-dark-estates-1253883.html) on 2nd June 1997, where he made his 'forgotten people' speech, [saying](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml) there must be no more _"no-hope areas"_ in new Labour's Britain.
 
 <div align="center">
 
@@ -30,9 +30,29 @@ Aylesbury estate was selected by Tony Blair for his \[first speech as prime mini
 
 </div>
 
-\*Blair visiting the Aylesbury in 1997 to give his first speech as prime minister\*
+*Blair visiting the Aylesbury in 1997 to give his first speech as prime minister*
 
-Blair vowed to \_'learn from the mistakes of the past'\_ and replace the dogma of bygone housing policies with pragmatism and common sense. The estate's regeneration was subsequently initiated as part of New Labour's '\[Urban Task Force](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance)' inner-city renewal programme. The project was subsequently awarded £56m funding under the \['New Deal for Communities'](http://en.wikipedia.org/wiki/New_Deal_for_Communities) partnership and regeneration plans were drawn up to transfer the estate to a housing association for redevelopment.
+Blair vowed to _'learn from the mistakes of the past'_ and replace the dogma of bygone housing policies with pragmatism and common sense. The estate's regeneration was subsequently initiated as part of New Labour's '\[Urban Task Force](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance)' inner-city renewal programme. The project was subsequently awarded £56m funding under the \['New Deal for Communities'](http://en.wikipedia.org/wiki/New_Deal_for_Communities) partnership and regeneration plans were drawn up to transfer the estate to a housing association for redevelopment.
+
+## Other boroughs take a different approach
+Other London boroughs take a different approach to regeneration. Islington has an estate called the Six Acres estate near Finsbury Park. The Six Acres estate was built at the same time as Heygate & Aylesury, by the same contractors (Laing) using the [same system](http://crappistmartin.github.io/images/LBI_SixAcres_Jespersen12M.pdf) (Jespersen 12M). 
+
+Instead of demolishing its estate and handing it over to the private sector at a loss, Islington Council chose to refurbish the Six Acres estate in 2012. The 473 homes on the estate were refurbished with [new external wall insulation](http://www.lawtechltd.co.uk/Project_Tollington.aspx), new entry doors, exterior furnishing improvements, [green roofs](http://www.langley.co.uk/asx/six_acres_case_study.pdf) and [cycle shelters](http://greenroofshelters.co.uk/green-roofed-cycle-shelters-for-islington/). 
+ 
+More information about the Six Acres estate regeneration can be found [here](http://www.langley.co.uk/asx/six_acres_case_study_-_newsletter.pdf), [here](http://bit.ly/1ssLvV6), [here](http://www.langley.co.uk/asx/six_acres_case_study.pdf), [here](http://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) and under planning application ref: P072153 on [Islington Council's Planning Portal](/img/6acrescasereport.pdf).
+
+
+![](/img/sixacresbefore4.jpg) 
+[Photos of Six Acres before regeneration](https://www.flickr.com/photos/46360829@N03/sets/72157645684480295/)
+
+
+![](/img/sixacresafter.jpg)
+[Photos of Six Acres after regeneration](https://www.flickr.com/photos/46360829@N03/sets/72157645684757965/)
+
+The London Borough of Wandsworth also has an estate made with the same construction system as the Aylesbury estate - the [Doddington & Rollo estate](/img/doddington.pdf) in Battersea. Wandsworth has no plans to demolish the estate.
+
+![](/img/doddington.png)
+*Doddington & Rollo estate in Battersea*
 
 __Footnotes:__ 
 [^1]: The first public funding spent on the scheme was the £56m from the government’s NDC (New Deal for Communities) programme.

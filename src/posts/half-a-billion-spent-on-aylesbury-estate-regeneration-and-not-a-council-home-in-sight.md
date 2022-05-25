@@ -1,17 +1,25 @@
 ---
-title: Half a billion spent on Aylesbury estate regeneration and not a council
-  home in sight.
-description: The spiralling costs of a scheme that is too big to fail (politcally)
+title: The cross subsidy model for estate regeneration is dead
+description: The spiralling costs of a scheme that is too big to fail.
 date: 2022-05-24T10:38:48.648Z
 ---
-£480m of public money has been spent on the Aylesbury estate regeneration before the first council home on the first phase has even been completed.[^1]
+£456m of public money has been spent on the Aylesbury estate regeneration before the first council home on the first phase has even been completed.[^1]
 
-That's ££ per dwelling for the 750 homes demolished on the estate to date. Elsewhere on the estate the Council has just refurbished 80 homes which cost just £10k per dwelling.
+The cross subsidy it will receive from the sale of the private homes once phase one is completed amounts to just £8.7m
 
-This is a far cry from the Council's original forecasts, which said the scheme would be entirely funded by the profits of building a mix of private homes on the redeveloped estate. Southwark calculated that the cost to the Council would be 'broadly neutral' [link] also here to annex c.
+That's a cost of £608k per dwelling for the 750 homes demolished on the estate to date. 
+
+This is a far cry from the Council's original forecasts, which said the scheme would be entirely funded by the profits of building a mix of private homes on the redeveloped estate. Southwark calculated that the cost to the Council would be 'broadly neutral'. Its [Cabinet report](https://moderngov.southwark.gov.uk/Data/Executive/20050927/Agenda/Item%2007%20-%20The%20AylesburyEstate%20Revised%20Strategy%20-%20Report.pdf) approving the redevelopment in 2005 said this:
 
 ![](https://35percent.org/img/costneutral.png)
 
+It even produced a detailed [costing](https://crappistmartin.github.io/images/annexc.pdf) showing a small deficit of around £7m for the whole scheme.
+
+In the event costs have ballooned
+
+Elsewhere on the estate the Council has just refurbished 80 homes at a cost just £10k per dwelling.
+
+Southwark Council has always argued that it simply didn't have enough money to refurbish the estate..
 
 ## Too big to fail
 Aylesbury estate was selected by Tony Blair for his \[first speech as prime minister](http://www.independent.co.uk/news/blairs-pledge-to-the-dark-estates-1253883.html) on 2nd June 1997, where he made his 'forgotten people' speech, \[saying](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml) there must be no more \_"no-hope areas"\_ in new Labour's Britain.

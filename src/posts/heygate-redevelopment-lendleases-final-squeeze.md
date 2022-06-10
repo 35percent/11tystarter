@@ -31,4 +31,6 @@ And what about the social rented homes. It turns out that the pitiful 92 social 
 
 So Lendlease gets a double windfall of 500 plus extra homes AND a massive office block!
 
+As usual Southwark has rolled over to accommodate Lendlease, even changing its planning policy to allow office workspace on the site. 
+
 We want to see the Council's Overview and Scrutiny Committee investigate the entire redevelopment. Only then can we know exactly what has been built.

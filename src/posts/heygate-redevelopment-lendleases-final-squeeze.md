@@ -12,7 +12,7 @@ It is situated where Elephant Park used to stand - a green space (protected metr
 
 ![](img/elephant-rd.jpg)
 
-One of the first tasks of Southwark's new planning committee
+One of the first tasks of Southwark's [new planning committee](https://moderngov.southwark.gov.uk/mgCommitteeMailingList.aspx?ID=119) will be to consider developer Lendlease's [controversial planning application for a new office block](https://www.southwarknews.co.uk/news/lendlease-applies-for-office-block-and-zero-housing-in-next-stage-of-regeneration/) on the final plot of Elephant Park, H1.
 
 Lendlease's currently approved plans for this phase comprise a thirty storey tower block surrounded by two 10-storey blocks, which provide 300 homes across 36,100sqm of floorspace.
 

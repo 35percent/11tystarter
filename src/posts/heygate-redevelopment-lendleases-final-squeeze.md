@@ -12,6 +12,8 @@ It is situated where Elephant Park used to stand - a green space (protected metr
 
 ![](img/elephant-rd.jpg)
 
+One of the first tasks of Southwark's new planning committee
+
 Lendlease's currently approved plans for this phase comprise a thirty storey tower block surrounded by two 10-storey blocks, which provide 300 homes across 36,100sqm of floorspace.
 
 Lendlease has now applied for a variation to the planning consent to build an office block on this site instead.

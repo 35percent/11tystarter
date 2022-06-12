@@ -43,22 +43,29 @@ There is also some doubt as to whether the 92 social rented units that have been
 
 #### The sweetener - the health hub
 
-Lendlease appear to have won local councillors arund to supporting their office block proposal by promising a health hub.  Much of the delay in determining the application, which should have been decided by Spetember 2021, is probably down to negotiations between Southwark Council, the NHS SE London Clinical Commissioning Group and Lendlease, and also including GP services provider Nexus.
+Lendlease appear to have won local councillors around to supporting their office block proposal by promising a health hub.  Much of the delay in determining the application, which should have been decided by Spetember 2021, is probably down to negotiations between Southwark Council, the NHS SE London Clinical Commissioning Group and Lendlease, and also including GP services provider Nexus.
 
- 
+ A health hub or facility would be very welcome and it has been a requirement for Lendlease to build it since 2013, under the current planning permission. Lendlease, though, appear to have opted to pay health contributions of £1.08m instead and now only wish to build it if they are relieved of providing a similar-sized amount of affordable workspace and if it comes attached to an office block, several times the size of the hub.
 
+SCREENSHOT OF 2013 S106 RE HEALTH FACILITY
 
+Given that Lendlease were happy to build the health hub as part of a residential development before, there is no reason why it must be part of an office development now, other than it suits Lendlease.  It is also not clear why councillors and Southwark think they are getting a good deal by supporting a health hub with offices, when there is already an agreement to build a health hub with homes.  We can only assume that they agree with Lendlease that there is enough housing already and the lose of affordable housing, and affordable workspace, is not a problem. (No new viability assessments)
 
+#### Princess Street and Manor Place surgeries to go?
 
+Despite all this, and before the planning application has been decided, Southwark Council has joined with Lendlease and the NHS SE London Clinical Commissioning Group to sign a [Memorandum of Understanding](https://planning.southwark.gov.uk/online-applications/files/3E107DB92E1C2C8D981676CADEFBDA2E/pdf/21_AP_1819-LETTER_FROM_LENDLEASE_ON_HEALTH_HUB_USE-3485797.pdf), supporting the provision of a health hub and an [indicative plan of the hub](https://planning.southwark.gov.uk/online-applications/files/A24210053190B15B0DA22B657CF282E3/pdf/21_AP_1819-PLOT_H1_HEALTH_HUB_TEST_FITS__INDICATIVE_-3443704.pdf) has been drafted.
 
-Indeed, Lendlease has built over 3,000 homes - an increase of over 500 homes?
-At least that's what it says in Lendlease's internal reports. Southwark says that only xxx homes have been built. WHO KNOWS?
+A couple of points leap out - replaces PSt and Manor Place; only 30 year lease.[](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\HY22 Lendlease Major Urban Projects>)
 
-Here's the original planning consent:
+Community space
+
+Affordable retail
+
+Overage
 
 ![](img/12AP1092extracts.png)
 
-And what about the social rented homes. It turns out that the pitiful 92 social rented homes haven't even been provided at social rent, despite Southwark insisting that they have.
+
 
 So Lendlease gets a double windfall of 500 plus extra homes AND a massive office block!
 

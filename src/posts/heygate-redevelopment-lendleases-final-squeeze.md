@@ -31,7 +31,9 @@ Lendlease has also been careful to build all the homes it promised under its 201
 
 But these 2,689 homes must obviously have been shoehorned into fewer plots, at a greater density than originally proposed, if Lendlease now finds itself with a spare plot that can be used for an office development.  If this applicatiob succeeds it will be the second time that the density of the development has been increased.  In 2019 Lendlease [took advantage of a poorly drafted s106](https://www.35percent.org/posts/2019-08-05-elephant-park-final-phase-affordable-housing/) legal agreement, to increase the original maximum homes from 2,469 to 2,689 homes.
 
-There is also a discrepancy between what Southwark has been told about the number of homes built and the figures Lendlease have given in their in their 2022 half-yearly report to the [Australian Securities Exchange](https://www.lendlease.com/au/investor-centre/announcements/) (ASX)
+There is also a discrepancy between what Southwark has been told about the number of homes built and the figures Lendlease have given in their in their 2022 half-yearly report to the [Australian Securities Exchange](https://www.lendlease.com/au/investor-centre/announcements/) (ASX).  Lendlease's [hy22 Lendlease Major Urban Projects](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\HY22 Lendlease Major Urban Projects>) says that 3,208 homes will be delivered on Elephant Park (including Trafalgar Place), 284 more units than are in the [planning documents](https://planning.southwark.gov.uk/online-applications/files/3087518D1F1E382D8EC9CBF0F7834E63/pdf/21_AP_1819-PLANNING_STATEMENT-1145922.pdf).
+
+[](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\HY22 Lendlease Major Urban Projects>)
 
 
 

@@ -9,13 +9,13 @@ date: 2022-06-10T11:14:21.201Z
 
 One of the first tasks of Southwark's [new planning committee](https://moderngov.southwark.gov.uk/mgCommitteeMailingList.aspx?ID=119) will be to consider developer Lendlease's [controversial planning application for a new office block](https://www.southwarknews.co.uk/news/lendlease-applies-for-office-block-and-zero-housing-in-next-stage-of-regeneration/) on the final plot of Elephant Park, H1.  Plot H1 stands on what was protected metropolitan open land, on the site of the demolished Heygate estate.
 
-The H1 application, which includes a proposal for a health hub, is a dramatic change of direction by Lendlease.  Up to now, Elephant Park has been built as a development, with the some retail, and other uses; Lendlease's original plan was for H1 to be much the same.  The H1 proposal was for three residential blocks, one of of 30-storeys, two of ten-storeys, comprising about 300 homes, across 36,100sqm of floorspace (links).
+The H1 application, which includes a proposal for a health hub, is a dramatic change of direction by Lendlease.  Up to now, Elephant Park has been built as a housing development, with some retail, and other uses; Lendlease's original plan was for H1 to be much the same, with three residential blocks, one of of 30-storeys, two of ten-storeys, comprising about 300 homes, across 36,100sqm of floorspace (links).
 
 
 
 ![](img/elephant-rd.jpg)
 
-This proposal was part of Lendlease's successful [2013 planning permission application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1JKBWR520&activeTab=summary).  Now, however, Lendlease says it has built enough housing and an office block would improve 'employment capacity'.  A health hub, covering a tenth of the total floorspace, is also being offered, to sweeten the proposal - but only in place of an almost equal amount of affordable workspace that would otherwise have to be provided.
+This proposal was part of Lendlease's successful [2013 planning permission application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1JKBWR520&activeTab=summary).  Now, in 2022, Lendlease says it has built enough housing and an office block would improve 'employment capacity'.  A health hub, covering a tenth of the total floorspace, is also being offered, to sweeten the proposal - but only in place of an almost equal amount of affordable workspace that would otherwise have to be provided.
 
 #### Southwark really likes Lendlease
 
@@ -31,9 +31,9 @@ Lendlease has also been careful to build all the homes it promised under its 201
 
 But these 2,689 homes must obviously have been shoehorned into fewer plots, at a greater density than originally proposed, if Lendlease now finds itself with a spare plot that can be used for an office development.  If this applicatiob succeeds it will be the second time that the density of the development has been increased.  In 2019 Lendlease [took advantage of a poorly drafted s106](https://www.35percent.org/posts/2019-08-05-elephant-park-final-phase-affordable-housing/) legal agreement, to increase the original maximum homes from 2,469 to 2,689 homes.
 
+There is also a discrepancy between what Southwark has been told about the number of homes built and the figures Lendlease have given in their in their 2022 half-yearly report to the [Australian Securities Exchange](https://www.lendlease.com/au/investor-centre/announcements/) (ASX)
 
 
-But no - not instead, the housing has already been built. The 300 homes due to go up on this site have been shoehorned into the other plots in the scheme. 
 
 Indeed, Lendlease has built over 3,000 homes - an increase of over 500 homes?
 At least that's what it says in Lendlease's internal reports. Southwark says that only xxx homes have been built. WHO KNOWS?

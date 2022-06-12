@@ -33,7 +33,11 @@ But these 2,689 homes must obviously have been shoehorned into fewer plots, at a
 
 There is also a discrepancy between what Southwark has been told about the number of homes built and the figures Lendlease have given in their in their 2022 half-yearly report to the [Australian Securities Exchange](https://www.lendlease.com/au/investor-centre/announcements/) (ASX).  Lendlease's [hy22 Lendlease Major Urban Projects](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\HY22 Lendlease Major Urban Projects>) says that 3,208 homes will be delivered on Elephant Park (including Trafalgar Place), 284 more units than are in the [planning documents](https://planning.southwark.gov.uk/online-applications/files/3087518D1F1E382D8EC9CBF0F7834E63/pdf/21_AP_1819-PLANNING_STATEMENT-1145922.pdf).
 
-[](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\HY22 Lendlease Major Urban Projects>)
+#### .......fewer social rent
+
+Lendlease remains silent on the shortfall of affordable housing, against the longstanding 35% affordable housing requirement, half of which should be social rented.  Roughly calculated this is a loss of about 400 affordable homes, most of which should be social rent.
+
+
 
 
 

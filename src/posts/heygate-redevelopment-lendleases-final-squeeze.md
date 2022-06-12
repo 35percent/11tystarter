@@ -1,18 +1,26 @@
 ---
-title: Heygate redevelopment - Lendlease's final squeeze
-description: Lendlease tries to pull a fast one on Southwark yet again
+title: Elephant Park housing ditched for offices
+description: Lendlease squeeze homes to make room for huge office block
 date: 2022-06-10T11:14:21.201Z
 ---
-This is Plot MP5 H1 - the final phase of Lendlease's redevelopment of the Heygate estate.
+
 
 ![](img/mp5h1.png)
+
+One of the first tasks of Southwark's [new planning committee](https://moderngov.southwark.gov.uk/mgCommitteeMailingList.aspx?ID=119) will be to consider developer Lendlease's [controversial planning application for a new office block](https://www.southwarknews.co.uk/news/lendlease-applies-for-office-block-and-zero-housing-in-next-stage-of-regeneration/) on the final plot of Elephant Park, H1.
+
+
+
+
+
+
 
 It is situated where Elephant Park used to stand - a green space (protected metropoliton open land) on the corner of Walworth Road and Elephant Road
 :
 
 ![](img/elephant-rd.jpg)
 
-One of the first tasks of Southwark's [new planning committee](https://moderngov.southwark.gov.uk/mgCommitteeMailingList.aspx?ID=119) will be to consider developer Lendlease's [controversial planning application for a new office block](https://www.southwarknews.co.uk/news/lendlease-applies-for-office-block-and-zero-housing-in-next-stage-of-regeneration/) on the final plot of Elephant Park, H1.
+
 
 Lendlease's currently approved plans for this phase comprise a thirty storey tower block surrounded by two 10-storey blocks, which provide 300 homes across 36,100sqm of floorspace.
 

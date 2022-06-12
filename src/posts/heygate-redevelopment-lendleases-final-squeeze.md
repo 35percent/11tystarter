@@ -41,6 +41,14 @@ There is also some doubt as to whether the 92 social rented units that have been
 
 
 
+#### The sweetener - the health hub
+
+Lendlease appear to have won local councillors arund to supporting their office block proposal by promising a health hub.  Much of the delay in determining the application, which should have been decided by Spetember 2021, is probably down to negotiations between Southwark Council, the NHS SE London Clinical Commissioning Group and Lendlease, and also including GP services provider Nexus.
+
+ 
+
+
+
 
 
 Indeed, Lendlease has built over 3,000 homes - an increase of over 500 homes?

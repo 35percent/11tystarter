@@ -41,7 +41,7 @@ There is also some doubt as to whether the 92 social rented units that have been
 
 Lendlease appear to have won local councillors around to supporting their office block proposal by promising a health hub.  [Discussions about this](https://planning.southwark.gov.uk/online-applications/files/411DC9CA6EF3BB4FCE2E38804F8ECB04/pdf/21_AP_1819-HEALTH_HUB_SUMMARY-3392720.pdf) have already taken place between Southwark Council, the NHS SE London Clinical Commissioning Group and Lendlease, and have also including GP services provider Nexus.
 
- A health hub or facility would be very welcome and it has been a requirement for Lendlease to build it since 2013, under the current planning permission. Lendlease, though, appear to have opted to pay health contributions of £1.08m instead and now only wish to build it if they are relieved of providing a similar-sized amount of affordable workspace and if it comes attached to an office block, several times the size of the hub.
+ A health hub or facility would be very welcome and for that reason it has been a requirement for Lendlease to build it since 2013, under the current planning permission. Rather than geton and build it though, Lendlease has waited until the final plot and the final planning application to extrat further gains, in the shape of an office block, several times the size of the health hub.  It has had to make £1.08m health contributions along the way, but vidently considers this an acceptable cost.
 
 SCREENSHOT OF 2013 S106 RE HEALTH FACILITY
 

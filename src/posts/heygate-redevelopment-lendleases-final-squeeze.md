@@ -3,15 +3,11 @@ title: Elephant Park housing ditched for offices
 description: Lendlease squeeze homes to make room for huge office block
 date: 2022-06-10T11:14:21.201Z
 ---
-
-
 ![](img/mp5h1.png)
 
 One of the first tasks of Southwark's [new planning committee](https://moderngov.southwark.gov.uk/mgCommitteeMailingList.aspx?ID=119) will be to consider developer Lendlease's [controversial planning application for a new office block](https://www.southwarknews.co.uk/news/lendlease-applies-for-office-block-and-zero-housing-in-next-stage-of-regeneration/) on the final plot of Elephant Park, H1.  Plot H1 stands on what was protected metropolitan open land, on the site of the demolished Heygate estate.
 
 The H1 application, which includes a proposal for a health hub, is a dramatic change of direction by Lendlease.  Up to now, Elephant Park has been built as a housing development, with some retail, and other uses; Lendlease's original plan was for H1 to be much the same, with three residential blocks, one of of 30-storeys, two of ten-storeys, comprising about 300 homes, across 36,100sqm of floorspace (links).
-
-
 
 ![](img/elephant-rd.jpg)
 
@@ -19,7 +15,7 @@ This proposal was part of Lendlease's successful [2013 planning permission appli
 
 #### Southwark really likes Lendlease
 
-Despite Southwark's council housing boss [declaring last year that building homes was a *'moral imperative'*](https://www.southwarknews.co.uk/news/exclusive-council-housing-boss-hits-back-at-infilling-misinformation/), Southwark Council has reacted favourably  to Lendlease's proposal to dump housing, in favour of offices, with local councillors saying that they are *'generally in support'* of the application, at a pre-election hustings.
+Despite Southwark's council housing boss [declaring last year that building homes was a *'moral imperative'*](https://www.southwarknews.co.uk/news/exclusive-council-housing-boss-hits-back-at-infilling-misinformation/), Southwark Council has reacted favourably  to Lendlease's proposal to drop housing, in favour of offices, with local councillors saying that they are *'generally in support'* of the application, at a pre-election hustings.
 
 More practically Southwark Council also changed the planning rules to give the application a fair wind.  We [reported last September](https://www.35percent.org/posts/2021-09-12-lendleases-final-plot-for-elephant-park-offices-not-homes/) how Southwark Council has smoothed Lendlease's path by changing the local planning rules in the [Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/new-southwark-plan), to allow a ten-fold increase in *'employment space'* on Elephant Park.
 
@@ -38,8 +34,6 @@ There is also a discrepancy between what Southwark has been told about the numbe
 Lendlease remains silent on the shortfall of affordable housing, against the longstanding 35% affordable housing requirement, half of which should be social rented.  Roughly calculated this is a loss of about 400 affordable homes, most of which should be social rent.
 
 There is also some doubt as to whether the 92 social rented units that have been delivered are being let to their tenants at social rents.  All the socia rented units are three-bed homes and are owned and managed by housing association L&Q.  At least one of these units is being let at a rent of £249pw, including service charge.  This comppares to the £145.65 gross pw given as the average three-bed social rent for housing associations by [Southwark's Key Housing Stats 2020](https://www.southwark.gov.uk/assets/attach/42459/Southwark-Key-Housing-Stats-2020.pdf).
-
-
 
 #### The sweetener - the health hub
 
@@ -64,8 +58,6 @@ Affordable retail
 Overage
 
 ![](img/12AP1092extracts.png)
-
-
 
 So Lendlease gets a double windfall of 500 plus extra homes AND a massive office block!
 

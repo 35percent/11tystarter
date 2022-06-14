@@ -72,9 +72,3 @@ A second question is whether the meagre number of social rented homes are actual
 Until this is all clear, nothing at all should be decided about Elephant Park's final plot.
 
 ![](img/12AP1092extracts.png)
-
-So Lendlease gets a double windfall of 500 plus extra homes AND a massive office block!
-
-As usual Southwark has rolled over to accommodate Lendlease, even changing its planning policy to allow office workspace on the site. 
-
-We want to see the Council's Overview and Scrutiny Committee investigate the entire redevelopment. Only then can we know exactly what has been built.

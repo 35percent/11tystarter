@@ -7,7 +7,7 @@ date: 2022-06-10T11:14:21.201Z
 
 One of the first tasks of Southwark's [new planning committee](https://moderngov.southwark.gov.uk/mgCommitteeMailingList.aspx?ID=119) will be to consider developer Lendlease's [controversial planning application for a new office block](https://www.southwarknews.co.uk/news/lendlease-applies-for-office-block-and-zero-housing-in-next-stage-of-regeneration/) on the final plot of Elephant Park, H1.  Plot H1 stands on what was protected metropolitan open land, on the site of the demolished Heygate estate.
 
-The H1 application, which includes a proposal for a health hub, is a dramatic change of direction by Lendlease.  Up to now, Elephant Park has been built as a housing development, with some retail, and other uses; Lendlease's original plan was for H1 to be much the same, with three residential blocks, one of of 30-storeys, two of ten-storeys, comprising about 300 homes, across 36,100sqm of floorspace (links).
+The H1 application, which includes a proposal for a health hub, is a dramatic change of direction by Lendlease.  Up to now, Elephant Park has been built as a housing development, with some retail, and other uses; Lendlease's original plan was for H1 to be much the same, with three residential blocks, one of 30-storeys, two of ten-storeys, comprising about 300 homes, across 36,100sqm of floorspace (links).
 
 ![](img/elephant-rd.jpg)
 

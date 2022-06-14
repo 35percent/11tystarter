@@ -69,7 +69,7 @@ A simple, but critical question that needs a definitive answer is how many homes
 
 A second question is whether the meagre number of social rented homes are actually being let at social rents. One unit at least is being let at a rent, which in the face of it is a lot higher.[](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\HY22 Lendlease Major Urban Projects>)
 
-
+Until this is all clear, nothing at all should be decided about Elephant Park's final plot.
 
 ![](img/12AP1092extracts.png)
 

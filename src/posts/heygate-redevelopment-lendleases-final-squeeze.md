@@ -29,7 +29,7 @@ But these 2,689 homes must obviously have been shoehorned into fewer plots, at a
 
 SCREENSHOTS COMPARING 2,469 AND 2,689 HOMES
 
-There is also a discrepancy between what Southwark has been told about the number of homes built and the figures Lendlease have given in their in their 2022 half-yearly report to the [Australian Securities Exchange](https://www.lendlease.com/au/investor-centre/announcements/) (ASX).  Lendlease's [hy22 Lendlease Major Urban Projects](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\HY22 Lendlease Major Urban Projects>) says that 3,208 homes will be delivered on Elephant Park (including Trafalgar Place), 284 more units than are in the [planning documents](https://planning.southwark.gov.uk/online-applications/files/3087518D1F1E382D8EC9CBF0F7834E63/pdf/21_AP_1819-PLANNING_STATEMENT-1145922.pdf).
+There is also a discrepancy between what Southwark has been told about the number of homes built and the figures Lendlease have given in their in their 2022 half-yearly report to the [Australian Securities Exchange](https://www.lendlease.com/au/investor-centre/announcements/) (ASX).  Lendlease's [hy22 Lendlease Major Urban Projects](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\HY22 Lendlease Major Urban Projects>) says that 3,208 homes will be delivered on Elephant Park (including Trafalgar Place's 235 units), 284 more units than are in the [planning documents](https://planning.southwark.gov.uk/online-applications/files/3087518D1F1E382D8EC9CBF0F7834E63/pdf/21_AP_1819-PLANNING_STATEMENT-1145922.pdf).
 
 #### .......fewer social rent
 
@@ -63,15 +63,13 @@ New state-of-the-art GP facilities would be a boon to everyone at the Elephant a
 
 A consultation is promised by the SEL CCG, but it looks as if this will not be until after the planning application is decided.  This is too late; the fate of the surgeries will be effectively decided too, if the application is approved.  Southwark Council and the NHS are the proper authorities to deal with our health care provision, Lendlease are not, but at the moment it is Lendlease who seem to be in the driving seat, with no reference to the people who depend on Princess St and Manor Place surgeries.  This planning application should only be determined after the formal consultation promised by the SEL CCG. 
 
+#### How many homes are there on Elephant Park?
+
+A simple, but critical question that needs a definitive answer is how many homes are there going to be on Elephant  Park.  There were to be between 2,300 and 2,469.  As explained above, this was raised to 2,689 (leaving room for an office block), but then Lendlease's report to the the Australian Securities Exchange says 3,008 units will be built.  The number has a bearing on the density of the development, the trigger points for the delivery of affordable housing and the tariffs paid under the s106.  Any increase in the number of units could also mean a windfall for Lendlease, which had Southwark had the sense to insist on viability review it could have shared in -  but it didn't, so it won't. 
+
+A second question is whether the meagre number of social rented homes are actually being let at social rents. One unit at least is being let at a rent, which in the face of it is a lot higher.[](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\HY22 Lendlease Major Urban Projects>)
 
 
-[](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\HY22 Lendlease Major Urban Projects>)
-
-Community space
-
-Affordable retail
-
-Overage
 
 ![](img/12AP1092extracts.png)
 

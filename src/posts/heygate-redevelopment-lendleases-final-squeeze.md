@@ -55,9 +55,15 @@ So, with the addition of these four words, an obligation is turned into a choice
 
 #### Princess Street and Manor Place surgeries to go?
 
-Despite all this, and before the planning application has been decided, Southwark Council has joined with Lendlease and the NHS SE London Clinical Commissioning Group to sign a [Memorandum of Understanding](https://planning.southwark.gov.uk/online-applications/files/3E107DB92E1C2C8D981676CADEFBDA2E/pdf/21_AP_1819-LETTER_FROM_LENDLEASE_ON_HEALTH_HUB_USE-3485797.pdf), supporting the provision of a health hub and an [indicative plan of the hub](https://planning.southwark.gov.uk/online-applications/files/A24210053190B15B0DA22B657CF282E3/pdf/21_AP_1819-PLOT_H1_HEALTH_HUB_TEST_FITS__INDICATIVE_-3443704.pdf) has been drafted.
+Southwark Council has joined with Lendlease and the NHS SE London Clinical Commissioning Group to sign a [Memorandum of Understanding](https://planning.southwark.gov.uk/online-applications/files/3E107DB92E1C2C8D981676CADEFBDA2E/pdf/21_AP_1819-LETTER_FROM_LENDLEASE_ON_HEALTH_HUB_USE-3485797.pdf), supporting the provision of a health hub and an [indicative plan of the hub](https://planning.southwark.gov.uk/online-applications/files/A24210053190B15B0DA22B657CF282E3/pdf/21_AP_1819-PLOT_H1_HEALTH_HUB_TEST_FITS__INDICATIVE_-3443704.pdf) has been drafted.
 
-A couple of points leap out - replaces PSt and Manor Place; only 30 year lease.[](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\HY22 Lendlease Major Urban Projects>)
+One point leaps out of the Memorandum, that the hub is intended to replace the Princess St and Manor Place GPP surgeries.  It says that the hub would be a *'health centre for GP....services....to serve the population at Elephant & Castle and the exixting people served by the Princess St and Manor Place GP Surgeries.'*
+
+
+
+
+
+[](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\HY22 Lendlease Major Urban Projects>)
 
 Community space
 

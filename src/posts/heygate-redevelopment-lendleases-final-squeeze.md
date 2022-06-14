@@ -35,7 +35,7 @@ There is also a discrepancy between what Southwark has been told about the numbe
 
 Lendlease remains silent on the shortfall of affordable housing, against the longstanding 35% affordable housing requirement, half of which should be social rented.  Roughly calculated this is a loss of about 400 affordable homes, most of which should be social rent.
 
-There is also some doubt as to whether the 92 social rented units that have been delivered are being let to their tenants at social rents.  All the social rented units are three-bed homes and are owned and managed by housing association L&Q.  At least one of these units is being let at a rent of £249pw, including service charge.  This comppares to the £145.65 gross pw given as the average three-bed social rent for housing associations by [Southwark's Key Housing Stats 2020](https://www.southwark.gov.uk/assets/attach/42459/Southwark-Key-Housing-Stats-2020.pdf).
+There is also some doubt as to whether the 92 social rented units that have been delivered are being let to their tenants at social rents.  All the social rented units are three-bed homes and are owned and managed by housing association L&Q.  At least one of these units is being let at a rent of £249pw, including service charge.  This compares to the £145.65 gross pw given as the average three-bed social rent for housing associations by [Southwark's Key Housing Stats 2020](https://www.southwark.gov.uk/assets/attach/42459/Southwark-Key-Housing-Stats-2020.pdf).
 
 #### The sweetener - the health hub
 

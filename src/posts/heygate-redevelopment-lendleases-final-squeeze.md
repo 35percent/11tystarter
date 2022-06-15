@@ -15,7 +15,7 @@ This proposal was part of Lendlease's successful [2013 planning permission appli
 
 #### Lendlease benefits from rule change 1
 
-Despite Southwark's council housing boss [declaring last year that building homes was a *'moral duty'*](https://www.southwarknews.co.uk/news/exclusive-council-housing-boss-hits-back-at-infilling-misinformation/), Southwark Council has reacted favourably  to Lendlease's proposal to drop housing, in favour of offices, with local councillors saying that they are *'generally in support'* of the application, at a pre-election hustings.
+Southwark Council has reacted favourably  to Lendlease's proposal to drop housing, in favour of offices, with local councillors saying that they are *'generally in support'* of the application, at a pre-election hustings.
 
 More practically Southwark Council also changed the planning rules to give the application a fair wind.  We [reported last September](https://www.35percent.org/posts/2021-09-12-lendleases-final-plot-for-elephant-park-offices-not-homes/) how Southwark Council has smoothed Lendlease's path by changing the local planning rules in the [Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/new-southwark-plan), to allow a ten-fold increase in *'employment space'* on Elephant Park.
 

@@ -49,7 +49,7 @@ Given that Lendlease were happy to build the health hub as part of a residential
 
 #### Southwark really does like Lendlease
 
-A further gain for Lendlease in building a health hub is that it would relieve it of the obligation of providing around 5,000sqm of affordable workspace.  This has been enabled by another favourable change to the planning rules in the new Southwark Plan, to add to the change that allowed more office space.  Up to [August 2020](https://www.southwark.gov.uk/assets/attach/19869/EIP27B-Proposed-Changes-to-the-submitted-NSP-2020-Track-Changes-version-.pdf) developers could provide affordable retail and affordable cultural uses instead of affordable workspace.  Lendlease submitted its application on May 2021 and by the time of the final version of the Southwark Plan in Feb 2022 *'public health services'* was added to the list of alternatives to affordable workspace.
+A further gain for Lendlease in building a health hub is that it would relieve it of the obligation of providing around 5,000sqm of affordable workspace.  This has been enabled by another favourable change to the planning rules in the new Southwark Plan, to add to the change that allowed more office space.  Up to [August 2020](https://www.southwark.gov.uk/assets/attach/19869/EIP27B-Proposed-Changes-to-the-submitted-NSP-2020-Track-Changes-version-.pdf) developers could provide affordable retail and affordable cultural uses instead of affordable workspace.  Lendlease submitted its application in May 2021 and by the time of the final version of the Southwark Plan in February 2022 *'public health services'* was added to the list of alternatives to affordable workspace.
 
 So, with this addition, an obligation was turned into a choice between providing a health hub, at what can assume will be a commercial rent, or affordable workspace at discounted rents.  
 
@@ -63,12 +63,12 @@ New state-of-the-art GP facilities would be a boon to everyone at the Elephant a
 
 A consultation is promised by the SEL CCG, but it looks as if this will not be until after the planning application is decided.  This is too late; the fate of the surgeries will be effectively decided too, if the application is approved.  Southwark Council and the NHS are the proper authorities to deal with our health care provision, Lendlease are not, but at the moment it is Lendlease who seem to be in the driving seat, with no reference to the people who depend on Princess St and Manor Place surgeries.  This planning application should only be determined after the formal consultation promised by the SEL CCG. 
 
-#### How many homes are there on Elephant Park?
+#### What housing has been delivered?
 
-A simple, but critical question that needs a definitive answer is how many homes are there going to be on Elephant  Park.  There were to be between 2,300 and 2,469.  As explained above, this was raised to 2,689 (leaving room for an office block), but then Lendlease's report to the Australian Securities Exchange says 3,008 units will be built.  The number has a bearing on the density of the development, the trigger points for the delivery of affordable housing and the tariffs paid under the s106.  Any increase in the number of units could also mean a windfall for Lendlease, which had Southwark had the sense to insist on viability review it could have shared in -  but it didn't, so it won't. 
+Southwark must also clarify and confirm just exactly what housing has been delivered on Elephant Park.  The development we have now looks a lot different to that approved, back in 2013 - bigger, denser, with fewer homes for sale (many were [converted to Build to Rent](https://btrnews.co.uk/elephant-park-build-to-rent-homes-near-completion/#:~:text=Elephant%20Park%20Build%20to%20Rent%20scheme.,Elephant%20Park%20early%20in%202021.)), and with an office block in the middle, if the H1 planning application succeeds.  This is not what the 2013 planning committee agreed to.
 
-A second question is whether the meagre number of social rented homes are actually being let at social rents. One unit at least is being let at a rent, which on the face of it, is a lot higher.[](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\HY22 Lendlease Major Urban Projects>)
+There is also a question mark over the social rented housing.  There is very little of this and Southwark must at least ensure that it is let at social rent levels.
 
-Until this is all clear, nothing at all should be decided about Elephant Park's final plot.
+A new Overview and Scrutiny committee has just begun [drawing up its scrutiny arrangements](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=308&MId=7383&Ver=4) and annual work programme- an examination of the whole Heygate regeneration and what has been delivered on Elephant Park should be top of its agenda.
 
 ![](img/12AP1092extracts.png)

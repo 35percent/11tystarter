@@ -35,11 +35,9 @@ There is also a discrepancy between what Southwark has been told about the numbe
 
 Lendlease remains silent on the shortfall of affordable housing, against the longstanding 35% affordable housing requirement, half of which should be social rented.  Roughly calculated by unit this is a loss of about 270 affordable homes, half of which would be social rent.
 
-There is also some doubt as to whether the 92 social rented units that have been delivered are being let to their tenants at social rents.  All the social rented units are three-bed homes and are owned and managed by housing association L&Q.  At least one of these units is being let at a rent of £249pw, including service charge.  This compares to the £145.65 gross pw given as the average three-bed social rent for housing associations by [Southwark's Key Housing Stats 2020](https://www.southwark.gov.uk/assets/attach/42459/Southwark-Key-Housing-Stats-2020.pdf).
-
 #### The sweetener - the health hub
 
-Lendlease appear to have won local councillors around to supporting their office block proposal by promising a health hub.  [Discussions about this](https://planning.southwark.gov.uk/online-applications/files/411DC9CA6EF3BB4FCE2E38804F8ECB04/pdf/21_AP_1819-HEALTH_HUB_SUMMARY-3392720.pdf) have already taken place between Southwark Council, the NHS SE London Clinical Commissioning Group and Lendlease, and have also including GP services provider Nexus.
+Lendlease appear to have won local councillors around to supporting their office block proposal by promising a health hub.  [Discussions about this](https://planning.southwark.gov.uk/online-applications/files/3E107DB92E1C2C8D981676CADEFBDA2E/pdf/21_AP_1819-LETTER_FROM_LENDLEASE_ON_HEALTH_HUB_USE-3485797.pdf) have already taken place between Southwark Council, the NHS SE London Clinical Commissioning Group and Lendlease, and have also including GP services provider Nexus.
 
  A health hub or facility would be very welcome and for that reason it has been a requirement for Lendlease to build it since 2013, under the current planning permission. Rather than get on and build it though, Lendlease has waited until the final plot and the final planning application to extract further gains, in the shape of an office block, several times the size of the health hub.  It has had to make £1.08m health contributions along the way, but evidently considers this an acceptable cost.
 
@@ -66,8 +64,6 @@ A consultation is promised by the SEL CCG, but it looks as if this will not be u
 #### What has been delivered on Elephant Park?
 
 Southwark must also clarify and confirm just exactly what housing has been delivered on Elephant Park.  The development we have now looks a lot different to that approved, back in 2013 - bigger, denser, with fewer homes for sale (many were [converted to Build to Rent](https://btrnews.co.uk/elephant-park-build-to-rent-homes-near-completion/#:~:text=Elephant%20Park%20Build%20to%20Rent%20scheme.,Elephant%20Park%20early%20in%202021.)), and with an office block in the middle, if the H1 planning application succeeds.  This is not what the 2013 planning committee agreed to.
-
-There is also a question mark over the social rented housing.  There is very little of this and Southwark must at least ensure that it is let at social rent levels.
 
 A new Overview and Scrutiny committee has just begun [drawing up its scrutiny arrangements](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=308&MId=7383&Ver=4) and annual work programme- an examination of the whole Heygate regeneration and what has been delivered on Elephant Park should be top of its agenda.
 

@@ -65,6 +65,6 @@ A consultation is promised by the SEL CCG, but it looks as if this will not be u
 
 Southwark must also clarify and confirm just exactly what housing has been delivered on Elephant Park.  The development we have now looks a lot different to that approved, back in 2013 - bigger, denser, with fewer homes for sale (many were [converted to Build to Rent](https://btrnews.co.uk/elephant-park-build-to-rent-homes-near-completion/#:~:text=Elephant%20Park%20Build%20to%20Rent%20scheme.,Elephant%20Park%20early%20in%202021.)), and with an office block in the middle, if the H1 planning application succeeds.  This is not what the 2013 planning committee agreed to.
 
-A new Overview and Scrutiny committee has just begun [drawing up its scrutiny arrangements](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=308&MId=7383&Ver=4) and annual work programme- an examination of the whole Heygate regeneration and what has been delivered on Elephant Park should be top of its agenda.
+A new Overview & Scrutiny committee has just begun [drawing up its scrutiny arrangements](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=308&MId=7383&Ver=4) and annual work programme; the committe should put an examination of the whole Heygate regeneration and what has been delivered on Elephant Park at the top of its agenda.
 
 ![](img/12AP1092extracts.png)

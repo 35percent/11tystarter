@@ -23,7 +23,7 @@ Lendlease's [2013 planning permission](https://planning.southwark.gov.uk/online-
 
 #### More homes in a smaller space....
 
-Lendlease has also been careful to build all the homes it promised under its 2013 permission.  Lendlease say it has built almost to the maximum floorspace allowed by the permission, delivering 2,689 homes including 25% affordable housing.
+Lendlease has also been careful to build all the homes it promised under its 2013 permission.  Lendlease say it has built almost to the maximum floorspace allowed by the permission, delivering 2,689 homes including 25.7% affordable housing.
 
 But these 2,689 homes must obviously have been shoehorned into fewer plots, at a greater density than originally proposed,  if Lendlease now finds itself with a spare plot that can be used for an office development.  Should this application succeed it will also be the second time that the density of the development has been increased.  In 2019 Lendlease [took advantage of a poorly drafted s106](https://www.35percent.org/posts/2019-08-05-elephant-park-final-phase-affordable-housing/) legal agreement, to increase the original maximum homes from 2,469 to 2,689 homes.
 

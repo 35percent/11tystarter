@@ -63,7 +63,7 @@ New state-of-the-art GP facilities would be a boon to everyone at the Elephant a
 
 A consultation is promised by the SEL CCG, but it looks as if this will not be until after the planning application is decided.  This is too late; the fate of the surgeries will be effectively decided too, if the application is approved.  Southwark Council and the NHS are the proper authorities to deal with our health care provision, Lendlease are not, but at the moment it is Lendlease who seem to be in the driving seat, with no reference to the people who depend on Princess St and Manor Place surgeries.  This planning application should only be determined after the formal consultation promised by the SEL CCG. 
 
-#### What housing has been delivered?
+#### What has been delivered on Elephant Park?
 
 Southwark must also clarify and confirm just exactly what housing has been delivered on Elephant Park.  The development we have now looks a lot different to that approved, back in 2013 - bigger, denser, with fewer homes for sale (many were [converted to Build to Rent](https://btrnews.co.uk/elephant-park-build-to-rent-homes-near-completion/#:~:text=Elephant%20Park%20Build%20to%20Rent%20scheme.,Elephant%20Park%20early%20in%202021.)), and with an office block in the middle, if the H1 planning application succeeds.  This is not what the 2013 planning committee agreed to.
 

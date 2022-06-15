@@ -13,7 +13,7 @@ The H1 application, which includes a proposal for a health hub, is a dramatic ch
 
 This proposal was part of Lendlease's successful [2013 planning permission application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1JKBWR520&activeTab=summary).  Now, in 2022, Lendlease says it has built enough housing and an office block would improve *'employment capacity'*.  A health hub, covering a tenth of the total floorspace, is also being offered, to sweeten the proposal - but only in place of providing affordable workspace.
 
-#### Southwark really likes Lendlease
+#### Lendlease benefits from rule change 1
 
 Despite Southwark's council housing boss [declaring last year that building homes was a *'moral imperative'*](https://www.southwarknews.co.uk/news/exclusive-council-housing-boss-hits-back-at-infilling-misinformation/), Southwark Council has reacted favourably  to Lendlease's proposal to drop housing, in favour of offices, with local councillors saying that they are *'generally in support'* of the application, at a pre-election hustings.
 
@@ -47,7 +47,7 @@ SCREENSHOT OF 2013 S106 RE HEALTH FACILITY
 
 Given that Lendlease were happy to build the health hub as part of a residential development before, there is no reason why it must be part of an office development now, other than it suits Lendlease.  It is also not clear why councillors and Southwark think they are getting a good deal by supporting a health hub with offices, when there is already an agreement to build a health hub with homes. 
 
-#### Southwark really does like Lendlease
+#### Lendlease benefits from rule change 2
 
 A further gain for Lendlease in building a health hub is that it would relieve it of the obligation of providing around 5,000sqm of affordable workspace.  This has been enabled by another favourable change to the planning rules in the new Southwark Plan, to add to the change that allowed more office space.  Up to [August 2020](https://www.southwark.gov.uk/assets/attach/19869/EIP27B-Proposed-Changes-to-the-submitted-NSP-2020-Track-Changes-version-.pdf) developers could provide affordable retail and affordable cultural uses instead of affordable workspace.  Lendlease submitted its application in May 2021 and by the time of the final version of the Southwark Plan in February 2022 *'public health services'* was added to the list of alternatives to affordable workspace.
 

@@ -1,6 +1,6 @@
 ---
 title: Only one in ten new homes in Southwark is social rented
-description: Southwark losses 91 social rented homes in 2021
+description: Southwark loses 91 social rented homes in 2021
 date: 2022-04-12
 image: img/screenshot-2022-04-12-at-10-13-39-southwark_completions_bar_chart_market_social_rent_fy20042021-pdf.png
 ---

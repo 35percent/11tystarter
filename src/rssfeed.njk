@@ -7,10 +7,6 @@
     "subtitle": "Blogging about developments in Southwark",
     "url": "https://35percent.org/",
     "feedUrl": "https://35percent.org/feed.xml",
-    "author": {
-      "name": "Jerry Flynn",
-      "email": "35percentelephant@gmail.com"
-    }
   }
 }
 ---
@@ -20,13 +16,9 @@
   <subtitle>{{ metadata.subtitle }}</subtitle>
   <link href="{{ metadata.feedUrl }}" rel="self"/>
   <link href="{{ metadata.url }}"/>
-  <updated>{{ collections.posts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <updated>{{ collections.post | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <id>{{ metadata.url }}</id>
-  <author>
-    <name>{{ metadata.author.name }}</name>
-    <email>{{ metadata.author.email }}</email>
-  </author>
-  {%- for post in collections.posts %}
+  {%- for post in collections.post %}
   {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
   <entry>
     <title>{{ post.data.title }}</title>

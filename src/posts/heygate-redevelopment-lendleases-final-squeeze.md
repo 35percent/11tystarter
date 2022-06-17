@@ -46,7 +46,7 @@ Lendlease appear to have won local councillors around to supporting their office
 
 A health hub or facility would be very welcome and for that reason it has been a requirement for Lendlease to build it since 2013, under the current planning permission. Rather than get on and build it though, Lendlease has waited until the final plot and the final planning application to extract further gains, in the shape of an office block, several times the size of the health hub.  It has had to make £1.08m health contributions along the way, but evidently considers this an acceptable cost.
 
-![](img/healthfacility.png)
+![](https://35percent.org/img/healthfacility.png)
 
 Given that Lendlease were happy to build the health hub as part of a residential development before, there is no reason why it must be part of an office development now, other than it suits Lendlease.  It is also not clear why councillors and Southwark think they are getting a good deal by supporting a health hub with offices, when there is already an agreement to build a health hub with homes. 
 

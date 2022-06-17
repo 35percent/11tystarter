@@ -4,7 +4,7 @@ description: Lendlease squeezes itself an extra plot out of Heygate redevelopmen
 date: 2022-06-10T11:14:21.201Z
 image: img/eparkmodel.png
 ---
-Southwark Council is set to roll over to Lendlease yet again in its final bid to squeeze maximum profit out of the Heygate redevelopment. The developer has applied to increase the density of the scheme via the back door, using the sweetener of a new health facility that is was required to provide anyway.
+Southwark Council is set to roll over to Lendlease yet again in its final bid to squeeze maximum profit out of the Heygate redevelopment. The developer latest and last application will increase the density of the scheme via the back door, using the sweetener of a new health facility that is was required to provide anyway.
 
 One of the first tasks of Southwark's [new planning committee](https://moderngov.southwark.gov.uk/mgCommitteeMailingList.aspx?ID=119) will be to consider developer Lendlease's [controversial planning application for a new office block](https://www.southwarknews.co.uk/news/lendlease-applies-for-office-block-and-zero-housing-in-next-stage-of-regeneration/) on the final plot of Elephant Park, H1.  Plot H1 stands on what was protected metropolitan open land, on the site of the demolished Heygate estate:
 

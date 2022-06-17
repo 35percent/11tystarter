@@ -1,5 +1,5 @@
 ---
-title: Elephant Park - the final squeeze
+title: Elephant Park - homes dumped for offices
 description: Lendlease squeezes itself an extra plot out of Heygate redevelopment
 date: 2022-06-10T11:14:21.201Z
 image: img/eparkmodel.png

@@ -1,7 +1,7 @@
 ---
 title: Elephant Park - homes dumped for offices
 description: Lendlease squeezes itself an extra plot out of Heygate redevelopment
-date: 2022-06-10T11:14:21.201Z
+date: 2022-06-17T11:14:21.201Z
 image: img/eparkmodel.png
 ---
 Southwark Council is set to roll over to Lendlease yet again in its final bid to squeeze maximum profit out of the Heygate redevelopment. The developer's latest and last Elephant Park application will increase the density of the scheme via the back door, using the sweetener of a new health facility that is was required to provide anyway.

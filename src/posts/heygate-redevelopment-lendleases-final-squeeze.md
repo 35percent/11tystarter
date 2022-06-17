@@ -60,7 +60,7 @@ So, with this addition, an obligation was turned into a choice between providing
 
 Southwark Council has joined with Lendlease and the NHS SE London Clinical Commissioning Group (SEL CCG) to sign a [Memorandum of Understanding](https://planning.southwark.gov.uk/online-applications/files/3E107DB92E1C2C8D981676CADEFBDA2E/pdf/21_AP_1819-LETTER_FROM_LENDLEASE_ON_HEALTH_HUB_USE-3485797.pdf), supporting the provision of a health hub and an [indicative plan of the hub](https://planning.southwark.gov.uk/online-applications/files/A24210053190B15B0DA22B657CF282E3/pdf/21_AP_1819-PLOT_H1_HEALTH_HUB_TEST_FITS__INDICATIVE_-3443704.pdf) has been drafted.
 
-One point leaps out of the Memorandum, that the hub is intended to replace the Princess St and Manor Place GP surgeries.  It says that the hub would be a *'health centre for GP....services....to serve the population at Elephant & Castle and the existing people served by the Princess St and Manor Place GP Surgeries.'*
+One point that leaps out of the Memorandum is that the hub is intended to replace the Princess St and Manor Place GP surgeries.  It says that the hub would be a *'health centre for GP....services....to serve the population at Elephant & Castle and the existing people served by the Princess St and Manor Place GP Surgeries.'*
 
 New state-of-the-art GP facilities would be a boon to everyone at the Elephant and in Walworth.  But if these facilities entail the closure of two longstanding GP surgeries then that is something that should be made plain in the planning application and the public consultation about that application.  This has not happened; the only consultation has been around the planning aspects of the application, which the Memorandum calls a *'separate and independent process'*.
 

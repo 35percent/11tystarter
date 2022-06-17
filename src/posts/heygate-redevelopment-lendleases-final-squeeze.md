@@ -54,7 +54,7 @@ Given that Lendlease were happy to build the health hub as part of a residential
 
 A further gain for Lendlease in building a health hub is that it would relieve it of the obligation of providing around 5,000sqm of affordable workspace.  This has been enabled by another favourable change to the planning rules in the new Southwark Plan, to add to the change that allowed more office space.  Up to [August 2020](https://www.southwark.gov.uk/assets/attach/19869/EIP27B-Proposed-Changes-to-the-submitted-NSP-2020-Track-Changes-version-.pdf) developers could provide affordable retail and affordable cultural uses instead of affordable workspace.  Lendlease submitted its application in May 2021 and by the time of the final version of the Southwark Plan in February 2022 *'public health services'* was added to the list of alternatives to affordable workspace.
 
-So, with this addition, an obligation was turned into a choice between providing a health hub, at what can assume will be a commercial rent, or affordable workspace at discounted rents.  
+So, with this addition, an obligation was turned into a choice between providing a health hub, at what we can assume will be a commercial rent, or affordable workspace at discounted rents.  
 
 #### Princess Street and Manor Place surgeries to go?
 

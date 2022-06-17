@@ -4,9 +4,9 @@ description: Lendlease squeezes itself an extra plot out of Heygate redevelopmen
 date: 2022-06-10T11:14:21.201Z
 image: img/eparkmodel.png
 ---
-Southwark Council is set to roll over to Lendlease yet again in its final bid to squeeze maximum profit out of the Heygate redevelopment. The developer has applied to increase the density of the scheme via the back door, using the sweetener of a new health facility which is was required to provide anyway.
+Southwark Council is set to roll over to Lendlease yet again in its final bid to squeeze maximum profit out of the Heygate redevelopment. The developer has applied to increase the density of the scheme via the back door, using the sweetener of a new health facility that is was required to provide anyway.
 
-One of the first tasks of Southwark's [new planning committee](https://moderngov.southwark.gov.uk/mgCommitteeMailingList.aspx?ID=119) will be to consider developer Lendlease's [controversial planning application for a new office block](https://www.southwarknews.co.uk/news/lendlease-applies-for-office-block-and-zero-housing-in-next-stage-of-regeneration/) on the final plot of Elephant Park, H1.  Plot H1 stands on what was protected metropolitan open land, on the site of the demolished Heygate estate.
+One of the first tasks of Southwark's [new planning committee](https://moderngov.southwark.gov.uk/mgCommitteeMailingList.aspx?ID=119) will be to consider developer Lendlease's [controversial planning application for a new office block](https://www.southwarknews.co.uk/news/lendlease-applies-for-office-block-and-zero-housing-in-next-stage-of-regeneration/) on the final plot of Elephant Park, H1.  Plot H1 stands on what was protected metropolitan open land, on the site of the demolished Heygate estate:
 
 ![](https://35percent.org/img/elephant-rd.jpg)
 
@@ -18,7 +18,7 @@ This proposal was part of Lendlease's successful [2013 planning permission appli
 
 #### Lendlease benefits from rule change 1
 
-Southwark Council has reacted favourably  to Lendlease's proposal to drop housing, in favour of offices, with local councillors saying that they are *'generally in support'* of the application, at a pre-election hustings.
+Southwark Council has reacted favourably to Lendlease's proposal to provide offices on the surplus plot, with local councillors saying that they are *'generally in support'* of the application, at a pre-election hustings.
 
 More practically Southwark Council also changed the planning rules to give the application a fair wind.  We [reported last September](https://www.35percent.org/posts/2021-09-12-lendleases-final-plot-for-elephant-park-offices-not-homes/) how Southwark Council has smoothed Lendlease's path by changing the local planning rules in the [Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/new-southwark-plan), to allow a ten-fold increase in *'employment floorspace'* on Elephant Park.
 
@@ -30,7 +30,9 @@ Lendlease has also been careful to build all the homes it promised under its 201
 
 But these 2,689 homes must obviously have been shoehorned into fewer plots, at a greater density than originally proposed, if Lendlease now finds itself with a spare plot that can be used for an office development.  Should this application succeed it will also be the second time that the density of the development has been increased.  In 2019 Lendlease [took advantage of a poorly drafted s106](https://www.35percent.org/posts/2019-08-05-elephant-park-final-phase-affordable-housing/) legal agreement, to increase the original maximum homes from 2,469 to 2,689 homes.
 
-There is also a discrepancy between what Southwark has been told about the number of homes built and the figures Lendlease have given in their 2022 half-yearly report to the [Australian Securities Exchange](https://www.lendlease.com/au/investor-centre/announcements/) (ASX).  Lendlease's [hy22 Lendlease Major Urban Projects report](https://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2022/lendlease-hy22-major-urban-projects.pdf) says that 3,208 homes will be delivered on Elephant Park (including Trafalgar Place's 235 units), 284 more units than are in the [planning documents](https://planning.southwark.gov.uk/online-applications/files/3087518D1F1E382D8EC9CBF0F7834E63/pdf/21_AP_1819-PLANNING_STATEMENT-1145922.pdf):
+![](https://35percent.org/img/12AP1092extracts.png)
+
+There is also a discrepancy between what Southwark has been told about the number of homes built and the figures Lendlease have given in their 2022 half-yearly report to the [Australian Securities Exchange](https://www.lendlease.com/au/investor-centre/announcements/) (ASX).  Lendlease's [hy22 Lendlease Major Urban Projects report](https://www.lendlease.com/-/media/llcom/investor-relations/asx-announcements/2022/lendlease-hy22-major-urban-projects.pdf) says that 3,208 homes will be delivered on Elephant Park (including Trafalgar Place's 235 units), 284 more units than are in the [planning documents](https://planning.southwark.gov.uk/online-applications/files/3087518D1F1E382D8EC9CBF0F7834E63/pdf/21_AP_1819-PLANNING_STATEMENT-1145922.pdf) and 739 more homes than originally consented:
 
 ![](https://35percent.org/img/urbanreport.png)
 
@@ -70,4 +72,3 @@ Southwark must also clarify and confirm just exactly what housing has been deliv
 
 A new Overview & Scrutiny committee has just begun [drawing up its scrutiny arrangements](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=308&MId=7383&Ver=4) and annual work programme; the committe should put an examination of the whole Heygate regeneration and what has been delivered on Elephant Park at the top of its agenda.
 
-![](https://35percent.org/img/12AP1092extracts.png)

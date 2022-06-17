@@ -3,12 +3,14 @@ const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
 const Image = require("@11ty/eleventy-img");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
-
-  // --- START, eleventy-img
+  eleventyConfig.addPlugin(pluginRss);
+  
+	// --- START, eleventy-img
   async function imageShortcode(src, alt, sizes) {
     let metadata = await Image(src, {
       widths: [400, 640, 1280],

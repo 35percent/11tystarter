@@ -2,14 +2,17 @@
 title: Elephant Park housing ditched for offices
 description: Lendlease squeeze homes to make room for huge office block
 date: 2022-06-10T11:14:21.201Z
+image: img/eparkmodel.png
 ---
 ![](img/mp5h1.png)
 
 One of the first tasks of Southwark's [new planning committee](https://moderngov.southwark.gov.uk/mgCommitteeMailingList.aspx?ID=119) will be to consider developer Lendlease's [controversial planning application for a new office block](https://www.southwarknews.co.uk/news/lendlease-applies-for-office-block-and-zero-housing-in-next-stage-of-regeneration/) on the final plot of Elephant Park, H1.  Plot H1 stands on what was protected metropolitan open land, on the site of the demolished Heygate estate.
 
+![](img/elephant-rd.jpg)
+
 The [H1 application](https://planning.southwark.gov.uk/online-applications/simpleSearchResults.do?action=firstPage), which includes a proposal for a health hub, is a dramatic change of direction by Lendlease.  Up to now, Elephant Park has been built as a housing development, with some retail, and other uses; [Lendlease's original plan](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=ZZZV1JKBWR520) was for H1 to be much the same, with three residential blocks, one of 30-storeys, two of ten-storeys, comprising about 300 homes, across 36,100sqm of floorspace.
 
-![](img/elephant-rd.jpg)
+![](img/h1tallbuilding.png)
 
 This proposal was part of Lendlease's successful [2013 planning permission application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1JKBWR520&activeTab=summary).  Now, in 2022, Lendlease says it has built enough housing and an office block would improve *'employment capacity'*.  A health hub, covering a tenth of the total floorspace, is also being offered, to sweeten the proposal - but only in place of providing affordable workspace.
 

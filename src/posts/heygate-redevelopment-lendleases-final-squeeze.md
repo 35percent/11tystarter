@@ -16,6 +16,8 @@ The [H1 application](https://planning.southwark.gov.uk/online-applications/simpl
 
 This proposal was part of Lendlease's successful [2013 planning permission application](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1JKBWR520&activeTab=summary).  Now, in 2022, it turns out that Lendlease has shoehorned the housing planned for H1 into all the other plots already built or currently under construction, leaving it with a surplus plot. Instead of building additional housing on H1, which would require a fresh planning application and might open up a can of worms about affordable housing delivery, Lendlease says it wants to build an office block on the site, which would improve *'employment capacity'*.  A health hub, covering a tenth of the total floorspace, is also being offered, to sweeten the proposal - but only in place of providing affordable workspace.
 
+![](https://35percent.org/img/h1offices.png)
+
 #### Lendlease benefits from rule change 1
 
 Southwark Council has reacted favourably to Lendlease's proposal to provide offices on the surplus plot, with local councillors saying that they are *'generally in support'* of the application, at a pre-election hustings.
@@ -46,7 +48,7 @@ Lendlease appear to have won local councillors around to supporting their office
 
 A health hub or facility would be very welcome and for that reason it has been a requirement for Lendlease to build it since 2013, under the current planning permission. Rather than get on and build it though, Lendlease has waited until the final plot and the final planning application to extract further gains, in the shape of an office block, several times the size of the health hub.  It has had to make £1.08m health contributions along the way, but evidently considers this an acceptable cost.
 
-![](https://35percent.org/img/healthfacility.png)
+![](https://35percent.org/img/healthfaciility.png)
 
 Given that Lendlease were happy to build the health hub as part of a residential development before, there is no reason why it must be part of an office development now, other than it suits Lendlease.  It is also not clear why councillors and Southwark think they are getting a good deal by supporting a health hub with offices, when there is already an agreement to build a health hub with homes. 
 

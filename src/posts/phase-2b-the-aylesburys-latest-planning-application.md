@@ -15,6 +15,8 @@ There are a several measures of how much social and affordable housing should be
 
 NHG tries to get around their London Plan failure by making a different comparison, between what they now propose and the what would have built under the outline planning permission (OPP) they already hold.  The OPP would have delivered 183 social rented units.  While this new standalone application would have fewer units (163), NHG are quick to point out that there will nonetheless be an increase of 4,557.4sqm in social rent floorspace (with a gain of 20 habitable rooms) because there will be more 3+ bed units. This is true, but it also a false comparison.  NHG are abandoning the OPP for the whole of the regeneration, not just Phase 2B, and so relieving themselves of the obligation of replacing 2,249 social rented homes, under the new Southwark Plan requirements (PS 6.9); the extra social rent floorspace on Phase 2B, with a loss of units and only a small gain of habitable rooms to boot, hardly compensates for this.
 
+NHT also say  it is ‘important to review this on a site by site basis to understand whether the existing social rented floorspace has been reprovided on each individual site’ (7.35) .  I think we could agree with this statement and go on to show that when this comparison is made, it shows that only the two phases built by L&Q (Phase 1a and Site 7) exceed their  floorspace baselines.  The three NHG phases (Plot 18, the FDS, Phase 2B) all fall below their baselines; see Table 6 -
+
 ##### Mayor funds the loss of social housing
 
 NHG is also receiving a £28m grant from the Mayor for the scheme, though it is hard to see how this can be justified.  The Mayor's [funding guidance](https://www.london.gov.uk/sites/default/files/301120_homes_for_londoners_-_funding_guidance-acc1.pdf) for estate regeneration says;
@@ -28,3 +30,5 @@ While the overall number of homes is doubling, the loss of social housing within
 The Phase 2B detailed application is NHG's third, after that for the First Development Site (FDS) and Plot 18 which were approved in 20XX.  NHG handed these (?) back to Southwark Council in 2019?, charging Southwark £XXX, alloing them to build zzz council homes, but retaining the money-generating free market home for themselves. 
 
 CHECK DETAILS OF FDS/PLOT18 DEAL
+
+ Now it appears that NHG are headed for the exit.  In a couple of short, but long-winded paragraphs in this new 'standalone' application NHG says that there are a number of issues 'which compromise their ability to successfully deliver the proposals as previously conceived', including completing the development within the timeframe (20XX) and meeting 'the policy requirement for the reprovision of existing affordable housing floorspace'.  Put more simply, NHG cannot now meet a timetable they themselves had agreed and cannot, or will not, reprovide the demolished social housing on the new, regenerated estat

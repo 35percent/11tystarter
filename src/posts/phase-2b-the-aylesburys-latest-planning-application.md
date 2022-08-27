@@ -15,17 +15,17 @@ There are a several measures of how much social and affordable housing should be
 
 NHG’s argument is that more affordable housing is unviable (7.39. 7.40).  It argues that were it to absorb the deficit of £6.69m, the profit margin falls to 12.27% GDV, which is less than other similar schemes.  I think we could respond; so what?  There would still be a profit of around £30m.  We could also point out that NHG are increasing the number of free-market units on the FDS by 33 (60 in total), with another variation application 22/AP/1063, presumably improving profitability.
 
+PS I’ve been trying to work out how many extra social rent units £6.69m might get. At the of c£144k (from the FVA) it would be about 46 social rented units, but unless they were simply added to the number already proposed, NHG would have to convert either free-market or intermediate units to s/r, which would change the FVA?
+
 ##### Compare and contrast
 
-NHG tries to get around their London Plan failure by making a different comparison, between what they now propose and the what would have built under the outline planning permission (OPP) they already hold.  The OPP would have delivered 183 social rented units.  While this new standalone application would have fewer units (163), NHG are quick to point out that there will nonetheless be an increase of 4,557.4sqm in social rent floorspace (with a gain of 20 habitable rooms) because there will be more 3+ bed units. This is true, but it also a false comparison.  NHG are abandoning the OPP for the whole of the regeneration, not just Phase 2B, and so relieving themselves of the obligation of replacing 2,249 social rented homes, under the new Southwark Plan requirements (PS 6.9); the extra social rent floorspace on Phase 2B, with a loss of units and only a small gain of habitable rooms to boot, hardly compensates for this.
+NHG tries to get around their London Plan failure by making a different comparison, between what they now propose and the what would have built under the outline planning permission (OPP) they already hold.  The OPP would have delivered 183 social rented units.  While this new standalone application would have fewer units (163), NHG are quick to point out that there will nonetheless be an increase of 4,557.4sqm in social rent floorspace (with a gain of 20 habitable rooms) because there will be more 3+ bed units. This is true, but it also a false comparison.  NHG are abandoning the OPP for the whole of the regeneration, not just Phase 2B, and so relieving themselves of the obligation of replacing 2,249 social rented homes, under the new Southwark Plan requirements (PS 6.9); the extra social rent floorspace on Phase 2B, with a loss of units and only a small gain of habitable rooms to boot, hardly compensates for this. (Compare 4,557sqm  with total floorspace?)
 
 ##### L&Q versus NHG 
 
 NHT also say  it is ‘important to review this on a site by site basis to understand whether the existing social rented floorspace has been reprovided on each individual site’ (7.35) .  I think we could agree with this statement and go on to show that when this comparison is made, it shows that only the two phases built by L&Q (Phase 1a and Site 7) exceed their  floorspace baselines.  The three NHG phases (Plot 18, the FDS, Phase 2B) all fall below their baselines; see Table 6 -
 
 NHT point out that when Phase 2B is added, that the total floorspace exceeds the baseline by 43.72sqm (7.37), but aside from being a negligible amount, it is only reached because L&Q have built a hefty 5,615.83sqm more than the baseline; by comparison the NHG phases will have delivered 5,601.11 below the baseline.  We should note that Southwark took over the FDS, but I don’t think this undermines the main argument, that it hardly makes sense to allow NHG to build less, because L&Q built more.
-
-
 
 ##### Mayor funds the loss of social housing
 
@@ -41,4 +41,10 @@ The Phase 2B detailed application is NHG's third, after that for the First Devel
 
 CHECK DETAILS OF FDS/PLOT18 DEAL
 
- Now it appears that NHG are headed for the exit.  In a couple of short, but long-winded paragraphs in this new 'standalone' application NHG says that there are a number of issues 'which compromise their ability to successfully deliver the proposals as previously conceived', including completing the development within the timeframe (20XX) and meeting 'the policy requirement for the reprovision of existing affordable housing floorspace'.  Put more simply, NHG cannot now meet a timetable they themselves had agreed and cannot, or will not, reprovide the demolished social housing on the new, regenerated estat
+ Now it appears that NHG are headed for the exit.  In a couple of short, but long-winded paragraphs in this new 'standalone' application NHG says that there are a number of issues 'which compromise their ability to successfully deliver the proposals as previously conceived', including completing the development within the timeframe (20XX) and meeting 'the policy requirement for the reprovision of existing affordable housing floorspace'.  Put more simply, NHG cannot now meet a timetable they themselves had agreed and cannot, or will not, reprovide the demolished social housing on the new, regenerated estate.
+
+##### A nice little earner for NHG 
+
+NHG will not be walking away from the Aylesbury out of pocket ?  The finacial viability assessment (FVA) tells us that Southwark are giving NHG the Plot 2B land for free, in line with the Development Partnership Agreement beteeen them.  The FVA also tells us that NHG hope for a profit of £36.7m (15% of gross development value).  The £28.8m will pay for the building of 199,935 sq ft - how many sq ft of afforddable housing will there be?
+
+Combined with the £XXm NHG received for the FDS (plus the value of the ZZ units of free-market houisng, look at FVA for sales value0 this means NHG will have received £ZZm from Southwark in return for yyy units of social rented/affordable housing.

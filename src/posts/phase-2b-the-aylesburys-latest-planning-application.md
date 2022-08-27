@@ -17,4 +17,4 @@ NHG is also receiving a £28m grant from the Mayor for the scheme, though it is 
 
 *'Funding will not be available for units that replace homes that have been, or will be, demolished. Where homes have become obsolete the GLA will consider funding these replacement homes in exceptional circumstances, and only as part of a scheme that will increase the number of homes overall'.*
 
-While the overall number of homes, of all tenures are doubling, the loss  NHG emphasis that this application is a 'standalone' application (ref)
+While the overall number of homes is doubling, the loss of social housing within that number means that £28m of public funds is going towards a scheme that replaces only half of the current social housing, while increasing the number of free-market homes from from forty-six leaseholder properties to 369 private homes.

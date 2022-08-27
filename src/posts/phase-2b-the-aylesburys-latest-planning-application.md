@@ -11,11 +11,21 @@ As [Southwark News](https://southwarknews.co.uk/featured/latest-aylesbury-estate
 
 There are a several measures of how much social and affordable housing should be provided on the Aylesbury regeneration.  NHG's proposed schemes meets one of these, but fails others.  There will be 50% affordable housing, and 77% will be social rented (PS 7.19), when measured by habitable rooms and this is in line with the new [Southwark Plan 2022](https://www.southwark.gov.uk/assets/attach/94325/Southwark-Plan-2022.pdf).  But, as NHG themselves note in their planning documents (link) that the Mayor's London Plan requires that '*Affordable housing that is replacing social rent housing must be provided as social rent housing where it is facilitating a right of return for existing tenants'.*  NHG should therefore be providing at least as much social rented floorspace as is being lost, 19,985.3sqm, whereas they only propose 19,113.4sqm, contrary to the London Plan (LP H8; PS 7.43).
 
+##### Viability
+
+NHG’s argument is that more affordable housing is unviable (7.39. 7.40).  It argues that were it to absorb the deficit of £6.69m, the profit margin falls to 12.27% GDV, which is less than other similar schemes.  I think we could respond; so what?  There would still be a profit of around £30m.  We could also point out that NHG are increasing the number of free-market units on the FDS by 33 (60 in total), with another variation application 22/AP/1063, presumably improving profitability.
+
 ##### Compare and contrast
 
 NHG tries to get around their London Plan failure by making a different comparison, between what they now propose and the what would have built under the outline planning permission (OPP) they already hold.  The OPP would have delivered 183 social rented units.  While this new standalone application would have fewer units (163), NHG are quick to point out that there will nonetheless be an increase of 4,557.4sqm in social rent floorspace (with a gain of 20 habitable rooms) because there will be more 3+ bed units. This is true, but it also a false comparison.  NHG are abandoning the OPP for the whole of the regeneration, not just Phase 2B, and so relieving themselves of the obligation of replacing 2,249 social rented homes, under the new Southwark Plan requirements (PS 6.9); the extra social rent floorspace on Phase 2B, with a loss of units and only a small gain of habitable rooms to boot, hardly compensates for this.
 
+##### L&Q versus NHG 
+
 NHT also say  it is ‘important to review this on a site by site basis to understand whether the existing social rented floorspace has been reprovided on each individual site’ (7.35) .  I think we could agree with this statement and go on to show that when this comparison is made, it shows that only the two phases built by L&Q (Phase 1a and Site 7) exceed their  floorspace baselines.  The three NHG phases (Plot 18, the FDS, Phase 2B) all fall below their baselines; see Table 6 -
+
+NHT point out that when Phase 2B is added, that the total floorspace exceeds the baseline by 43.72sqm (7.37), but aside from being a negligible amount, it is only reached because L&Q have built a hefty 5,615.83sqm more than the baseline; by comparison the NHG phases will have delivered 5,601.11 below the baseline.  We should note that Southwark took over the FDS, but I don’t think this undermines the main argument, that it hardly makes sense to allow NHG to build less, because L&Q built more.
+
+
 
 ##### Mayor funds the loss of social housing
 

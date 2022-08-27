@@ -13,8 +13,8 @@ There are a couple of measures of how much social and affordable housing should 
 
 ##### Mayor funds the loss of social housing
 
-NHG is also receiving a £28m grant from the Mayor for the scheme, though it is hard to see how this can be justified.  The Mayor's funding guidance for estate regeneration says;
+NHG is also receiving a £28m grant from the Mayor for the scheme, though it is hard to see how this can be justified.  The Mayor's [funding guidance](https://www.london.gov.uk/sites/default/files/301120_homes_for_londoners_-_funding_guidance-acc1.pdf) for estate regeneration says;
 
 *'Funding will not be available for units that replace homes that have been, or will be, demolished. Where homes have become obsolete the GLA will consider funding these replacement homes in exceptional circumstances, and only as part of a scheme that will increase the number of homes overall'.*
 
-While the overall number of homes is doubling, the loss of social housing within that number means that £28m of public funds is going towards a scheme that replaces only half of the current social housing, while increasing the number of free-market homes from from forty-six leaseholder properties to 369 private homes.
+While the overall number of homes is doubling, the loss of social housing within that number means that £28m of public funds is going towards a scheme that replaces only half of the current social housing, while increasing the number of free-market units from from forty-six leaseholder properties to 369 private homes.

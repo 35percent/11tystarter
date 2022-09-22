@@ -6,4 +6,4 @@ layout: page
 ---
 In 2013, Southwark Council [resolved](https://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?ID=4199) to sell its Salter Road depot and adjacent car park to developer Fairview Homes.
 
-![](img/salterroadmap.png)
+![](https://35percent.org/img/salterroadmap.png)

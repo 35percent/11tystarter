@@ -8,4 +8,4 @@ In 2017, Southwark Council resolved to sell Green Dale Playing Fields to propert
 
 Read more about the scheme [here](https://www.35percent.org/posts/2016-06-08-dulwich-hamlet-unviable-but-profitable/).
 
-![](img/dhfcvisual.png)
+![](https://35percent.org/img/dhfcvisual.png)

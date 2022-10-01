@@ -3,8 +3,12 @@ title: Elephant Park - the final squeeze
 description: "Lendlease set to "
 date: 2022-10-01T09:47:08.673Z
 ---
+Lendlease wants to double the size of its final block on its redevelopment of the Heygate estate and switch from housing to offices.
 
-Lendlease is set to squeeze its redevelopment of 
+
+Southwark Council is set to approve Lendlease's proposal to build a giant office block on the last plot of the demolished Heygate estate.
+
+Lendlease already has approval to build 234? homes 
 
 ![](img/h1finalclg.jpg)
 

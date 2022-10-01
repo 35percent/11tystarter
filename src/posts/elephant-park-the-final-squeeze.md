@@ -3,11 +3,13 @@ title: Elephant Park - Lendlease's final squeeze
 description: Giant office block recommended for approval
 date: 2022-10-01T09:47:08.673Z
 ---
-Lendlease's proposal to build a giant office block on the last plot (H1) of the demolished Heygate estate has been recommended for approval by Southwark Council's planning department. It now goes to the planning committee  for a final decision tomorrow (Tues 4 Oct).
+Lendlease's proposal to build a giant office block on the last plot (H1) of the demolished Heygate estate has been recommended for approval by Southwark Council's planning department. It now goes to the planning committee for a final decision tomorrow (Tues 4 Oct).
+
+If approved the office block will replace the housing that Lendlease promised in 2012, when it won planning approval for Elephant Park. As we reported in a previous blog, Lendlease's original plan for H1 was to build three residential blocks, one of 30-storeys, two of ten-storeys, comprising about 300 homes.
 
 ![](img/screenshot-2022-10-01-at-11-48-17-plot-h1-elephant-park-land-bounded-by-walworth-road-elephant-road-deacon-street-and-sayer-street-north-elephant-and-castle-london-se1.-21_ap_1819-report_to_planning_committee-3558918.pdf.png)
 
-If approved the office block will replace the housing that Lendlease promised and for which it already has planning approval.  As [we reported](https://www.35percent.org/posts/heygate-redevelopment-lendleases-final-squeeze/) in a previous blog, [Lendlease's original plan](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=ZZZV1JKBWR520) for H1 was to build three residential blocks, one of 30-storeys, two of ten-storeys, comprising about 300 homes.
+
 
 According to the committee report for the application the off exceeds the OPP’s footprint parameters and it also
 exceeds the OPP’s massing parameters.

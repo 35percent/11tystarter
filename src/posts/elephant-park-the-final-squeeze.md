@@ -3,7 +3,9 @@ title: Elephant Park - the final squeeze
 description: "Lendlease set to "
 date: 2022-10-01T09:47:08.673Z
 ---
-Lendlease's proposal to build a giant office block on the last plot (H1) of the demolished Heygate estate. Developer Lendlease's planning application is going to planning committee tomorrow (Tues 4th October) with a recommendation to approve.
+Lendlease's proposal to build a giant office block on the last plot (H1) of the demolished Heygate estate has moved one step closer to being realised, by securing a recommendation for approval from Southwark Council.
+
+The application is due to be considered by the planning committee tomorrow (Tues 4th October).
 
 ![](img/screenshot-2022-10-01-at-11-48-17-plot-h1-elephant-park-land-bounded-by-walworth-road-elephant-road-deacon-street-and-sayer-street-north-elephant-and-castle-london-se1.-21_ap_1819-report_to_planning_committee-3558918.pdf.png)
 

@@ -64,3 +64,13 @@ Lendlease has chosen not to fully comply with the 2022 Southwark Plan requiremen
 ### Are the social rents on Elephant Park really social rent?
 
 The Council also has an [outstanding enforcement action](https://planning.southwark.gov.uk/online-applications/enforcementDetails.do?keyVal=RELD9TKB00K01&activeTab=summary) for a social rent property on Elephant Park, to establish whether or not the home is being properly let at a social rent. This raises a question about whether or not social rents are being charged for the hundred Elephant Park social rented units, in accordance with the s106 agreement.  Southwark are getting few enough social rented units out of this development as it is; the Council must make sure that those we have are being let at the correct rent levels.
+
+### What we think – the £13, 854 pcm flat
+
+Lendlease has maximised its gains from the Elephant Park development at every turn – primarily by [building more homes than originally consented](https://www.35percent.org/posts/2020-02-21-heygate-final-chapter-and-chance-for-southwark-to-redeem-itself/), [selling many of them overseas](https://www.35percent.org/posts/2016-11-12-elephant-park-a-populist-narrative/) and by reducing the amount of affordable and social housing.
+
+Lendlease is now able to let a top-end free-market home for a rent of nearly £14,000 per month, making a nonsense of any argument that it was not financially viable to build more affordable and social housing.
+
+Up to now, Southwark Council has meekly accepted any argument Lendlease cared to make to justify all this and [done what it can](https://www.35percent.org/posts/2021-09-12-lendleases-final-plot-for-elephant-park-offices-not-homes/) to give Lendlease’s H1 office proposal a safe passage.
+
+Southwark now has a final chance to redeem itself, by heeding the objectors to Plot H1 and not approving Lendlease’s application on Tuesday evening.  It must also urgently demand another viability assessment, to determine just how much affordable housing Elephant Park can really deliver.

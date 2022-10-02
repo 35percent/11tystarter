@@ -20,3 +20,5 @@ Lendlease says that it has built enough housing on the rest of Elephant Park, to
 Lendlease’s H1 proposal has generated over [500 comments](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=QTPPZDKB03Q00&neighbourCommentsPager.page=2), mostly objections, on a range of issues. Local campaigners and groups (including the 35% Campaign) supported by the [Southwark Law Centre](https://www.southwarklawcentre.org.uk/), have focused on the lack of affordable housing, affordable retail and community space on Elephant Park.  There are also concerns about the proposed health hub and a question mark over the levels of social rent, as well as objections to the design and size of the proposed building and shortfalls in carbon reduction.
 
 ### Use Plot H1 for more affordable housing
+
+Plot H1 is the site of a demolished council estate and as such a brownfield site that should be optimised for housing, according to the Mayor’s [London Plan 2021](https://www.london.gov.uk/what-we-do/planning/london-plan) policy (also called H1).

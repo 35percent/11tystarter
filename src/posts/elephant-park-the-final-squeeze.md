@@ -9,12 +9,9 @@ Lendlease's proposal to build a giant office block on the last plot (H1) of the 
 
 ![](img/screenshot-2022-10-01-at-11-48-17-plot-h1-elephant-park-land-bounded-by-walworth-road-elephant-road-deacon-street-and-sayer-street-north-elephant-and-castle-london-se1.-21_ap_1819-report_to_planning_committee-3558918.pdf.png)
 
-According to the committee report for the application the off exceeds the OPP’s footprint parameters and it also
-exceeds the OPP’s massing parameters.
+The new office block application will be much larger than the abandoned H1 housing development.  According to the [committee report](<https://moderngov.southwark.gov.uk/documents/s109058/Report Plot H1 Elephant Park Land bounded by Walworth Road Elephant Road Deacon Street and Sayer.pdf>) on the office block proposal, it would exceed the housing footprint and have a greater mass.
 
-T﻿he new office block application exceeds 
-
- the size of the housing proposal.   
+Lendlease says that it has built enough housing on the rest of Elephant Park, to allow it to build an office block on H1.  To do this more homes have been [shoehorned into fewer plots](https://www.35percent.org/posts/heygate-redevelopment-lendleases-final-squeeze/), leaving H1 as a ‘spare’ for the office development.
 
 ![](img/screenshot-2022-10-01-at-11-46-10-plot-h1-elephant-park-land-bounded-by-walworth-road-elephant-road-deacon-street-and-sayer-street-north-elephant-and-castle-london-se1.-21_ap_1819-report_to_planning_committee-3558918.pdf.png)
 

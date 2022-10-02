@@ -38,3 +38,7 @@ If there is a health hub it will also only have a short 30-year lease (compared 
 A further concern is the probable loss of the Princess St and Manor Place surgeries, should the hub be built. While it would no doubt provide more up-to-date facilities than the surgeries, the impact for future local health provision and the impact on users of those existing facilities (eg in terms of potentially longer journey distances), beyond the development site, really demands a comprehensive public consultation before, not after, the determination of this application.
 
 Objectors say no decision should be made on the Plot H1 application until all these issues are resolved, one way or another.
+
+### What kind of community space?
+
+The community space provided by Lendlease on Elephant Park is largely taken up by amenities such as a library and nursery).  While this is welcome (though the library appears to have cost Southwark £6m) there is little available for the local community to let at affordable cost, for social and other events. The terms for such rented community space (the so-called Trunk) have been long promised, but not concluded. The Plot H1 application should not be approved unless the community space is improved and leasing and letting arrangements are finalised.

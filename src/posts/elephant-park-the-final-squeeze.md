@@ -56,3 +56,7 @@ A large number of local businesses, most from black and ethnic minority backgrou
 Lendlease has an obligation under the Elephant Park planning permission to help relocate some of these traders by providing affordable retail units and workspace.
 
 Lendlease not yet met that obligation fully, supplying only 902sqm, against a requirement of 960sqm. While this is a relatively small amount, the requirement is a minimum and still leaves many traders without premises, including La Bodeguita, one of the Elephant’s largest independent traders. Arch 7 traders also face relocation. Plot H1 should be used to help as many remaining displaced traders as possible.
+
+### Not enough carbon reduction
+
+Lendlease has chosen not to fully comply with the 2022 Southwark Plan requirement to reduce CO2 by 40%, cutting it instead by 38% and make the difference up with an offset payment.  This is a small shortfall, but if Southwark is to reach its target of being carbon neutral by 2030 the full 40% should be met on-site.  It is also a long way short of [the pledge made in 2009 for the Elephant regeneration](https://www.london-se1.co.uk/news/view/3897) by the Lendlease Europe Chief Executive to be a Climate Positive Development and ‘to strive to reduce the amount of on-site CO2 emissions to below zero’, as a founding project of the Bill Clinton Climate Initiative.

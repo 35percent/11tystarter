@@ -61,7 +61,7 @@ Lendlease has chosen not to fully comply with the 2022 Southwark Plan requiremen
 
 The Council also has an [outstanding enforcement action](https://planning.southwark.gov.uk/online-applications/enforcementDetails.do?keyVal=RELD9TKB00K01&activeTab=summary) for a social rent property on Elephant Park, to establish whether or not the home is being properly let at a social rent. This raises a question about whether or not social rents are being charged for the hundred Elephant Park social rented units, in accordance with the s106 agreement.  Southwark are getting few enough social rented units out of this development as it is; the Council must make sure that those we have are being let at the correct rent levels.
 
-### What we think – the £13, 854 pcm flat
+### What we think
 
 Lendlease has maximised its gains from the Elephant Park development at every turn – primarily by [building more homes than originally consented](https://www.35percent.org/posts/2020-02-21-heygate-final-chapter-and-chance-for-southwark-to-redeem-itself/), [selling many of them overseas](https://www.35percent.org/posts/2016-11-12-elephant-park-a-populist-narrative/) and by reducing the amount of affordable and social housing.
 

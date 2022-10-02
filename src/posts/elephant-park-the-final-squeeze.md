@@ -22,3 +22,5 @@ Lendlease’s H1 proposal has generated over [500 comments](https://planning.sou
 ### Use Plot H1 for more affordable housing
 
 Plot H1 is the site of a demolished council estate and as such a brownfield site that should be optimised for housing, according to the Mayor’s [London Plan 2021](https://www.london.gov.uk/what-we-do/planning/london-plan) policy (also called H1).
+
+Also, while Lendlease have built 2,689 homes on Elephant Park it has only delivered 25% affordable housing and only 100 social rented homes.  Lendlease’s claim in 2012 that they could  only provide those numbers was justified by a [viability assessment](https://www.35percent.org/posts/2015-06-25-heygate-viability-assessment-finally-revealed/) that is now ten years old and which was based on 2,462 units, [two hundred and twenty-seven fewer than the 2,689](https://www.35percent.org/posts/2020-02-21-heygate-final-chapter-and-chance-for-southwark-to-redeem-itself/)  than has actually been built.

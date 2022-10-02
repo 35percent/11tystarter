@@ -60,3 +60,7 @@ Lendlease not yet met that obligation fully, supplying only 902sqm, against a re
 ### Not enough carbon reduction
 
 Lendlease has chosen not to fully comply with the 2022 Southwark Plan requirement to reduce CO2 by 40%, cutting it instead by 38% and make the difference up with an offset payment.  This is a small shortfall, but if Southwark is to reach its target of being carbon neutral by 2030 the full 40% should be met on-site.  It is also a long way short of [the pledge made in 2009 for the Elephant regeneration](https://www.london-se1.co.uk/news/view/3897) by the Lendlease Europe Chief Executive to be a Climate Positive Development and ‘to strive to reduce the amount of on-site CO2 emissions to below zero’, as a founding project of the Bill Clinton Climate Initiative.
+
+### Are the social rents on Elephant Park really social rent?
+
+The Council also has an [outstanding enforcement action](https://planning.southwark.gov.uk/online-applications/enforcementDetails.do?keyVal=RELD9TKB00K01&activeTab=summary) for a social rent property on Elephant Park, to establish whether or not the home is being properly let at a social rent. This raises a question about whether or not social rents are being charged for the hundred Elephant Park social rented units, in accordance with the s106 agreement.  Southwark are getting few enough social rented units out of this development as it is; the Council must make sure that those we have are being let at the correct rent levels.

@@ -36,3 +36,5 @@ Lendlease hopes that the offer of a health hub will sweeten the office block pro
 If there is a health hub it will also only have a short 30-year lease (compared to the 250-year lease granted by Lendlease to Southwark for the Walworth Library, now on Elephant Park).
 
 A further concern is the probable loss of the Princess St and Manor Place surgeries, should the hub be built. While it would no doubt provide more up-to-date facilities than the surgeries, the impact for future local health provision and the impact on users of those existing facilities (eg in terms of potentially longer journey distances), beyond the development site, really demands a comprehensive public consultation before, not after, the determination of this application.
+
+Objectors say no decision should be made on the Plot H1 application until all these issues are resolved, one way or another.

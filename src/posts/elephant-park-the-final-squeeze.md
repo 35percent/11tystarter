@@ -52,3 +52,7 @@ Southwark’s  [Design Review Panel](https://www.southwark.gov.uk/planning-and-b
 ### Any room for displaced traders?
 
 A large number of local businesses, most from black and ethnic minority backgrounds, have been [displaced by the Elephant’s regeneration](https://latinelephant.org/displaced-traders-with-no-relocation/), in particular by the demolition of the shopping centre.
+
+Lendlease has an obligation under the Elephant Park planning permission to help relocate some of these traders by providing affordable retail units and workspace.
+
+Lendlease not yet met that obligation fully, supplying only 902sqm, against a requirement of 960sqm. While this is a relatively small amount, the requirement is a minimum and still leaves many traders without premises, including La Bodeguita, one of the Elephant’s largest independent traders. Arch 7 traders also face relocation. Plot H1 should be used to help as many remaining displaced traders as possible.

@@ -65,8 +65,6 @@ The Council also has an [outstanding enforcement action](https://planning.southw
 
 Lendlease has maximised its gains from the Elephant Park development at every turn – primarily by [building more homes than originally consented](https://www.35percent.org/posts/2020-02-21-heygate-final-chapter-and-chance-for-southwark-to-redeem-itself/), [selling many of them overseas](https://www.35percent.org/posts/2016-11-12-elephant-park-a-populist-narrative/) and by reducing the amount of affordable and social housing.
 
-Lendlease is now able to let a top-end free-market home for a rent of nearly £14,000 per month, making a nonsense of any argument that it was not financially viable to build more affordable and social housing.
-
 Up to now, Southwark Council has meekly accepted any argument Lendlease cared to make to justify all this and [done what it can](https://www.35percent.org/posts/2021-09-12-lendleases-final-plot-for-elephant-park-offices-not-homes/) to give Lendlease’s H1 office proposal a safe passage.
 
 Southwark now has a final chance to redeem itself, by heeding the objectors to Plot H1 and not approving Lendlease’s application on Tuesday evening.  It must also urgently demand another viability assessment, to determine just how much affordable housing Elephant Park can really deliver.

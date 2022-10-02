@@ -28,3 +28,7 @@ Also, while Lendlease have built 2,689 homes on Elephant Park it has only delive
 ### The flat with a £13,854 monthly rent 
 
 The urgent need for a new viability assessment is underscored by the sky-rocketing rents being charged by Lendlease for its latest properties – one 2-bed flat on Park Central West has just come onto the market for [£13,854 per calendar month](https://www.zoopla.co.uk/to-rent/details/62536269/?featured=1&utm_content=featured_listing&search_identifier=837e2bfcd00e8bf07a853fd42f84d27c).
+
+### Will there be a Health hub?
+
+Lendlease hopes that the offer of a health hub will sweeten the office block proposal.  Under the [Southwark Plan 2022](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/new-southwark-plan) Lendlease is obliged to give over 10% of the floorspace to either *‘public health services’* or affordable workspace, in any event, so this is by no means a gift. The [committee report](<https://moderngov.southwark.gov.uk/documents/s109058/Report Plot H1 Elephant Park Land bounded by Walworth Road Elephant Road Deacon Street and Sayer.pdf>) also reveals that the health hub is just the ‘priority option’ and so the hub will not be secured by granting the planning permission, only after further [successful negotiations](https://planning.southwark.gov.uk/online-applications/files/3E107DB92E1C2C8D981676CADEFBDA2E/pdf/21_AP_1819-LETTER_FROM_LENDLEASE_ON_HEALTH_HUB_USE-3485797.pdf) between Lendlease, Southwark and the South East London Integrated Care System (SEL ICS).

@@ -10,11 +10,12 @@ Lendlease's proposal to build a giant office block on the last plot (H1) of the 
 
 ![](https://35percent.org/img/screenshot-2022-10-01-at-11-48-17-plot-h1-elephant-park-land-bounded-by-walworth-road-elephant-road-deacon-street-and-sayer-street-north-elephant-and-castle-london-se1.-21_ap_1819-report_to_planning_committee-3558918.pdf.png)
 
-The new office block application will be much larger than the abandoned H1 housing development.  According to the [committee report](https://moderngov.southwark.gov.uk/documents/s109058/Report Plot H1 Elephant Park Land bounded by Walworth Road Elephant Road Deacon Street and Sayer.pdf) on the office block proposal, it would exceed the housing footprint and have a greater mass.
+The new office block application will be much larger than the abandoned H1 housing development.  According to the [committee report](https://moderngov.southwark.gov.uk/documents/s109058/Report) on the office block proposal, it would exceed the housing footprint and have a greater mass.
 
 Lendlease says that it has built enough housing on the rest of Elephant Park, to allow it to build an office block on H1.  To do this more homes have been [shoehorned into fewer plots](https://www.35percent.org/posts/heygate-redevelopment-lendleases-final-squeeze/), leaving H1 as a ‘spare’ for the office development.
 
 ![](https://35percent.org/img/screenshot-2022-10-01-at-11-46-10-plot-h1-elephant-park-land-bounded-by-walworth-road-elephant-road-deacon-street-and-sayer-street-north-elephant-and-castle-london-se1.-21_ap_1819-report_to_planning_committee-3558918.pdf.png)
+* Left- the consented scheme (36,000sqm); Right - the proposed office block (64,000sqm).*
 
 ### The objections
 
@@ -24,7 +25,7 @@ Lendlease’s H1 proposal has generated over [500 comments](https://planning.sou
 
 Plot H1 is the site of a demolished council estate and as such a brownfield site that should be optimised for housing, according to the Mayor’s [London Plan 2021](https://www.london.gov.uk/what-we-do/planning/london-plan) policy (also called H1).
 
-Also, while Lendlease have built 2,689 homes on Elephant Park it has only delivered 25% affordable housing,  including only 100 social rented homes, much less than the 35% required,.  Lendlease’s claim in 2012 that they could  only provide those numbers was justified by a [viability assessment](https://www.35percent.org/posts/2015-06-25-heygate-viability-assessment-finally-revealed/) that is now ten years old and which was based on 2,462 units, [two hundred and twenty-seven fewer than the 2,689](https://www.35percent.org/posts/2020-02-21-heygate-final-chapter-and-chance-for-southwark-to-redeem-itself/)  than has actually been built.  There should be a new viability assessment, on the basis of the actual number of units delivered, to ensure the maximum amount of affordable housing, in particular social rented housing, is built on Elephant Park.   
+Also, while Lendlease have built 2,689 homes on Elephant Park it has only delivered 25% affordable housing,  including only 100 social rented homes, much less than the 35% required.  Lendlease’s claim in 2012 that they could  only provide those numbers was justified by a [viability assessment](https://www.35percent.org/posts/2015-06-25-heygate-viability-assessment-finally-revealed/) that is now ten years old and which was based on 2,462 units, [two hundred and twenty-seven fewer than the 2,689](https://www.35percent.org/posts/2020-02-21-heygate-final-chapter-and-chance-for-southwark-to-redeem-itself/)  than has actually been built.  There should be a new viability assessment, on the basis of the actual number of units delivered, to ensure the maximum amount of affordable housing, in particular social rented housing, is built on Elephant Park.   
 
 ### Will there be a Health hub?
 
@@ -38,13 +39,13 @@ Objectors say no decision should be made on the Plot H1 application until all th
 
 ### What kind of community space?
 
-The community space provided by Lendlease on Elephant Park is largely taken up by amenities such as a library and nursery).  While this is welcome (though the library appears to have [cost Southwark £6m](<cost Southwark £6m>)) there is little available for the local community to let at affordable cost, for social and other events. The terms for such rented community space (the so-called Trunk) have been long promised, but not concluded. The Plot H1 application should not be approved unless the community space is improved and leasing and letting arrangements are finalised.
+The community space provided by Lendlease on Elephant Park is largely taken up by amenities such as a library and nursery.  While this is welcome (although the library appears to have been purchased by Southwark [for £6m]), there is little available for the local community to let at affordable cost, for social and other events. The terms for such rented community space (the so-called Trunk) have been long promised, but not concluded. The Plot H1 application should not be approved unless the community space is improved and leasing and letting arrangements are finalised.
 
 ### Better design and less mass needed
 
 Lendlease’s proposes a building higher and larger than that which would have been built, had they stuck to their original promise of building new homes.  This housing was also designed after extensive local consultation, which has now completely fallen by the wayside. The proposed office floorspace is nearly [ten times greater](https://www.35percent.org/posts/2021-09-12-lendleases-final-plot-for-elephant-park-offices-not-homes/) than that which would have been allowed before the adoption of the 2022 Southwark Plan  and will have nearly double the floorspace than originally planned.  The proposed building will dominate views and reduce sunlight in Elephant Park and have severe negative impacts on neighbouring buildings.
 
-Southwark’s  [Design Review Panel](https://www.southwark.gov.uk/planning-and-building-control/design-and-conservation/design-review-panel) has also said that the proposed building had an ‘overly bulky character’ and had concerns about the deep plan design; it invited Lendlease to return to them, but this has not happened, according to the [committee report](<https://moderngov.southwark.gov.uk/documents/s109058/Report Plot H1 Elephant Park Land bounded by Walworth Road Elephant Road Deacon Street and Sayer.pdf>).  Objectors say that the proposal should be returned to the Design Review Panel for its further opinion, before any decision on the application is made.
+Southwark’s [Design Review Panel](https://www.southwark.gov.uk/planning-and-building-control/design-and-conservation/design-review-panel) has also said that the proposed building had an ‘overly bulky character’ and had concerns about the deep plan design; it invited Lendlease to return to them, but this has not happened, according to the [committee report](<https://moderngov.southwark.gov.uk/documents/s109058/Report Plot H1 Elephant Park Land bounded by Walworth Road Elephant Road Deacon Street and Sayer.pdf>).  Objectors say that the proposal should be returned to the Design Review Panel for its further opinion, before any decision on the application is made.
 
 ### Any room for displaced traders?
 
@@ -52,7 +53,7 @@ A large number of local businesses, most from black and ethnic minority backgrou
 
 Lendlease has an obligation under the Elephant Park planning permission to help relocate some of these traders by providing affordable retail units and workspace.
 
-Lendlease not yet met that obligation fully, supplying only 902sqm, against a requirement of 960sqm. While this is a relatively small amount, the requirement is a minimum and still leaves many traders without premises, including La Bodeguita, one of the Elephant’s largest independent traders. Arch 7 traders also face relocation. Plot H1 should be used to help as many remaining displaced traders as possible.
+Lendlease has not yet met that obligation fully, supplying only 902sqm, against a requirement of 960sqm. While this is a relatively small amount, the requirement is a minimum and still leaves many traders without premises, including La Bodeguita, one of the Elephant’s largest independent traders. Arch 7 traders also face relocation. Plot H1 should be used to help as many remaining displaced traders as possible.
 
 ### Not enough carbon reduction
 

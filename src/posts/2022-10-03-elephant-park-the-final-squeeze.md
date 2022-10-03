@@ -17,6 +17,8 @@ Lendlease says that it has built enough housing on the rest of Elephant Park, to
 ![](https://35percent.org/img/screenshot-2022-10-01-at-11-46-10-plot-h1-elephant-park-land-bounded-by-walworth-road-elephant-road-deacon-street-and-sayer-street-north-elephant-and-castle-london-se1.-21_ap_1819-report_to_planning_committee-3558918.pdf.png)
 * Left- the consented scheme (36,000sqm); Right - the proposed office block (64,000sqm).*
 
+Were Lendlease to continue its plan for housing on H1, it would be required to submit a viability assessment, which would open up the question of affordable housing provision across the scheme.
+
 ### The objections
 
 Lendlease’s H1 proposal has generated over [500 comments](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=neighbourComments&keyVal=QTPPZDKB03Q00&neighbourCommentsPager.page=2), mostly objections, on a range of issues. Local campaigners and groups (including the 35% Campaign) supported by the [Southwark Law Centre](https://www.southwarklawcentre.org.uk/), have focused on the lack of affordable housing, affordable retail and community space on Elephant Park.  There are also concerns about the proposed health hub and a question mark over the levels of social rent, as well as objections to the design and size of the proposed building and shortfalls in carbon reduction.
@@ -83,4 +85,7 @@ Lendlease has maximised its gains from the Elephant Park development at every tu
 
 Up to now, Southwark Council has meekly accepted any argument Lendlease cared to make to justify all this and [done what it can](https://www.35percent.org/posts/2021-09-12-lendleases-final-plot-for-elephant-park-offices-not-homes/) to give Lendlease’s H1 office proposal a safe passage.
 
-Southwark now has a final chance to redeem itself, by heeding the objectors to Plot H1 and not approving Lendlease’s application on Tuesday evening.  It must also urgently demand another viability assessment, to determine just how much affordable housing Elephant Park can really deliver.
+Southwark now has a final chance to redeem itself, by heeding the objectors to Plot H1 and not approving Lendlease’s application on Tuesday evening.  It must also urgently demand another viability assessment, to determine just how much affordable housing Elephant Park can really deliver. The is Southwark's last chance to claw something back from the disastrous redevelopment of the Heygate estate. The decision now lies in the hands of the planning committee - all eyes will be on them! 
+
+![](https://35percent.org/img/planningcommitteecouncillors.png)
+*Southwark Council's Planning Committee*

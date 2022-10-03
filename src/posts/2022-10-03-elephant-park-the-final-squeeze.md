@@ -35,6 +35,9 @@ If there is a health hub it will also only have a short 30-year lease (compared 
 
 A further concern is the probable loss of the Princess St and Manor Place surgeries, should the hub be built. While it would no doubt provide more up-to-date facilities than the surgeries, the impact for future local health provision and the impact on users of those existing facilities (eg in terms of potentially longer journey distances), beyond the development site, really demands a comprehensive public consultation before, not after, the determination of this application.
 
+![](https://35percent.org/img/surgeries.png)
+*Neighbouring Princess St Surgery and Manor Place Surgeries at risk of being replaced rather than complemented by any new health facility.*
+
 Objectors say no decision should be made on the Plot H1 application until all these issues are resolved, one way or another.
 
 ### What kind of community space?
@@ -51,17 +54,24 @@ Southwark’s [Design Review Panel](https://www.southwark.gov.uk/planning-and-bu
 
 A large number of local businesses, most from black and ethnic minority backgrounds, have been [displaced by the Elephant’s regeneration](https://latinelephant.org/displaced-traders-with-no-relocation/), in particular by the demolition of the shopping centre.
 
+![](https://www.35percent.org/img/traderscomp.jpeg)
+
 Lendlease has an obligation under the Elephant Park planning permission to help relocate some of these traders by providing affordable retail units and workspace.
 
 Lendlease has not yet met that obligation fully, supplying only 902sqm, against a requirement of 960sqm. While this is a relatively small amount, the requirement is a minimum and still leaves many traders without premises, including La Bodeguita, one of the Elephant’s largest independent traders. Arch 7 traders also face relocation. Plot H1 should be used to help as many remaining displaced traders as possible.
 
 ### Not enough carbon reduction
+Instead of passive heating or heat pumps, which tend to be the norm in most new developments, the office block will be heated by a central gas boiler.
 
-Lendlease has chosen not to fully comply with the 2022 Southwark Plan requirement to reduce CO2 by 40%, cutting it instead by 38% and make the difference up with an offset payment.  This is a small shortfall, but if Southwark is to reach its target of being carbon neutral by 2030 the full 40% should be met on-site.  It is also a long way short of [the pledge made in 2009 for the Elephant regeneration](https://www.london-se1.co.uk/news/view/3897) by the Lendlease Europe Chief Executive to be a Climate Positive Development and ‘to strive to reduce the amount of on-site CO2 emissions to below zero’, as a founding project of the Bill Clinton Climate Initiative.
+In addition, Lendlease has chosen not to fully comply with the 2022 Southwark Plan's minimum requirement to reduce CO2 by 40%, cutting it instead by 38% and make the difference up with an offset payment of £1.2m.  This is a small shortfall, but if Southwark is to reach its target of being carbon neutral by 2030 the full 40% should be met on-site.  It is also a long way short of [the pledge made in 2009 for the Elephant regeneration](https://www.london-se1.co.uk/news/view/3897) by the Lendlease Europe Chief Executive to be a Climate Positive Development and ‘to strive to reduce the amount of on-site CO2 emissions to below zero’, as a founding project of the Bill Clinton Climate Initiative.
 
 ### Are the social rents on Elephant Park really social rent?
 
 The Council also has an [outstanding enforcement action](https://planning.southwark.gov.uk/online-applications/enforcementDetails.do?keyVal=RELD9TKB00K01&activeTab=summary) for a social rent property on Elephant Park, to establish whether or not the home is being properly let at a social rent. This raises a question about whether or not social rents are being charged for the hundred Elephant Park social rented units, in accordance with the s106 agreement.  Southwark are getting few enough social rented units out of this development as it is; the Council must make sure that those we have are being let at the correct rent levels.
+
+![](https://www.35percent.org/img/arexampless.png)
+
+We have [written about this problem since 2016](https://35percent.org/redefining-social-rent) and Southwark still has no effective system for monitoring the rent levels of social rented housing managed by RSLs.
 
 ### What we think
 

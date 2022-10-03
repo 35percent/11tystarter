@@ -63,6 +63,10 @@ Lendlease has not yet met that obligation fully, supplying only 902sqm, against 
 ### Not enough carbon reduction
 Instead of passive heating or heat pumps, which tend to be the norm in most new developments, the office block will be heated by a central gas boiler.
 
+![](https://35percent.org/elephantparkmarketing.jpg)
+
+This is despite the development being [selected](https://thefifthestate.com.au/innovation/residential-2/lendleases-elephant-park-sustainability/) as one of only 19 schemes worldwide, which claim to be 'zero carbon or carbon positive' and provide an example of sustainable development.
+
 In addition, Lendlease has chosen not to fully comply with the 2022 Southwark Plan's minimum requirement to reduce CO2 by 40%, cutting it instead by 38% and make the difference up with an offset payment of £1.2m.  This is a small shortfall, but if Southwark is to reach its target of being carbon neutral by 2030 the full 40% should be met on-site.  It is also a long way short of [the pledge made in 2009 for the Elephant regeneration](https://www.london-se1.co.uk/news/view/3897) by the Lendlease Europe Chief Executive to be a Climate Positive Development and ‘to strive to reduce the amount of on-site CO2 emissions to below zero’, as a founding project of the Bill Clinton Climate Initiative.
 
 ### Are the social rents on Elephant Park really social rent?

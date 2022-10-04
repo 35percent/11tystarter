@@ -15,7 +15,7 @@ The new office block application will be much larger than the abandoned H1 housi
 Lendlease says that it has built enough housing on the rest of Elephant Park, to allow it to build an office block on H1.  To do this more homes have been [shoehorned into fewer plots](https://www.35percent.org/posts/heygate-redevelopment-lendleases-final-squeeze/), leaving H1 as a ‘spare’ for the office development.
 
 ![](https://35percent.org/img/screenshot-2022-10-01-at-11-46-10-plot-h1-elephant-park-land-bounded-by-walworth-road-elephant-road-deacon-street-and-sayer-street-north-elephant-and-castle-london-se1.-21_ap_1819-report_to_planning_committee-3558918.pdf.png)
-* Left- the consented scheme (36,000sqm); Right - the proposed office block (64,000sqm).*
+*Left- the consented scheme (36,000sqm); Right - the proposed office block (64,000sqm).*
 
 Were Lendlease to continue its plan for housing on H1, it would be required to submit a viability assessment, which would open up the question of affordable housing provision across the scheme.
 
@@ -85,7 +85,7 @@ Lendlease has maximised its gains from the Elephant Park development at every tu
 
 Up to now, Southwark Council has meekly accepted any argument Lendlease cared to make to justify all this and [done what it can](https://www.35percent.org/posts/2021-09-12-lendleases-final-plot-for-elephant-park-offices-not-homes/) to give Lendlease’s H1 office proposal a safe passage.
 
-Southwark now has a final chance to redeem itself, by heeding the objectors to Plot H1 and not approving Lendlease’s application on Tuesday evening.  It must also urgently demand another viability assessment, to determine just how much affordable housing Elephant Park can really deliver. The is Southwark's last chance to claw something back from the disastrous redevelopment of the Heygate estate. The decision now lies in the hands of the planning committee - all eyes will be on them! 
+Southwark now has a final chance to redeem itself, by heeding the objectors to Plot H1 and not approving Lendlease’s application on Tuesday evening.  It must also urgently demand another viability assessment, to determine just how much affordable housing Elephant Park can really deliver. The is Southwark's last chance to claw something back from the disastrous redevelopment of the Heygate estate. The decision now lies in the hands of the planning committee - all eyes are on them! 
 
 ![](https://35percent.org/img/planningcommitteecouncillors.png)
 *Southwark Council's Planning Committee*

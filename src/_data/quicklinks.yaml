@@ -1,17 +1,21 @@
 ---
 links:
+  - title: Southwark's estate demolitions
+    url: "../estate/"
+    desc: Over four thousand council homes lost to date with a further two thousand still earmarked for demolition.
+    image: ../img/acorndemolitionthumb.jpg 
+  - title: Selling off council land and buildings
+    url: "../disposal/"
+    desc: Southwark countinues to sell off public buildings and much-need public land.
+    image: ../img/mandelaway.jpg
+  - title: Selling off council homes
+    url: "../void-disposals/"
+    desc: Southwark countinues to sell off council homes.
+    image: ../img/samplecouncilhomessold.png
   - title: Social or affordable rent?
     url: "/redefining-social-rent"
     desc: Southwark continues to turn a blind eye to housing associations charging up to 80% market rent for social rented homes.
     image: ../img/arthumb.jpg
-  - title: Southwark's estate demolitions
-    url: "../estate/"
-    desc: Over four thousand council homes lost to date with a further two thousand still earmarked for demolition.
-    image: ../img/acorndemolitionthumb.jpg
-  - title: Sell offs and public land sales
-    url: "../disposal/"
-    desc: Southwark countinues to sell off public buildings and much-need public land.
-    image: ../img/mandelaway.jpg
   - title: Southwark's 11,000 new council homes
     url: "/new-council-homes"
     desc: Demolitions continue to outsrip Southwark's new-build programme

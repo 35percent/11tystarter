@@ -3,11 +3,11 @@ title: Elephant Park office block rejected
 description: Planning committee vote down Lendlease application
 date: 2022-10-17T06:51:54.942Z
 ---
-Southwark Council's planning committee rejected Lendlease's planning application for a giant office block by a unanimous 7-0 vote against the proposal last Tues (4 Oct).  The vote followed a four and half meeting, including a 50 minute closed session, when the committee considered the appliction in the abscence of the public.
+Southwark Council's planning committee rejected Lendlease's planning application for a giant office block on the final plot (H1) of Elephant Park, by a unanimous 7-0 vote against the proposal on Tues 4 Oct.  The vote followed a four and half meeting, including a 50 minute closed session, when the committee considered the appliction in the abscence of the public.
 
-The [reasons for the decision](https://moderngov.southwark.gov.uk/documents/g7303/Printed%20minutes%20Tuesday%2004-Oct-2022%2018.30%20Planning%20Committee.pdf?T=1) were that *'the excessive height, massing and bulk of the application would cause harm to the character and appearance of Elephant Road, Elephant Park and Walworth Road'* and that the office block *'would cause unacceptable harm to the neighbouring amenity due to loss of daylight'*, contrary to Southwark's planning policies and the Mayor's London Plan.'
+The [reasons for the decision](https://moderngov.southwark.gov.uk/documents/g7303/Printed%20minutes%20Tuesday%2004-Oct-2022%2018.30%20Planning%20Committee.pdf?T=1) were that *'the excessive height, massing and bulk of the application would cause harm to the character and appearance of Elephant Road, Elephant Park and Walworth Road'* and that the office block *'would cause unacceptable harm to the neighbouring amenity due to loss of daylight'*, contrary to Southwark's planning policies and the Mayor's London Plan.
 
-The 
+The committee made its decison after hearing from both Lendlease and objectors, including Southwark Law Centre, the Walworth Society, the 35% Campaign and local residents.  As well as objecting to the size of the office block, (double that of a previous
 
 
 

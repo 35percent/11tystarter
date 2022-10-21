@@ -1,6 +1,6 @@
 ---
-title: Elephant Park office block rejected
-description: Planning committee vote down Lendlease application
+title: Lendlease’s Elephant office block rejected.
+description: Objectors call on Mayor to respect planning committee'sdecision.
 date: 2022-10-17T06:51:54.942Z
 ---
 Southwark Council's planning committee rejected Lendlease's [planning application for a giant office block](https://www.35percent.org/posts/2021-09-12-lendleases-final-plot-for-elephant-park-offices-not-homes/) on the final plot (H1) of Elephant Park, by a unanimous 7-0 vote against the proposal on Tues 4 Oct.  The vote followed a four and half meeting, including a 50 minute closed session, when the committee considered the appliction in the abscence of the public.

@@ -33,4 +33,4 @@ We know how easily, though, such assessments can be manipulated to reduce afford
 
 This is the message that the Mayor should give Lendlease
 
-(Good reports on the decision and meeting can be found [SE1](https://se1direct.us1.list-manage.com/track/click?u=c9e47e62fc585738905a6b0c1&id=790b169c64&e=b62d87bbbf), [Southwark News](https://southwarknews.co.uk/news/housing/towering-office-block-application-for-elephant-park-refused-by-southwark-council/) and the Australian [Financial Review](https://www.afr.com/property/commercial/council-rejects-last-piece-of-4-4b-lendlease-london-landmark-20221009-p5bo9g)).
+(Good reports on the decision and meeting can be found on these links -  [SE1](https://se1direct.us1.list-manage.com/track/click?u=c9e47e62fc585738905a6b0c1&id=790b169c64&e=b62d87bbbf), [Southwark News](https://southwarknews.co.uk/news/housing/towering-office-block-application-for-elephant-park-refused-by-southwark-council/) and the Australian [Financial Review](https://www.afr.com/property/commercial/council-rejects-last-piece-of-4-4b-lendlease-london-landmark-20221009-p5bo9g)).

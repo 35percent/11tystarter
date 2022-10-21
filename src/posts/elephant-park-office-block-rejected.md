@@ -11,19 +11,23 @@ Harpreet Aujla, of SLC, says in the letter *‘It is hoped that the local, democ
 
 ### Health hub worries
 
-Objectors were also worried about the knock-on effects of a proposed health hub, which would have occupied part of the office building.  The letter says that *‘would have impacts for health care delivery for the whole of Walworth, which were not properly addressed by the application.’*  The planning committee heard how the hub would be instead of affordable workspace and would serve those using the Princess Street and Manor Place surgeries.  The Mayor has been asked that there be a full public consultation on what this might mean, before any planning permission is considered.   
+Objectors were also worried about the knock-on effects of a proposed health hub, which would have occupied part of the office building.  The letter says that *‘would have impacts for health care delivery for the whole of Walworth, which were not properly addressed by the application.’*  The planning committee heard how the hub would be instead of affordable workspace and would serve those using the Princess Street and Manor Place surgeries.  SLC has asked the Mayor for a full public consultation on what this might mean, before any planning permission is considered.
 
-The committee made its decison after hearing from both Lendlease and objectors, including Southwark Law Centre, the Walworth Society, the 35% Campaign and local residents.  As well as objecting to the size and design of the office block, ([double that of Lendlease's previous proposal](https://www.35percent.org/posts/2022-10-03-elephant-park-the-final-squeeze/)), objectors raised concerns about the lack of affordable retail and community space on Elephant Park, Lendlease's failure to meet onsite carbon reduction targets and the level of Elephant Park's social rents.  There was also much discussion about the the proposed health hub, a key part of the application, on what exactly would be delivered and on what terms, as well as its knock effects for Princess St and Manor Place surgeries.
+### Sustainable or not? 
 
-### Schools and 'bright shiny buildings'
+The SLC letter also takes up various green and sustainability issues, some of which had been raised by the Mayor's own officers, such as *'a lack of rainwater harvesting and a green roof'* and *'issues with sustainable drainage strategies'*.  Nor was there evidence of a net biodiversity gain from the scheme, with a diversity loss, should the wildflower meadow presently on site disappear.  The proposed scheme also includes no renewable energy or decarbonised heat sources in the design and comes with no proposals to decarbonise the estate, in line with the Mayor’s London Plan 2021 policies.
 
-This application was resoundingly rejected by Southwark’s planning committee on the good grounds of its huge size and the impact that would have on the local area and homes.  A health hub would be very welcome, but people need to know more about what this will mean for the future of Princess Street and Manor Place surgeries Decisions about the hub should not be driven by the developer's ambitions and without consideration about the wider social impacts.  The danger of this is well illustrated by the plight of schools in regeneration areas, many of which are facing closure due to falling rolls; the local headteacher of Victory Primary School, right next door to Elephant Park, has little doubt about the [negative impact on her own school of 'bright shiny buildings'](https://southwarknews.co.uk/news/education/exclusive-headteacher-slams-regeneration-policy-as-southwark-schools-crisis-mounts/), with little real affordable housing. 
+### Local schools and 'bright shiny buildings'
+
+This application was resoundingly rejected by Southwark’s planning committee on the good grounds of its huge size and the impact that would have on the local area and homes and the Mayor should support this.  A health hub would be very welcome, but people need to know more about what this will mean for the future of Princess Street and Manor Place surgeries Decisions about the hub should not be driven by the developer's ambitions and without consideration about the wider social impacts.  The danger of this is well illustrated by the plight of schools in regeneration areas, many of which are facing closure due to falling rolls; the local headteacher of Victory Primary School, right next door to Elephant Park, has little doubt about the [negative impact on her own school of 'bright shiny buildings'](https://southwarknews.co.uk/news/education/exclusive-headteacher-slams-regeneration-policy-as-southwark-schools-crisis-mounts/), with little real affordable housing. 
 
 ### Lendlease owes Southwark affordable and social rented housing
 
 Elephant Park is notorious for only delivering 25% affordable housing, not 35%, and only having 100 social rented homes (whose rent is being investigated).  The justification for this is a viability assessment that is 10 years old and based on about 200 fewer units than have actually been built, so the case for a new assessment to see whether more affordable housing can be provided is obvious.
 
 We know how easily, though, such assessments can be manipulated to reduce affordable housing, so they cannot be relied upon.  Lendlease should simply use H1 to build housing and make up the affordable housing shortfall from the rest of the development.  There is no reason that this could not also provide a health hub too, properly developed and designed to meet the needs of the local community.  There should also be room for the affordable community space which is also lacking elsewhere on Elephant Park.
+
+This is the message that the Mayor should now give Lendlease
 
 
 
@@ -36,6 +40,8 @@ We know how easily, though, such assessments can be manipulated to reduce afford
 
 
 Too many of these decisions are being driven by developer's ambitions and without sufficient consideration of their wider social impact, as illustrated by the threat to local schools, highlighted by headteachers in this week's Southwark News
+
+The committee made its decison after hearing from both Lendlease and objectors, including Southwark Law Centre, the Walworth Society, the 35% Campaign and local residents.  As well as objecting to the size and design of the office block, ([double that of Lendlease's previous proposal](https://www.35percent.org/posts/2022-10-03-elephant-park-the-final-squeeze/)), objectors raised concerns about the lack of affordable retail and community space on Elephant Park, Lendlease's failure to meet onsite carbon reduction targets and the level of Elephant Park's social rents.  There was also much discussion about the the proposed health hub, a key part of the application, on what exactly would be delivered and on what terms, as well as its knock effects for Princess St and Manor Place surgeries.
 
 
 

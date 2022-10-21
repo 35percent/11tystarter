@@ -5,7 +5,7 @@ date: 2022-10-17T06:51:54.942Z
 ---
 The Southwark Law Centre (SLC) has written to London Mayor Sadiq Khan asking him to respect Southwark Council’s decision to reject developer Lendlease’s [plans to build a giant office block](https://www.35percent.org/posts/2021-09-12-lendleases-final-plot-for-elephant-park-offices-not-homes/) on the final plot (H1) of Elephant Park, at the Elephant and Castle. 
 
-SLC sent the letter on behalf of objectors to the scheme, which was unanimously rejected by Southwark Council’s planning committee on the 4 Oct.  The vote followed a four and half meeting, including a 50 minute closed session, when the committee considered the appliction in the abscence of the public.  The scheme has now been referred to the Mayor, who has the option of allowing the decision to stand or ‘calling in’ the proposal, to make a decision himself.  Objectors (including the 35% Campaign, the Walworth Society and local residents) fear that this could open the door to the office block being approved against the wishes of the local community.
+SLC sent the letter on behalf of objectors to the scheme, which was unanimously rejected by Southwark Council’s [planning committee on the 4 Oct](https://www.youtube.com/watch?v=cuaEbg9sUyY).  The vote followed a four and half meeting, including a 50 minute closed session, when the committee considered the application in the absence of the public.  The scheme has now been referred to the Mayor, who has the option of allowing the decision to stand or ‘calling in’ the proposal, to make a decision himself.  Objectors (including the 35% Campaign, the Walworth Society and local residents) fear that this could open the door to the office block being approved against the wishes of the local community.
 
 Harpreet Aujla, of SLC, says in the letter *‘It is hoped that the local, democratic process will be respected, especially so given the history of regeneration and community input in Elephant and Castle.’*   The letter points out that the application was [rejected because](https://moderngov.southwark.gov.uk/documents/g7303/Printed%20minutes%20Tuesday%2004-Oct-2022%2018.30%20Planning%20Committee.pdf?T=1) the *‘excessive height, massing and bulk of the application would cause harm to the character and appearance*’ of the local area and that it *‘would cause unacceptable harm to the neighbouring amenity due to loss of daylight’,* contrary to Southwark's planning policies and the Mayor's London Plan.
 
@@ -17,9 +17,13 @@ Objectors were also worried about the knock-on effects of a proposed health hub,
 
 The SLC letter also takes up various green and sustainability issues, some of which had been raised by the Mayor's own officers, such as *'a lack of rainwater harvesting and a green roof'* and *'issues with sustainable drainage strategies'*.  Nor was there evidence of a net biodiversity gain from the scheme, with a diversity loss, should the wildflower meadow presently on site disappear.  The proposed scheme also includes no renewable energy or decarbonised heat sources in the design and comes with no proposals to decarbonise the estate, in line with the Mayor’s London Plan 2021 policies.
 
-### Local schools and 'bright shiny buildings'
+### What we think...local schools and 'bright shiny buildings'
 
-This application was resoundingly rejected by Southwark’s planning committee on the good grounds of its huge size and the impact that would have on the local area and homes and the Mayor should support this.  A health hub would be very welcome, but people need to know more about what this will mean for the future of Princess Street and Manor Place surgeries Decisions about the hub should not be driven by the developer's ambitions and without consideration about the wider social impacts.  The danger of this is well illustrated by the plight of schools in regeneration areas, many of which are facing closure due to falling rolls; the local headteacher of Victory Primary School, right next door to Elephant Park, has little doubt about the [negative impact on her own school of 'bright shiny buildings'](https://southwarknews.co.uk/news/education/exclusive-headteacher-slams-regeneration-policy-as-southwark-schools-crisis-mounts/), with little real affordable housing. 
+The Mayor must uphold the planning committee's decision to reject Lendlease's outsized proposal for on office block. 
+
+The committee resoundingly rejected the application on the good grounds of its huge size and the impact that would have on the local area and residents and the Mayor should support this.  A health hub would be very welcome, but people need to know more about what this will mean for the future of Princess Street and Manor Place surgeries. 
+
+Decisions about the hub should also not be driven by the developer's ambitions and without consideration about the wider social impacts.  The danger of this is well illustrated by the plight of schools in regeneration areas, many of which are facing closure due to falling rolls; the local headteacher of Victory Primary School, right next door to Elephant Park, has little doubt about the [negative impact on her own school of 'bright shiny buildings'](https://southwarknews.co.uk/news/education/exclusive-headteacher-slams-regeneration-policy-as-southwark-schools-crisis-mounts/), with little real affordable housing; a giant office block will not improve the situation.
 
 ### Lendlease owes Southwark affordable and social rented housing
 
@@ -27,28 +31,6 @@ Elephant Park is notorious for only delivering 25% affordable housing, not 35%, 
 
 We know how easily, though, such assessments can be manipulated to reduce affordable housing, so they cannot be relied upon.  Lendlease should simply use H1 to build housing and make up the affordable housing shortfall from the rest of the development.  There is no reason that this could not also provide a health hub too, properly developed and designed to meet the needs of the local community.  There should also be room for the affordable community space which is also lacking elsewhere on Elephant Park.
 
-This is the message that the Mayor should now give Lendlease
+This is the message that the Mayor should give Lendlease
 
-
-
-
-
-
-
- There were other significant objections too, particularly around the lack of housing, lack of affordable community space and the development's green credentials  and whatever Lendlease might say, we need housing on H1, not offices.  
-
-
-
-Too many of these decisions are being driven by developer's ambitions and without sufficient consideration of their wider social impact, as illustrated by the threat to local schools, highlighted by headteachers in this week's Southwark News
-
-The committee made its decison after hearing from both Lendlease and objectors, including Southwark Law Centre, the Walworth Society, the 35% Campaign and local residents.  As well as objecting to the size and design of the office block, ([double that of Lendlease's previous proposal](https://www.35percent.org/posts/2022-10-03-elephant-park-the-final-squeeze/)), objectors raised concerns about the lack of affordable retail and community space on Elephant Park, Lendlease's failure to meet onsite carbon reduction targets and the level of Elephant Park's social rents.  There was also much discussion about the the proposed health hub, a key part of the application, on what exactly would be delivered and on what terms, as well as its knock effects for Princess St and Manor Place surgeries.
-
-
-
-[SE1](https://se1direct.us1.list-manage.com/track/click?u=c9e47e62fc585738905a6b0c1&id=790b169c64&e=b62d87bbbf), [Southwark News](https://southwarknews.co.uk/news/housing/towering-office-block-application-for-elephant-park-refused-by-southwark-council/) and [Australian reports](https://www.afr.com/property/commercial/council-rejects-last-piece-of-4-4b-lendlease-london-landmark-20221009-p5bo9g).
-
-### What next - homes and health hub, plus affordable community space
-
-Viability assessment
-
-[YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjs6vn52eb6AhUXTkEAHTczBzkQwqsBegQICRAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcuaEbg9sUyY&usg=AOvVaw22Kgi_RnFRaMmasoC5KxhH)
+(Good reports on the decision and meeting can be found [SE1](https://se1direct.us1.list-manage.com/track/click?u=c9e47e62fc585738905a6b0c1&id=790b169c64&e=b62d87bbbf), [Southwark News](https://southwarknews.co.uk/news/housing/towering-office-block-application-for-elephant-park-refused-by-southwark-council/) and the Australian [Financial Review](https://www.afr.com/property/commercial/council-rejects-last-piece-of-4-4b-lendlease-london-landmark-20221009-p5bo9g)).

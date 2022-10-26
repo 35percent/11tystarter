@@ -39,7 +39,7 @@ We know how easily, though, such assessments can be [manipulated to reduce affor
 
 ### Could Southwark buy the H1 land?
 
-Alternatively, given that Lendleases are treating plot H1 as [surplus to Elephant Park's housing requirements](https://www.35percent.org/posts/heygate-redevelopment-lendleases-final-squeeze/), Southwark could consider taking over H1 themselves, to build council homes, towards meeting its 11,000 council homes pledge.  According to Land registry records it looks as if Southwark still retain freehold ownership of the Elephant Park land (LINK/SCREENSHOT), with the the final plot valued at £6m, according to Southwark's [Regeneration Agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) with Lendlease:
+Alternatively, given that Lendleases are treating plot H1 as [surplus to Elephant Park's housing requirements](https://www.35percent.org/posts/heygate-redevelopment-lendleases-final-squeeze/), Southwark could consider taking over H1 themselves, to build council homes, towards meeting its 11,000 council homes pledge.  According to Land registry records it looks as if Southwark still retain freehold ownership of the Elephant Park land, with the the final plot valued at £6m, according to Southwark's [Regeneration Agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) with Lendlease:
 
 ![](https://35percent.org/img/screenshot-2022-10-21-at-15-35-59-ra.pdf.png)
 

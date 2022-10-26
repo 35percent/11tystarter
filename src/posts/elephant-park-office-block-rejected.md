@@ -4,7 +4,7 @@ description: Objectors call on Mayor to respect planning committee'sdecision.
 date: 2022-10-17
 image: img/DSC_0077.JPG
 ---
-The [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) (SLC) has written to London Mayor Sadiq Khan asking him to respect Southwark Council’s [decision to reject](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=65131) developer Lendlease’s [plans to build a giant office block](https://www.35percent.org/posts/2021-09-12-lendleases-final-plot-for-elephant-park-offices-not-homes/) on the final plot (H1) of Elephant Park, at the Elephant and Castle.  (Reports on the decision can be found on these links -  [SE1](https://se1direct.us1.list-manage.com/track/click?u=c9e47e62fc585738905a6b0c1&id=790b169c64&e=b62d87bbbf), [Southwark News](https://southwarknews.co.uk/news/housing/towering-office-block-application-for-elephant-park-refused-by-southwark-council/) and the Australian [Financial Review](https://www.afr.com/property/commercial/council-rejects-last-piece-of-4-4b-lendlease-london-landmark-20221009-p5bo9g)).
+The [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) (SLC) has [written](https://docdro.id/hDVgX7D) to London Mayor Sadiq Khan asking him to respect Southwark Council’s [decision to reject](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=65131) developer Lendlease’s [plans to build a giant office block](https://www.35percent.org/posts/2021-09-12-lendleases-final-plot-for-elephant-park-offices-not-homes/) on the final plot (H1) of Elephant Park, at the Elephant and Castle.  (Reports on the decision can be found on these links -  [SE1](https://se1direct.us1.list-manage.com/track/click?u=c9e47e62fc585738905a6b0c1&id=790b169c64&e=b62d87bbbf), [Southwark News](https://southwarknews.co.uk/news/housing/towering-office-block-application-for-elephant-park-refused-by-southwark-council/) and the Australian [Financial Review](https://www.afr.com/property/commercial/council-rejects-last-piece-of-4-4b-lendlease-london-landmark-20221009-p5bo9g)).
 
 SLC sent [the letter](https://docdro.id/hDVgX7D) on behalf of objectors to the scheme, which was unanimously rejected by Southwark Council’s [planning committee on the 4 Oct](https://www.youtube.com/watch?v=cuaEbg9sUyY).  The vote followed a four-and-half hour meeting, including a 50-minute closed session, when the committee considered the application in the absence of the public.  The scheme has now been referred to the Mayor, who has the option of allowing the decision to stand or ‘calling in’ the proposal, to make a decision himself.  Objectors (including the 35% Campaign, the Walworth Society and local residents) fear that this could open the door to the office block being approved against the wishes of the local community.
 
@@ -15,6 +15,9 @@ Harpreet Aujla, of SLC, says in the letter *‘It is hoped that the local, democ
 ### Health hub worries
 
 Objectors were also worried about the knock-on effects of a proposed health hub, which would have occupied part of the office building.  The letter says that *‘would have impacts for health care delivery for the whole of Walworth, which were not properly addressed by the application.’*  The planning committee heard how the hub would be instead of affordable workspace and would serve those using the Princess Street and Manor Place surgeries.  SLC has asked the Mayor for a full public consultation on what this might mean, before any planning permission is considered.
+
+![](https://www.35percent.org/img/surgeries.png)
+*Princess St Surgery and Manor Place Surgeries at risk of being replaced rather than complemented by the new health facility.*
 
 ### Sustainable or not?
 
@@ -38,6 +41,6 @@ We know how easily, though, such assessments can be [manipulated to reduce affor
 
 Alternatively, given that Lendleases are treating plot H1 as [surplus to Elephant Park's housing requirements](https://www.35percent.org/posts/heygate-redevelopment-lendleases-final-squeeze/), Southwark could consider taking over H1 themselves, to build council homes, towards meeting its 11,000 council homes pledge.  According to Land registry records it looks as if Southwark still retain freehold ownership of the Elephant Park land (LINK/SCREENSHOT), with the the final plot valued at £6m, according to Southwark's [Regeneration Agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) with Lendlease:
 
-![](img/screenshot-2022-10-21-at-15-35-59-ra.pdf.png)
+![](https://35percent.org/img/screenshot-2022-10-21-at-15-35-59-ra.pdf.png)
 
 Southwark [recently budgeted](https://moderngov.southwark.gov.uk/documents/s108740/Report%20Capital%20monitoring.pdf) [£101.146m to buy land](https://moderngov.southwark.gov.uk/documents/s108628/Appendix%20B%20Housing%20investment%20month%204.pdf) for council housing, so forgoing £6m (plus VAT) to secure H1,  with the capacity to [build around 300 homes ](https://www.35percent.org/posts/heygate-redevelopment-lendleases-final-squeeze/), could be a deal worth considering.

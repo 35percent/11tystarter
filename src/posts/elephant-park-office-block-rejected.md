@@ -1,11 +1,14 @@
 ---
 title: Lendlease’s Elephant office block rejected.
 description: Objectors call on Mayor to respect planning committee'sdecision.
-date: 2022-10-17T06:51:54.942Z
+date: 2022-10-17
+image: img/DSC_0077.JPG
 ---
 The [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) (SLC) has written to London Mayor Sadiq Khan asking him to respect Southwark Council’s [decision to reject](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=65131) developer Lendlease’s [plans to build a giant office block](https://www.35percent.org/posts/2021-09-12-lendleases-final-plot-for-elephant-park-offices-not-homes/) on the final plot (H1) of Elephant Park, at the Elephant and Castle.  (Reports on the decision can be found on these links -  [SE1](https://se1direct.us1.list-manage.com/track/click?u=c9e47e62fc585738905a6b0c1&id=790b169c64&e=b62d87bbbf), [Southwark News](https://southwarknews.co.uk/news/housing/towering-office-block-application-for-elephant-park-refused-by-southwark-council/) and the Australian [Financial Review](https://www.afr.com/property/commercial/council-rejects-last-piece-of-4-4b-lendlease-london-landmark-20221009-p5bo9g)).
 
 SLC sent [the letter](https://docdro.id/hDVgX7D) on behalf of objectors to the scheme, which was unanimously rejected by Southwark Council’s [planning committee on the 4 Oct](https://www.youtube.com/watch?v=cuaEbg9sUyY).  The vote followed a four-and-half hour meeting, including a 50-minute closed session, when the committee considered the application in the absence of the public.  The scheme has now been referred to the Mayor, who has the option of allowing the decision to stand or ‘calling in’ the proposal, to make a decision himself.  Objectors (including the 35% Campaign, the Walworth Society and local residents) fear that this could open the door to the office block being approved against the wishes of the local community.
+
+![](https://www.35percent.org/img/screenshot-2022-10-01-at-11-48-17-plot-h1-elephant-park-land-bounded-by-walworth-road-elephant-road-deacon-street-and-sayer-street-north-elephant-and-castle-london-se1.-21_ap_1819-report_to_planning_committee-3558918.pdf.png)
 
 Harpreet Aujla, of SLC, says in the letter *‘It is hoped that the local, democratic process will be respected, especially so given the history of regeneration and community input in Elephant and Castle.’*   The letter points out that the application was [rejected because](https://moderngov.southwark.gov.uk/documents/g7303/Printed%20minutes%20Tuesday%2004-Oct-2022%2018.30%20Planning%20Committee.pdf?T=1) the *‘excessive height, massing and bulk of the application would cause harm to the character and appearance*’ of the local area and that it *‘would cause unacceptable harm to the neighbouring amenity due to loss of daylight’,* contrary to Southwark's planning policies and the Mayor's London Plan.
 

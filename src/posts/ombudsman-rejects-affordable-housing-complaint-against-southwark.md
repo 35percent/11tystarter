@@ -35,15 +35,17 @@ One-hundred and forty one of these schemes can be found on [Southwark's planning
 
 The Ombudsman's report devotes a section to enforcing s106 obligations which has a couple of alarming explanations from Southwark's officers, about how affordable housing is secured and retained.  The first is that *'there were cases where there had been changes between what was originally expected during the planning (sic) and what was finally agreed in section 106 agreements. **It was sometimes difficult to know what changes had occurred....'*** (our emphasis).
 
-This is wrong and should not be happening.  There should be no *'change between what was originally expected during planning'* and *'what was was finally agreed in s106 agreements'* and it is the business of Southwark's planning officers to make sure that there is no change.   
+This is wrong and should not be happening.  There should be no *'change between what was originally expected during planning'* and *'what was was finally agreed in s106 agreements'* and it is the business of Southwark's planning officers to make sure that there is no change.  When there are changes Southwark's officers should be able to say why there have been changes and ensuring that they are only be made through the proper processes.
 
 Most major residential planning applications (over 10 units) are decided by a planning committee of elected councillors, who will approve a scheme that provides a precise amount of affordable housing of given tenures. If the developer cannot deliver what has been agreed at committee, then a s106 agreeement for something different should not be signed; it is not for officers and developers to agree something different than was approved by committee. 
 
-The report does not say how often this has occurred, but goes on  to relate statements from Southwark officers that policy changes or loss of funding may be reasons this has happened.
+The report does not say how often this has occurred, but goes on  to relate statements from Southwark' officers that policy changes or loss of funding may be reasons for this happening.  Again this should not be 
 
-While it In one telling phrase the report states that 'im some cases the type of AHO Affordable Housing Obligation 
+Officers note that some applications change after variations are sought by developers, which is the proper process, but the report says that this is only on 'other occassions' 
 
+While it In one telling phrase the report states that 'im some cases the type of AHO Affordable Housing Obligation
 
+The significance of these exchanges do not appear to have been registered by the Ombudsman.  They paint a picture of a haphazard process, where significant changes aree bing made to approved applications for different reasons and at different point in the planning process, which Southwark officers cannot explain, because a propoer monitoring process is not in place.
 
 
 

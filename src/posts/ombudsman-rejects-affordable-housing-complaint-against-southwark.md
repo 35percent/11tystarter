@@ -41,11 +41,11 @@ Most major residential planning applications (over 10 units) are decided by a pl
 
 The report does not say how often this has occurred, but goes on  to relate an explanation from Southwark's officers that 'evolving policy' or loss of funding may be reasons for changes, between committee and legal agreement .  Again, this should not be happening; applications are judged against 'emerging' policy', where relevant, and changes to funding, or the viability of an agreed scheme should be addressed by way of formal variations.  Officers note that some applications change through such variations, but only on *'other occassions'*.
 
+One instance that has come to light is that of Gutenberg Court
+
+The report also says that *'In some cases, the type of AHO tenancy was not what had been required'* followed by an explanation of the difference between social rent and affordable rent.  Again, the report does not say how often this has occcured, but that *'most breaches related to tenure type issues and had either been resolved or could easily be resolved'*.
+
 ###  ....social rent or affordable rent
-
-The report also says that *'In some cases, the type of AHO tenancy was not what had been required'* followed by an expanation of the difference between social rent and affordable rent.  Again, the report does not say how often this has occcured, but that *'most breaches related to tenure type issues and had either been resolved or could easily be resolved'*.
-
-While it In one telling phrase the report states that 'im some cases the type of AHO Affordable Housing Obligation
 
 They paint a picture of a haphazard process, where significant changes are being made to approved applications for different reasons and at different point in the planning process, which Southwark officers cannot explain, because a propoer monitoring process is not in place.  The significance of these exchanges does not appear to have been registered by the Ombudsman.  
 

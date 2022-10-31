@@ -35,17 +35,19 @@ One-hundred and forty one of these schemes can be found on [Southwark's planning
 
 The Ombudsman's report devotes a section to enforcing s106 obligations which has a couple of alarming explanations from Southwark's officers, about how affordable housing is secured and retained.  The first is that *'there were cases where there had been changes between what was originally expected during the planning (sic) and what was finally agreed in section 106 agreements. **It was sometimes difficult to know what changes had occurred....'*** (our emphasis).
 
-This is wrong and should not be happening.  There should be no *'change between what was originally expected during planning'* and *'what was was finally agreed in s106 agreements'* and it is the business of Southwark's planning officers to make sure that there is no change.  When there are changes Southwark's officers should be able to say why there have been changes and ensuring that they are only be made through the proper processes.
+This is wrong and should not be happening.  There should be no *'change between what was originally expected during planning'* and *'what was was finally agreed in s106 agreements'* and it is the business of Southwark's planning officers to make sure that there is no change.  When there are changes Southwark's officers should be able to say why there have been changes and ensure that they are only be made through the proper processes.
 
 Most major residential planning applications (over 10 units) are decided by a planning committee of elected councillors, who will approve a scheme that provides a precise amount of affordable housing of given tenures. If the developer cannot deliver what has been agreed at committee, then a s106 agreeement for something different should not be signed; it is not for officers and developers to agree something other than was approved by committee. 
 
 The report does not say how often this has occurred, but goes on  to relate an explanation from Southwark's officers that 'evolving policy' or loss of funding may be reasons for changes, between committee and legal agreement .  Again, this should not be happening; applications are judged against 'emerging' policy', where relevant, and changes to funding, or the viability of an agreed scheme should be addressed by way of formal variations.  Officers note that some applications change through such variations, but only on *'other occassions'*.
 
-###  ....social rent or affordable rent
+###  ....social rent or affordable rent?
 
-The report also says that *'In some cases, the type of AHO tenancy was not what had been required'* followed by an explanation of the difference between social rent and affordable rent.  Again, the report does not say how often this has occcured, but that *'most breaches related to tenure type issues and had either been resolved or could easily be resolved'*.
+The report also says that *'In some cases, the type of AHO tenancy was not what had been required'.*  The report does not say  how often this has occurred, but one instance that has come to light is that of Gutenberg Court, a development recommended by officers and duly approved by the Bermondsey Community Council in 2011.  The recommendation included social rent.  This became Intermediate rent in the s106 and ...captured by the audit after an enquiry from SLC....anymore Gutenberg Courts?
 
-One instance that has come to light is that of Gutenberg Court, a development recommened for approval by the Bermondsey Community Council in 2011.  The recommendation from officers...no s106 publicly available...captured by the audit after an enquiry from SLC....anymore Gutenberg Courts?
+[Gutenberg Ct s106](https://www.whatdotheyknow.com/request/a_request_for_section_106_agreem?nocache=incoming-1899025#incoming-1899025)
+
+Again, the report does not say how often this has occcured, but that *'most breaches related to tenure type issues and had either been resolved or could easily be resolved'*.
 
 They paint a picture of a haphazard process, where significant changes are being made to approved applications for different reasons and at different point in the planning process, which Southwark officers cannot explain, because a propoer monitoring process is not in place.  The significance of these exchanges does not appear to have been registered by the Ombudsman.  
 

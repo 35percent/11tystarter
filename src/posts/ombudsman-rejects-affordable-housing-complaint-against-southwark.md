@@ -37,15 +37,17 @@ The Ombudsman's report devotes a section to enforcing s106 obligations which has
 
 This is wrong and should not be happening.  There should be no *'change between what was originally expected during planning'* and *'what was was finally agreed in s106 agreements'* and it is the business of Southwark's planning officers to make sure that there is no change.  When there are changes Southwark's officers should be able to say why there have been changes and ensuring that they are only be made through the proper processes.
 
-Most major residential planning applications (over 10 units) are decided by a planning committee of elected councillors, who will approve a scheme that provides a precise amount of affordable housing of given tenures. If the developer cannot deliver what has been agreed at committee, then a s106 agreeement for something different should not be signed; it is not for officers and developers to agree something different than was approved by committee. 
+Most major residential planning applications (over 10 units) are decided by a planning committee of elected councillors, who will approve a scheme that provides a precise amount of affordable housing of given tenures. If the developer cannot deliver what has been agreed at committee, then a s106 agreeement for something different should not be signed; it is not for officers and developers to agree something other than was approved by committee. 
 
-The report does not say how often this has occurred, but goes on  to relate statements from Southwark' officers that policy changes or loss of funding may be reasons for this happening.  Again this should not be 
+The report does not say how often this has occurred, but goes on  to relate an explanation from Southwark's officers that 'evolving policy' or loss of funding may be reasons for changes, between committee and legal agreement .  Again, this should not be happening; applications are judged against 'emerging' policy', where relevant, and changes to funding, or the viability of an agreed scheme should be addressed by way of formal variations.  Officers note that some applications change through such variations, but only on *'other occassions'*.
 
-Officers note that some applications change after variations are sought by developers, which is the proper process, but the report says that this is only on 'other occassions' 
+###  ....social rent or affordable rent
+
+it also appears
 
 While it In one telling phrase the report states that 'im some cases the type of AHO Affordable Housing Obligation
 
-The significance of these exchanges do not appear to have been registered by the Ombudsman.  They paint a picture of a haphazard process, where significant changes aree bing made to approved applications for different reasons and at different point in the planning process, which Southwark officers cannot explain, because a propoer monitoring process is not in place.
+They paint a picture of a haphazard process, where significant changes are being made to approved applications for different reasons and at different point in the planning process, which Southwark officers cannot explain, because a propoer monitoring process is not in place.  The significance of these exchanges does not appear to have been registered by the Ombudsman.  
 
 
 

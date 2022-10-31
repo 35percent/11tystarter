@@ -9,4 +9,14 @@ However the Ombudsman declined to consider descrepancies between 'live' website 
 
 ### The complaints
 
-This was the second complaint on this issue to the Ombudsman.  After an earlier complaint in 2016 Southwark undertook to produce effective procedures, including an annual audit, to check delivery of affordable housing, under the legal s106 agreements struck with developers for affordable housing.  The second complaint was that Southwark had failed to do this.
+This was the second complaint on this issue to the Ombudsman.  After an earlier complaint (LINK) in 2016 Southwark had undertook to introduce effective procedures to check the delivery of affordable housing,  including annual audits and an online monitoring tool (the dxw tool), able to record 'live data'.  In the six years since then, though, only two incomplete annual audits had been published and the monitoring tool had not been launched.
+
+Southwark said in response to the complaint that the new 'off the peg' software was better than the commisionAfter interviewing council officers the Ombudsman found that the online tool was not 
+
+### The dxw tool
+
+### The unconsidered evidence
+
+### Enforcement actions
+
+### High social rents

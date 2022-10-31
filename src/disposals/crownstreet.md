@@ -5,7 +5,7 @@ layout: page
 ---
 The old Crown Street Depot was a council-owned storage depot located on the Bethwin estate between the Bethwin adventure playground and the railway arches.
 
-In 2012, Southwark resolved to sell the depot to a joint venture owned by developer Parritt Leng and ASRA housing association. In 2013 they obtained permission (ref:13/AP/0651) for 57 homes across 6 blocks, just 7 social/affordable rent.
+In 2012, Southwark resolved to sell the depot to a joint venture owned by developer Parritt Leng and ASRA housing association [for just £1.3m](https://35percent.org/img/crownstreetlr.pdf). In 2013 they obtained permission (ref:13/AP/0651) for 57 homes across 6 blocks, just 7 social/affordable rent.
 Block 2 (pictured below) is on the former Crown Street depot site.
 
 ![](https://crappistmartin.github.io/images/crownstreet.jpg)

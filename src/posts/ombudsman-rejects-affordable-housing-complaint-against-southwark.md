@@ -19,13 +19,15 @@ Southwark explained that the various kinds of affordable housing complicated the
 
 The Ombudsman noted in his decision that there was a *'gap of several years between issuing annual reports'* and it is only in the last year that the council had *'substantially completed its database'*.Nonetheless he concuded that this did not amount to a fault, because the task *'was always likely to take a long time'*.   No time period had been set for this when the first complaint was considered in 2016.  The council was also not at fault for replacing the dxw tool with proprietary software - this was a matter for the council to decide.
 
-The Onbudsman therefore concluded *'I am satisfied that the Council now has effective means to capture and record AHO \[Affordable Housing Data] for enforcement and other purposes'.*
+The Ombudsman therefore concluded *'I am satisfied that the Council now has effective means to capture and record AHO \[Affordable Housing Data] for enforcement and other purposes'.*
 
 ### What we think - the unconsidered evidence
 
+The Ombudsman's decision is a disappointment to us and a generous decision as far as Southwark is concerned, given what the Ombudsman's own report tells us.  While it says that Southwark ***'now** has effective means'* of monitoring affordable housing delivery, (our emphasis) this is six years after the issue came to light.  It is also not clear that the means are really effective, despite Ombudsman's decision.  A bespoke tool that could have monitored delivery real-time has been discarded and another, not specifically designed for the task is being used instead, with the possibility of reverting to a purpose built tool later.  
 
+The report also says that the database of schemes has only been *'substantially'* completed in the last year.  This appears to be confirmed by the gap between the with the number of units of social housing [Southwark says it has delivered](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/monitoring/authority-monitoring-report/housing?chapter=4) sinnce 2004/05 - 5,597 - and the number of social rented units audited our own examination of the database, which shows 
 
-### Enforcement actions
+### \- Enforcement actions
 
 ### High social rents
 

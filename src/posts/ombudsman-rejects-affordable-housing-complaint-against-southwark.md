@@ -43,7 +43,7 @@ The report does not say how often this has occurred, but goes on  to relate an e
 
 ###  ....social rent or affordable rent
 
-it also appears
+The report also says that *'In some cases, the type of AHO tenancy was not what had been required'* followed by an expanation of the difference between social rent and affordable rent.  Again, the report does not say how often this has occcured, but that *'most breaches related to tenure type issues and had either been resolved or could easily be resolved'*.
 
 While it In one telling phrase the report states that 'im some cases the type of AHO Affordable Housing Obligation
 

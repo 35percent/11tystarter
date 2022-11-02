@@ -39,7 +39,7 @@ This is wrong and should not be happening.  There should be no *'change between 
 
 Most major residential planning applications (over 10 units) are decided by a planning committee of elected councillors, who will approve a scheme that provides a precise amount of affordable housing of given tenures. If the developer cannot deliver what has been agreed at committee, then a s106 agreeement for something different should not be signed; it is not for officers and developers to agree something other than was approved by committee. 
 
-The report does not say how often this has occurred, but goes on  to relate an explanation from Southwark's officers that 'evolving policy' or loss of funding may be reasons for changes, between committee and legal agreement .  Again, this should not be happening; applications are judged against 'emerging' policy', where relevant, and changes to funding, or the viability of an agreed scheme should be addressed by way of formal variations.  Officers note that some applications change through such variations, but only on *'other occassions'*.
+The report does not say how often this has occurred, but goes on  to relate an explanation from Southwark's officers that *'evolving policy'* or loss of funding may be reasons for changes, between committee and legal agreement .  Again, this should not be happening; applications are judged against emerging policy, where relevant, and changes to funding, or the viability of an agreed scheme should be addressed by way of formal variations.  Officers note that some applications change through such variations, but only on *'other occassions'*.
 
 ### ....social rent or affordable rent?
 
@@ -54,3 +54,7 @@ They paint a picture of a haphazard process, where significant changes are being
 ### High social rents
 
 No urgency, except the spur of answering the complaint.
+
+### The dxw tool
+
+Expenditure; what it is.

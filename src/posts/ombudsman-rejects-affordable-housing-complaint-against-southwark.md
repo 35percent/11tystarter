@@ -9,11 +9,11 @@ However, the Ombudsman declined to consider discrepancies between the affordable
 
 ### The two complaints
 
-This was the second complaint on this issue to the Ombudsman.  After an earlier complaint (LINK) in 2016 Southwark had undertook to introduce effective monitoring procedures, including annual audits and an online monitoring tool, able to record 'live data'.  In the six years since then, though, only two incomplete annual audits had been published and the monitoring tool was never launched.
+This was the second complaint on this issue to the Ombudsman.  After an earlier complaint (LINK) in 2016 Southwark had undertook to introduce effective monitoring procedures, including annual audits and an online monitoring tool, able to record 'live data'.  In the six years since then, though, only two incomplete annual audits have been published and the monitoring tool was never launched.
 
-Southwark said in response to the complaint that new 'off the peg' software was better than the commissioned tool (the dxw tool) and that, in any event it was working with another software developer for something better.  The four year gap between the first audit in 2017 and the second in 2022 was explained by the sheer amount of data that has to be processed.  Most of this task had been undertaken by two officers (later increased to ten to complete the project).  
+Southwark said in response to the complaint that new 'off the peg' software was better than the commissioned tool (the dxw tool) and that it was now working with another software developer for something better.  Southwark explained that the four year gap between the first audit in 2017 and the second in 2022 was caused by the sheer amount of data that has to be processed.  Most of this task had been undertaken by two officers, then later increased to ten to complete the project.  
 
-Southwark explained that the various kinds of affordable housing complicated the enforcement of the legal s106 agreeemts that should guarantee the housing.  It cited one legal case, where homes had been returned after a significant failure to comply with the s106 (LINK), but said otherwise *'most breaches'* were *'easily..resolved'*. 
+Southwark explained that the various kinds of affordable housing complicated the enforcement of the legal s106 agreements that should guarantee the housing.  It cited one legal case, where homes had been returned after a significant failure to comply with the s106 (LINK), but said otherwise *'most breaches'* were *'easily..resolved'*. 
 
 ### The Ombudsman's decision
 

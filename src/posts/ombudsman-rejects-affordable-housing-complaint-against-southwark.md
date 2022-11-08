@@ -49,7 +49,9 @@ The report does not say how often this has occurred, but goes on  to relate an e
 
 ### ....social rent or affordable rent?
 
-The report also says that *'In some cases, the type of AHO tenancy was not what had been required'.*  Again, the report does not say  how often this has occurred, but one instance that has come to light is that of Gutenberg Court, a development recommended by officers and duly approved by the Bermondsey Community Council planning committee in 2011.  The recommendation included social rent.  This became Intermediate rent in the s106 and ...captured by the audit after an enquiry from SLC....anymore Gutenberg Courts?
+The report also says that *'In some cases, the type of AHO tenancy was not what had been required'.*  Again, the report does not say  how often this has occurred, but one instance that has come to light is that of Gutenberg Court.  This was a development of 38 homes, including  a development recommended by officers and duly approved by the Bermondsey Community Council planning committee in 2011.  The recommendation included social rent.  This became Intermediate rent in the s106 and ...captured by the audit after an enquiry from SLC....anymore Gutenberg Courts?
+
+Was on of the original 2016 '44 schemes'.
 
 [Gutenberg Ct s106](https://www.whatdotheyknow.com/request/a_request_for_section_106_agreem?nocache=incoming-1899025#incoming-1899025)
 

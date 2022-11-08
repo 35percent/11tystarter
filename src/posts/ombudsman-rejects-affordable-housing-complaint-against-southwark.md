@@ -47,9 +47,17 @@ Most major residential planning applications (over 10 units) are decided by a pl
 
 The report does not say how often this has occurred, but goes on  to relate an explanation from Southwark's officers that *'evolving policy'* or loss of funding may be reasons for changes, between committee and legal agreement .  Again, this should not be happening; applications are judged against emerging policy, where relevant, and changes to funding, or the viability of an agreed scheme should be addressed by way of formal variations.  Officers note that some applications change through such variations, but only on *'other occassions'*.
 
-### ....social rent or affordable rent?
+### ....Gutenberg Court - social rent or affordable rent?
 
-The report also says that *'In some cases, the type of AHO tenancy was not what had been required'.*  Again, the report does not say  how often this has occurred, but one instance that has come to light is that of Gutenberg Court.  This was a development of 38 homes, including  a development recommended by officers and duly approved by the Bermondsey Community Council planning committee in 2011.  The recommendation included social rent.  This became Intermediate rent in the s106 and ...captured by the audit after an enquiry from SLC....anymore Gutenberg Courts?
+The report also says that *'In some cases, the type of AHO tenancy was not what had been required'.*  Again, the report does not say  how often this has occurred, but one instance that has come to light is that of Gutenberg Court.  This was a development of 38 homes, including nine social rented homes, approved by Bermondsey Community Council planning committee in 2011.  [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) complained to Southwark Council in October 2021 that the social rented units were being wrongly  advertised to the housing waitng list as *'market related rents'*, not *'social rents'* on the council's [Homeseach](https://www.southwarkhomesearch.org.uk/) webpages.  The development now appears through Southwark's audit as delivering  nine affordable rent units (which can be up to 80% market rent) and zero social rent units.
+
+
+
+
+
+
+
+This became Intermediate rent in the s106 and ...captured by the audit after an enquiry from SLC....anymore Gutenberg Courts?
 
 Was on of the original 2016 '44 schemes'.
 

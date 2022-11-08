@@ -13,7 +13,7 @@ This was the second complaint on this issue to the Ombudsman.  After an earlier 
 
 Southwark said in response to this that new 'off the peg' software was better than the commissioned tool (the dxw tool) and that it was now working with another software developer for something better.  Southwark explained that the four year gap between the first audit in 2017 and the second in 2022 was caused by the sheer amount of data that has to be processed.  Most of this task had been undertaken by two officers, later increased to ten officers to complete the project.  
 
-Southwark explained that the various kinds of affordable housing complicated enforcing the legal s106 agreements that guarantees affordable housing.  It cited one legal case, where homes had been returned after a significant failure to comply with the s106 (LINK), but said otherwise *'most breaches'* were *'easily..resolved'*. 
+Southwark explained that the various kinds of affordable housing complicated enforcing the legal s106 agreements that guarantees affordable housing.  It cited [one legal case](https://www.35percent.org/posts/2017-06-20-signal-tower-embarrassment-southwark-pays-for-lost-affordable-housing/), where homes had been returned after a significant failure to comply with the s106 (LINK), but said otherwise *'most breaches'* were *'easily..resolved'*. 
 
 ### The Ombudsman's decision
 
@@ -57,28 +57,12 @@ The difference between affordable rent and social rent is readily seen in the re
 
 The scheme has been 'red-flagged' on [Southwark's audit](https://urldefense.com/v3/__https://app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection__;!!Ou-zFulSALS7ubxZ2oj45Dg!Vqi3bagEzmK7icBcQgGm18ZQk8FHJAYsCVjB_M_V6G6fzAaRhemokxPlAzcnrCU09xxdfdKYI2SsLLc63Oa-DmfMFJGVKA$), but no enforcement action is listed on the [enforcement action webpages](https://planning.southwark.gov.uk/online-applications/search.do?action=simple&searchType=Enforcement).
 
-### Conclusion
+### Conclusion - everything is not alright
 
-The Ombudsman's findings, that Southwark Council and that there was '*no fault because the Council does have an effective methods for carrying out its functions'*.
+The Ombudsman's findings, that he was '...*satisfied that the Council now has effective means to capture and record AHO \[Affordable Housing Data] for enforcement and other purposes'* and that there was '*no fault because the Council does have an effective methods for carrying out its functions'* will undoubtedly be welcomed by Southwark, particulary following the Ombudsman's adverse finding in 2016.   It will also no doubt be used to deflect any criticisms that monitoring afordable housing delivery is still not properly monitored and that we are losing affordable housing, particularly social housing, because of this.
 
-Running fast in the wrong direction?
+But the Ombudsman's own report paints a picture of a service that is still not on top of the monitoring job, six years after he first exposed the problem.  The personnel tasked with auditing the 'large amount of documentary evidence', covering fifteen years, was limited - two officers (only later increased to ten, 'to complete the project'). Only two annual audits were completed in six years and evidence from Southwark and the GLA, that this still omits a large number of schemes and units has not been considered.  A bespoke online tool was commissioned, abandoned (at unspecified cost) with another now apparantly in the works.  
 
+The process for securing affordable housing, as related by the report, also appears haphazad.  Significant changes are being made to approved applications, for different reasons and at different point in the planning process, which Southwark officers cannot properly explain, precisly because a propoer monitoring process is not in place.  The significance of this does not appear to have been registered by the Ombudsman.
 
-
-This became Intermediate rent in the s106 and ...captured by the audit after an enquiry from SLC....anymore Gutenberg Courts?
-
-Was on of the original 2016 '44 schemes'.
-
-[Gutenberg Ct s106](https://www.whatdotheyknow.com/request/a_request_for_section_106_agreem?nocache=incoming-1899025#incoming-1899025)
-
-Again, the report does not say how often this has occcured, but that *'most breaches related to tenure type issues and had either been resolved or could easily be resolved'*.
-
-They paint a picture of a haphazard process, where significant changes are being made to approved applications for different reasons and at different point in the planning process, which Southwark officers cannot explain, because a propoer monitoring process is not in place.  The significance of these exchanges does not appear to have been registered by the Ombudsman.  
-
-### High social rents
-
-No urgency, except the spur of answering the complaint.
-
-### The dxw tool
-
-Expenditure; what it is.
+It is the facts on the ground though, that expose Southwark's monitoring failure.  Gutenberg Court is one example of schemes with social housing, approved by planning committeed several years ago, now appearing on Southwark's Homesearch website with 'market related' rents very much higher than social rents.  Elephant Park is also under scruting because of the high level of its social rents.  While we have these cases  Southwark Council must not be allowed to lapse into complacency, simply because the Ombudsman says everthing is alright.

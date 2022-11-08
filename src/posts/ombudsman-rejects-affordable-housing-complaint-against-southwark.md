@@ -9,7 +9,7 @@ However, the Ombudsman declined to consider discrepancies between the affordable
 
 ### The two complaints
 
-This was the second complaint to the Ombudsman on this issue.   Southwark had undertaken to introduce effective monitoring procedures, after an [earlier complaint in 2016](https://www.35percent.org/posts/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) found that none were in place.  The new procedures were to include annual audits and an online monitoring tool, able to record 'live data'.  In the six years since then, though, only two incomplete annual audits have been published and the monitoring tool was never launched.
+This was the second complaint to the Ombudsman on this issue.   Southwark had undertaken to introduce effective monitoring procedures, after an [earlier complaint in 2016](https://www.35percent.org/posts/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) found that none were in place.  The new procedures were to include annual audits and an online monitoring tool, able to record 'live data'.  In the six years since then, though, only two incomplete audits have been published and the monitoring tool was never launched.
 
 Southwark said in response to this that new 'off the peg' software was better than the commissioned tool (the dxw tool) and that it was now working with another software developer for something better.  Southwark explained that the four year gap between the first audit in 2017 and the second in 2022 was caused by the sheer amount of data that has to be processed.  Most of this task had been undertaken by two officers, later increased to ten officers to complete the project.  
 

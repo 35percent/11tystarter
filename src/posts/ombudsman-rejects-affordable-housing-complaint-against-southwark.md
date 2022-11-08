@@ -5,7 +5,7 @@ date: 2022-10-31T08:49:56.753Z
 ---
 The Local Government and Social Care Ombudsman has rejected a complaint by a member of the 35% Campaign that Southwark Council has no effective monitoring system for the delivery of affordable housing through private housing developments.  The judgement (LINK) comes after an 18 month enquiry process, with the Ombudsman ruling that *'based on the evidence seen so far, there was no fault because the Council does have an effective methods for carrying out its functions'*.
 
-However, the Ombudsman declined to consider discrepancies between the affordable housing figures given on [Southwark's interactive audit](https://urldefense.com/v3/__https://app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection__;!!Ou-zFulSALS7ubxZ2oj45Dg!Vqi3bagEzmK7icBcQgGm18ZQk8FHJAYsCVjB_M_V6G6fzAaRhemokxPlAzcnrCU09xxdfdKYI2SsLLc63Oa-DmfMFJGVKA$) and those found on other reports, from both Southwark Council and the Greater London Authority (GLA).  This evidence showed that over 3,500 social  rented units and over 200 completed schemes were unaudited.  The Ombudsman did not take this into account because *'it was not directly connected to the original complaint' ).* (LINK/SCREENSHOT)
+However, the Ombudsman declined to consider discrepancies between the affordable housing figures given on [Southwark's interactive audit](https://urldefense.com/v3/__https://app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection__;!!Ou-zFulSALS7ubxZ2oj45Dg!Vqi3bagEzmK7icBcQgGm18ZQk8FHJAYsCVjB_M_V6G6fzAaRhemokxPlAzcnrCU09xxdfdKYI2SsLLc63Oa-DmfMFJGVKA$) and those found on other reports, from both Southwark Council and the Greater London Authority (GLA).  This evidence showed that over 3,500 social  rented units and over 200 completed schemes were unaudited.  The Ombudsman declined to take this evidence into account because *'it was not directly connected to the original complaint' ).* (LINK/SCREENSHOT)
 
 ### The two complaints
 
@@ -23,7 +23,7 @@ The Ombudsman therefore concluded *'I am satisfied that the Council now has effe
 
 ### What we think
 
-The Ombudsman's decision is a disappointment to us.  We believe that the Ombudsman treats Southwark generously, given what his own report tells us.  While it says that Southwark ***'now** has effective means'* of monitoring affordable housing delivery, (our emphasis) this is six years after the issue came to light.  It is also not clear that the means are really effective, despite the Ombudsman's decision.  A bespoke tool that could have monitored delivery in real-time has been discarded and another, not specifically designed for the task, is being used instead, with the possibility of reverting to a purpose built tool later.  
+The Ombudsman's decision is a disappointment to us.  We believe that the Ombudsman treats Southwark generously, given what his own report tells us.  It says that Southwarkonly** *'now*** *has effective means'* of monitoring affordable housing delivery, (our emphasis), six years after the issue came to light; the report does not dwell on what has been happening meantime.  A bespoke tool that could have monitored real-time delivery has been discarded and another, not specifically designed for the task, is being used instead, with the possibility of reverting to a purpose built tool later.  
 
 ### ....missing units
 

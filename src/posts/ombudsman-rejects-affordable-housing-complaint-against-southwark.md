@@ -21,7 +21,7 @@ The Ombudsman noted in his decision that there was a *'gap of several years betw
 
 The Ombudsman therefore concluded *'I am satisfied that the Council now has effective means to capture and record AHO \[Affordable Housing Data] for enforcement and other purposes'.*
 
-### What we think....the unconsidered evidence
+### What we think....missing units
 
 The Ombudsman's decision is a disappointment to us.  The Ombudsman treats Southwark generously, given what his own report tells us.  While it says that Southwark **\*'now** has effective means'* of monitoring affordable housing delivery, (our emphasis) this is six years after the issue came to light.  It is also not clear that the means are really effective, despite the Ombudsman's decision.  A bespoke tool that could have monitored delivery in real-time has been discarded and another, not specifically designed for the task, is being used instead, with the possibility of reverting to a purpose built tool later.  
 
@@ -29,13 +29,15 @@ The report also says that the database of schemes has only been *'substantially'
 
 SCREEN SHOTS; AUDIT PAGE (2041 figure); TABLE 8, Housing Facts and Figures)
 
-The Greater London Authority (GLA) also has reponsibility for monitoring the delivery of affordable housing (much of which it funds) across London, including Southwark.  Our examination of the GLA database (LINK) found 209 completed schemes listed as having provided affordable housing as part of a planning permission, which do not appear in Southwark's audit.  
+### ....missing schemes
+
+The Greater London Authority (GLA) also has reponsibility for monitoring the delivery of affordable housing (much of which it funds) across London, including Southwark.  Our examination of the [GLA database](https://public.tableau.com/app/profile/glaintelligence/viz/PlanningLondonDatahub-Dashboard/MainDashboard) found 209 completed schemes listed as having provided affordable housing as part of a planning permission, which do not appear in Southwark's audit.  
 
 One-hundred and forty one of these schemes can be found on [Southwark's planning portal](https://www.southwark.gov.uk/planning-and-building-control/planning-applications/planning-register-search-view-and-comment-on-planning-applications) and date from at least 2004 onwards.  Many are simple one and two unit conversions, but there are also much larger schemes, including parts of Elephant Park,  Canada Water with thirty-eight schemes for between ten and 100 units.
 
 ### ....weak enforcement actions
 
-The Ombudsman's report devotes a section to enforcing s106 obligations which has a couple of alarming explanations from Southwark's officers, about how affordable housing is secured and retained.  The first is that *'there were cases where there had been changes between what was originally expected during the planning (sic) and what was finally agreed in section 106 agreements. **It was sometimes difficult to know what changes had occurred....'** (our emphasis).
+While the Ombudsman did not consider these discrepancies in the number of schemes and social rented units  his report Southwark's own reporting and the The Ombudsman's report devotes a section to enforcing s106 obligations which has a couple of alarming explanations from Southwark's officers, about how affordable housing is secured and retained.  The first is that *'there were cases where there had been changes between what was originally expected during the planning (sic) and what was finally agreed in section 106 agreements. **It was sometimes difficult to know what changes had occurred....'** (our emphasis).
 
 This is wrong and should not be happening.  There should be no *'change between what was originally expected during planning'* and *'what was was finally agreed in s106 agreements'* and it is the business of Southwark's planning officers to make sure that there is no change.  When there are changes Southwark's officers should be able to say why there have been changes and ensure that they are only be made through the proper processes.
 

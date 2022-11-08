@@ -23,7 +23,7 @@ The Ombudsman therefore concluded *'I am satisfied that the Council now has effe
 
 ### What we think
 
-The Ombudsman's decision is a disappointment to us.  The Ombudsman treats Southwark generously, given what his own report tells us.  While it says that Southwark **\*'now** has effective means'* of monitoring affordable housing delivery, (our emphasis) this is six years after the issue came to light.  It is also not clear that the means are really effective, despite the Ombudsman's decision.  A bespoke tool that could have monitored delivery in real-time has been discarded and another, not specifically designed for the task, is being used instead, with the possibility of reverting to a purpose built tool later.  
+The Ombudsman's decision is a disappointment to us.  We believe that the Ombudsman treats Southwark generously, given what his own report tells us.  While it says that Southwark ***'now** has effective means'* of monitoring affordable housing delivery, (our emphasis) this is six years after the issue came to light.  It is also not clear that the means are really effective, despite the Ombudsman's decision.  A bespoke tool that could have monitored delivery in real-time has been discarded and another, not specifically designed for the task, is being used instead, with the possibility of reverting to a purpose built tool later.  
 
 ### ....missing units
 
@@ -39,7 +39,7 @@ One-hundred and forty one of these schemes can be found on [Southwark's planning
 
 ### ....weak enforcement actions
 
-While the Ombudsman does not consider these discrepancies in the number of schemes and social rented units, he does consider how the s106 obligations for affordable housing are enforced.  This has a couple of alarming explanations from Southwark's officers, about how affordable housing is secured and retained.  The first is that *'there were cases where there had been changes between what was originally expected during the planning (sic) and what was finally agreed in section 106 agreements. **It was sometimes difficult to know what changes had occurred....'*** (our emphasis).
+While the Ombudsman does not consider these discrepancies in the number of schemes and social rented units, he does consider how the affordable housing obligations are enforced.  This has a couple of alarming explanations from Southwark's officers, about how affordable housing is secured and retained.  The first is that *'there were cases where there had been changes between what was originally expected during the planning (sic) and what was finally agreed in section 106 agreements. **It was sometimes difficult to know what changes had occurred....'*** (our emphasis).
 
 This is wrong and should not be happening.  There should be no *'change between what was originally expected during planning'* and *'what was was finally agreed in s106 agreements'* and it is the business of Southwark's planning officers to make sure that there is no change.  When there are changes Southwark's officers should be able to say why there have been changes and ensure that they are only be made through the proper processes.
 
@@ -47,17 +47,19 @@ Most major residential planning applications (over 10 units) are decided by a pl
 
 The report does not say how often this has occurred, but goes on  to relate an explanation from Southwark's officers that *'evolving policy'* or loss of funding may be reasons for changes, between committee and legal agreement .  Again, this should not be happening; applications are judged against emerging policy, where relevant, and changes to funding, or the viability of an agreed scheme should be addressed by way of formal variations.  Officers note that some applications change through such variations, but only on *'other occassions'*.
 
-In any event, a look at the Southwark's planning enforcement action webpages shows only twelve enforcement notices relating to affordable housing have been issued since 2016.  Ten of these were lodged on the same day (10 May 2022 - three months after the Ombudsman began his investigation).  Three remain open, including an audit of social rents on Elephant Park (link).
+In any event, a look at the Southwark's planning [enforcement action webpages](https://planning.southwark.gov.uk/online-applications/search.do?action=simple&searchType=Enforcement) shows only twelve enforcement notices relating to affordable housing have been issued since 2016.  Ten of these were lodged on the same day (10 May 2022 - three months after the Ombudsman began his investigation).  Three remain open, including an audit of social rents on Elephant Park (link).
 
 ### ....Gutenberg Court - social rent or affordable rent?
 
-The lack of enforcement actions could be taken to show that all affordable housing is being properly delivered, but the Ombudsman's report notes that *'In some cases, the type of AHO* \[Affordable Housing Obligations] *tenancy was not what had been required'.*  The report does not say  how often this has occurred, but one instance that has come to light is that of Gutenberg Court.  This was a development of 38 homes, including nine social rented homes, approved by Bermondsey Community Council planning committee in 2011.  [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) complained to Southwark Council in October 2021 that the social rented units were being wrongly  advertised to the housing waitng list as *'market related rents'*, not *'social rents'* on the council's [Homeseach](https://www.southwarkhomesearch.org.uk/) webpages.  The development now appears in Southwark's audit as delivering  nine affordable rent units (which can be up to 80% market rent) and zero social rent units.
+The lack of enforcement actions could be taken to show that all affordable housing is being properly delivered, but the Ombudsman's report notes that *'In some cases, the type of AHO* \[Affordable Housing Obligations] *tenancy was not what had been required'.*  The report does not say  how often this has occurred, but one instance that has come to light is that of [Gutenberg Court](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1QKBWR443&activeTab=summary).  This was a development of 38 homes, including nine social rented homes, approved by Bermondsey Community Council planning committee in 2011.  [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) complained to Southwark Council in October 2021 that the social rented units were being wrongly  advertised to the housing waitng list as *'market related rents'*, not *'social rents'* on the council's [Homeseach](https://www.southwarkhomesearch.org.uk/) webpages.  The development now appears in Southwark's audit as delivering  nine affordable rent units (which can be up to 80% market rent) and zero social rent units. (SCREEN SHOT)
 
 The difference between affordable rent and social rent is readily seen in the rents charged.  The Gutenberg Court rents were advertised on Homesearch as £261.44 (one-bed) and £295.50 (two-bed).  This compares to the [social rent formula rent caps for 2022/23](https://www.gov.uk/government/publications/rent-standard/limit-on-annual-rent-increases-2022-23-from-april-2022#rent-caps) of £155.73 (one-bed) and £164.87 (two-bed). (SCREEN SHOT)
 
-The scheme has been 'red-flagged' on Southwark's audit, but no enofcement action islisted.
+The scheme has been 'red-flagged' on [Southwark's audit](https://urldefense.com/v3/__https://app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection__;!!Ou-zFulSALS7ubxZ2oj45Dg!Vqi3bagEzmK7icBcQgGm18ZQk8FHJAYsCVjB_M_V6G6fzAaRhemokxPlAzcnrCU09xxdfdKYI2SsLLc63Oa-DmfMFJGVKA$), but no enforcement action is listed on the [enforcement action webpages](https://planning.southwark.gov.uk/online-applications/search.do?action=simple&searchType=Enforcement).
 
+### Conclusion
 
+The Ombudsman's findings, that Southwark Council and that there was '*no fault because the Council does have an effective methods for carrying out its functions'*.
 
 Running fast in the wrong direction?
 

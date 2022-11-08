@@ -13,7 +13,7 @@ This was the second complaint to the Ombudsman on this issue.   Southwark had un
 
 In response to the second complaint Southwark explained that the four year gap between the first audit in 2017 and the second in 2022 was caused by the sheer amount of data that has to be processed.  Most of this task had been undertaken by two officers, later increased to ten officers to complete the project.  Southwark also said that *'better'* off-the-peg software had replaced the online tool it had commissioned and that it was now working with another software developer to build a more comprhensive new tool.
 
-Southwark explained that the various kinds of affordable housing complicated enforcing the legal s106 agreements that guarantees affordable housing.  It cited [one legal case](https://www.35percent.org/posts/2017-06-20-signal-tower-embarrassment-southwark-pays-for-lost-affordable-housing/), where homes had been returned after a significant failure to comply with the s106 (LINK), but said otherwise *'most breaches'* were *'easily..resolved'*. 
+Southwark explained enforcing the legal s106 agreements, which guarantees affordable housing, was complicated by the its variety.  It cited [one legal case](https://www.35percent.org/posts/2017-06-20-signal-tower-embarrassment-southwark-pays-for-lost-affordable-housing/), where homes had been returned after a significant failure to comply with the s106, but said otherwise *'most breaches'* were *'easily..resolved'*. 
 
 ### The Ombudsman's decision
 

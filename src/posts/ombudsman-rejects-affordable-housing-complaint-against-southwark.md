@@ -7,8 +7,6 @@ The Local Government and Social Care Ombudsman has rejected a complaint by a mem
 
 However, the Ombudsman declined to consider discrepancies between the affordable housing figures given on [Southwark's interactive audit](https://urldefense.com/v3/__https://app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection__;!!Ou-zFulSALS7ubxZ2oj45Dg!Vqi3bagEzmK7icBcQgGm18ZQk8FHJAYsCVjB_M_V6G6fzAaRhemokxPlAzcnrCU09xxdfdKYI2SsLLc63Oa-DmfMFJGVKA$) and those found on other reports, from Southwark Council and the Greater London Authority (GLA).  This evidence showed that over 3,500 social  rented units and over 200 completed schemes were unaudited.  The Ombudsman did not take this into account because *'it was not directly connected to the original complaint'.* 
 
-SCREEN SHOTS; AUDIT PAGE (2041 figure); TABLE 8, Housing Facts and Figures)
-
 ### The two complaints
 
 This was the second complaint on this issue to the Ombudsman.  After an earlier complaint (LINK) in 2016 Southwark had undertook to introduce effective monitoring procedures, including annual audits and an online monitoring tool, able to record 'live data'.  In the six years since then, though, only two incomplete annual audits had been published and the monitoring tool was never launched.

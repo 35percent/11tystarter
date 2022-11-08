@@ -5,15 +5,15 @@ date: 2022-10-31T08:49:56.753Z
 ---
 The Local Government and Social Care Ombudsman has rejected a complaint by a member of the 35% Campaign that Southwark Council has no effective monitoring system for the delivery of affordable housing through private housing developments.  The judgement (LINK) comes after an 18 month enquiry process, with the Ombudsman ruling that *'based on the evidence seen so far, there was no fault because the Council does have an effective methods for carrying out its functions'*.
 
-However, the Ombudsman declined to consider discrepancies between the affordable housing figures given on [Southwark's interactive audit](https://urldefense.com/v3/__https://app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection__;!!Ou-zFulSALS7ubxZ2oj45Dg!Vqi3bagEzmK7icBcQgGm18ZQk8FHJAYsCVjB_M_V6G6fzAaRhemokxPlAzcnrCU09xxdfdKYI2SsLLc63Oa-DmfMFJGVKA$) and those found on other reports, from Southwark Council and the Greater London Authority (GLA).  This evidence showed that over 3,500 social  rented units and over 200 completed schemes were unaudited.  The Ombudsman did not take this into account because *'it was not directly connected to the original complaint'.* 
+However, the Ombudsman declined to consider discrepancies between the affordable housing figures given on [Southwark's interactive audit](https://urldefense.com/v3/__https://app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection__;!!Ou-zFulSALS7ubxZ2oj45Dg!Vqi3bagEzmK7icBcQgGm18ZQk8FHJAYsCVjB_M_V6G6fzAaRhemokxPlAzcnrCU09xxdfdKYI2SsLLc63Oa-DmfMFJGVKA$) and those found on other reports, from both Southwark Council and the Greater London Authority (GLA).  This evidence showed that over 3,500 social  rented units and over 200 completed schemes were unaudited.  The Ombudsman did not take this into account because *'it was not directly connected to the original complaint'.* 
 
 ### The two complaints
 
-This was the second complaint on this issue to the Ombudsman.  After an earlier complaint (LINK) in 2016 Southwark had undertook to introduce effective monitoring procedures, including annual audits and an online monitoring tool, able to record 'live data'.  In the six years since then, though, only two incomplete annual audits have been published and the monitoring tool was never launched.
+This was the second complaint on this issue to the Ombudsman.  After an earlier complaint (LINK) in 2016 Southwark had undertaken to introduce effective monitoring procedures, including annual audits and an online monitoring tool, able to record 'live data'.  In the six years since then, though, only two incomplete annual audits have been published and the monitoring tool was never launched.
 
-Southwark said in response to the complaint that new 'off the peg' software was better than the commissioned tool (the dxw tool) and that it was now working with another software developer for something better.  Southwark explained that the four year gap between the first audit in 2017 and the second in 2022 was caused by the sheer amount of data that has to be processed.  Most of this task had been undertaken by two officers, then later increased to ten to complete the project.  
+Southwark said in response to this that new 'off the peg' software was better than the commissioned tool (the dxw tool) and that it was now working with another software developer for something better.  Southwark explained that the four year gap between the first audit in 2017 and the second in 2022 was caused by the sheer amount of data that has to be processed.  Most of this task had been undertaken by two officers, later increased to ten officers to complete the project.  
 
-Southwark explained that the various kinds of affordable housing complicated the enforcement of the legal s106 agreements that should guarantee the housing.  It cited one legal case, where homes had been returned after a significant failure to comply with the s106 (LINK), but said otherwise *'most breaches'* were *'easily..resolved'*. 
+Southwark explained that the various kinds of affordable housing complicated enforcing the legal s106 agreements that guarantees affordable housing.  It cited one legal case, where homes had been returned after a significant failure to comply with the s106 (LINK), but said otherwise *'most breaches'* were *'easily..resolved'*. 
 
 ### The Ombudsman's decision
 
@@ -51,11 +51,15 @@ In any event, a look at the Southwark's planning enforcement action webpages sho
 
 ### ....Gutenberg Court - social rent or affordable rent?
 
-The lack of enforcement actions could be taken to show that all affordable housing is being properly delivered, but the Ombudsman's report notes that *'In some cases, the type of AHO* \[Affordable Housing Obligations] *tenancy was not what had been required'.*  The report does not say  how often this has occurred, but one instance that has come to light is that of Gutenberg Court.  This was a development of 38 homes, including nine social rented homes, approved by Bermondsey Community Council planning committee in 2011.  [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) complained to Southwark Council in October 2021 that the social rented units were being wrongly  advertised to the housing waitng list as *'market related rents'*, not *'social rents'* on the council's [Homeseach](https://www.southwarkhomesearch.org.uk/) webpages.  The development now appears through Southwark's audit as delivering  nine affordable rent units (which can be up to 80% market rent) and zero social rent units.
+The lack of enforcement actions could be taken to show that all affordable housing is being properly delivered, but the Ombudsman's report notes that *'In some cases, the type of AHO* \[Affordable Housing Obligations] *tenancy was not what had been required'.*  The report does not say  how often this has occurred, but one instance that has come to light is that of Gutenberg Court.  This was a development of 38 homes, including nine social rented homes, approved by Bermondsey Community Council planning committee in 2011.  [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) complained to Southwark Council in October 2021 that the social rented units were being wrongly  advertised to the housing waitng list as *'market related rents'*, not *'social rents'* on the council's [Homeseach](https://www.southwarkhomesearch.org.uk/) webpages.  The development now appears in Southwark's audit as delivering  nine affordable rent units (which can be up to 80% market rent) and zero social rent units.
+
+The difference between affordable rent and social rent is readily seen in the rents charged.  The Gutenberg Court rents were advertised on Homesearch as £261.44 (one-bed) and £295.50 (two-bed).  This compares to the [social rent formula rent caps for 2022/23](https://www.gov.uk/government/publications/rent-standard/limit-on-annual-rent-increases-2022-23-from-april-2022#rent-caps) of £155.73 (one-bed) and £164.87 (two-bed). (SCREEN SHOT)
+
+The scheme has been 'red-flagged' on Southwark's audit, but no enofcement action islisted.
 
 
 
-
+Running fast in the wrong direction?
 
 
 

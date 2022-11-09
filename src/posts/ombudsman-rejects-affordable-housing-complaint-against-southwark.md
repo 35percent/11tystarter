@@ -23,7 +23,7 @@ The Ombudsman therefore concluded *'I am satisfied that the Council now has effe
 
 ### What we think
 
-The Ombudsman's decision is a disappointment to us.  We believe that the Ombudsman treats Southwark very benevolently, given what his own report tells us.  It says that Southwark only** *'now*** *has effective means'* of monitoring affordable housing delivery, (our emphasis), six years after the issue came to light; the report does not dwell on what has been happening meantime.  A bespoke tool that could have monitored real-time delivery has been discarded and another, not specifically designed for the task, is being used instead, with the possibility of reverting to a purpose built tool later.  
+The Ombudsman's decision is a disappointment to us.  We believe that the Ombudsman treats Southwark very benevolently, given what his own report tells us.  It says that Southwark only** *'now*** *has effective means'* of monitoring affordable housing delivery, (our emphasis), six years after the issue came to light; the report does not dwell on what has been happening meantime.  A bespoke tool that could have monitored real-time delivery has been discarded and another, not specifically designed for the task, is being used instead, with the possibility of reverting to a purpose-built tool later.  
 
 ### ....missing units
 

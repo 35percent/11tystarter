@@ -23,7 +23,13 @@ The Ombudsman therefore concluded *'I am satisfied that the Council now has effe
 
 ### What we think
 
-The Ombudsman's decision is a disappointment to us.  We believe that the Ombudsman treats Southwark very benevolently, given what his own report tells us.  It says that Southwark only** *'now*** *has effective means'* of monitoring affordable housing delivery, (our emphasis), six years after the issue came to light; the report does not dwell on what has been happening meantime.  A bespoke tool that could have monitored real-time delivery has been discarded and another, not specifically designed for the task, is being used instead, with the possibility of reverting to a purpose-built tool later.  
+### ....six years too late
+
+The Ombudsman's decision is a disappointment to us.  We believe that the Ombudsman treats Southwark very benevolently, given what his own report tells us.  It says that Southwark only** *'now*** *has effective means'* of monitoring affordable housing delivery, (our emphasis), six years after the issue came to light; the report does not dwell on what has been happening meantime.  
+
+### .....the lost tool
+
+A bespoke tool that could have monitored real-time delivery has been discarded and another, not specifically designed for the task, is being used instead, with the possibility of reverting to a purpose-built tool later.  
 
 ### ....missing units
 
@@ -41,9 +47,7 @@ One-hundred and forty three of these schemes can be found on [Southwark's planni
 
 While the Ombudsman does not consider these discrepancies in the number of schemes and social rented units, he does consider how the affordable housing obligations are enforced.  This has a couple of alarming explanations from Southwark's officers, about how affordable housing is secured and retained.  The first is that *'there were cases where there had been changes between what was originally expected during the planning (sic) and what was finally agreed in section 106 agreements. **It was sometimes difficult to know what changes had occurred....'*** (our emphasis).
 
-This is wrong and should not be happening.  Ordinarily, there should be no *'change between what was originally expected...'* and *'what was finally agreed in s106 agreements'*.  If legitimate changes occur Southwark's officers should be able to say why there have been changes, to ensure that they have been made properly.
-
-Most major planning applications (over 10 units) are decided by a planning committee of elected councillors, who approve schemes that provide a precise amount of affordable housing of given tenures. If the developer cannot deliver what has been agreed at committee, then a s106 agreement for something different should not be signed; it is not for officers and developers to agree something other than was approved by committee. 
+This should not be happening; certainly there should be no changes between what is approved at planning committee and  and *'what was finally agreed in s106 agreements'*.  Planning committees approve schemes that provide a precise amount of affordable housing of given tenures. If the developer cannot deliver what has been agreed at committee, then a s106 agreement for something different should not be signed.  Southwark's officers should also be able to say why there have been changes, to ensure that they have been made properly.
 
 Southwark's officers explain that *'evolving policy'* or loss of funding may be reasons for changes, between committee and legal agreement.  Again, this should not be happening; applications are judged against emerging policy and changes to funding, or to the viability of an agreed scheme should be addressed by way of formal variations.  Officers note that some applications change this way, but only on *'other occasions'*.
 

@@ -17,7 +17,7 @@ Southwark explained enforcing the legal s106 agreements, which guarantees afford
 
 ### The Ombudsman's decision
 
-The Ombudsman noted in his decision that there was a *'gap of several years between issuing annual reports'* and it is only in the last year that the council had *'substantially completed its database'*.  Nonetheless he concluded that this did not amount to a fault, because the task *'was always likely to take a long time'*.   No time period had been set for this in the Ombudsman's 2016 complaint decision.  The Ombudsman also decided that the council was not at fault for replacing the bespoke tool with proprietary software, because this was a matter for them to decide.
+The Ombudsman noted in his decision that there was a *'gap of several years between issuing annual reports* *and it is only in the last year that it* \[the council] *had substantially completed its database'*.  Nonetheless he concluded that this did not amount to a fault, because the task *'was always likely to take a long time'*.   No time period had been set for this in the Ombudsman's 2016 complaint decision.  The Ombudsman also decided that the council was not at fault for replacing the bespoke tool with proprietary software, because this was a matter for them to decide.
 
 The Ombudsman therefore concluded *'I am satisfied that the Council now has effective means to capture and record AHO* \[Affordable Housing Obligations] *for enforcement and other purposes'.*
 

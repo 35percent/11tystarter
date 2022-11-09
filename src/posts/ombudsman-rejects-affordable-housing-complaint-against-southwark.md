@@ -63,10 +63,10 @@ The scheme has been 'red-flagged' on [Southwark's audit](https://urldefense.com/
 
 ### Conclusion - everything is not alright
 
-The Ombudsman's findings will be welcomed by Southwark, particularly following the Ombudsman's adverse finding in 2016. 
+The Ombudsman's findings will be welcomed by Southwark, particularly following his adverse finding in 2016. 
 
 But the Ombudsman's paints a picture of a service that is still not on top of the monitoring job, six years after he first exposed the problem.  Just two officers were tasked with the audit, later increased to ten, *'to complete the project'*. Only two annual audits were completed in six years and solid evidence from Southwark and the GLA sources, that a large number of schemes and units have been omitted, has not been investigated.  A bespoke online tool was commissioned, then abandoned (at unspecified cost), with another now apparently in the works.  
 
-The process for securing affordable housing also appears haphazard.  Consequential changes are being made to approved applications, for different reasons and at different point in the planning process, which Southwark officers cannot properly explain - the very problem an effective monitoring process would have solved.  
+The process for securing affordable housing also appears haphazard.  Consequential changes are being made to approved applications, for different reasons and at different point in the planning process, which Southwark officers cannot properly explain - a problem that would not arise with an effective monitoring process. 
 
-It is the facts on the ground though, that expose Southwark's monitoring failure.  Gutenberg Court is one example of a scheme with social housing, approved by planning committee several years ago, that is now appearing on Southwark's Homesearch website with 'market related' rents very much higher than social rents.  Elephant Park is also under scrutiny because of the high level of its social rents.  For as long as we have cases like this, Southwark Council must not be allowed to lapse into complacency, simply because the Ombudsman says everything is alright.
+It is the facts on the ground though, that really expose Southwark's monitoring failure.  Gutenberg Court is one example of a scheme with social housing, approved by planning committee several years ago, that is now appearing on Southwark's Homesearch website with 'market related' rents very much higher than social rents.  Elephant Park is also under scrutiny because of the high level of its social rents.  For as long as we have cases like this, Southwark Council cannot complacently say every thing is alright, simply because the Ombudsman says so.

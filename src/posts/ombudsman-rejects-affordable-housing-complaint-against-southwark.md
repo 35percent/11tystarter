@@ -35,7 +35,7 @@ SCREEN SHOTS; AUDIT PAGE (2041 figure); TABLE 8, Housing Facts and Figures)
 
 The Greater London Authority (GLA), which funds much affordable housing, also has responsibility for monitoring its delivery across London.  Our examination of the [GLA database](https://public.tableau.com/app/profile/glaintelligence/viz/PlanningLondonDatahub-Dashboard/MainDashboard) found 209 completed schemes listed as having provided affordable housing in Southwark, as part of a planning permission, but which do not appear in Southwark's own audit.  
 
-One-hundred and forty one of these schemes can be found on [Southwark's planning portal](https://www.southwark.gov.uk/planning-and-building-control/planning-applications/planning-register-search-view-and-comment-on-planning-applications) and date from at least 2004 onwards.  Many are simple one and two unit conversions, but there are also much larger schemes, including parts of Elephant Park,  Canada Water with thirty-eight schemes for between ten and 100 units.
+One-hundred and forty one of these schemes can be found on [Southwark's planning portal](https://www.southwark.gov.uk/planning-and-building-control/planning-applications/planning-register-search-view-and-comment-on-planning-applications) and date from at least 2004 onwards.  Many are simple one- and two-unit conversions, but there are also much larger schemes, including parts of Elephant Park,  Canada Water with thirty-eight schemes for between ten and 100 units.
 
 ### ....weak enforcement actions
 

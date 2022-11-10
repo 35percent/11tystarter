@@ -11,7 +11,7 @@ These discrepancies  were not minor.  They show a difference of over 3,500 in th
 
 ### The two complaints
 
-This was the second complaint to the Ombudsman on this issue.   Southwark had undertaken to introduce effective monitoring procedures, after the Ombudsman found that none were in place, following an [earlier complaint in 2016](https://www.35percent.org/posts/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) .  The new procedures were to include annual audits.  In the six years since then, though, only two incomplete audits have been published.  An online monitoring tool, able to record live data, and commissioned by Southwark was never launched.
+This was the second complaint to the Ombudsman on this issue.  Southwark had said it would introduce  effective monitoring procedures, after the Ombudsman found that none were in place, following an [earlier complaint in 2016](https://www.35percent.org/posts/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) .  The new procedures were to include annual audits.  In the six years since then, though, only two incomplete audits have been published.  An online monitoring tool, able to record live data, and commissioned by Southwark was never launched.
 
 In response to the second complaint Southwark explained that the four-year gap between the first audit in 2017 and the second in 2022 was caused by the large amount of data that had had to be processed.  Most of this task had been undertaken by two officers, later increased to ten officers to complete the project.  Southwark also said that *'better'* off-the-peg software had replaced the online tool it had commissioned and that it was now working with another software developer to build a comprehensive new tool.
 

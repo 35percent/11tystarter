@@ -7,4 +7,4 @@ Social rented housing with rents above the rent limits set by government have be
 
 [The Southwark Law Centre's](https://www.southwarklawcentre.org.uk/) Planning Voice project has been monitoring Homesearch for the past year and has raised the issue with the Council.  It has written to them with eight examples, seven of which have rent levels above [the formula rent cap](https://www.gov.uk/government/publications/rent-standard/limit-on-annual-rent-increases-2022-23-from-april-2022) limits set by government; by contrast the eighth development, built by Southwark Council, has social rents at just about the correct levels.
 
-The developments identified include Elephant Park, in the site of the former Heygate estate, and three developments where the social housing is delivered by the same registered provider, Optivo.  SCREENSHOT OF TABLE
+The developments identified include Elephant Park, in the site of the former Heygate estate, and three where the social housing is delivered by the same registered provider, Optivo.  SCREENSHOT OF TABLE

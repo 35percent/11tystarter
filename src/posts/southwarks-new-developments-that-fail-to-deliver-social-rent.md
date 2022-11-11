@@ -12,5 +12,3 @@ The developments identified include Elephant Park, in the site of the former Hey
 The seven private develpments are; 44 Willow Walk, Eden House, Shirley Chissom Court, Dockley Apartments, Gutenberg Court, Elephant Park and Joseph Lancaster Terrace.  All the rents in these schemes exceed the the rent cap by various amounts, both with and without weekly service charges.
 
 ### Rent and service charges
-
-###

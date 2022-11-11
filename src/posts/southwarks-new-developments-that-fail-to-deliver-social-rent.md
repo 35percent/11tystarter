@@ -33,7 +33,7 @@ In Eden House, Optivo charge £269.19 rent for a two-bed flat, against a rent ca
 
 Some of the scheme's providers do not show any service charge in the total weekly rent.  Peabody are charging total rents of £223.50 (rent cap £155.73) one-bed and £248.72 (rent cap £164.87) two-bed at Willow Walk.  Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 for a two bed at Gutenberg Court (LINK). Our last blog post showed how the nine social rented units that were approved at planning committee have been audited as intermediate, or affordable rent, red flagged, but with apparantly no enforcement action to date.
 
-### Elephant Park
+### L&Q at Elephant Park
 
 
 
@@ -42,6 +42,10 @@ Some of the scheme's providers do not show any service charge in the total weekl
 
 
 
+
+
+
+Only a hundred social rented units, all 3-bed - now only nominal. Plot H1 planning application. Audit - enforcement notice, Southwark News. High service charges. 
 
 ### Conclusion - effective monitoring
 

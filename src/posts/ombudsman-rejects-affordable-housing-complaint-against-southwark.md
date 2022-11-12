@@ -45,7 +45,7 @@ One-hundred and forty three of these schemes can be found on [Southwark's planni
 
 ### ....weak enforcement actions
 
-While the Ombudsman does not consider these discrepancies in the number of schemes and social rented units, he does consider how the affordable housing obligations are enforced.  This has a couple of alarming explanations from Southwark's officers, about how affordable housing is secured and retained.  The first is that *'there were cases where there had been changes between what was originally expected during the planning (sic) and what was finally agreed in section 106 agreements. **It was sometimes difficult to know what changes had occurred....'*** (our emphasis).
+There are also a couple of alarming explanations from Southwark's officers, about how affordable housing is secured and retained.  The first is that *'there were cases where there had been changes between what was originally expected during the planning (sic) and what was finally agreed in section 106 agreements. **It was sometimes difficult to know what changes had occurred....'*** (our emphasis).
 
 This should not be happening; certainly there should be no changes between what is approved at planning committee and  and *'what was finally agreed in s106 agreements'*.  Planning committees approve schemes that provide a precise amount of affordable housing of given tenures. If the developer cannot deliver what has been agreed at committee, then a s106 agreement for something different should not be signed.  Southwark's officers should also be able to say why there have been changes, to ensure that they have been made properly.
 

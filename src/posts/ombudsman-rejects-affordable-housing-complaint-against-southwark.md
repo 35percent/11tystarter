@@ -29,17 +29,15 @@ The Ombudsman therefore concluded *'I am satisfied that the Council now has effe
 
 The Ombudsman's decision is a disappointment to us.  We believe that the Ombudsman treats Southwark very benevolently, given what his own report tells us.  It says that Southwark only** *'now*** *has effective means'* of monitoring affordable housing delivery, (our emphasis), six years after the issue came to light; the report does not dwell on what has been happening meantime.  
 
-### .....the lost tool
+### .....the lost tool and the missing units
 
 A bespoke tool that could have monitored real-time delivery has been discarded and another, not specifically designed for the task, is being used instead, with the possibility of reverting to a purpose-built tool later.  
-
-### ....missing units
 
 The Ombudsman's report also says that the database of schemes has only been *'substantially'* completed in the last year.  This is a generous description, given that there is evidence of a 3,556 unit gap between the number of units of social housing Southwark says it has delivered  and those recorded by the audit.  Southwark's [Housing Facts and Figures webpage](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/monitoring/authority-monitoring-report/housing?chapter=4) (Table 8) says that 5,597 social rented homes have been built since 2004/05, whereas only 2,041 have been [recorded in the audit](https://urldefense.com/v3/__https://app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection__;!!Ou-zFulSALS7ubxZ2oj45Dg!Vqi3bagEzmK7icBcQgGm18ZQk8FHJAYsCVjB_M_V6G6fzAaRhemokxPlAzcnrCU09xxdfdKYI2SsLLc63Oa-DmfMFJGVKA$)  (since 2002).
 
 SCREEN SHOTS; AUDIT PAGE (2041 figure); TABLE 8, Housing Facts and Figures)
 
-### ....missing schemes
+### ....the missing schemes
 
 The Greater London Authority (GLA), which funds much affordable housing, also has responsibility for monitoring its delivery across London.  Our examination of the [GLA datahub](https://public.tableau.com/app/profile/glaintelligence/viz/PlanningLondonDatahub-Dashboard/MainDashboard) found 209 completed schemes listed as having provided affordable housing in Southwark, as part of a planning permission, but which do not appear in Southwark's own audit.  
 

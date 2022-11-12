@@ -27,7 +27,7 @@ The Ombudsman therefore concluded *'I am satisfied that the Council now has effe
 
 ### ....six years too late
 
-The Ombudsman's decision is a disappointment to us.  We believe that the Ombudsman treats Southwark very benevolently, given what his own report tells us.  It says that Southwark only** *'now*** *has effective means'* of monitoring affordable housing delivery, (our emphasis), six years after the issue came to light; the report does not dwell on what has been happening meantime.  
+The Ombudsman's decision is a disappointment to us.  We believe that the Ombudsman treats Southwark very benevolently, given what his own report tells us.  It says that Southwark only** *'now*** *has effective means'* of monitoring affordable housing delivery (our emphasis), six years after the issue came to light; the report does not dwell on what has been happening meantime.  
 
 ### .....the lost tool and the missing units
 

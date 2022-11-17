@@ -7,7 +7,9 @@ A complaint by the 35% Campaign that Southwark has no effective system for the d
 
 However, the Ombudsman declined to investigate discrepancies between the affordable housing figures given on [Southwark's interactive audit](https://urldefense.com/v3/__https://app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection__;!!Ou-zFulSALS7ubxZ2oj45Dg!Vqi3bagEzmK7icBcQgGm18ZQk8FHJAYsCVjB_M_V6G6fzAaRhemokxPlAzcnrCU09xxdfdKYI2SsLLc63Oa-DmfMFJGVKA$) and those found on other reports, from both Southwark Council and the Greater London Authority (GLA), primarily on the ground that effective compliance procedures were in place.
 
-These discrepancies were not minor.  They show a shortfall of over 3,500 in the number of recorded social rented units and number audited.  There are also more than 200 completed schemes, listed by the GLA, that remain unaudited.  (LINK/SCREENSHOT)
+These discrepancies were not minor.  They show a shortfall of over 3,500 in the number of recorded social rented units and number audited.  There are also more than 200 completed schemes, listed by the GLA, that remain unaudited.  
+
+![](img/2041.png)
 
 ### The two complaints
 
@@ -35,7 +37,7 @@ A bespoke tool that could have monitored real-time delivery has been discarded a
 
 The Ombudsman's report also says that the database of schemes has only been *'substantially'* completed in the last year.  This is a generous description, given that there is evidence of a 3,556 unit gap between the number of units of social housing Southwark says it has delivered  and those recorded by the audit.  Southwark's [Housing Facts and Figures webpage](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/monitoring/authority-monitoring-report/housing?chapter=4) (Table 8) says that 5,597 social rented homes have been built since 2004/05, whereas only 2,041 have been [recorded in the audit](https://urldefense.com/v3/__https://app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection__;!!Ou-zFulSALS7ubxZ2oj45Dg!Vqi3bagEzmK7icBcQgGm18ZQk8FHJAYsCVjB_M_V6G6fzAaRhemokxPlAzcnrCU09xxdfdKYI2SsLLc63Oa-DmfMFJGVKA$)  (since 2002).
 
-SCREEN SHOTS; AUDIT PAGE (2041 figure); TABLE 8, Housing Facts and Figures)
+![](img/screenshot_southwark_housing_facts_figures_table_8_210922_highlight-2-.jpg)
 
 ### ....the missing schemes
 
@@ -57,7 +59,9 @@ In any event, a look at the Southwark's planning [enforcement action webpages](h
 
 The Ombudsman's report notes that *'In some cases, the type of AHO* \[Affordable Housing Obligations] *tenancy was not what had been required'.*  The report does not say how often this has occurred, but one instance that has come to light is that of [Gutenberg Court](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1QKBWR443&activeTab=summary), which was also one of the schemes cited in our original [2016 complaint](https://www.35percent.org/img/ccomplaint15Dec2016.pdf).  This was a development of 38 homes, including nine social rented homes, approved by Bermondsey Community Council planning committee in 2011.  [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) complained to Southwark Council in October 2021 that the social rented units were being wrongly  advertised to the housing waiting list as *'market related rent'*, not *'social rent'*, on the council's [Homeseach](https://www.southwarkhomesearch.org.uk/) webpages.  The development now appears in Southwark's audit as delivering nine affordable rent units (which can be up to 80% market rent) and zero social rent units. (SCREEN SHOT)
 
-The difference between a market related rent rent and social rent can be seen from the rents that are being charged - £261.44pw (one-bed) and £295.50 (two-bed).  This compares to the [social rent formula rent caps for 2022/23](https://www.gov.uk/government/publications/rent-standard/limit-on-annual-rent-increases-2022-23-from-april-2022#rent-caps) of £155.73 (one-bed) and £164.87 (two-bed). (SCREEN SHOT)
+The difference between a market related rent rent and social rent can be seen from the rents that are being charged - £261.44pw (one-bed) and £295.50 (two-bed).  This compares to the [social rent formula rent caps for 2022/23](https://www.gov.uk/government/publications/rent-standard/limit-on-annual-rent-increases-2022-23-from-april-2022#rent-caps) of £155.73 (one-bed) and £164.87 (two-bed). 
+
+![](img/limit_on_annual_rent_increases_202223_from_april_2022_govuk__google_chrome-08_11_2022_14_15_45-2-1-.png)
 
 The scheme has been 'red-flagged' on [Southwark's audit](https://urldefense.com/v3/__https://app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection__;!!Ou-zFulSALS7ubxZ2oj45Dg!Vqi3bagEzmK7icBcQgGm18ZQk8FHJAYsCVjB_M_V6G6fzAaRhemokxPlAzcnrCU09xxdfdKYI2SsLLc63Oa-DmfMFJGVKA$), but no enforcement action is listed on the [enforcement action webpages](https://planning.southwark.gov.uk/online-applications/search.do?action=simple&searchType=Enforcement).
 

@@ -25,6 +25,10 @@ TABLE - PEABODY AND PARAGON & ASRA HOUSING LTD
 
 ### L&Q at Elephant Park
 
+L&Q is the affordable housing provider on Lendlease's Elephant Park, including one hundred social rented units, all of which are 3-bed homes.  L&Q are charging below the rent cap for rents, but then adding very large service charges, to take total rents up to at least £213.43pw, against a rent cap of £174.03.  The latest flats advertised in Robeson Apts, Rodney Place are a whopping £281.20pw.
+
+Southwark have issued an enforcement notice for an audit of the rents of Sandow House, also on Elephant Park. 
+
 Only a hundred social rented units, all 3-bed - now only nominal. Plot H1 planning application. Audit - enforcement notice, Southwark News. High service charges. 
 
 ### Conclusion - effective monitoring

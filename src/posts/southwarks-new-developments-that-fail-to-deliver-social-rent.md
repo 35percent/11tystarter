@@ -1,9 +1,9 @@
 ---
-title: Southwark's new developments that fail to deliver social rent
-description: High level of social rents challenged
+title: Southwark's developments that fail to deliver real social rent
+description: "Rent levels challenged by Southwark Law Centre "
 date: 2022-11-11T08:22:54.980Z
 ---
-Social rented housing with rents above the rent limits set by government have begun appearing on Southwark's Homeseach website.  The website is used to bid for a new home by people on the housing waiting list.  All the homes come from private new developments that have been approved on the condition that a given amount of social rented housing is also built.  
+Social rented housing with rents above the limits set by government have begun appearing on Southwark's Homeseach website.  The website is used to bid for a new home by people on the housing waiting list.  All the homes come from private new developments that have been approved on the condition that a given amount of social rented housing is also built.  
 
 [The Southwark Law Centre's](https://www.southwarklawcentre.org.uk/) Planning Voice project has been monitoring Homesearch for the past year and has raised the issue with the Council.  It has written to them with eight examples, seven of which have rent levels above [the formula rent cap](https://www.gov.uk/government/publications/rent-standard/limit-on-annual-rent-increases-2022-23-from-april-2022) limits set by government; by contrast the eighth development, Adrian Court, built by Southwark Council, has social rents at just about the correct levels.
 
@@ -15,35 +15,11 @@ The seven private develpments are; 44 Willow Walk, Eden House, Shirley Chissom C
 
 In Eden House, Optivo charge £269.19 rent for a two-bed flat, against a rent cap of £168.87, with an added £12.35 service charge, giving a total of £281.54pw, against a rent cap of £164.87.  The total rent for a one-bed in Shirley Chisholm Court is £184.03, including £15.69 service charge, against a rent cap of £155.73.  In Dockley Apartments the rents for one and two bed flats are at the rent cap limit of £155.73 and £164.87, but with large service charges added the total rents payable are £189.03 (rent cap £155.73) and £210.73 (rent cap £164.87) respectively.
 
-### Rent and service charges - Peabody and Paragon 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Rent and service charges - Peabody and Paragon
 
 Some of the scheme's providers do not show any service charge in the total weekly rent.  Peabody are charging total rents of £223.50 (rent cap £155.73) one-bed and £248.72 (rent cap £164.87) two-bed at Willow Walk.  Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 for a two bed at Gutenberg Court (LINK). Our last blog post showed how the nine social rented units that were approved at planning committee have been audited as intermediate, or affordable rent, red flagged, but with apparantly no enforcement action to date.
 
 ### L&Q at Elephant Park
-
-
-
-
-
-
-
-
-
-
 
 Only a hundred social rented units, all 3-bed - now only nominal. Plot H1 planning application. Audit - enforcement notice, Southwark News. High service charges. 
 

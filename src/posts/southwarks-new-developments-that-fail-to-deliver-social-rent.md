@@ -25,15 +25,19 @@ TABLE - PEABODY AND PARAGON & ASRA HOUSING LTD
 
 ### L&Q at Elephant Park
 
-L&Q is the affordable housing provider on Lendlease's Elephant Park, including one hundred social rented units, all of which are 3-bed homes.  L&Q are charging below the rent cap for rents, but then adding very large service charges, to take total rents up to at least £213.43pw, against a rent cap of £174.03.  The latest flats advertised in Robeson Apts, Rodney Place are a whopping £281.20pw.
+L&Q provides the affordable housing on Elephant Park, including one hundred 3-bed social rented units.  L&Q are charging below the rent cap for rents, but then adding very large service charges, to take total rents up to at least £213.43pw, against a rent cap of £174.03.  The latest flats advertised in Robeson Apts, Rodney Place are a whopping £281.20pw.
 
-Southwark have issued an enforcement notice for an audit of the rents of Sandow House, also on Elephant Park. 
+TABLE - L&Q AND ELEPHANT PARK
 
-Only a hundred social rented units, all 3-bed - now only nominal. Plot H1 planning application. Audit - enforcement notice, Southwark News. High service charges. 
+The level of social rents was [raised by objectors](https://southwarknews.co.uk/news/housing/fears-raised-that-100-elephant-park-social-rent-properties-are-charging-tenants-incorrectly/) at the planning committee meeting that rejected Lendlease's proposal to build an office block on Elephant Park.  Southwark have also started [an enforcement action](https://planning.southwark.gov.uk/online-applications/enforcementDetails.do?activeTab=summary&keyVal=RELD9TKB00K01) for an audit of the rents of Elephant Park's Sandow House.  This was due to be concluded by 21 September, but remains pending.
+
+### Southwark Council and Adrian Court
+
+The social rents being charged on Adrian Court by Southwark Council stand in stark contrast to those of the registered providers
 
 ### Conclusion - effective monitoring
 
-Southwark law Centre's intervention comes just after the Local Goverment and Social Care Ombudsman ruled that Southwark had an effective monitoring system for the delivery of affordable and social rented housing.  The size of these rents tell a different story.  Registered providers are labelling homes as social rented, but charging rents above the rent cap and then adding wildly varying service charges on top.  To its credit, Southwark does not seem to be doing this, with the result that what the social tenant can pay for the same sized flat is dramatic - a three-bed  on Southwark's Adrian Court costing £174.03 incl, whereas the same on Elephant Park can costs £281.20. 
+Southwark Law Centre's intervention comes just after the Local Goverment and Social Care Ombudsman ruled that Southwark had an effective monitoring system for the delivery of affordable and social rented housing.  The size of these rents tell a different story.  Registered providers are labelling homes as social rented, but charging rents above the rent cap and then adding wildly varying service charges on top.  To its credit, Southwark does not seem to be doing this, with the result that what the social tenant can pay for the same sized flat is dramatic - a three-bed  on Southwark's Adrian Court costing £174.03 incl, whereas the same on Elephant Park can costs £281.20. 
 
 it should not need saying that what counts for the tenant is the total amount that they have to find at the end of th week, whether it is called 'rent' or 'servive charge' is irrelevant from this point of view.
 

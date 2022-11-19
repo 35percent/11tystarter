@@ -13,7 +13,9 @@ The seven private develpments are; 44 Willow Walk, Eden House, Shirley Chissom C
 
 ### Optivo's big social rents
 
-In Eden House, Optivo charge a total of £281.54pw, including a £12.35 service charge, against a rent cap of £269.19 rent, for a two-bed flat.  The total rent for a one-bed in Shirley Chisholm Court is £184.03, including £15.69 service charge, against a rent cap of £155.73.  In Dockley Apartments the rents for one and two bed flats are at the rent cap limit of £155.73 and £164.87, but with large service charges added the total rents payable are £189.03 (rent cap £155.73) and £210.73 (rent cap £164.87) respectively.
+[Eden House](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1FKBWR595&activeTab=summary) is a workspace/residential development with 84 homes, on Ilderton Rd, in the Old Kent Rd Opportunity Area.  It was approved in 2018 with 16 social rented units; [Optivo](https://www.optivo.org.uk/) provides this, but is charging £216.92, including a £9.86 service charge, against a rent cap of £115.73 for a one-bed flat and £281.54pw, including a £12.35 service charge, against a rent cap of £164.87, for a two-bed flat.  
+
+Shirley Chisholm Court The total rent for a one-bed in Shirley Chisholm Court is £184.03, including £15.69 service charge, against a rent cap of £155.73.  In Dockley Apartments the rents for one and two bed flats are at the rent cap limit of £155.73 and £164.87, but with large service charges added the total rents payable are £189.03 (rent cap £155.73) and £210.73 (rent cap £164.87) respectively.
 
 TABLE - OPTIVO
 
@@ -31,11 +33,15 @@ TABLE - L&Q AND ELEPHANT PARK
 
 The level of social rents was [raised by objectors](https://southwarknews.co.uk/news/housing/fears-raised-that-100-elephant-park-social-rent-properties-are-charging-tenants-incorrectly/) at the planning committee meeting that rejected Lendlease's proposal to build an office block on Elephant Park.  Southwark have also started [an enforcement action](https://planning.southwark.gov.uk/online-applications/enforcementDetails.do?activeTab=summary&keyVal=RELD9TKB00K01) for an audit of the rents of Elephant Park's Sandow House.  This was due to be concluded by 21 September, but remains pending.
 
+SCREENSHOT L&Q HOMESEARCH ROBESON APTS £281.20
+
 ### Southwark Council and Adrian Court
 
 The social rents being charged for Southwark's new council homes on Adrian Court stand in stark contrast to those of the registered providers listed above.  The one, two bed units are all being let at below the rent cap level, and the three-bed at just above, all rents including a flat service charge of £10.29.
 
 TABLE - ADRIAN CT
+
+
 
 ### Conclusion - effective monitoring
 

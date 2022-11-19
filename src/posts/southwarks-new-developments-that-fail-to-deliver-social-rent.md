@@ -1,5 +1,5 @@
 ---
-title: Southwark's developments that fail to deliver real social rent
+title: Southwark developments that fail to deliver real social rent
 description: "Rent levels challenged by Southwark Law Centre "
 date: 2022-11-11T08:22:54.980Z
 ---

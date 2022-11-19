@@ -13,7 +13,9 @@ The seven private develpments are; 44 Willow Walk, Eden House, Shirley Chissom C
 
 ### Optivo's big social rents
 
-In Eden House, Optivo charge £269.19 rent for a two-bed flat, against a rent cap of £168.87, with an added £12.35 service charge, giving a total of £281.54pw, against a rent cap of £164.87.  The total rent for a one-bed in Shirley Chisholm Court is £184.03, including £15.69 service charge, against a rent cap of £155.73.  In Dockley Apartments the rents for one and two bed flats are at the rent cap limit of £155.73 and £164.87, but with large service charges added the total rents payable are £189.03 (rent cap £155.73) and £210.73 (rent cap £164.87) respectively.
+In Eden House, Optivo charge a total of £281.54pw, including a £12.35 service charge, against a rent cap of £269.19 rent, for a two-bed flat.  The total rent for a one-bed in Shirley Chisholm Court is £184.03, including £15.69 service charge, against a rent cap of £155.73.  In Dockley Apartments the rents for one and two bed flats are at the rent cap limit of £155.73 and £164.87, but with large service charges added the total rents payable are £189.03 (rent cap £155.73) and £210.73 (rent cap £164.87) respectively.
+
+TABLE - OPTIVO
 
 ### Rent and service charges - Peabody and Paragon
 

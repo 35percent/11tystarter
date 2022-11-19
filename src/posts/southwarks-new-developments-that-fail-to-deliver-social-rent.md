@@ -21,6 +21,8 @@ TABLE - OPTIVO
 
 Some of the scheme's providers do not show any service charge in the total weekly rent.  Peabody are charging total rents of £223.50 (rent cap £155.73) one-bed and £248.72 (rent cap £164.87) two-bed at Willow Walk.  Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 for a two bed at Gutenberg Court (LINK). Our last blog post showed how the nine social rented units that were approved at planning committee have been audited as intermediate, or affordable rent, red flagged, but with apparantly no enforcement action to date.
 
+TABLE - PEABODY AND PARAGON & ASRA HOUSING LTD
+
 ### L&Q at Elephant Park
 
 Only a hundred social rented units, all 3-bed - now only nominal. Plot H1 planning application. Audit - enforcement notice, Southwark News. High service charges. 

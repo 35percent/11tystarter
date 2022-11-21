@@ -49,7 +49,7 @@ TABLE - ADRIAN CT
 
 ### Conclusion - lost social housing and ineffective monitoring
 
-Southwark Law Centre's intervention comes just after the Local Government and Social Care Ombudsman ruled that Southwark had an effective monitoring system for the delivery of affordable and social rented housing.  The size of these rents tell a different story.  Registered providers are letting social rent homes at rents way above the rent cap, with and without big service charges.  Some of this might be justified when the units are wheel chair accessible, but the amounts vary wildly.  Nearly all are also wrongly advertised as 'market related rent', not 'social rent'.  
+Southwark Law Centre's intervention comes just after the Local Government and Social Care Ombudsman ruled that Southwark had an effective monitoring system for the delivery of affordable and social rented housing.  The size of these rents tells a different story.  Registered providers are letting social rent homes at rents way above the rent cap, with and without big service charges.  Some of this might be justified when the units are wheel chair accessible, but the amounts vary wildly.  Nearly all are also wrongly advertised as 'market related rent', not 'social rent'.  
 
 To its credit, Southwark seems to be setting rents according to the rent caps, but the result is that a social tenant can pay dramatically different rents for the same sized flat - one on Southwark's Adrian Court costing £174.03 incl, whereas the same on Lendlease's Elephant Park can cost £281.20. 
 

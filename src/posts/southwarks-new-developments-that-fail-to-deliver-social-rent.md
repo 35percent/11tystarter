@@ -19,15 +19,13 @@ The seven private develpments are; 44 Willow Walk, Eden House, Shirley Chissom C
 
 [Dockley Apartments](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0RKBWR806&activeTab=summary) are a part of the Bermondsey Spa developments.  Here Optivo is charging rents for one and two bed wheel chair accessible flats at the rent cap limit of £155.73 and £164.87, but with large service charges added the total rents payable are £189.03 (rent cap £155.73) and £210.73 (rent cap £164.87) respectively.
 
-advertised as market rent
-
-WCA?
-
 TABLE - OPTIVO
 
 ### Rent and service charges - Peabody and Paragon
 
-Some of the scheme's providers do not show any service charge in the total weekly rent.  Peabody are charging total rents of £223.50 (rent cap £155.73) one-bed and £248.72 (rent cap £164.87) two-bed at Willow Walk.  Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 for a two bed at Gutenberg Court (LINK). Our last blog post showed how the nine social rented units that were approved at planning committee have been audited as intermediate, or affordable rent, red flagged, but with apparantly no enforcement action to date.
+Some of the scheme's providers do not show any service charge in the total weekly rent.  Peabody are charging total rents of £223.50 (rent cap £155.73) one-bed and £248.72 (rent cap £164.87) two-bed at Willow Walk. Three and four bed wheel chair accessible homes are being let at £252.60 (rent cap £174.03) and £243.26 (rent cap £183.18) respectively.
+
+Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 for a two bed at Gutenberg Court (LINK). Our last blog post showed how the nine social rented units that were approved at planning committee have been audited as intermediate, or affordable rent, red flagged, but with apparantly no enforcement action to date.
 
 TABLE - PEABODY AND PARAGON & ASRA HOUSING LTD
 
@@ -51,7 +49,7 @@ WCA?
 
 ### Conclusion - effective monitoring
 
-Southwark Law Centre's intervention comes just after the Local Goverment and Social Care Ombudsman ruled that Southwark had an effective monitoring system for the delivery of affordable and social rented housing.  The size of these rents tell a different story.  Registered providers are letting social rent homes at rents way above the rent cap and then adding wildly varying service charges on top.  Many are also wrongly advertised as 'market related rent', not 'social rent'.  
+Southwark Law Centre's intervention comes just after the Local Goverment and Social Care Ombudsman ruled that Southwark had an effective monitoring system for the delivery of affordable and social rented housing.  The size of these rents tell a different story.  Registered providers are letting social rent homes at rents way above the rent cap and often adding big service charges on top.  Some of this might be justified when the units are wheel chair accessible, but the amounts vary wildly.  Nearly all are also wrongly advertised as 'market related rent', not 'social rent'.  
 
 To its credit, Southwark does not seem to be doing this, with the result that what the social tenant can pay for the same sized flat is dramatic - a three-bed  on Southwark's Adrian Court costing £174.03 incl, whereas the same on Elephant Park can costs £281.20.  
 

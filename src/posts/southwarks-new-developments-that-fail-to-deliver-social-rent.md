@@ -13,7 +13,7 @@ The seven private develpments are; 44 Willow Walk, Eden House, Shirley Chissom C
 
 ### Optivo's big social rents
 
-[Eden House](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1FKBWR595&activeTab=summary) is a workspace/residential development with 84 homes, on Ilderton Rd, in the Old Kent Rd Opportunity Area.  It was approved in 2018 with 16 social rented units; [Optivo](https://www.optivo.org.uk/) provides this, but is charging £216.92, including a £9.86 service charge, against a rent cap of £115.73 for a one-bed flat and £281.54pw, including a £12.35 service charge, against a rent cap of £164.87, for a two-bed flat.  
+[Eden House](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1FKBWR595&activeTab=summary) is a workspace/residential development with 84 homes, on Ilderton Rd, in the Old Kent Rd Opportunity Area.  It was approved in 2018 with 16 social rented units; [Optivo](https://www.optivo.org.uk/) provides this, but is charging £216.92, including a £9.86 service charge, against a rent cap of £115.73 for a one-bed flat and £281.54pw, including a £12.35 service charge, against a rent cap of £164.87, for a two-bed flat.  A 3-bed wheel-chair accessible flat is let at £332.31, against a rent cap of £174.03 
 
 [Shirley Chisholm Court](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0SKBWR962&activeTab=summary) is a residential development of 86 homes, also on Ilderton Rd, approved with 19 social rented units.  Here Optivo is charging a total of £184.03, including £15.69 service charge, against a rent cap of £155.73 for a one-bed flat.  For a two bed wheel chair accessible flat the total rent is £197.80 (including a £19.57 service charge) against a rent cap of £164.87.
 
@@ -51,7 +51,9 @@ WCA?
 
 ### Conclusion - effective monitoring
 
-Southwark Law Centre's intervention comes just after the Local Goverment and Social Care Ombudsman ruled that Southwark had an effective monitoring system for the delivery of affordable and social rented housing.  The size of these rents tell a different story.  Registered providers are labelling homes as social rented, but charging rents above the rent cap and then adding wildly varying service charges on top.  To its credit, Southwark does not seem to be doing this, with the result that what the social tenant can pay for the same sized flat is dramatic - a three-bed  on Southwark's Adrian Court costing £174.03 incl, whereas the same on Elephant Park can costs £281.20. 
+Southwark Law Centre's intervention comes just after the Local Goverment and Social Care Ombudsman ruled that Southwark had an effective monitoring system for the delivery of affordable and social rented housing.  The size of these rents tell a different story.  Registered providers are letting social rent homes at rents way above the rent cap and then adding wildly varying service charges on top.  Many are also wrongly advertised as 'market related rent', not 'social rent'.  
+
+To its credit, Southwark does not seem to be doing this, with the result that what the social tenant can pay for the same sized flat is dramatic - a three-bed  on Southwark's Adrian Court costing £174.03 incl, whereas the same on Elephant Park can costs £281.20.  
 
 it should not need saying that what counts for the tenant is the total amount that they have to find at the end of th week, whether it is called 'rent' or 'servive charge' is irrelevant from this point of view.
 

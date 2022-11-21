@@ -17,7 +17,7 @@ The seven private develpments are; 44 Willow Walk, Eden House, Shirley Chissom C
 
 [Shirley Chisholm Court](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0SKBWR962&activeTab=summary) is a residential development of 86 homes, also on Ilderton Rd, approved with 19 social rented units.  Here Optivo is charging a total of £184.03, including £15.69 service charge, against a rent cap of £155.73 for a one-bed wheel chair accessible flat.  For a two bed wheel chair accessible flat the total rent is £197.80 (including a £19.57 service charge) against a rent cap of £164.87.
 
-[Dockley Apartments](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0RKBWR806&activeTab=summary) are a part of the Bermondsey Spa developments.  Here Optivo is charging the rents for one and two bed flats are at the rent cap limit of £155.73 and £164.87, but with large service charges added the total rents payable are £189.03 (rent cap £155.73) and £210.73 (rent cap £164.87) respectively.
+[Dockley Apartments](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0RKBWR806&activeTab=summary) are a part of the Bermondsey Spa developments.  Here Optivo is charging rents for one and two bed wheel chair accessible flats at the rent cap limit of £155.73 and £164.87, but with large service charges added the total rents payable are £189.03 (rent cap £155.73) and £210.73 (rent cap £164.87) respectively.
 
 advertised as market rent
 

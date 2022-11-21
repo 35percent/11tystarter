@@ -17,7 +17,7 @@ The seven private developments are; 44 Willow Walk, Eden House, Shirley Chissom 
 
 [Eden House](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1FKBWR595&activeTab=summary) is a workspace/residential development with 84 homes, on Ilderton Rd, in the Old Kent Rd Opportunity Area.  It was approved in 2018 with 16 social rented units; [Optivo](https://www.optivo.org.uk/) provides this, but is charging £216.92, including a £9.86 service charge, against a rent cap of £115.73 for a one-bed flat and £281.54pw, including a £12.35 service charge, against a rent cap of £164.87, for a two-bed flat.  A 3-bed wheel-chair accessible flat is let at £332.31, against a rent cap of £174.03 
 
-[Shirley Chisholm Court](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0SKBWR962&activeTab=summary) is a residential development of 86 homes, also on Ilderton Rd, approved with 19 social rented units.  Here Optivo is charging a total of £184.03, including £15.69 service charge, against a rent cap of £155.73 for a one-bed wheel chair accessible flat.  For a two bed wheel chair accessible flat the total rent is £197.80 (including a £19.57 service charge) against a rent cap of £164.87.
+[Shirley Chisholm Court](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0SKBWR962&activeTab=summary) is a residential development of 86 homes, also on Ilderton Rd, approved with 19 social rented units.  Here Optivo is charging a total of £184.03, including £15.69 service charge, against a rent cap of £155.73 for a one-bed wheel chair accessible flat.  For a two-bed wheel chair accessible flat the total rent is £197.80 (including a £19.57 service charge) against a rent cap of £164.87.
 
 [Dockley Apartments](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0RKBWR806&activeTab=summary) are a part of the Bermondsey Spa developments.  Here Optivo is charging rents for one and two bed wheel chair accessible flats at the rent cap limit of £155.73 and £164.87, but with large service charges added the total rents payable are £189.03 (rent cap £155.73) and £210.73 (rent cap £164.87) respectively.
 
@@ -27,7 +27,7 @@ TABLE - OPTIVO
 
 Some of the scheme's providers do not show any service charge in the total weekly rent.  Peabody are charging total rents of £223.50 (rent cap £155.73) one-bed and £248.72 (rent cap £164.87) two-bed at Willow Walk. Three and four bed wheel chair accessible homes are being let at £252.60 (rent cap £174.03) and £243.26 (rent cap £183.18) respectively.
 
-Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 for a two bed at Gutenberg Court (LINK). Our last blog post showed how the nine social rented units that were approved at planning committee have been audited as intermediate, or affordable rent, red flagged, but with apparantly no enforcement action to date.
+Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 for a two bed at Gutenberg Court (LINK). Our last blog post showed how the nine social rented units that were approved at planning committee have been audited as intermediate, or affordable rent, red flagged, but with apparently no enforcement action to date.
 
 TABLE - PEABODY AND PARAGON & ASRA HOUSING LTD
 

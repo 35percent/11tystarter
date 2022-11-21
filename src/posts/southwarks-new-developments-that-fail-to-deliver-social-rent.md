@@ -7,7 +7,9 @@ Social rented housing with rents above the limits set by the government have beg
 
 [The Southwark Law Centre's](https://www.southwarklawcentre.org.uk/) Planning Voice project has been monitoring Homesearch for the past year and has raised the issue with the Council.  It has written to them with eight examples, seven of which have rent levels above government [formula rent cap](https://www.gov.uk/government/publications/rent-standard/limit-on-annual-rent-increases-2022-23-from-april-2022) limits; by contrast the eighth development, Adrian Court, a council house scheme, has social rents at just about the correct levels.
 
-The developments identified include Elephant Park, in the site of the former Heygate estate, and three where the social housing is delivered by the same registered provider, [Optivo](https://www.optivo.org.uk/).  SCREENSHOT OF RENT CAP TABLE, also RENT TABLE, GRAPHIC?
+The developments identified include Elephant Park, in the site of the former Heygate estate, and three where the social housing is delivered by the same registered provider, [Optivo](https://www.optivo.org.uk/).  
+
+SCREENSHOT OF RENT CAP TABLE
 
 The seven private developments are; 44 Willow Walk, Eden House, Shirley Chissom Court, Dockley Apartments, Gutenberg Court, Elephant Park and Joseph Lancaster Terrace.  All the rents in these schemes exceed the rent cap by various amounts, both with and without weekly service charges. 
 

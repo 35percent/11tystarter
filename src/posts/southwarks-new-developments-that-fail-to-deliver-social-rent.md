@@ -53,7 +53,7 @@ Southwark Law Centre's intervention comes just after the Local Government and So
 
 To its credit, Southwark seems to be setting rents according to the rent caps, but the result is that a social tenant can pay dramatically different total rents for the same sized flat - one on Southwark's Adrian Court costing £174.03, whereas the same on Lendlease's Elephant Park can cost £281.20. 
 
-Southwark is getting little enough social housing from new developments as it is.  The London Tenants Federation research has found that it there has been a net loss of over 1800 social rented homes in the decade from 2011 and that social housing as a proportion of total housing has been reduced by 13%.  We should not be losing what we do get because of slack monitoring.
+Southwark is getting little enough social housing from new developments as it is.  [The London Tenants Federation](https://londontenants.org/) research has found that it there has been a[ net loss of over 1800 social rented homes](https://twitter.com/londontenants/status/1593640575584149506) in the decade from 2011 and that social housing as a proportion of total housing has been reduced by 13%.  We should not be losing what we do get because of slack monitoring.
 
 Quote from SLC?
 

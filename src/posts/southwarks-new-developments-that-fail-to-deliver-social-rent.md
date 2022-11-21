@@ -45,14 +45,14 @@ The social rents being charged for Southwark's new council homes on Adrian Court
 
 TABLE - ADRIAN CT
 
+### Conclusion - lost social housing and ineffective monitoring
 
+Southwark Law Centre's intervention comes just after the Local Government and Social Care Ombudsman ruled that Southwark had an effective monitoring system for the delivery of affordable and social rented housing.  The size of these rents tell a different story.  Registered providers are letting social rent homes at rents way above the rent cap, with and without big service charges.  Some of this might be justified when the units are wheel chair accessible, but the amounts vary wildly.  Nearly all are also wrongly advertised as 'market related rent', not 'social rent'.  
 
-### Conclusion - effective monitoring?
+To its credit, Southwark seems to be setting rents according to the rent caps, but the result is that a social tenant can pay dramatically different rents for the same sized flat - one on Southwark's Adrian Court costing £174.03 incl, whereas the same on Lendlease's Elephant Park can cost £281.20. 
 
-Southwark Law Centre's intervention comes just after the Local Government and Social Care Ombudsman ruled that Southwark had an effective monitoring system for the delivery of affordable and social rented housing.  The size of these rents tell a different story.  Registered providers are letting social rent homes at rents way above the rent cap and often adding big service charges on top.  Some of this might be justified when the units are wheel chair accessible, but the amounts vary wildly.  Nearly all are also wrongly advertised as 'market related rent', not 'social rent'.  
+Southwark is getting little enough social housing from new developments as it is.  The London Tenants Federation reseach has found that it there has been a net loss of over 1800 social rented homes in the decade from 2011 and that social housing as a proportion of total housing has been reduced by 13%.  We should not be losing what we do get because of slack monitoring.
 
-To its credit, Southwark does not seem to be doing this, with the result that what the social tenant can pay for the same sized flat is dramatic - a three-bed  on Southwark's Adrian Court costing £174.03 incl, whereas the same on Elephant Park can costs £281.20.  
+Quote from SLC?
 
-it should not need saying that what counts for the tenant is the total amount that they have to find at the end of th week, whether it is called 'rent' or 'servive charge' is irrelevant from this point of view.
-
-Wheel chair accessible?
+TABLE - LTF, DELIVERY OF HOMES 2011-2021

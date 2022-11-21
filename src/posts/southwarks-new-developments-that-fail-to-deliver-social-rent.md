@@ -45,11 +45,11 @@ The social rents being charged for Southwark's new council homes on Adrian Court
 
 TABLE - ADRIAN CT
 
-WCA?
 
-### Conclusion - effective monitoring
 
-Southwark Law Centre's intervention comes just after the Local Goverment and Social Care Ombudsman ruled that Southwark had an effective monitoring system for the delivery of affordable and social rented housing.  The size of these rents tell a different story.  Registered providers are letting social rent homes at rents way above the rent cap and often adding big service charges on top.  Some of this might be justified when the units are wheel chair accessible, but the amounts vary wildly.  Nearly all are also wrongly advertised as 'market related rent', not 'social rent'.  
+### Conclusion - effective monitoring?
+
+Southwark Law Centre's intervention comes just after the Local Government and Social Care Ombudsman ruled that Southwark had an effective monitoring system for the delivery of affordable and social rented housing.  The size of these rents tell a different story.  Registered providers are letting social rent homes at rents way above the rent cap and often adding big service charges on top.  Some of this might be justified when the units are wheel chair accessible, but the amounts vary wildly.  Nearly all are also wrongly advertised as 'market related rent', not 'social rent'.  
 
 To its credit, Southwark does not seem to be doing this, with the result that what the social tenant can pay for the same sized flat is dramatic - a three-bed  on Southwark's Adrian Court costing £174.03 incl, whereas the same on Elephant Park can costs £281.20.  
 

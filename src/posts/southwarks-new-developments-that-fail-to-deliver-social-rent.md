@@ -9,7 +9,7 @@ Social rented housing with rents above the limits set by the government have beg
 
 The developments identified include Elephant Park, in the site of the former Heygate estate, and three where the social housing is delivered by the same registered provider, [Optivo](https://www.optivo.org.uk/).  
 
-SCREENSHOT OF RENT CAP TABLE
+![](img/screenshot-2022-11-26-at-11-24-07-limit-on-annual-rent-increases-2021-22-limit_on_annual_rent_increases_2022-23.pdf.png)
 
 The seven private developments are; 44 Willow Walk, Eden House, Shirley Chissom Court, Dockley Apartments, Gutenberg Court, Elephant Park and Joseph Lancaster Terrace.  All the rents in these schemes exceed the rent cap by various amounts, both with and without weekly service charges. 
 

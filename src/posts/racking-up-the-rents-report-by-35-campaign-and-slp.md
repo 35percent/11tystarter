@@ -55,13 +55,13 @@ The Council agreed to introduce compliance monitoring procedures and conduct an 
 # Half-hearted audit
 In early 2022, after six years without having published any audit despite repeated requests, we referred our complaint back to the Ombudsman. Shortly after the Ombudsman agreed to investigate the Council published an audit. But the audit was barely half complete, it had identified only 2,041 of the 5,597 social rented homes and only 188 of the 397 marked as completed in its own records.
 
-![Screenshot of the Council's latest audit](2041.png)
+![](https://www.35percent.org/img/2041.png)
 
 The Council's own [published data](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/monitoring/authority-monitoring-report/housing?&article) says that 5597 social rented homes were completed in the borough between 2005/5 and 2019/20. 
 
 The GLA's planning database shows 209 schemes completed since 2004 (see appendix 1), which don't appear in the Council's audit of 188 schemes. So the Council is not even half way to completing its first audit, despite having had seven years to do so. 
 
-There are also a significant number of inconsitencies in those schemes which have been audited.
+There are also a significant number of inconsistencies in those schemes which have been audited.
 
 For example, social rented homes on the redeveloped Heygate estate and both completed phases of the Aylesbury estate are listed as having been provided as affordable rent (i.e. up to 80% market rent). There is no information about the precise rent levels or whether these homes were allocated to returning residents or families on the housing waiting list.
 
@@ -103,7 +103,7 @@ We suggest that a policy document is drawn up setting out the Council's procedur
 2. An accompanying schedule showing when and how each scheme was monitored.
 3. A final schedule of schemes where breaches in provision have been found and description of what enforcement action has been or is being taken.4. A separate schedule showing how the homes listed above have been allocated to the council's housing waiting list.
 
-As part of the process, we expect an annual compliance check, much similar to the GLA's procedures which it uses for schemes that are allocted grant funding:
+As part of the process, we expect an annual compliance check, much similar to the GLA's procedures which it uses for schemes that are allocated grant funding:
 [https://www.london.gov.uk/sites/default/files/12_gla_cfg_section_9._compliance_audit_-_july_2021.pdf](https://www.london.gov.uk/sites/default/files/12_gla_cfg_section_9._compliance_audit_-_july_2021.pdf)
 
 Every year, the GLA's annual compliance audit selects a random set of schemes to be audited by an independent auditor, who then selects a random set of homes from each scheme for which he requests to see a copy of the tenancy agreements from the respective Housing Association. He then writes up a report confirming whether or not the homes are being provided at the rent levels required by the tenure conditions of planning consent.

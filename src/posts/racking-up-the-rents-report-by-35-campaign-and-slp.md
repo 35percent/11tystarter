@@ -1,7 +1,7 @@
 ---
-title: Racking up the Rents (Report by 35% Campaign and SLP)
+title: Racking up the Rents
 description: Southwark is turning a blind eye to housing associations charging
-  80% market rent for social rented homes - in breach of planning approvals.
+  market-related rent for social rented homes - in breach of planning approvals.
 date: 2022-11-28T13:22:22.366Z
 ---
 

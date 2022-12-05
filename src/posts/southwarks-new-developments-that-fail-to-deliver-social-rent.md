@@ -27,7 +27,7 @@ TABLE - OPTIVO
 
 Some of the scheme's providers do not show any service charge in the total weekly rent.  Peabody are charging total rents of £223.50 (rent cap £164.87) two-bed and £248.72 (rent cap £174.03) three-bed at Willow Walk. Three and four bed wheel chair accessible homes are being let at £252.60 (rent cap £174.03) and £243.26 (rent cap £183.18) respectively.
 
-Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 for a two bed at Gutenberg Court (LINK). Our last blog post showed how the nine social rented units that were approved at planning committee have been audited as intermediate, or affordable rent, red flagged, but with apparently no enforcement action to date.
+Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 for a two bed at [Gutenberg Court](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1QKBWR443&activeTab=summary) . [Our last blog post](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) showed how the nine social rented units that were approved at planning committee have been audited as intermediate, or affordable rent, red flagged, but with apparently no enforcement action to date.
 
 TABLE - PEABODY AND PARAGON & ASRA HOUSING LTD
 
@@ -51,7 +51,7 @@ TABLE - ADRIAN CT
 
 Southwark Law Centre's intervention comes just after the Local Government and Social Care Ombudsman ruled that Southwark had an effective monitoring system for the delivery of affordable and social rented housing.  The size of these rents tells a different story.  Registered providers are letting social rent homes at rents way above the rent cap, with and without big service charges.  Some of this might be justified when the units are wheel chair accessible, but the amounts vary wildly.  Nearly all are also wrongly advertised as 'market related rent', not 'social rent'.  
 
-To its credit, Southwark seems to be setting rents according to the rent caps, but the result is that a social tenant can pay dramatically different total rents for the same sized flat - one on Southwark's Adrian Court costing £174.03, whereas the same on Lendlease's Elephant Park can cost £281.20. 
+To its credit, Southwark seems to be setting rents according to the rent caps, but the result is that a social tenant can pay dramatically different total rents for the same sized flat - a three-bed on Southwark's Adrian Court costing £176.75, whereas the same on Lendlease's Elephant Park can cost £281.20. 
 
 Southwark is getting little enough social housing from new developments as it is.  [The London Tenants Federation](https://londontenants.org/) research has found that it there has been a[ net loss of over 1800 social rented homes](https://twitter.com/londontenants/status/1593640575584149506) in the decade from 2011 and that social housing as a proportion of total housing has been reduced by 13%.  We should not be losing what we do get because of slack monitoring.
 

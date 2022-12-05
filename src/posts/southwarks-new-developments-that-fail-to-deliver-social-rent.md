@@ -57,4 +57,6 @@ Southwark is getting little enough social housing from new developments as it is
 
 TABLE - LTF, DELIVERY OF HOMES 2011-2021
 
+![](img/ltf_table_word-29_11_2022-09_00_59-2-.png)
+
 **Southwark Law Centre’s Planning Voice project says**: *“Given the desperate need for social rent housing in Southwark, we are deeply concerned about the levels of rent for properties being advertised on HomeSearch. We have highlighted many that are above the formula rent cap, and Southwark Council should be doing much more to ensure its approved social landlords are not charging excessive rents so they are in line with council rents. We hope they investigate these cases and the rents are reduced. Thousands of tenants need these homes.”*

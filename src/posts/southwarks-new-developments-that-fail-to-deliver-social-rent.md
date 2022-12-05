@@ -35,7 +35,7 @@ Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 fo
 
 L&Q provides the affordable housing on Elephant Park, including one hundred 3-bed social rented units.  L&Q are charging below the rent cap for rents, but then adding very large service charges, to take total rents up to at least £213.43pw, against a rent cap of £174.03.  The latest flats advertised in Robeson Apts, Rodney Place are a whopping £281.20pw.
 
-TABLE - L&Q AND ELEPHANT PARK
+![](img/l-q_elephant_park_word-29_11_2022-08_51_53-2-.png)
 
 The level of social rents was [raised by objectors](https://southwarknews.co.uk/news/housing/fears-raised-that-100-elephant-park-social-rent-properties-are-charging-tenants-incorrectly/) at the planning committee meeting that rejected Lendlease's proposal to build an office block on Elephant Park.  Southwark have also started [an enforcement action](https://planning.southwark.gov.uk/online-applications/enforcementDetails.do?activeTab=summary&keyVal=RELD9TKB00K01) for an audit of the rents of Elephant Park's Sandow House.  This was due to be concluded by 21 September, but remains pending.
 

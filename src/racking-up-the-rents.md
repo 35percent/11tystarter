@@ -54,7 +54,7 @@ The Council agreed to introduce compliance monitoring procedures and conduct an 
 # Half-hearted audit
 In early 2022, after six years without having published any audit despite repeated requests, we referred our complaint back to the Ombudsman. Shortly after the Ombudsman agreed to investigate the Council published an audit. But the audit was barely half complete, it had identified only 2,041 of the 5,597 social rented homes and only 188 of the 397 marked as completed in its own records.
 
-![Screenshot of the Council's latest audit](2041.png)
+![Screenshot of the Council's latest audit](https://35percent.org/img/2041.png)
 
 The Council's own [published data](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/monitoring/authority-monitoring-report/housing?&article) says that 5597 social rented homes were completed in the borough between 2005/5 and 2019/20. 
 

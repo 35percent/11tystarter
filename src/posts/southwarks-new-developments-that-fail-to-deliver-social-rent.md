@@ -25,7 +25,7 @@ TABLE - OPTIVO
 
 ### Rent and service charges - Peabody and Paragon
 
-Some of the scheme's providers do not show any service charge in the total weekly rent.  Peabody are charging total rents of £223.50 (rent cap £155.73) one-bed and £248.72 (rent cap £164.87) two-bed at Willow Walk. Three and four bed wheel chair accessible homes are being let at £252.60 (rent cap £174.03) and £243.26 (rent cap £183.18) respectively.
+Some of the scheme's providers do not show any service charge in the total weekly rent.  Peabody are charging total rents of £223.50 (rent cap £155.73) two-bed and £248.72 (rent cap £164.87) three-bed at Willow Walk. Three and four bed wheel chair accessible homes are being let at £252.60 (rent cap £174.03) and £243.26 (rent cap £183.18) respectively.
 
 Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 for a two bed at Gutenberg Court (LINK). Our last blog post showed how the nine social rented units that were approved at planning committee have been audited as intermediate, or affordable rent, red flagged, but with apparently no enforcement action to date.
 

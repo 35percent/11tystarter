@@ -5,11 +5,11 @@ date: 2022-11-11T08:22:54.980Z
 ---
 [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) has written to the council to ask why social rents on new housing developments are higher than the limits set by government.  One development, Gutenberg Court, has a social rent of £295.40, which is £130 above the social rent cap of £164.87, for a two-bed property.
 
-For the past year the law centre's Planning Voice Project has been monitoring Southwark Council's Homesearch website, which is used by those on the housing waiting list to find a new home.  [](https://www.southwarklawcentre.org.uk/)It has written to the council with seven examples of private developments which have rent levels above government [formula rent cap](https://www.gov.uk/government/publications/rent-standard/limit-on-annual-rent-increases-2022-23-from-april-2022) limits.  By contrast a council house scheme, Adrian House, has social rents at just about the correct levels.  All the developments that have been approved on the condition that a proportion of the housing is social rented.
+For the past year the law centre's Planning Voice Project has been monitoring Southwark Council's Homesearch website, which is used by those on the housing waiting list to find a new home.  [](https://www.southwarklawcentre.org.uk/)It has written to the council with seven examples of private developments which have rent levels above government [formula rent cap](https://www.gov.uk/government/publications/rent-standard/limit-on-annual-rent-increases-2022-23-from-april-2022) guidance.  By contrast a council house scheme, Adrian House, has social rents at just about the correct levels.  All the developments that have been approved on the condition that a proportion of the housing is social rented.
 
 The developments identified include Elephant Park, in the site of the former Heygate estate, and three where the social housing is delivered by the same registered provider, [Optivo](https://www.optivo.org.uk/).  
 
-![](img/screenshot-2022-11-26-at-11-24-07-limit-on-annual-rent-increases-2021-22-limit_on_annual_rent_increases_2022-23.pdf.png)
+![](img/screenshot-2022-11-26-at-11-24-07-limit-on-annual-rent-increases-2021-22-limit_on_annual_rent_increases_2022-23.pdf.png "Government guidance limit on annual rent increases 2022-23 (from April 2022) ")
 
 The seven private developments are; 44 Willow Walk, Eden House, Shirley Chissom Court, Dockley Apartments, Gutenberg Court, Elephant Park and Joseph Lancaster Terrace.  All the rents in these schemes exceed the rent cap by various amounts, both with and without weekly service charges.  The council has said that it will investigate the complaints.  
 
@@ -39,7 +39,7 @@ L&Q provides the affordable housing on Elephant Park, including one hundred 3-be
 
 The level of social rents was [raised by objectors](https://southwarknews.co.uk/news/housing/fears-raised-that-100-elephant-park-social-rent-properties-are-charging-tenants-incorrectly/) at the planning committee meeting that rejected Lendlease's proposal to build an office block on Elephant Park.  Southwark have also started [an enforcement action](https://planning.southwark.gov.uk/online-applications/enforcementDetails.do?activeTab=summary&keyVal=RELD9TKB00K01) for an audit of the rents of Elephant Park's Sandow House.  This was due to be concluded by 21 September, but remains pending.
 
-![](img/robeson_apt_3-bed-flat-2-.png)
+![](img/robeson_apt_3-bed-flat-2-.png "Homesearch advert for Elephant Park's Robeson Apartments")
 
 ### Southwark Council and Adrian Court
 
@@ -57,6 +57,6 @@ Southwark is getting little enough social housing from new developments as it is
 
 TABLE - LTF, DELIVERY OF HOMES 2011-2021
 
-![](img/ltf_table_word-29_11_2022-09_00_59-2-.png)
+![](img/ltf_table_word-29_11_2022-09_00_59-2-.png "London Tenants Federation - Delivery of homes 2011-2021")
 
 **Southwark Law Centre’s Planning Voice project says**: *“Given the desperate need for social rent housing in Southwark, we are deeply concerned about the levels of rent for properties being advertised on HomeSearch. We have highlighted many that are above the formula rent cap, and Southwark Council should be doing much more to ensure its approved social landlords are not charging excessive rents so they are in line with council rents. We hope they investigate these cases and the rents are reduced. Thousands of tenants need these homes.”*

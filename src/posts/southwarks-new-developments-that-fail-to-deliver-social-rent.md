@@ -39,7 +39,7 @@ L&Q provides the affordable housing on Elephant Park, including one hundred 3-be
 
 The level of social rents was [raised by objectors](https://southwarknews.co.uk/news/housing/fears-raised-that-100-elephant-park-social-rent-properties-are-charging-tenants-incorrectly/) at the planning committee meeting that rejected Lendlease's proposal to build an office block on Elephant Park.  Southwark have also started [an enforcement action](https://planning.southwark.gov.uk/online-applications/enforcementDetails.do?activeTab=summary&keyVal=RELD9TKB00K01) for an audit of the rents of Elephant Park's Sandow House.  This was due to be concluded by 21 September, but remains pending.
 
-SCREENSHOT L&Q HOMESEARCH ROBESON APTS £281.20
+![](img/robeson_apt_3-bed-flat-2-.png)
 
 ### Southwark Council and Adrian Court
 

@@ -21,7 +21,7 @@ The seven private developments are; 44 Willow Walk, Eden House, Shirley Chissom 
 
 [Dockley Apartments](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0RKBWR806&activeTab=summary) has one hundred and eleven homes and is part of the Bermondsey Spa developments.  Here Optivo is charging rents for one and two bed wheel chair accessible flats at the rent cap limit of £155.73 and £164.55, but with large service charges added the total rents payable are £189.03 (rent cap £155.73) and £201.73 (rent cap £164.87) respectively.
 
-TABLE - OPTIVO
+![](img/optivo_table_051222.pdf-adobe-acrobat-reader-64-bit-05_12_2022-09_37_44-2-.png)
 
 ### Rent and service charges - Peabody and Paragon
 

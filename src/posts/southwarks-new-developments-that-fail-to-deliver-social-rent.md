@@ -29,8 +29,6 @@ Some of the scheme's providers do not show any service charge in the total weekl
 
 Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 for a two bed at [Gutenberg Court](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1QKBWR443&activeTab=summary) . [Our last blog post](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) showed how the nine social rented units that were approved at planning committee have been audited as intermediate, or affordable rent, red flagged, but with apparently no enforcement action to date.
 
-TABLE - PEABODY AND PARAGON & ASRA HOUSING LTD
-
 ![](img/peabody_and_asra_table_051222.pdf-adobe-acrobat-reader-64-bit-05_12_2022-09_55_58-2-.png)
 
 ### L&Q at Elephant Park

@@ -1,6 +1,6 @@
 ---
 title: "RACKING UP THE RENTS"
-date: "23rd November 2022"
+date: "2022-12-09"
 image: img/arexampless.png
 layout: page 
 ---

@@ -55,6 +55,6 @@ To its credit, Southwark seems to be setting rents according to the rent caps, b
 
 Southwark is getting little enough social housing from new developments as it is.  [The London Tenants Federation](https://londontenants.org/) research has found that it there has been a[ net loss of over 1800 social rented homes](https://twitter.com/londontenants/status/1593640575584149506) in the decade from 2011 and that social housing as a proportion of total housing has been reduced by 13%.  We should not be losing what we do get because of slack monitoring.
 
-Quote from SLC?
+Southwark Law Centre’s Planning Voice project says: *“Given the desperate need for social rent housing in Southwark, we are deeply concerned about the levels of rent for properties being advertised on HomeSearch. We have highlighted many that are above the formula rent cap, and Southwark Council should be doing much more to ensure it’s approved social landlords are not charging excessive rents so they are in line with council rents. We hope they investigate these cases and the rents are reduced. Thousands of tenants need these homes.”*
 
 TABLE - LTF, DELIVERY OF HOMES 2011-2021

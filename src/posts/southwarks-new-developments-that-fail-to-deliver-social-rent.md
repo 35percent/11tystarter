@@ -45,7 +45,7 @@ The level of social rents was [raised by objectors](https://southwarknews.co.uk/
 
 The social rents being charged for Southwark's new council homes on Adrian Court stand in stark contrast to those of the registered providers listed above.  The one, two bed units are all being let at below the rent cap level, and the three-bed at just above, all rents including a flat service charge of £10.29.
 
-TABLE - ADRIAN CT
+![](img/southwark_council_at_adrian_court_table_051222.pdf_adobe-acrobat-reader-64-bit-05_12_2022-10_18_05-2-.png)
 
 ### Conclusion - lost social housing and ineffective monitoring
 

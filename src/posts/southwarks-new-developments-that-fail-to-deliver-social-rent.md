@@ -1,7 +1,7 @@
 ---
 title: Southwark developments that fail to deliver real social rent
 description: "Social rent of £295.40 challenged by Southwark Law Centre "
-date: 2022-11-11T08:22:54.980Z
+date: 2022-12-07T08:23:58.131Z
 ---
 [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) has written to the council to ask why social rents on new housing developments are higher than the limits set by government.  One development, Gutenberg Court, has a social rent of £295.40, which is £130 above the social rent cap of £164.87, for a two-bed property.
 

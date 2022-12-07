@@ -2,6 +2,7 @@
 title: Southwark developments that fail to deliver real social rent
 description: "Social rent of £295.40 challenged by Southwark Law Centre "
 date: 2022-12-07T08:23:58.131Z
+image: img/gberg.jpg 
 ---
 [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) has written to the council to ask why social rents on new housing developments are higher than the limits set by government.  One development, Gutenberg Court, has a social rent of £295.40, which is £130 above the social rent cap of £164.87, for a two-bed property.
 
@@ -9,7 +10,8 @@ For the past year the law centre's Planning Voice Project has been monitoring So
 
 The developments identified include Elephant Park, in the site of the former Heygate estate, and three where the social housing is delivered by the same registered provider, [Optivo](https://www.optivo.org.uk/).  
 
-![](img/screenshot-2022-11-26-at-11-24-07-limit-on-annual-rent-increases-2021-22-limit_on_annual_rent_increases_2022-23.pdf.png "Government guidance limit on annual rent increases 2022-23 (from April 2022) ")
+![](https://35percent.org/img/screenshot-2022-11-26-at-11-24-07-limit-on-annual-rent-increases-2021-22-limit_on_annual_rent_increases_2022-23.pdf.png)
+*Government guidance limit on annual rent increases 2022-23 (from April 2022)*
 
 The seven private developments are; 44 Willow Walk, Eden House, Shirley Chissom Court, Dockley Apartments, Gutenberg Court, Elephant Park and Joseph Lancaster Terrace.  All the rents in these schemes exceed the rent cap by various amounts, both with and without weekly service charges.  The council has said that it will investigate the complaints.  
 
@@ -21,7 +23,7 @@ The seven private developments are; 44 Willow Walk, Eden House, Shirley Chissom 
 
 [Dockley Apartments](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0RKBWR806&activeTab=summary) has one hundred and eleven homes and is part of the Bermondsey Spa developments.  Here Optivo is charging rents for one and two bed wheel chair accessible flats at the rent cap limit of £155.73 and £164.55, but with large service charges added the total rents payable are £189.03 (rent cap £155.73) and £201.73 (rent cap £164.87) respectively.
 
-![](img/optivo_table_051222.pdf-adobe-acrobat-reader-64-bit-05_12_2022-09_37_44-2-.png)
+![](https://35percent.org/img/optivo_table_051222.pdf-adobe-acrobat-reader-64-bit-05_12_2022-09_37_44-2-.png)
 
 ### Rent and service charges - Peabody and Paragon
 
@@ -29,23 +31,24 @@ Some of the scheme's providers do not show any service charge in the total weekl
 
 Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 for a two bed at [Gutenberg Court](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1QKBWR443&activeTab=summary) . [Our last blog post](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) showed how the nine social rented units that were approved at planning committee have been audited as intermediate, or affordable rent, red flagged, but with apparently no enforcement action to date.
 
-![](img/peabody_and_asra_table_051222.pdf-adobe-acrobat-reader-64-bit-05_12_2022-09_55_58-2-.png)
+![](https://35percent.org/img/peabody_and_asra_table_051222.pdf-adobe-acrobat-reader-64-bit-05_12_2022-09_55_58-2-.png)
 
 ### L&Q at Elephant Park
 
 L&Q provides the affordable housing on Elephant Park, including one hundred 3-bed social rented units.  L&Q are charging below the rent cap for rents, but then adding very large service charges, to take total rents up to at least £213.43pw, against a rent cap of £174.03.  The latest flats advertised in Robeson Apts, Rodney Place are a whopping £281.20pw.
 
-![](img/l-q_elephant_park_word-29_11_2022-08_51_53-2-.png)
+![](https://35percent.org/img/l-q_elephant_park_word-29_11_2022-08_51_53-2-.png)
 
 The level of social rents was [raised by objectors](https://southwarknews.co.uk/news/housing/fears-raised-that-100-elephant-park-social-rent-properties-are-charging-tenants-incorrectly/) at the planning committee meeting that rejected Lendlease's proposal to build an office block on Elephant Park.  Southwark have also started [an enforcement action](https://planning.southwark.gov.uk/online-applications/enforcementDetails.do?activeTab=summary&keyVal=RELD9TKB00K01) for an audit of the rents of Elephant Park's Sandow House.  This was due to be concluded by 21 September, but remains pending.
 
-![](img/robeson_apt_3-bed-flat-2-.png "Homesearch advert for Elephant Park's Robeson Apartments")
+![](https://35percent.org/img/robeson_apt_3-bed-flat-2-.png)
+*Southwark Council's Homesearch advert for Elephant Park's Robeson Apartments*
 
 ### Southwark Council and Adrian Court
 
 The social rents being charged for Southwark's twenty-five new council homes on Adrian Court stand in stark contrast to those of the registered providers listed above.  The one, two bed units are all being let at below the rent cap level, and the three-bed at just above, all rents including a flat service charge of £10.29.
 
-![](img/southwark_council_at_adrian_court_table_051222.pdf_adobe-acrobat-reader-64-bit-05_12_2022-10_18_05-2-.png)
+![](https://35percent.org/img/southwark_council_at_adrian_court_table_051222.pdf_adobe-acrobat-reader-64-bit-05_12_2022-10_18_05-2-.png)
 
 ### Conclusion - lost social housing and ineffective monitoring
 
@@ -55,8 +58,8 @@ To its credit, Southwark seems to be setting rents according to the rent caps, b
 
 Southwark is getting little enough social housing from new developments as it is.  [The London Tenants Federation](https://londontenants.org/) research has found that it there has been a[ net loss of over 1800 social rented homes](https://twitter.com/londontenants/status/1593640575584149506) in the decade from 2011 and that social housing as a proportion of total housing has been reduced by 13%.  We should not be losing what we do get because of slack monitoring.
 
-TABLE - LTF, DELIVERY OF HOMES 2011-2021
+TABLE - LTF, DELIVERY OF HOMES 2011-2021:
 
-![](img/ltf_table_word-29_11_2022-09_00_59-2-.png "London Tenants Federation - Delivery of homes 2011-2021")
+![](https://35percent.org/img/ltf_table_word-29_11_2022-09_00_59-2-.png)
 
 **Southwark Law Centre’s Planning Voice project says**: *“Given the desperate need for social rent housing in Southwark, we are deeply concerned about the levels of rent for properties being advertised on HomeSearch. We have highlighted many that are above the formula rent cap, and Southwark Council should be doing much more to ensure its approved social landlords are not charging excessive rents so they are in line with council rents. We hope they investigate these cases and the rents are reduced. Thousands of tenants need these homes.”*

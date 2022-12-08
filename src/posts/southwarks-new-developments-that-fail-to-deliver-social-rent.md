@@ -17,7 +17,7 @@ The seven developments are; 44 Willow Walk, Eden House, Shirley Chissom Court, D
 
 ### Optivo's big social rents
 
-[Eden House](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1FKBWR595&activeTab=summary) is a workspace/residential development with 84 homes, on Ilderton Rd, in the Old Kent Rd Opportunity Area.  It was approved in 2018 with sixteen social rented units; [Optivo](https://www.optivo.org.uk/) provides this, but is charging £216.92, including a £9.86 service charge, against a rent cap of £115.73 for a one-bed flat and £281.54pw, including a £12.35 service charge, against a rent cap of £164.87, for a two-bed flat.  A 3-bed wheel-chair accessible flat is let at £332.31, against a rent cap of £174.03 
+[Eden House](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1FKBWR595&activeTab=summary) is a workspace/residential development with 84 homes, on Ilderton Rd, in the Old Kent Rd Opportunity Area.  It was approved in 2018 with sixteen social rented units; [Optivo](https://www.optivo.org.uk/) provides this, but is charging £216.92, including a £9.86 service charge, against a rent cap of £155.73 for a one-bed flat and £281.54pw, including a £12.35 service charge, against a rent cap of £164.87, for a two-bed flat.  A 3-bed wheel-chair accessible flat is let at £332.31, against a rent cap of £174.03.
 
 ![](https://35percent.org/edenhouse.jpg)
 

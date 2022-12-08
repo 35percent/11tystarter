@@ -39,7 +39,7 @@ Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.50 fo
 
 ### L&Q at Elephant Park
 
-L&Q provides the affordable housing on Elephant Park, including one hundred 3-bed social rented units.  L&Q are charging below the rent cap for rents, but then adding very large service charges, to take total rents up to at least £213.43pw, against a rent cap of £174.03.  The latest flats advertised in Robeson Apts, Rodney Place are a whopping £281.20pw
+L&Q provides the affordable housing on Elephant Park, including one hundred 3-bed social rented units.  L&Q are charging below the rent cap for rents, but then adding very large service charges, to take total rents up to at least £213.43pw, against a rent cap of £174.03.  The latest flats advertised in Robeson Apts, Rodney Place are a whopping £281.20pw.
 
 ![](https://35percent.org/img/l-q_elephant_park_word-29_11_2022-08_51_53-2-.png)
 

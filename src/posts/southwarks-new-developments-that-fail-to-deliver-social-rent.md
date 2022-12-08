@@ -31,7 +31,7 @@ The seven developments are; 44 Willow Walk, Eden House, Shirley Chissom Court, D
 
 Some of the scheme's providers do not show any service charge in the total weekly rent.  Peabody are charging total rents of £223.50 (rent cap £164.87) two-bed and £248.72 (rent cap £174.03) three-bed at Willow Walk. Three and four bed wheel chair accessible homes are being let at £252.60 (rent cap £174.03) and £243.26 (rent cap £183.18) respectively.
 
-Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 for a two bed at [Gutenberg Court](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1QKBWR443&activeTab=summary) . [Our last blog post](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) showed how the nine social rented units that were approved at planning committee have been audited as intermediate, or affordable rent, red flagged, but with apparently no enforcement action to date.
+Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.40 for a two bed at [Gutenberg Court](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1QKBWR443&activeTab=summary). [Our last blog post](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) showed how the nine social rented units that were approved at planning committee have been audited as intermediate, or affordable rent, red flagged, but with apparently no enforcement action to date.
 
 ![](https://35percent.org/img/gberg.jpg)
 

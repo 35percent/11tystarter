@@ -13,7 +13,7 @@ The developments identified include Elephant Park, in the site of the former Hey
 ![](https://35percent.org/img/screenshot-2022-11-26-at-11-24-07-limit-on-annual-rent-increases-2021-22-limit_on_annual_rent_increases_2022-23.pdf.png)
 *Government guidance limit on annual rent increases 2022-23 (from April 2022)*
 
-The seven private developments are; 44 Willow Walk, Eden House, Shirley Chissom Court, Dockley Apartments, Gutenberg Court, Elephant Park and Joseph Lancaster Terrace.  All the rents in these schemes exceed the rent cap by various amounts, both with and without weekly service charges.  The council has said that it will investigate the complaints.  
+The seven developments are; 44 Willow Walk, Eden House, Shirley Chissom Court, Dockley Apartments, Gutenberg Court, Elephant Park and Joseph Lancaster Terrace.  All the rents in these schemes exceed the rent cap by various amounts, both with and without weekly service charges.  The council has said that it will investigate the complaints.  
 
 ### Optivo's big social rents
 

@@ -21,7 +21,7 @@ The seven developments are; 44 Willow Walk, Eden House, Shirley Chissom Court, D
 
 [Eden House](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV1FKBWR595&activeTab=summary) is a workspace/residential development with 84 homes, on Ilderton Rd, in the Old Kent Rd Opportunity Area.  It was approved in 2018 with sixteen social rented units; [Optivo](https://www.optivo.org.uk/) provides this, but is charging £216.92, including a £9.86 service charge, against a rent cap of £155.73 for a one-bed flat and £281.54pw, including a £12.35 service charge, against a rent cap of £164.87, for a two-bed flat.  A 3-bed wheel-chair accessible flat is let at £332.31, against a rent cap of £174.03.
 
-![](https://35percent.org/edenhouse.jpg)
+![](https://35percent.org/img/edenhouse.jpg)
 
 [Shirley Chisholm Court](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0SKBWR962&activeTab=summary) is a residential development of 86 homes, also on Ilderton Rd, approved with eighteen social rented units.  Here Optivo is charging a total of £184.03, including £15.69 service charge, against a rent cap of £155.73 for a one-bed wheel chair accessible flat.  For a two-bed wheel chair accessible flat the total rent is £198.50 (including a £24.47 service charge) against a rent cap of £164.87.
 
@@ -37,7 +37,7 @@ Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.50 fo
 
 ![](https://35percent.org/img/gberg.jpg)
 
-![](img/peabody_and_paragon_table_051222.pdf-adobe-acrobat-reader-64-bit-08_12_2022-09_24_50-2-.png)
+![](https://35percent.org/img/peabody_and_paragon_table_051222.pdf-adobe-acrobat-reader-64-bit-08_12_2022-09_24_50-2-.png)
 
 ### L&Q at Elephant Park
 

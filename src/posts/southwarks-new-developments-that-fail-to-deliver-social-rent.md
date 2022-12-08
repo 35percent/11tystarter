@@ -4,7 +4,7 @@ description: "Social rent of £295.50 challenged by Southwark Law Centre "
 date: 2022-12-07T08:23:58.131Z
 image: img/gberg.jpg
 ---
-### Social rent of £295.50 challenged by Southwark Law Centre 
+### Social rent of £295.50 challenged by Southwark Law Centre
 
 [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) has written to the council to ask why social rents on new housing developments are higher than the limits set by government.  One development, Gutenberg Court, has a social rent of £295.50, which is £130 above the social rent cap of £164.87, for a two-bed property.  It is also wrongly advertised as 'market related'.
 
@@ -23,7 +23,7 @@ The seven developments are; 44 Willow Walk, Eden House, Shirley Chissom Court, D
 
 ![](https://35percent.org/edenhouse.jpg)
 
-[Shirley Chisholm Court](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0SKBWR962&activeTab=summary) is a residential development of 86 homes, also on Ilderton Rd, approved with eighteen social rented units.  Here Optivo is charging a total of £184.03, including £15.69 service charge, against a rent cap of £155.73 for a one-bed wheel chair accessible flat.  For a two-bed wheel chair accessible flat the total rent is £198.80 (including a £19.57 service charge) against a rent cap of £164.87.
+[Shirley Chisholm Court](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0SKBWR962&activeTab=summary) is a residential development of 86 homes, also on Ilderton Rd, approved with eighteen social rented units.  Here Optivo is charging a total of £184.03, including £15.69 service charge, against a rent cap of £155.73 for a one-bed wheel chair accessible flat.  For a two-bed wheel chair accessible flat the total rent is £198.50 (including a £24.47 service charge) against a rent cap of £164.87.
 
 [Dockley Apartments](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0RKBWR806&activeTab=summary) has one hundred and eleven homes and is part of the Bermondsey Spa developments.  Here Optivo is charging rents for one and two bed wheel chair accessible flats at the rent cap limit of £155.73 and £164.55, but with large service charges added the total rents payable are £189.03 (rent cap £155.73) and £201.78 (rent cap £164.87) respectively.
 
@@ -37,7 +37,7 @@ Paragon and Asra Housing Ltd are charging £261.44 for a one-bed and £295.50 fo
 
 ![](https://35percent.org/img/gberg.jpg)
 
-![](https://35percent.org/img/peabody_and_asra_table_051222.pdf-adobe-acrobat-reader-64-bit-05_12_2022-09_55_58-2-.png)
+![](img/peabody_and_paragon_table_051222.pdf-adobe-acrobat-reader-64-bit-08_12_2022-09_24_50-2-.png)
 
 ### L&Q at Elephant Park
 

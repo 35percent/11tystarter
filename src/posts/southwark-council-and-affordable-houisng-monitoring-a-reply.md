@@ -13,16 +13,14 @@ Southwark says that it provides *'the most comprehensive set of data...in a very
 
 Southwark also make a couple of more surprising claims.  They say that they agreed *'wholeheartedly, with the complainant'*, who pointed out that there was no proper monitoring and that it was *'not acceptable for landlords and developers to deprove people in the borough of the housing they need'.*  This was not apparant back in 2015.  Southwark rejected the complaint, twice, before it was referred to the Ombudsman and only acknowledged that there was a monitoring problem under the pressure of his decision.
 
-Southwark also claim that there has actually been more affordable housing built in the borough than was required from developers, through the legal s106 agreements that were a condition of planning consents.  A quote from The responsible cabinet member is quoted, saying that while 6,2for climate emergency and susta
+Southwark also claim that there has actually been more affordable housing built in the borough than was required from developers, through the legal s106 agreements that were a condition of planning consents.  The responsible cabinet member is quoted, using figures evidently from the 2022 Audit, saying that while 6,278 affordable homes were required from 188 consented developments, 7,754 had been provided and *'more specifically',* that *'over 1,300 units'* of social rented housing had been built *'exceeding what was required'* (figures for developments since 2002).
 
-
+This happy outcome appears very unlikely, particularly as developers routinely declare that there schemes are unvaible as a way of diminishing their affordable housing obligations.  Taking INSERT DEVELOPEMENT EXAMPLE as an example (rule of thumb), the difference in the value between a free-market home and a social rented home is  £x, it would mean that developers will have gifted Southwark property to the value of £yyym, since 2002
 
 This should ring alarm bells, particularly given that it completely at odds with what Southwark says elsewhere in its online housing data, [Housing facts and figures 2004/2005 to 2021, Permissions and delivery of affordable homes](<Housing facts and figures 2004/2005 to 2021 Permissions and delivery of affordable homes>).
 
+...figures and descrepancies
 
-
-
-
-ay Value of social rented housing 'gifted' to Southwark
+Value of social rented housing 'gifted' to Southwark
 
 Where's the dxw tool?

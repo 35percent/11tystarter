@@ -1,6 +1,6 @@
 ---
-title: Southwark Council and affordable houisng monitoring - a reply
-description: Council's optimistic picture wide of the mark
+title: Southwark Council and affordable housing monitoring - a reply
+description: "Council paints a complacently optimistic picture "
 date: 2023-01-07T14:09:44.790Z
 ---
 Southwark Council have issued a self-congratulatory statement, ['Southwark Council takes action on affordable housing promies'](https://www.southwark.gov.uk/news/2022/dec/southwark-council-takes-action-on-affordable-homes-promises#:~:text=21%20December%202022,fulfil%20their%20affordable%20housing%20commitments.) detailing its efforts to monitor the proper delivery of affordable housing, secured from new housing developments in the borough.

@@ -27,7 +27,25 @@ The tables here say that 15,237 affordable homes were approved (and therefor req
 
 On social rent, the tables say that 9,050 unts were approved, 5,597 were completed, reduced to 2,820 after demolitions, around 600 units fewer than the 3,410 figure given in the audit.
 
-If these tables are correct, then we are not getting more affordable and more social rented housing than we should be, as Southwark now claims; we are getting less and by a significant margin - about 36% below the numbers of affordable housing approved, 55% below that number, after taking demolitions are taken into account.   Looking at social housing specifically, we are getting 40% less than was approved, 69% below that number, when demolitions are taken into account. 
+If these tables are correct, then we are not getting more affordable and more social rented housing than we should be, as Southwark now claims; we are getting less and by a significant margin - about 36% below the numbers of affordable housing approved, 55% below that number, after taking demolitions are taken into account.   Looking at social housing specifically, we are getting 40% less than was approved, 69% below that number, when demolitions are taken into account.
+
+### GLA schemes
+
+200+ scehmes missing
+
+### Enforcement
+
+How many schemes have had enforcement actions?  What have been the outcomes?  How man over the seven yers since 2015? How many recent? 
+
+### Rents
+
+Also enforcing rents kept to target - examples (Southwark News - Gutenberg Court).  Now apparant high (extortionate) service charges are being allowed to get around target rents.
+
+### Which is right - the audit or the tables?
+
+Southwark claims that it now has the monitoring of affordable housing delivery in hand and than it is taking enforcement action when needed.
+
+But the information it is supplying is contradictory.  Either the audit is correct of the tables are...
 
 , 9the number quoted by the cou
 

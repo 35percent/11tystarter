@@ -9,4 +9,6 @@ The First Development Site (FDS) was to have been developed by Notting Hill Gene
 
 Then in July 2022 Southwark effectively took over the FDS from NHG and announced that the social housing on the site would be council housing and it would be increased to 581 units.  Southwark also made made a total payment of £xx to NHG.   Cabinet report July 2022
 
-A variation that would allow changes to the planning permission was eventually considered by the planning committee on DATE.  This though only approved an increase of nine social rented units, taking the number to 357, not 581.  The intermedai
+A variation that would allow changes to the planning permission was eventually considered by the planning committee on DATE.  This though only approved an increase of nine social rented units, taking the number to 357, not 581.  The intermediate housing
+
+Originally had 566 units (how many social rent?)

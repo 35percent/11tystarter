@@ -12,12 +12,6 @@ Former pub Valentine and Orson on Kipling estate - council owned?
 All sales look at market value, no restrictive covenants on any of the units. No staircasing sales.
 Developer - Robert Copper
 
-## 06/AP/2341
-See attached Land Registry docs for 814 Old Kent Road.
-Looks like there are 21 flats instead of the 20 consented.
-Looks like they were all sold as shared equity and have all been staircased with the exception of one or two homes.
-Housing association is A2Dominion.
-
 ## 04/AP/2114 (Garland Court, Wansey Street)
 31 flats approved, of which 16 social rent, 3 shared ownership and 12 private sale.
 However, [LR records](https://landregistry.data.gov.uk/app/ppd/search?et%5B%5D=lrcommon%3Afreehold&et%5B%5D=lrcommon%3Aleasehold&limit=100&nb%5B%5D=true&nb%5B%5D=false&paon=garland+court&postcode=se17+1lh&ptype%5B%5D=lrcommon%3Adetached&ptype%5B%5D=lrcommon%3Asemi-detached&ptype%5B%5D=lrcommon%3Aterraced&ptype%5B%5D=lrcommon%3Aflat-maisonette&ptype%5B%5D=lrcommon%3AotherPropertyType&street=wansey&tc%5B%5D=ppd%3AstandardPricePaidTransaction&tc%5B%5D=ppd%3AadditionalPricePaidTransaction) show that 22 flats in Garland Court have come up as having been sold.
@@ -28,3 +22,12 @@ The [Executive report](https://moderngov.southwark.gov.uk/Data/Executive/2004121
 
 ![](img/screenshot-2023-02-13-at-11-34-26-item-no-item-18-site-known-asthe-wansey-street-car-park-wansey-street-se17-disposal.pdf-1-.png)
 
+## 12/AP/1630
+It's a former council owned pub on a council estate in Dulwich, the pub was called the Oriwiu Spot and was sold in 2011 to a developer for £200k.
+They then obtained permission in Nov 2012 for 20 new homes of which 5 affordable (shared ownership).
+[LR records](https://landregistry.data.gov.uk/app/ppd/search?et%5B%5D=lrcommon%3Afreehold&et%5B%5D=lrcommon%3Aleasehold&limit=100&nb%5B%5D=true&nb%5B%5D=false&paon=67&postcode=SE5+8jz&ptype%5B%5D=lrcommon%3Adetached&ptype%5B%5D=lrcommon%3Asemi-detached&ptype%5B%5D=lrcommon%3Aterraced&ptype%5B%5D=lrcommon%3Aflat-maisonette&ptype%5B%5D=lrcommon%3AotherPropertyType&street=green+dale+&tc%5B%5D=ppd%3AstandardPricePaidTransaction&tc%5B%5D=ppd%3AadditionalPricePaidTransaction&town=London) suggest no involvement of a housing association. Download freehold title to check!
+The 5 shared ownership homes (flats 1-5) are on the ground floor and were each fully staircased within a year.
+It's LDHA all over again - this time without the involvement of a housing association!
+PS. the developer involved (Leaf Lane LLP) was dissolved two years ago!
+
+## 

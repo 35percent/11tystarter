@@ -30,4 +30,17 @@ The 5 shared ownership homes (flats 1-5) are on the ground floor and were each f
 It's LDHA all over again - this time without the involvement of a housing association!
 PS. the developer involved (Leaf Lane LLP) was dissolved two years ago!
 
-## 
+## 04/AP/0246
+https://search-property-information.service.gov.uk/search/summary/vy_gqELwZ_5bo7tQlXkLug==
+
+First to Fifteenth Floor Apartments being 414 to 481 (inclusive) Metro Central Heights, 119 Newington Causeway, London (SE1 6DT)
+
+Should be 20 shared ownership apartments out of 71 total.
+
+## 02/AP/0168 Empire Square South
+79 social rented units required by s106.
+Council cleared it in audit.
+LR search SE1 4NF and SE1 4NG
+Download freehold title to make sure 79 units 
+
+https://planning.southwark.gov.uk/online-applications/files/3B5B8232F3C9F974B4F3B427401F6D6B/pdf/02_AP_0168-DEED_DATED_13_11_03-2601673.pdf

@@ -15,13 +15,15 @@ The development site belonged to Southwark Council.  Southwark's Executive appro
 
 *'The Council will be entitled to 100% of initial nominations to the general needs rented social housing units....The social housing units comprise 6 x 1 bed, 4 x 2 bed and 6 x 3 bed'*
 
-Southwark's planning committee then [approved](https://moderngov.southwark.gov.uk/CeListDocuments.aspx?CommitteeId=119&MeetingId=305&DF=08%2f02%2f2005&Ver=2) the thirty-one unit development, with 19 affordable homes, in Feb 2005. 
+Southwark's planning committee then [approved](https://moderngov.southwark.gov.uk/CeListDocuments.aspx?CommitteeId=119&MeetingId=305&DF=08%2f02%2f2005&Ver=2) the thirty-one unit development, with 19 affordable homes, in Feb 2005.
 
+### Seven lost social rent units?
 
+Despite these requirements, though, the Land Registry records that 22 flats were subject to sales between 2006 and 2019 - ten more than the number of free-market homes allowed and seven more than the number of freemarket and shared-ownership homes.  There were twenty-five transactions in all, totalling £6,049,241, with three flats having two transactions each.
 
 [](https://planning.southwark.gov.uk/online-applications/files/0C4C68BF0DB749386891C71EF16D3798/pdf/04_AP_2114-DECISION_NOTICE-2287730.pdf)
 
-[](https://planning.southwark.gov.uk/online-applications/files/E6F57DD1BD52E64AFA3C8FFDDDB19F3E/pdf/04_AP_2114-OFFICER_REPORT-2728559.pdf)Garland Court does not Appear on 2022 Audit
+[](https://planning.southwark.gov.uk/online-applications/files/E6F57DD1BD52E64AFA3C8FFDDDB19F3E/pdf/04_AP_2114-OFFICER_REPORT-2728559.pdf)Garland Court does not appear on 2022 Audit
 
 31 flats approved, of which 16 social rent, 3 shared ownership and 12 private sale.
 However, [LR records](https://landregistry.data.gov.uk/app/ppd/search?et%5B%5D=lrcommon%3Afreehold&et%5B%5D=lrcommon%3Aleasehold&limit=100&nb%5B%5D=true&nb%5B%5D=false&paon=garland+court&postcode=se17+1lh&ptype%5B%5D=lrcommon%3Adetached&ptype%5B%5D=lrcommon%3Asemi-detached&ptype%5B%5D=lrcommon%3Aterraced&ptype%5B%5D=lrcommon%3Aflat-maisonette&ptype%5B%5D=lrcommon%3AotherPropertyType&street=wansey&tc%5B%5D=ppd%3AstandardPricePaidTransaction&tc%5B%5D=ppd%3AadditionalPricePaidTransaction) show that 22 flats in Garland Court have come up as having been sold.

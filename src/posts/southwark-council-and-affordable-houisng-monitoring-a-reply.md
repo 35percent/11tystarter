@@ -21,7 +21,7 @@ This happy outcome appears very unlikely, particularly as developers routinely d
 
 ### Audit alarm bells should be ringing
 
-The descrepancy between what was required by the consents and s106 agreements and what was delivered might be more plausibly explained by errors in the audit, particularly given that it completely at odds with what Southwark says elsewhere in its online housing data, [Housing facts and figures 2004/2005 to 2021, Permissions and delivery of affordable homes](<Housing facts and figures 2004/2005 to 2021 Permissions and delivery of affordable homes>).
+The discrepancy between what was required by the consents and s106 agreements and what was delivered might be more plausibly explained by errors in the audit, particularly given that it completely at odds with what Southwark says elsewhere in its online housing data, [Housing facts and figures 2004/2005 to 2021, Permissions and delivery of affordable homes](<Housing facts and figures 2004/2005 to 2021 Permissions and delivery of affordable homes>).
 
 The tables here say that 15,237 affordable homes were approved (and therefor required) since 2004, well over twice the number quoted in Southwark's latest statement about the audit.  Of these 9,770 were delivered, reduced 6,985 after demolitions were taken into account.
 

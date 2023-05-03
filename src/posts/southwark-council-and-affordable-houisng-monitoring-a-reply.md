@@ -5,7 +5,7 @@ date: 2023-01-07T14:09:44.790Z
 ---
 Southwark Council have issued a self-congratulatory statement, ['Southwark Council takes action on affordable housing promies'](https://www.southwark.gov.uk/news/2022/dec/southwark-council-takes-action-on-affordable-homes-promises#:~:text=21%20December%202022,fulfil%20their%20affordable%20housing%20commitments.) detailing its efforts to monitor the proper delivery of affordable housing, secured from new housing developments in the borough.
 
-This follows two decisions from the local government ombudsman on complaints that there was no proper monitoring system in place.  The [first decision](https://www.35percent.org/img/LGOFinalDecisionSOR.pdf), in 2016, upheld the complaint; [ the second](https://www.lgo.org.uk/decisions/planning/other/21-009-646), in 2022, decided that enough had been  done to rememdy the situation and that Southwark now had an effective monitoring process.  The complaints were made by member of the 35% Campaign and we have blogged several times on the issue, [most recently after the second decision.](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/)
+This follows two decisions from the local government ombudsman on complaints that there was no proper monitoring system in place.  The [first decision](https://www.35percent.org/img/LGOFinalDecisionSOR.pdf), in 2016, upheld the complaint; [ the second](https://www.lgo.org.uk/decisions/planning/other/21-009-646), in 2022, decided that enough had been  done to remedy the situation and that Southwark now had an effective monitoring process.  The complaints were made by member of the 35% Campaign and we have blogged several times on the issue, [most recently after the second decision.](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/)
 
 ### Southwark's monitoring claims
 
@@ -56,6 +56,7 @@ Value of social rented housing 'gifted' to Southwark
 Where's the dxw tool?
 
 ## 04/AP/2114 (Garland Court, Wansey Street)
+
 31 flats approved, of which 16 social rent, 3 shared ownership and 12 private sale.
 However, [LR records](https://landregistry.data.gov.uk/app/ppd/search?et%5B%5D=lrcommon%3Afreehold&et%5B%5D=lrcommon%3Aleasehold&limit=100&nb%5B%5D=true&nb%5B%5D=false&paon=garland+court&postcode=se17+1lh&ptype%5B%5D=lrcommon%3Adetached&ptype%5B%5D=lrcommon%3Asemi-detached&ptype%5B%5D=lrcommon%3Aterraced&ptype%5B%5D=lrcommon%3Aflat-maisonette&ptype%5B%5D=lrcommon%3AotherPropertyType&street=wansey&tc%5B%5D=ppd%3AstandardPricePaidTransaction&tc%5B%5D=ppd%3AadditionalPricePaidTransaction) show that 22 flats in Garland Court have come up as having been sold.
 That's 7 more homes sold privately than there should be..

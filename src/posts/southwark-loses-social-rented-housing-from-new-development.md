@@ -15,18 +15,14 @@ The Council do not say why the nine social rented units are not in the s106 agre
 
 ### Some questions for Southwark Council
 
-Gutenberg Court is one of seven developments that the Southwark Law Centre's Planning Voice project raised with Southwark Council, where the [social rents appear higher](https://www.35percent.org/posts/southwarks-new-developments-that-fail-to-deliver-social-rent/) than they should be.  The Council's limp response effectively concedes that the eleven social rented homes promised for Gutenberg Court have not been delivered; what is worse, the Council makes it clear that they intends to do nothing further to retrieve them.  We suggest that if the housing association involved does not now let nine Gutenberg Court homes at social rents, when that is what was promised, then it should not be allowed any involvement in future housing developments in the borough.
+Gutenberg Court is one of seven developments that the Southwark Law Centre's Planning Voice project raised with Southwark Council, where the [social rents appear higher](https://www.35percent.org/posts/southwarks-new-developments-that-fail-to-deliver-social-rent/) than they should be.  The Council's limp response effectively concedes that the nine social rented homes promised for Gutenberg Court have not been delivered; what is worse, the Council makes it clear that they intends to do nothing further to retrieve them.  We suggest that if the housing association involved does not now let nine Gutenberg Court homes at social rents, when that is what was promised, then it should not be allowed any involvement in future housing developments in the borough.
 
 Southwark must also explain why *'unfortunately'* the promise of nine social rented units did not find its way into the s106 agreement, the key document in any planning permission.  A charitable explanation is that the planning department was not paying proper attention to the s106 wording, but we cannot afford such carelessness, when the need for social rented homes is so desperate.
 
-Soutwark should also explain why they themselves did not discover that the absent social units in their own audits.  Gutenberg Court is listed in the 2021 (?check) audit as returning 10 affordable rent and 3 shared-ownership units (check), not nine social rent and 
+Soutwark should also explain why they themselves did not discover that the absent social units in their own audits.  Gutenberg Court is listed in the 2021 (?check) audit as returning 10 affordable rent and 3 shared-ownership units (check), not nine social rent and two shared-ownership.
 
-Southwark Instead of addressing these points, though, Southwark hides behind the Ombudsman's decision (link) that a monitoring system is in place and that this shows that private developers have delivered over 1400 (check) more social units than they should do.
+Instead of addressing these points, though, Southwark hides behind the Ombudsman's decision (link) that a monitoring system is in place and that this shows that private developers have delivered over 1400 (check) more social units than they should have.
 
-There is a simpler explanation for this figure, though, and that is that the audit is flawed, as Guttenberg Court demonstrates.  The audit depends upon accurate returns from many housing associations, big and small and if the figures do not add up that requires a better explanation than 'we are getting more social housing than we thought'.  Southwark should identify this 'extra' social houisng by adress, tobe sure it is social housing, let at social rents, and no just an accumulation of errors and inaccurate reports.  Any accurate audit relies upon reconciling the 'before' and 'after' figures and such a big discrepancy requires a better explanantion than an assumption that we are getting more social housing than we thought.   
+There is a simpler explanation for this 1400 figure, though, and that is that the audit is flawed, as Guttenberg Court demonstrates.  The audit depends upon accurate returns from many housing associations, big and small and if the figures do not add up that requires a better explanation than 'we are getting more social housing than we thought'.  Southwark should identify this 'extra' social houisng by adress, tobe sure it is social housing, let at social rents, and no just an accumulation of errors and inaccurate reports.  
 
-A test of the if Southwark truly believes 
-
-The In our last blogpost we detailed how Southwark Law Centre had complained  
-
-Southwark Law Centre's Planning Voice Project is a valuable
+Quote from Planning Voice

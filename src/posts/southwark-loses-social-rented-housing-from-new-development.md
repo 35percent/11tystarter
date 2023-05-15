@@ -1,5 +1,5 @@
 ---
-title: Southwark loses social rented housing from new development
+title: Southwark loses social rented housing from housing development
 description: Council fails to enforce affordable housing requirement
 date: 2023-05-15T08:03:30.659Z
 ---
@@ -15,7 +15,7 @@ The Council do not say why the nine social rented units are not in the s106 agre
 
 ### Some questions for Southwark Council
 
-Gutenberg Court is one of seven developments that the Southwark Law Centre's Planning Voice project raised with Southwark Council, where the [social rents appear higher](https://www.35percent.org/posts/southwarks-new-developments-that-fail-to-deliver-social-rent/) than they should be.  The Council's limp response effectively concedes that the nine social rented homes promised for Gutenberg Court have not been delivered; what is worse, the Council makes it clear that they intends to do nothing further to retrieve them.  We suggest that if the housing association involved does not now let nine Gutenberg Court homes at social rents, when that is what was promised, then it should not be allowed any involvement in future housing developments in the borough.
+Gutenberg Court is one of seven developments that the Southwark Law Centre's Planning Voice project raised with Southwark Council, where the [social rents appear higher](https://www.35percent.org/posts/southwarks-new-developments-that-fail-to-deliver-social-rent/) than they should be.  The Council's limp response effectively concedes that the nine social rented homes promised for Gutenberg Court have not been delivered; what is worse, the Council makes it clear that they intend to do nothing further to retrieve them.  We suggest that if the housing association involved does not now let nine Gutenberg Court homes at social rents, when that is what was promised, then it should not be allowed any involvement in future housing developments in the borough.
 
 Southwark must also explain why *'unfortunately'* the promise of nine social rented units did not find its way into the s106 agreement, the key document in any planning permission.  A charitable explanation is that the planning department was not paying proper attention to the s106 wording, but we cannot afford such carelessness, when the need for social rented homes is so desperate.
 

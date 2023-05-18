@@ -10,9 +10,18 @@ Gutenberg Court was given planning permission by the Council in July 2011.  The 
 ![](img/11_ap_1390-planning_statement-3054269.pdf-google-chrome-15_05_2023-10_10_25.png)
 
 ## Council fails to enforce affordable housing requirement
+
  The Council, however, say that the s106 agreement between themselves and the developer, which should say how much affordable housing a new scheme delivers, has *'unfortunately...no secific requirement ...to provide affordable housing to be let on social rent terms.'* and *'we have therefore concluded that there is no clear breach of the section 106 agreement and no basis for enforcement action...'.*   The Council says that the matter has been raised with the Housing Association ([PA (Paragon Asra) Housing](https://www.pahousing.co.uk/)) but that they are *'not willing to alter the status because they are complying with the terms of this agreement'.* 
 
 The Council do not say why the nine social rented units are not in the s106 agreement.  Instead they point to a recent Local Government Ombudsman decision that says it has a proper affordable housing monitoring system in place and that the system shows that the borough has received over 1400 more social rented units from developers than s106 agreements require.
+
+\## public funding lost
+
+The Mayor of London's grant funding database shows that Gutenberg Court was awarded a total of £386k grant funding from the Mayor's Affordable Housing Fund for the 13 affordable homes. When the housing association (previously known as Leicester Housing Association). How does the Mayor monitor to ensure that the social housing paid for is actually delivered. 
+
+
+
+![](img/gutenbergfunding.png)
 
 ### Some questions for Southwark Council
 
@@ -20,7 +29,7 @@ Gutenberg Court is one of seven developments that the Southwark Law Centre's Pla
 
 Southwark must also explain why *'unfortunately'* the promise of nine social rented units did not find its way into the s106 agreement, the key document in any planning permission.  Southwark planning was obviously not paying proper attention to the s106 wording and nine social rented units have been lost through this carelessness.
 
-Soutwark should also explain why it took no action until it received a complaint from Southwark Law Centre. When its own audits noted the discrepancy with the comment: _"9x Social Rent units delivered as Affordable Rent."_ This should have prompted immediate action. Affordable rent can be up to 80% market rent and is not considered a suitable tenure for Southwark according to the Council's own website.
+Soutwark should also explain why it took no action until it received a complaint from Southwark Law Centre. When its own audits noted the discrepancy with the comment: *"9x Social Rent units delivered as Affordable Rent."* This should have prompted immediate action. Affordable rent can be up to 80% market rent and is not considered a suitable tenure for Southwark according to the Council's own website.
 
 Instead of addressing these points, though, Southwark hides behind the Ombudsman's decision (link) that a monitoring system is in place and that this shows that private developers have delivered over 1400 (check) more social units than they should have.
 

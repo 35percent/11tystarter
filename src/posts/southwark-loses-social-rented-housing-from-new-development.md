@@ -19,7 +19,7 @@ The Council do not say why the nine social rented units are not in the s106 agre
 
 The Mayor of London's grant funding database shows that Gutenberg Court was awarded a total of £386k grant funding from the Mayor's Affordable Housing Fund for the 13 affordable homes. When the housing association (previously known as Leicester Housing Association). How does the Mayor monitor to ensure that the social housing paid for is actually delivered. 
 
-A question also arises around the price paid for the affordable units. The housing assocation paid the developer £650k for 14 homes on the understanding that 9 would have to be let at social rents. If it were known that they could be let at affordable market-related rents then they are likely to have had to pay considerably more. Thereby increasing the viability of the scheme and surplus for additional affordable housing provision.
+A question also arises around the price paid for the affordable units. Land Registry documents show that the housing assocation paid the developer £650k for 14 homes on the understanding that 9 would have to be let at social rents. If it were known that they could be let at affordable market-related rents then they are likely to have had to pay considerably more. Thereby increasing the viability of the scheme and surplus for additional affordable housing provision.
 
 ![](img/gutenbergfunding.png)
 

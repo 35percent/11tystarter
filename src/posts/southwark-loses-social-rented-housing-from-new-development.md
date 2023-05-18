@@ -5,7 +5,7 @@ date: 2023-05-15T08:03:30.659Z
 ---
 Southwark Council has declined to take any action to recover nine social rented homes that have been lost from Gutenberg Court, a housing development in Grange Rd.  Southwark Law Centre made a formal complaint in October 2021 that two of the homes were being advertised on the Council's Homesearch website at above social rent levels in October 2021.   After a lengthy delay the Council have now replied that it will not be taking any enforcement action (image).
 
-Gutenberg Court was given planning permission by the Council in July 2011.  The [officer's report](https://moderngov.southwark.gov.uk/documents/s21421/Item%201%20report.pdf) states that the 31 units development would include nine units of social rented housing.  The applicant's planning statement for the development also says that there will be nine social rented units. 
+Gutenberg Court was given planning permission by the Council in July 2011.  The [officer's report](https://moderngov.southwark.gov.uk/documents/s21421/Item%201%20report.pdf) states that the 38 units development would include nine units of social rented housing.  The applicant's planning statement for the development also says that there will be nine social rented units. 
 
 ![](img/11_ap_1390-planning_statement-3054269.pdf-google-chrome-15_05_2023-10_10_25.png)
 

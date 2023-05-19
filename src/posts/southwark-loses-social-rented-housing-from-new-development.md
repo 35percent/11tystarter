@@ -15,11 +15,11 @@ Gutenberg Court was given planning permission by the Council in July 2011.  The 
 
 The Council do not say why the nine social rented units are not in the s106 agreement.  Instead they point to a recent Local Government Ombudsman decision that says it has a proper affordable housing monitoring system in place and that the system shows that the borough has received over 1400 more social rented units from developers than s106 agreements require.
 
-\## public funding lost
+### Public funding at stake
 
 The Mayor of London's grant funding database shows that Gutenberg Court was awarded a total of £386k grant funding from the Mayor's Affordable Housing Fund for the 13 affordable homes, at a time when the development's housing association was known as Leicester Housing Association. This raises a question of whether  the Mayor has been properly monitoring the delivery of social housing he is paying for. 
 
-A further question arises around the price paid for the affordable units. Land Registry documents show that the housing assocation paid the developer £650k for 14 homes.  If nine of these were to be let at market related rents, not social rents, then cost would likely have been much more, improving the viability of the scheme and surplus for additional affordable housing provision.
+A further question arises around the price paid for the affordable units. Land Registry documents show that the housing assocation paid the developer £650k for 14 homes.  If nine of these were to be let at market related rents, not social rents, then the price would probably have been greater, improving the viability of the scheme and the scope for additional affordable housing.
 
 ![](img/gutenbergfunding.png)
 

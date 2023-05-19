@@ -29,7 +29,7 @@ Gutenberg Court is one of seven developments that the Southwark Law Centre's Pla
 
 Southwark must also explain why *'unfortunately'* the promise of nine social rented units did not find its way into the s106 agreement, the key document in any planning permission.  Southwark planning was obviously not paying proper attention to the s106 wording and nine social rented units have been lost through this carelessness.
 
-Soutwark should also explain why it took no action until it received a complaint from Southwark Law Centre. When its own audits noted the discrepancy with the comment: *"9x Social Rent units delivered as Affordable Rent."* This should have prompted immediate action. Affordable rent can be up to 80% market rent and is not considered a suitable tenure for Southwark according to the Council's own website.
+Southwark should also explain why it took no action until it received a complaint from Southwark Law Centre. When its own audits noted the discrepancy with the comment: *"9x Social Rent units delivered as Affordable Rent."* This should have prompted immediate action. Affordable rent can be up to 80% market rent and is not considered a suitable tenure for Southwark according to the Council's own website.
 
 Instead of addressing these points, though, Southwark hides behind the Ombudsman's decision (link) that a monitoring system is in place and that this shows that private developers have delivered over 1400 (check) more social units than they should have.
 

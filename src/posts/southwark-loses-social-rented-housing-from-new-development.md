@@ -1,5 +1,5 @@
 ---
-title: Southwark loses social rented housing from housing development
+title: Southwark loses social rented housing from Bermondsey development
 description: Council fails to enforce affordable housing requirement
 date: 2023-05-15T08:03:30.659Z
 ---
@@ -17,9 +17,9 @@ The Council do not say why the nine social rented units are not in the s106 agre
 
 \## public funding lost
 
-The Mayor of London's grant funding database shows that Gutenberg Court was awarded a total of £386k grant funding from the Mayor's Affordable Housing Fund for the 13 affordable homes. When the housing association (previously known as Leicester Housing Association). How does the Mayor monitor to ensure that the social housing paid for is actually delivered. 
+The Mayor of London's grant funding database shows that Gutenberg Court was awarded a total of £386k grant funding from the Mayor's Affordable Housing Fund for the 13 affordable homes, at a time when the development's housing association was known as Leicester Housing Association. This raises a question of whether  the Mayor has been properly monitoring the delivery of social housing he is paying for. 
 
-A question also arises around the price paid for the affordable units. Land Registry documents show that the housing assocation paid the developer £650k for 14 homes on the understanding that 9 would have to be let at social rents. If it were known that they could be let at affordable market-related rents then they are likely to have had to pay considerably more. Thereby increasing the viability of the scheme and surplus for additional affordable housing provision.
+A further question arises around the price paid for the affordable units. Land Registry documents show that the housing assocation paid the developer £650k for 14 homes.  If nine of these were to be let at market related rents, not social rents, then cost would likely have been much more, improving the viability of the scheme and surplus for additional affordable housing provision.
 
 ![](img/gutenbergfunding.png)
 

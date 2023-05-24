@@ -33,7 +33,9 @@ Southwark should also explain why it took no action until it received a complain
 
 Instead of addressing these points, though, Southwark hides behind the Ombudsman's decision (link) that a monitoring system is in place and that this shows that private developers have delivered over 1400 (check) more social units than they should have.
 
-There is a simpler explanation for this 1400 figure, though, and that is that the audit is flawed, as Guttenberg Court demonstrates.  The audit depends upon accurate returns from many housing associations, big and small and if the figures do not add up that requires a better explanation than 'we are getting more social housing than we thought'.  Southwark should identify this 'extra' social housing by address, to be sure it is social housing, let at social rents, and no just an accumulation of errors and inaccurate reports.  
+There is a simpler explanation for this 1400 figure, though, and that is that the audit is flawed, as Guttenberg Court demonstrates.  The audit depends upon accurate returns from many housing associations, big and small and if the figures do not add up that requires a better explanation than 'we are getting more social housing than we thought'.  Southwark should identify this 'extra' social housing by address, to be sure it is social housing, let at social rents, and no just an accumulation of errors and inaccurate reports. 
+
+![](img/screenshot_of_southwarks_ah_monitoring_gutenberg_court_-002-_240523.png)
 
 ### Southwark Law Centre's Planning Voice says...
 

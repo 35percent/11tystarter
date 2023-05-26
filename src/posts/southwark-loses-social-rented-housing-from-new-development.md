@@ -3,7 +3,9 @@ title: Southwark loses social rented housing from Bermondsey development
 description: Council fails to enforce affordable housing requirement
 date: 2023-05-15T08:03:30.659Z
 ---
-Southwark Council has declined to take any action to recover nine social rented homes that have been lost from Gutenberg Court, a housing development in Grange Rd.  Southwark Law Centre made a formal complaint in October 2021 that homes were being advertised on the Council's Homesearch website at over twice the average social rent levels.   After a lengthy delay the Council have now replied that it will not be taking any enforcement action (image).
+Southwark Council has declined to take any action to recover nine social rented homes that have been lost from Gutenberg Court, a housing development in Grange Rd.  Southwark Law Centre made a formal complaint in October 2021 that homes were being advertised on the Council's Homesearch website at over twice the average social rent levels.   After a lengthy delay the Council have now replied that it will not be taking any enforcement action.
+
+![](img/img_20230518_131153.jpg)
 
 Gutenberg Court was given planning permission by the Council in July 2011.  The [officer's report](https://moderngov.southwark.gov.uk/documents/s21421/Item%201%20report.pdf) states that the 38 units development would include nine units of social rented housing.  The applicant's planning statement for the development also says that there will be nine social rented units. 
 
@@ -11,9 +13,15 @@ Gutenberg Court was given planning permission by the Council in July 2011.  The 
 
 ## Council fails to enforce affordable housing requirement
 
- The Council, however, say that the s106 agreement between themselves and the developer, which should say how much affordable housing a new scheme delivers, has *'unfortunately...no secific requirement ...to provide affordable housing to be let on social rent terms.'* and *'we have therefore concluded that there is no clear breach of the section 106 agreement and no basis for enforcement action...'.*   The Council says that the matter has been raised with the Housing Association ([PA (Paragon Asra) Housing](https://www.pahousing.co.uk/)) but that they are *'not willing to alter the status because they are complying with the terms of this agreement'.* 
+ The Council, however, say that the \[s106 agreement](https://planning.southwark.gov.uk/online-applications/files/47BF2BF19A9557E34C1C6E701DA23B99/pdf/11_AP_1390-PART_01-3356338.pdf) between themselves and the developer, which should say how much affordable housing a new scheme delivers, has *'unfortunately...no secific requirement ...to provide affordable housing to be let on social rent terms.'* and *'we have therefore concluded that there is no clear breach of the section 106 agreement and no basis for enforcement action...'.*   The Council says that the matter has been raised with the Housing Association ([PA (Paragon Asra) Housing](https://www.pahousing.co.uk/)) but that they are *'not willing to alter the status because they are complying with the terms of this agreement'.* 
 
-The Council do not say why the nine social rented units are not in the s106 agreement.  Instead they point to a recent Local Government Ombudsman decision that says it has a proper affordable housing monitoring system in place and that the system shows that the borough has received over 1400 more social rented units from developers than s106 agreements require.
+While the Council says that there is *'no secific requirement ...to provide affordable housing to be let on social rent terms'* the s106 agreement says otherwise:
+
+![](img/gutenbergrented.png)
+
+
+
+Instead they point to a recent Local Government Ombudsman decision that says it has a proper affordable housing monitoring system in place and that the system shows that the borough has received over 1400 more social rented units from developers than s106 agreements require.
 
 ### Public funding at stake
 

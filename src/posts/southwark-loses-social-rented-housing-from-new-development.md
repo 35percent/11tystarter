@@ -1,6 +1,6 @@
 ---
-title: Southwark loses social rented housing from Bermondsey development
-description: Council fails to enforce affordable housing requirement
+title: Southwark turns blind eye to social rent homes let at market-related rents
+description: Council fails to enforce social housing requirement
 date: 2023-05-15T08:03:30.659Z
 ---
 Southwark Council has declined to take any action to recover nine social rented homes that have been lost from Gutenberg Court, a housing development in Grange Rd.  Southwark Law Centre made a formal complaint in October 2021 that homes were being advertised on the Council's Homesearch website at over twice the average social rent levels.   After a lengthy delay the Council have now replied that it will not be taking any enforcement action.
@@ -47,5 +47,5 @@ There is a simpler explanation for this 1300 figure, though, and that is that th
 
 ### Southwark Law Centre's Planning Voice says...
 
-*'Given the desperate need for social rented housing in Southwark, the lack of action Southwark Council has taken from its own affordable housing audits’ findings and the lack of attention to detail from Southwark Planning regarding the writing of the S106 agreement is worrying. We are concerned that Southwark Council has not explained why the social rented units are not in the S106 agreement of Gutenberg Court and have rather pointed towards their affordable housing monitoring system to which they do not seem to be taking immediate action for the discrepancies arising from this. 
-There are thousands of families who are in dire need of housing at social rent levels, when social housing is promised, its vital that it is delivered'.*
+*'Given the desperate need for social rented housing in Southwark, the lack of action from Southwark Council despite its own affordable housing audit's findings is very worrying.
+There are thousands of families who are in dire need of housing at social rent levels, when social housing is promised, it is vital that it is delivered'.*

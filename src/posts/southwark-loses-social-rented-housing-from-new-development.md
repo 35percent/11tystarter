@@ -13,7 +13,7 @@ Gutenberg Court was given planning permission by the Council in July 2011.  The 
 
 ## Council fails to enforce affordable housing requirement
 
- The Council, however, say that the \[s106 agreement](https://planning.southwark.gov.uk/online-applications/files/47BF2BF19A9557E34C1C6E701DA23B99/pdf/11_AP_1390-PART_01-3356338.pdf) between themselves and the developer, which should say how much affordable housing a new scheme delivers, has *'unfortunately...no secific requirement ...to provide affordable housing to be let on social rent terms.'* and *'we have therefore concluded that there is no clear breach of the section 106 agreement and no basis for enforcement action...'.*   The Council says that the matter has been raised with the Housing Association ([PA (Paragon Asra) Housing](https://www.pahousing.co.uk/)) but that they are *'not willing to alter the status because they are complying with the terms of this agreement'.* 
+The Council, however, [say](img/GutenbergSouthwarkResponse.pdf) that the [s106 agreement](img/gutenbergs106.pdf) between themselves and the developer, which should say how much affordable housing a new scheme delivers, has *'unfortunately...no secific requirement ...to provide affordable housing to be let on social rent terms.'* and *'we have therefore concluded that there is no clear breach of the section 106 agreement and no basis for enforcement action...'.*   The Council says that the matter has been raised with the Housing Association ([PA (Paragon Asra) Housing](https://www.pahousing.co.uk/)) but that they are *'not willing to alter the status because they are complying with the terms of this agreement'.* 
 
 While the Council says that there is *'no secific requirement ...to provide affordable housing to be let on social rent terms'* the s106 agreement says otherwise:
 
@@ -41,7 +41,7 @@ Southwark should also explain why it took no action until it received a complain
 
 Instead of addressing these points, though, Southwark hides behind the [Ombudsman's decision](https://www.lgo.org.uk/decisions/planning/other/21-009-646) that a monitoring system is in place and that this shows that private developers have delivered over[ 1300 more social units](https://www.southwark.gov.uk/news/2022/dec/southwark-council-takes-action-on-affordable-homes-promises) than they should have.
 
-There is a simpler explanation for this 1300 figure, though, and that is that the audit is flawed, as Guttenberg Court demonstrates.  The audit depends upon accurate returns from many housing associations, big and small and if the figures do not add up that requires a better explanation than 'we are getting more social housing than we thought'.  Southwark should identify this 'extra' social housing by address, to be sure it is social housing, let at social rents, and no just an accumulation of errors and inaccurate reports. 
+There is a simpler explanation for this 1300 figure, though, and that is that the audit is flawed, as Gutenberg Court demonstrates.  The audit depends upon accurate returns from many housing associations, big and small and if the figures do not add up that requires a better explanation than 'we are getting more social housing than we thought'.  Southwark should identify this 'extra' social housing by address, to be sure it is social housing, let at social rents, and no just an accumulation of errors and inaccurate reports. 
 
 ![](img/screenshot_of_southwarks_ah_monitoring_gutenberg_court_-002-_240523.png)
 

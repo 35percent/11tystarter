@@ -25,7 +25,7 @@ Instead they point to a recent Local Government Ombudsman decision that says it 
 
 ### Public funding at stake
 
-The Mayor of London's grant funding database shows that Gutenberg Court was awarded a total of £386k grant funding from the Mayor's Affordable Housing Fund for the 13 affordable homes, at a time when the development's housing association was known as Leicester Housing Association. This raises a question of whether  the Mayor has been properly monitoring the delivery of social housing he is paying for. 
+The Mayor of London's grant funding database shows that Gutenberg Court was awarded a total of [£386k grant funding](https://www.35percent.org/img/GLA+Affordable+Housing+Dataset_v1_0-1.xls) from the Mayor's Affordable Housing Fund for the 13 affordable homes, at a time when the development's housing association was known as Leicester Housing Association. This raises a question of whether  the Mayor has been properly monitoring the delivery of social housing he is paying for. 
 
 A further question arises around the price paid for the affordable units. [Land Registry documents](/img/LRGutenberg.pdf) show that the housing assocation paid the developer £650k for 14 homes.  If nine of these were to be let at market related rents, not social rents, then the price would probably have been greater, improving the viability of the scheme and the scope for additional affordable housing.
 

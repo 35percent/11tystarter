@@ -13,9 +13,9 @@ Gutenberg Court was given planning permission by the Council in July 2011.  The 
 
 ## Council fails to enforce affordable housing requirement
 
-The Council, however, [say](img/GutenbergSouthwarkResponse.pdf) that the [s106 agreement](img/gutenbergs106.pdf) between themselves and the developer, which should say how much affordable housing a new scheme delivers, has *'unfortunately...no secific requirement ...to provide affordable housing to be let on social rent terms.'* and *'we have therefore concluded that there is no clear breach of the section 106 agreement and no basis for enforcement action...'.*   The Council says that the matter has been raised with the Housing Association ([PA (Paragon Asra) Housing](https://www.pahousing.co.uk/)) but that they are *'not willing to alter the status because they are complying with the terms of this agreement'.* 
+The Council, however, [say](img/GutenbergSouthwarkResponse.pdf) that the [s106 agreement](img/gutenbergs106.pdf) between themselves and the developer, which should say how much affordable housing a new scheme delivers, has *'unfortunately...no specific requirement ...to provide affordable housing to be let on social rent terms.'* and *'we have therefore concluded that there is no clear breach of the section 106 agreement and no basis for enforcement action...'.*   The Council says that the matter has been raised with the Housing Association ([PA (Paragon Asra) Housing](https://www.pahousing.co.uk/)) but that they are *'not willing to alter the status because they are complying with the terms of this agreement'.* 
 
-While the Council says that there is *'no secific requirement ...to provide affordable housing to be let on social rent terms'* the s106 agreement says otherwise:
+While the Council says that there is *'no specific requirement ...to provide affordable housing to be let on social rent terms'* the s106 agreement says otherwise:
 
 ![](img/gutenbergrented.png)
 
@@ -27,7 +27,7 @@ Instead they point to a recent Local Government Ombudsman decision that says it 
 
 The Mayor of London's grant funding database shows that Gutenberg Court was awarded a total of [£386k grant funding](https://www.35percent.org/img/GLA+Affordable+Housing+Dataset_v1_0-1.xls) from the Mayor's Affordable Housing Fund for the 13 affordable homes, at a time when the development's housing association was known as Leicester Housing Association. This raises a question of whether  the Mayor has been properly monitoring the delivery of social housing he is paying for. 
 
-A further question arises around the price paid for the affordable units. [Land Registry documents](/img/LRGutenberg.pdf) show that the housing assocation paid the developer £650k for 14 homes.  If nine of these were to be let at market related rents, not social rents, then the price would probably have been greater, improving the viability of the scheme and the scope for additional affordable housing.
+A further question arises around the price paid for the affordable units. [Land Registry documents](/img/LRGutenberg.pdf) show that the housing association paid the developer £650k for 14 homes.  If nine of these were to be let at market related rents, not social rents, then the price would probably have been greater, improving the viability of the scheme and the scope for additional affordable housing.
 
 ![](img/gutenbergfunding.png)
 

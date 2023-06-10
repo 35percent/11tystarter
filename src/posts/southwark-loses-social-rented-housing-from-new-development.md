@@ -1,7 +1,8 @@
 ---
 title: Southwark turns blind eye to social rent homes let at market-related rents
 description: Council fails to enforce social housing requirement
-date: 2023-05-15T08:03:30.659Z
+date: 2023-05-15
+image: img/homesforrent.png
 ---
 Southwark Council has declined to take any action to recover nine social rented homes that have been lost from Gutenberg Court, a housing development in Grange Rd.  Southwark Law Centre made a formal complaint in October 2021 that homes were being advertised on the Council's Homesearch website at over twice the average social rent levels.   After a lengthy delay the Council have now replied that it will not be taking any enforcement action.
 

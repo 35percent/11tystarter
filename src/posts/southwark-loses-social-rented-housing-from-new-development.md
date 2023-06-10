@@ -6,11 +6,13 @@ image: img/homesforrent.png
 ---
 Southwark Council has declined to take any action to recover nine social rented homes that have been lost from Gutenberg Court, a housing development in Grange Rd.  Southwark Law Centre made a formal complaint in October 2021 that homes were being advertised on the Council's Homesearch website at over twice the average social rent levels.   After a lengthy delay the Council have now replied that it will not be taking any enforcement action.
 
-![](http://35percent.org/img/img_20230518_131153.jpg)
+![](https://www.35percent.org/img/gberg.jpg)
+*Social rent homes at Gutenberg Court advertised at twice social rent levels*
 
 Gutenberg Court was given planning permission by the Council in July 2011.  The [officer's report](https://moderngov.southwark.gov.uk/documents/s21421/Item%201%20report.pdf) states that the 38 units development would include nine units of social rented housing.  The applicant's planning statement for the development also says that there will be nine social rented units. 
 
 ![](http://35percent.org/img/11_ap_1390-planning_statement-3054269.pdf-google-chrome-15_05_2023-10_10_25.png)
+*Planning statement for Gutenberg Court*
 
 ## Council fails to enforce affordable housing requirement
 
@@ -19,6 +21,7 @@ The Council, however, [say](img/GutenbergSouthwarkResponse.pdf) that the [s106 a
 While the Council says that there is *'no specific requirement ...to provide affordable housing to be let on social rent terms'* the s106 agreement says otherwise:
 
 ![](http://35percent.org/img/gutenbergrented.png)
+*Section 106 agreement for Gutenberg Court*
 
 Southwark ignores this part of the s106 agreement, which clearly says that the nine rented affordable homes should be consistent with social rent levels. Further, Gutenberg Court's market-related rents (known as 'affordable rent') were not introduced as an affordable housing tenure until 2012 - after the s106 agreement was signed.
 
@@ -31,6 +34,7 @@ The Mayor of London's grant funding database shows that Gutenberg Court was awar
 A further question arises around the price paid for the affordable units. [Land Registry documents](/img/LRGutenberg.pdf) show that the housing association paid the developer £650k for 14 homes.  If nine of these were to be let at market related rents, not social rents, then the price would probably have been greater, improving the viability of the scheme and the scope for additional affordable housing.
 
 ![](http://35percent.org/img/gutenbergfunding.png)
+*Details of Mayoral funding for Gutenberg Court*
 
 ### Some questions for Southwark Council
 
@@ -42,9 +46,10 @@ Southwark should also explain why it took no action until it received a complain
 
 Instead of addressing these points, though, Southwark hides behind the [Ombudsman's decision](https://www.lgo.org.uk/decisions/planning/other/21-009-646) that a monitoring system is in place and that this shows that private developers have delivered over[ 1300 more social units](https://www.southwark.gov.uk/news/2022/dec/southwark-council-takes-action-on-affordable-homes-promises) than they should have.
 
-There is a simpler explanation for this 1300 figure, though, and that is that the audit is flawed, as Gutenberg Court demonstrates.  The audit depends upon accurate returns from many housing associations, big and small and if the figures do not add up that requires a better explanation than 'we are getting more social housing than we thought'.  Southwark should identify this 'extra' social housing by address, to be sure it is social housing, let at social rents, and no just an accumulation of errors and inaccurate reports. 
+There is a simpler explanation for this 1300 figure, though, and that is that the audit is flawed, as Gutenberg Court demonstrates.  The audit depends upon accurate returns from many housing associations, big and small and if the figures do not add up that requires a better explanation than _'we are getting more social housing than we thought'_.  Southwark should identify this 'extra' social housing by address, to be sure it is social housing, let at social rents, and not just an accumulation of errors and inaccurate reports. 
 
 ![](http://35percent.org/img/screenshot_of_southwarks_ah_monitoring_gutenberg_court_-002-_240523.png)
+*Southwark's [audit](https://app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection) results for Gutenberg Court*
 
 ### Southwark Law Centre's Planning Voice says...
 

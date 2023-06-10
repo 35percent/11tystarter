@@ -24,9 +24,12 @@ path: home
 
                 </time>
             </p>
+            
             {% set imagewithpath = './src/' + post.data.image %}
+            <center>
             {% picture imagewithpath, "Header image", "(min-width: 30em) 50vw, 100vw "%}
-
+            </center>
+            
             {% if post.data.description %}
                 <p class="text-lg text-gray-500 mb-3">
                     {{ post.data.description }}

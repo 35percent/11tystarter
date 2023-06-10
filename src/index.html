@@ -2,7 +2,8 @@
 layout: blog
 path: home
 ---
-
+</br>
+</br>
 <section class="mt-15">
     {% set postslist = collections.post %}
 
@@ -23,6 +24,9 @@ path: home
 
                 </time>
             </p>
+            
+            {% picture {{ post.data.image }}, "Header image", "(min-width: 30em) 50vw, 100vw "%}
+
             {% if post.data.description %}
                 <p class="text-lg text-gray-500 mb-3">
                     {{ post.data.description }}

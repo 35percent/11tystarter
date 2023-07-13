@@ -12,3 +12,24 @@ Site development, tenures and land
 
 Garland Court’s Planning Permission
 7	A planning application was made on 15 Nov 2004 ([04/AP/2114](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV2EKBWR512&activeTab=summary)) and [planning permission](https://planning.southwark.gov.uk/online-applications/files/0C4C68BF0DB749386891C71EF16D3798/pdf/04_AP_2114-DECISION_NOTICE-2287730.pdf) was granted to Southern Housing Group for 31 apartments at 14-26 Wansey St SE17 on 10 Feb 2005.  The twelfth of the thirteen conditions is that ‘The 19 units allocated for affordable housing shall be developed by a social housing group approved by the local planning authority’.
+
+8      The [planning committee report](https://planning.southwark.gov.uk/online-applications/files/E6F57DD1BD52E64AFA3C8FFDDDB19F3E/pdf/04_AP_2114-OFFICER_REPORT-2728559.pdf) noted that Garland Ct was the first rehousing site for the Elephant and Castle’s displaced residents and that 65%  of the units would be affordable, 35% affordable (para 3.6).
+
+9	The [planning statement](https://planning.southwark.gov.uk/online-applications/files/2381DCF0E4C00C3F4271D57BFAC3A5FF/pdf/04_AP_2114-PLANNING_STATEMENT-2371542.pdf) also referred to ‘65% rental and 35% private sale’ continued consultation with Heygate residents (5.0 design statement; 6.0 community consultation)	  		 
+
+10	Southwark Council’s Statement of Case for a Heygate CPO inquiry of February 2013 also lists Wansey St as delivering 15 (not 16) social rented units.
+
+11	There is no publicly available copy of the s106 agreement.
+
+The ownership of Garland Court’s flats
+12	Garland Court was [completed in 2006](https://www.themodernhouse.com/past-sales/garland-court-wansey-street-london-se17/).  Architects drMM was named Public Architect of the Year by Building Design, who commended its ‘courageous approach to public housing’ and the development was shortlisted for a RIBA Award and the Grand Designs Magazine Awards’.
+13   The Land Registry shows [31 flats listed at 26 Wansey St SE17 1LH](https://search-property-information.service.gov.uk/search/search-by-postcode/results), the Garland Ct. address.  The Title register for 26a Wansey St SE17 1LH (Freehold) (no link available – hard copy held) shows the Lessee’s title for each flat.
+14	The [Land Registry price paid database](http://landregistry.data.gov.uk/app/ppd/search?et%5B%5D=lrcommon%3Afreehold&et%5B%5D=lrcommon%3Aleasehold&limit=100&nb%5B%5D=true&nb%5B%5D=false&paon=garland+court&postcode=se17+1lh&ptype%5B%5D=lrcommon%3Adetached&ptype%5B%5D=lrcommon%3Asemi-detached&ptype%5B%5D=lrcommon%3Aterraced&ptype%5B%5D=lrcommon%3Aflat-maisonette&ptype%5B%5D=lrcommon%3AotherPropertyType&street=wansey&tc%5B%5D=ppd%3AstandardPricePaidTransaction&tc%5B%5D=ppd%3AadditionalPricePaidTransaction) shows that there were 25 transactions, involving 22 flats between 2006 and 2010 (except Flat 3, sold in 2017).  Three flats had two transactions each (Flats 9, 13, 20). (NB Database only shows transactions where price is entered). 
+
+15	The Title Registers for individual flats (3, 4, 6, 7, 8, 9, 10,11,13, 19, 20, 21, 22, 23, 28, 29, 30, 31) show 18 flats in the ownership of individuals, with one (Flat 12), owned by the United Reformed Church (Southern Synod) Trust Ltd (no link available – downloaded 9 /10 June 2023).
+16	The Title Register for Flat 14 shows that it is owned by Southern Housing Home Ownership Limited (SHHOL), after being bought from Southern Housing Home Ownership Limited (no link available – downloaded 9 June 2023).  Eleven other flat transactions were registered on the same day 31 March 2008 (1, 2, 5, 15, 16 17, 18, 24, 25, 26, 27).
+
+Summary and conclusion
+17	Nineteen of the 31 flats are in private ownership, which could include three ‘staircased’ shared-ownership units.  One of the remaining twelve flats is in the possession of SHHOL and it seems reasonable to assume that the eleven registered on the same day are also owned by them.  See APPENDIX: Table of owners of Garland Court flats, below.
+18	This means that a under a ‘best-case scenario’ there are currently 12 social rented flats in Garland Ct, four fewer than the 16 required. It may also be that the three shared-ownership flats are amongst those still owned by SHHOL, in which case there would be seven fewer social rented units than required.
+19	Garland Ct does not appear in Southwark Council’s rolling [audit of affordable housing delivery.](https://urldefense.com/v3/__https:/app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection__;!!Ou-zFulSALS7ubxZ2oj45Dg!Vqi3bagEzmK7icBcQgGm18ZQk8FHJAYsCVjB_M_V6G6fzAaRhemokxPlAzcnrCU09xxdfdKYI2SsLLc63Oa-DmfMFJGVKA$)

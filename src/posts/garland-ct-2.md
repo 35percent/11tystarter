@@ -19,3 +19,5 @@ Garland Court sits on what was a council owned carpark, just behind the former W
 ![](img/council_resolution_sale_wansey_st_car_park_141204.png "Southwark Executive meeting minutes 14 Dec 2004")
 
  [The Executive committee report](<https://moderngov.southwark.gov.uk/Data/Executive/20041214/Agenda/Item 18 - Site known asthe Wansey Street car park, Wansey Street, SE17 - Disposal.pdf>) says that terms had been *‘provisionally agreed’* with Southern Housing Group, including that 19 of the units would be affordable housing, 16 of which were to be general needs rent, three to be shared-ownership, with 12 units of private housing.  The Council would also have 100% nomination rights for the initial general needs tenants and then 75% of 2-bed, and 50% of 1-bed, for a period of 80 years.  There would be 6x1-bed, 4x2-bed, 6x3-bed ‘social housing units’ (para 8).
+
+![](img/executive_committee_report_141204.png)

@@ -42,3 +42,5 @@ The transfer of land document agreed between the Council and Southern Housing Gr
 A planning application was duly made on 15 Nov 2004 ([04/AP/2114](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV2EKBWR512&activeTab=summary)) and [planning permission](https://planning.southwark.gov.uk/online-applications/files/42B1169A9A7CE9D048A133688E5CB8FF/04_AP_2114--48162.rtf) was granted to Southern Housing Group for 31 apartments on 10 Feb 2005.  The twelfth of the thirteen conditions is that *‘The 19 units allocated for affordable housing shall be developed by a social housing group approved by the local planning authority’.*
 
 ![Garland Court's planning permission ](img/planning_permission_04ap2114_wansey_st.png)
+
+![Condition 12 of the planning permission](img/planning_permission_condition_12_04ap2114_100205.png)

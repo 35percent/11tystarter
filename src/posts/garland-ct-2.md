@@ -6,16 +6,13 @@ tags:
   - Heygate
   - Monitoring
 ---
-At least four social housing units have been lost to Southwark from the showpiece replacement housing development built for Heygate estate residents, displaced by the estate’s demolition a decade ago.
-
+At least four social housing units have been lost from the showpiece replacement housing development built for Heygate estate residents, displaced by the estate’s demolition a decade ago.
 
 Garland Court, on Wansey St, at the Elephant and Castle, should have provided at least 16 new social rented homes for Heygate council tenants, who lost their homes to allow for the redevelopment of the estate as Elephant Park by the private developer, Lendlease.
-
 
 However, Land Registry documents reveal that nineteen of the 31 units are now privately owned, leaving just eleven for affordable housing.
 
 #### Affordable housing agreed with housing association
-
 
 Garland Court sits on what was a council owned carpark, just behind the former Walworth Town Hall. Southwark Council [resolved to sell this land to the Southern Housing Group in 2004](https://moderngov.southwark.gov.uk/Data/Executive/20041214/Agenda/Minutes.pdf), on the condition that 16 of the new homes should be social rented, with a further three homes being part-buy/part let
 
@@ -24,7 +21,6 @@ Another Council document from 2004, [an Executive committee report](https://mode
 ![](img/executive_committee_report_141204.png "Executive committee report 14 Dec 2004")
 
 The report further stated that there had been consultations with the TRA and residents of the Heygate estate and that *‘The development would be an exemplar for the main programme of Early Housing Sites and would enable some limited decant of the Heygate Estate to commence’* (para 3).
-
 
 The Strategic Director of Housing advised that Wansey St *‘was that a key early component of the housing provision to meet the needs of tenants to be decanted from the Heygate Estate’* and *‘Rent and service charges are governed by the guidelines for affordability set out in the Affordable Housing Supplementary Planning Guidance’* and *‘All the initial nominations will be to households being decanted from Heygate Estate; thereafter, lettings will be in accordance with the SOUHAG (Southwark Housing Associations’ Group) agreement which is summarised in paragraph 8’* (para 18, 19).
 
@@ -71,6 +67,5 @@ If nineteen of Garland Court’s 31 flats are in private ownership, then simple 
 Four lost units is not a large number but it is a high proportion of this development, with a high free-market value.  Garland Court, while relatively small, was nonetheless a high-profile development which was to house ex-Heygate residents and, after that, those from Southwark’s housing waiting list.  Southwark cannot afford to lose any social rented homes, however small the number.
 
 Garland Court also cannot be found in Southwark Council’s rolling [audit of affordable housing delivery](https://urldefense.com/v3/__https:/app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection__;!!Ou-zFulSALS7ubxZ2oj45Dg!Vqi3bagEzmK7icBcQgGm18ZQk8FHJAYsCVjB_M_V6G6fzAaRhemokxPlAzcnrCU09xxdfdKYI2SsLLc63Oa-DmfMFJGVKA$).  Our [last blogpost](https://www.35percent.org/posts/southwarks-new-developments-that-fail-to-deliver-social-rent/) was about the high rents being charged for housing that is nominally social rented, highlighting Gutenberg Court in Bermondsey.  We said that this undermines Southwark’s claim that it has an effective monitoring system of affordable housing delivery in place.  Garland Court abscence from the audit lends weight to our argument.
-
 
 Southwark Law Centre has taken up the issue of Gutenberg Court with Southwark Council and we have shared the details of Garland Court with them, so that they can do likewise with this case.

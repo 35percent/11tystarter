@@ -14,7 +14,9 @@ However, Land Registry documents reveal that nineteen of the 31 units are now pr
 
 #### Affordable housing agreed with housing association
 
-Garland Court sits on what was a council owned car-park, just behind the former Walworth Town Hall. Southwark Council [resolved to sell this land to the Southern Housing Group in 2004](https://moderngov.southwark.gov.uk/Data/Executive/20041214/Agenda/Minutes.pdf), on the condition that 16 of the new homes should be social rented, with a further three homes being part-buy/part let
+Garland Court sits on what was a council owned car-park, just behind the former Walworth Town Hall. Southwark Council [resolved to sell this land to the Southern Housing Group in 2004](https://moderngov.southwark.gov.uk/Data/Executive/20041214/Agenda/Minutes.pdf), on the condition that 16 of the new homes should be social rented, with a further three homes being part-buy/part let.
+
+![](img/council_resolution_sale_wansey_st_car_park_141204.png)
 
 Another Council document from 2004, [an Executive committee report](https://moderngov.southwark.gov.uk/Data/Executive/20041214/Agenda/Item%2018%20-%20Site%20known%20asthe%20Wansey%20Street%20car%20park,%20Wansey%20Street,%20SE17%20-%20Disposal.pdf), says that terms had been *‘provisionally agreed’* with Southern Housing Group, including that 19 of the units would be affordable housing, 16 of which were to be general needs rent, three to be shared-ownership, with 12 units of private housing.  The Council would also have 100% nomination rights for the initial general needs tenants and then 75% of 2-bed, and 50% of 1-bed, for a period of 80 years.  There would be 6x1-bed, 4x2-bed, 6x3-bed ‘social housing units’ (para 8).
 

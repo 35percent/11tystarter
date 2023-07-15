@@ -62,3 +62,8 @@ In February 2013 Southwark Council’s Statement of Case for a Heygate CPO inqui
 #### The ownership of Garland Court’s flats
 
 Garland Court was completed in 2006 and its distinctive orange-hued design by Architects drMM was shortlisted for a RIBA Award and the Grand Designs Magazine Awards.  The Land Registry shows 31 flats listed at the Garland Ct. address and the the title registers for each flat further show that eighteen are in private ownership, with one owned by a church trust.
+
+#### What we think...
+
+If nineteen of Garland Court’s 31 flats are in private ownership, then simple arithmetic tells us that there cannot be sixteen social rented units. At most there could be twelve, if all the remainder are social rent, but we cannot know for sure because three shared-ownership flats must be accounted for too.\
+Four lost units is not a large number but it is a high proportion of this development, with a high free-market value.  Garland Court, while relatively small, was nonetheless a high-profile development that was to house ex-Heygate residents and after that those from Southwark’s housing waiting list.  Southwark cannot afford to lose any social rented homes, however small the number.

@@ -26,3 +26,7 @@ The report further stated that there had been consultations with the TRA and res
 
 
 The Strategic Director of Housing advised that Wansey St *‘was that a key early component of the housing provision to meet the needs of tenants to be decanted from the Heygate Estate’* and *‘Rent and service charges are governed by the guidelines for affordability set out in the Affordable Housing Supplementary Planning Guidance’* and *‘All the initial nominations will be to households being decanted from Heygate Estate; thereafter, lettings will be in accordance with the SOUHAG (Southwark Housing Associations’ Group) agreement which is summarised in paragraph 8’* (para 18, 19).
+
+#### Land sold for £1
+
+The transfer of land document agreed between the Council and Southern Housing Group shows that the land was sold for £1.  It requires that the ‘Transferee shall ensure that the Social Housing Units shall only be used for Social Housing’ (13.5.1); that they ‘are let in accordance with the provisions of the Nominations agreement’ (13.5.2).  The total number of ‘Social Housing Units’ should be in accordance with ‘clause 21 of an Agreement for Lease’, between the parties, dated 26 May 2005 (13.1.5; 13.1.6).

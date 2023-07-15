@@ -67,3 +67,8 @@ Garland Court was completed in 2006 and its distinctive orange-hued design by Ar
 
 If nineteen of Garland Court’s 31 flats are in private ownership, then simple arithmetic tells us that there cannot be sixteen social rented units. At most there could be twelve, if all the remainder are social rent, but we cannot know for sure because three shared-ownership flats must be accounted for too.\
 Four lost units is not a large number but it is a high proportion of this development, with a high free-market value.  Garland Court, while relatively small, was nonetheless a high-profile development that was to house ex-Heygate residents and after that those from Southwark’s housing waiting list.  Southwark cannot afford to lose any social rented homes, however small the number.
+
+Garland Court also cannot be found in Southwark Council’s rolling [audit of affordable housing delivery](https://urldefense.com/v3/__https:/app.powerbi.com/view?r=eyJrIjoiODIzNTdiMGUtMDAxNS00NGI1LThjY2EtYjBjMWQwYzcxMzQ2IiwidCI6ImNhZjg2Y2IxLThjYTItNDU0NS1hNGRkLWYzNTlkMDM5MGEwOCJ9&pageName=ReportSection__;!!Ou-zFulSALS7ubxZ2oj45Dg!Vqi3bagEzmK7icBcQgGm18ZQk8FHJAYsCVjB_M_V6G6fzAaRhemokxPlAzcnrCU09xxdfdKYI2SsLLc63Oa-DmfMFJGVKA$).  Our last blogpost was about the high rents being charged for housing that is nominally social rent, highlighting Gutenberg Court in Bermondsey.  We said that this undermines Southwark’s claim that it has an effective monitoring system of affordable housing delivery in place.  Garland Court lends weight to that argument.
+
+
+Southwark Law Centre has taken up the issue of Gutenberg Court with Southwark Council and we have shared the details of Garland Court with them, so that they can do likewise with this case.

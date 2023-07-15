@@ -8,7 +8,7 @@ tags:
 ---
 At least four social housing units have been lost from the showpiece replacement housing development built for Heygate estate residents, who lost their homes when the estate was demolished a decade ago.
 
-Garland Court, Wansey St, at the Elephant and Castle, should have provided at least 16 new social rented homes for Heygate council tenants, who lost their homes to allow for the redevelopment of the estate as Elephant Park by the private developer, Lendlease.
+Garland Court, Wansey St, at the Elephant and Castle, should have provided at least 16 new social rented homes for Heygate council tenants, who had to move to allow for the redevelopment of the estate as [Elephant Park](https://www.lendlease.com/uk/projects/elephant-park/) by the private developer, Lendlease.
 
 However, Land Registry documents reveal that nineteen of the 31 units are now privately owned, leaving just eleven for affordable housing.
 

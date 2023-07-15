@@ -6,7 +6,7 @@ tags:
   - Heygate
   - Monitoring
 ---
-At least four social housing units have been lost to Southwark from the showpiece replacement housing site built for Heygate estate residents, displaced by the estate’s demolition a decade ago.
+At least four social housing units have been lost to Southwark from the showpiece replacement housing development built for Heygate estate residents, displaced by the estate’s demolition a decade ago.
 
 
 Garland Court, on Wansey St, at the Elephant and Castle, should have provided at least 16 new social rented homes for Heygate council tenants, who lost their homes to allow for the redevelopment of the estate as Elephant Park by the private developer, Lendlease.

@@ -52,7 +52,7 @@ The [planning statement](https://planning.southwark.gov.uk/online-applications/f
 
 ![](img/planning_statement_04ap2114_two.png "Planning statement for Garland Court")
 
-Nine years after this, in February 2013, Southwark Council’s made a Statement of Case for a Heygate CPO inquiry, listing Wansey St as one of the early re-housing sites for Heygate residents, delivering 15 (not 16) *'completed'* social rented units.
+Nine years after this, in February 2013, Southwark Council’s made a Statement of Case for a Heygate CPO inquiry, listing Wansey St as one of the early re-housing sites for Heygate residents and delivering 15 (not 16) *'completed'* social rented units.
 
 ![From Southwark's CPO Statement of Case Feb 2013](img/wansey_st_garland_ct_table_ehsites_cpo_inquiry_feb_2013.png)
 

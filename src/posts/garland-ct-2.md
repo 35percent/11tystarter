@@ -44,3 +44,5 @@ A planning application was duly made on 15 Nov 2004 ([04/AP/2114](https://planni
 ![Garland Court's planning permission ](img/planning_permission_04ap2114_wansey_st.png)
 
 ![Condition 12 of the planning permission](img/planning_permission_condition_12_04ap2114_100205.png)
+
+The [planning committee report](https://planning.southwark.gov.uk/online-applications/files/2381DCF0E4C00C3F4271D57BFAC3A5FF/pdf/04_AP_2114-PLANNING_STATEMENT-2371542.pdf) noted that Garland Ct was the first rehousing site for the Elephant and Castle’s displaced residents and that 65%  of the units would be affordable, 35% affordable (para 3.6).

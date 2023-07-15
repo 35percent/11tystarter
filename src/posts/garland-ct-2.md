@@ -6,7 +6,7 @@ tags:
   - Heygate
   - Monitoring
 ---
-At least four social housing units have been lost from the showpiece replacement housing development built for Heygate estate residents, who lost their homes when the estate was demolished a decade ago.
+At least four social housing units have been lost from the showpiece replacement housing built for residents of the Heygate estate, who lost their homes when the estate was demolished a decade ago.
 
 Garland Court, Wansey St, at the Elephant and Castle, should have provided at least 16 new social rented homes for Heygate council tenants, who had to move to allow for the redevelopment of the estate as [Elephant Park](https://www.lendlease.com/uk/projects/elephant-park/) by the private developer, Lendlease.
 
@@ -46,7 +46,7 @@ The [planning committee report](https://planning.southwark.gov.uk/online-applica
 
 ![](img/planning_committee_report_3.6_080205.png "Planning committtee report 8 Feb 2005")
 
-The [planning statement](https://planning.southwark.gov.uk/online-applications/files/2381DCF0E4C00C3F4271D57BFAC3A5FF/pdf/04_AP_2114-PLANNING_STATEMENT-2371542.pdf) submitted by Southern Housing Group, in support of the application, also referred to *‘65% rental and 35% private sale’* continued consultation with Heygate residents (5.0 design statement; 6.0 community consultation).
+The [planning statement](https://planning.southwark.gov.uk/online-applications/files/2381DCF0E4C00C3F4271D57BFAC3A5FF/pdf/04_AP_2114-PLANNING_STATEMENT-2371542.pdf) submitted by Southern Housing Group, in support of the application, also referred to *‘65% rental and 35% private sale’* and *'regular'* consultation with Heygate residents (5.0 design statement; 6.0 community consultation).
 
 ![Planning statement for Garland Court](img/planning_statement_04ap2114_one.png)
 

@@ -58,3 +58,7 @@ The [planning statement](https://planning.southwark.gov.uk/online-applications/f
 In February 2013 Southwark Council’s Statement of Case for a Heygate CPO inquiry listed Wansey St as one of the early re-housing sites for Heygate residents, delivering 15 (not 16) social rented units.
 
 ![From Southwark's CPO Statement of Case Feb 2013](img/wansey_st_garland_ct_table_ehsites_cpo_inquiry_feb_2013.png)
+
+#### The ownership of Garland Court’s flats
+
+Garland Court was completed in 2006 and its distinctive orange-hued design by Architects drMM was shortlisted for a RIBA Award and the Grand Designs Magazine Awards.  The Land Registry shows 31 flats listed at the Garland Ct. address and the the title registers for each flat further show that eighteen are in private ownership, with one owned by a church trust.

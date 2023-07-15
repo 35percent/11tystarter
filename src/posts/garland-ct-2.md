@@ -2,6 +2,9 @@
 title: Social housing lost from Heygate replacement housing site
 description: "Lost social housing "
 date: 2023-07-13T08:32:36.522Z
+tags:
+  - Heygate
+  - Monitoring
 ---
 At least four social housing units have been lost to Southwark from the showpiece replacement housing site built for Heygate estate residents, displaced by the estate’s demolition a decade ago.
 

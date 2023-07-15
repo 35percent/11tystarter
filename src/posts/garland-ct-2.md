@@ -29,4 +29,8 @@ The Strategic Director of Housing advised that Wansey St *‘was that a key earl
 
 #### Land sold for £1
 
-The transfer of land document agreed between the Council and Southern Housing Group shows that the land was sold for £1.  It requires that the ‘Transferee shall ensure that the Social Housing Units shall only be used for Social Housing’ (13.5.1); that they ‘are let in accordance with the provisions of the Nominations agreement’ (13.5.2).  The total number of ‘Social Housing Units’ should be in accordance with ‘clause 21 of an Agreement for Lease’, between the parties, dated 26 May 2005 (13.1.5; 13.1.6).
+The transfer of land document agreed between the Council and Southern Housing Group shows that the land was sold for £1.  It requires that the ‘Transferee shall ensure that the Social Housing Units shall only be used for Social Housing’ (13.5.1); that they ‘are let in accordance with the provisions of the Nominations agreement’ (13.5.2).  The total number of ‘Social Housing Units’ should be in accordance with ‘clause 21 of an Agreement for Lease’, between the parties, dated 26 May 2005 (13.1.5; 13.1.6). 
+
+#### Garland Court’s Planning Permission
+
+A planning application was duly made on 15 Nov 2004 (04/AP/2114) and planning permission was granted to Southern Housing Group for 31 apartments on 10 Feb 2005.  The twelfth of the thirteen conditions is that ‘The 19 units allocated for affordable housing shall be developed by a social housing group approved by the local planning authority’.

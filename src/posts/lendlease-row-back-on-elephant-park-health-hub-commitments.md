@@ -3,6 +3,8 @@ title: Lendlease row back on Elephant Park health hub commitments.
 description: Proposed lease and size of health hub left open
 date: 2023-11-10T15:41:55.381Z
 ---
+![](img/image_health_hub_f_ludewig_presentation_cd0610.png)
+
 Elephant Park developer Lendlease is watering down its commitments to providing a health hub as part of its proposed office block on the final plot of Elephant Park, H1.
 
 A draft s106 agreement (link) between Lendlease and Southwark Council shows that Lendlease no longer want to commit to a 30-year lease, if the development goes ahead, but leave the length of the lease open to negotiations.  Lendlease had previously expressed the intention of agreeing a 30-year lease, as noted in both the council report to the planning committee (link) and a Memorandum of Understanding between Lendlease, Southwark and the NHS (link).
@@ -34,6 +36,5 @@ Lendlease wants to leave the length of the lease and the size of the health hub 
 Jed Holland of the Southwark Law Centre, who advised the COH1 objectors at the public inquiry, says *‘ Any figures would involve very subjective estimates. The Council would have the ability to review the figures, but will likely lack the resources and access to data needed to properly scrutinise them’.*
 
 Finally, the Council’s anxiety to reach agreement with Lendlease undermines the public benefits that the s106 is supposed to secure, if it means a smaller health hub on a shorter lease. Not for the first time, it appears Southwark is bending to Lendlease’s will; they allowed Lendlease to squeeze more homes into a smaller space on Elephant Park and then agreed in principle to an office block on H1, only rejecting it on size grounds.  This all adds up to the lesson that developers always put their own interests first, a lesson Southwark should have learned by now.
-
 
 NOTE - COH1 is comprised of local residents, including some who live on Elephant Park, the Walworth Society and the 35% Campaign.  It was represented by barrister Charles Bishop of Landmark Chambers and the Public Interest Law Centre, with the support of the Southwark Law Centre’s Planning Voice Project.  You can read more about the public inquiry here.

@@ -36,4 +36,4 @@ Jed Holland of the Southwark Law Centre, who advised the COH1 objectors at the p
 Finally, the Council’s anxiety to reach agreement with Lendlease undermines the public benefits that the s106 is supposed to secure, if it means a smaller health hub on a shorter lease. Not for the first time, it appears Southwark is bending to Lendlease’s will; they allowed Lendlease to squeeze more homes into a smaller space on Elephant Park and then agreed in principle to an office block on H1, only rejecting it on size grounds.  This all adds up to the lesson that developers always put their own interests first, a lesson Southwark should have learned by now.
 
 
-END
+NOTE - COH1 is comprised of local residents, including some who live on Elephant Park, the Walworth Society and the 35% Campaign.  It was represented by barrister Charles Bishop of Landmark Chambers and the Public Interest Law Centre, with the support of the Southwark Law Centre’s Planning Voice Project.  You can read more about the public inquiry here.

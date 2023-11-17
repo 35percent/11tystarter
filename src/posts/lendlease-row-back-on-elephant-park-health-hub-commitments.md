@@ -3,7 +3,7 @@ title: Lendlease row back on Elephant Park health hub commitments.
 description: Proposed lease and size of health hub left open
 date: 2023-11-10T15:41:55.381Z
 ---
-![](img/image_health_hub_f_ludewig_presentation_cd0610.png)
+![](img/image_health_hub_f_ludewig_presentation_cd0610.png "Illustrative CGI image of proposed health hub")
 
 Elephant Park developer Lendlease is watering down its commitments to providing a health hub as part of its proposed office block on the final plot of Elephant Park, H1.
 

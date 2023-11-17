@@ -17,7 +17,7 @@ The office block and health hub will only be built if Lendlease wins its appeal.
 
 #### How big will the health hub be?
 
-The size of any eventual health hub is also in doubt.  It would be provided instead of affordable workspace, which is what is usually required in developments of this kind, under Southwark’s planning rules.  These say that 10% of the total workspace should be ‘affordable’ at a discounted market rent for 30 years.  There is the option, though, for 'health services' to be provided as an 'alternative' in 'exceptional circumstances' and both Southwark and Lendlease prefer this for H1. 
+The size of any eventual health hub is also in doubt.  It would be provided instead of affordable workspace, which is what is usually required in developments of this kind, under [Southwark’s planning rules.](https://www.southwark.gov.uk/assets/attach/94325/Southwark-Plan-2022.pdf)  These say that 10% of the total workspace should be ‘affordable’ at a discounted market rent for 30 years.  There is the option, though, for 'health services' to be provided as an 'alternative' in 'exceptional circumstances' and both Southwark and Lendlease prefer this for H1. 
 
 However, Lendlease does not propose to simply provide the same floorspace for the health hub as it would have done for the affordable workspace.  Instead, it proposes a complicated formula where the health hub’s rent would be a determining factor in calculating its size.  This is to avoid paying more for providing the health hub than for providing affordable workspace, but it might also mean that the hub is smaller than 10% of the total workspace.
 
@@ -25,7 +25,7 @@ Southwark Council go along with this approach in their version of the draft s106
 
 #### What we say….
 
-Lendlease should provide a health hub that is equal to 10% of workspace at a minimum 30-year lease, if it gets planning permission for its office block. Nor should it be at the expense of affordable workspace, which is needed for the many local traders that local charity Latin Elephant pointed out still have no  affordable premises, in their planning inquiry evidence (link).
+Lendlease should provide a health hub that is equal to 10% of workspace at a minimum 30-year lease, if it gets planning permission for its office block. Nor should it be at the expense of affordable workspace, which is needed for the many local traders that local charity Latin Elephant pointed out still have no  affordable premises, in their [planning inquiry evidence](https://gateleyhamer-pi.com/filer/sharing/1692279141/17445/).
 
 Against this, Lendlease and Southwark say that the health hub is the preferred option, above affordable workspace, and argue a flexible agreement is needed to enable this; however, that flexibility becomes self-defeating, if as a result the health hub is smaller and on a shorter lease.  Lendlease should instead pay any increased cost entailed in the hub (as they appeared to be committed to, previously) and count that cost as a good investment for the benefit of having a NHS facility right in the middle of what is, after all, their own development.
 

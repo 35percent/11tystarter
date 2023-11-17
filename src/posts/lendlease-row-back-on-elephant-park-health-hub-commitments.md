@@ -13,7 +13,7 @@ The draft agreement was lodged as part of the recent public inquiry, called afte
 
 The office block and health hub will only be built if Lendlease wins its appeal.  A decision will be made by the inquiry inspector and is still awaited.  The Inspector will also decide which version of the s106 will apply.
 
-![From Memorandum od Understanding between Lendlease, Southwark and the NHS, 09 Feb 2022](img/extract_mou_09_feb_2022.png)
+![](img/extract_mou_09_feb_2022.png "From Memorandum of Understanding between Lendlease, Southwark and the NHS, 09 Feb 2022")
 
 #### How big will the health hub be?
 

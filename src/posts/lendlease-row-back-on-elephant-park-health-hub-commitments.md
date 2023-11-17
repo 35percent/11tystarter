@@ -35,13 +35,9 @@ Lendlease wants to leave the length of the lease and the size of the health hub 
 
 ![](img/floor_plan_health_hub_feb_2022.png "Indicative health hub floor plan")
 
-### .....what's the future for Walworth GP surgeries?
+##### .....what's the future for Walworth GP surgeries?
 
-Also, the future of the two local GP surgeries at Manor Place and Princess St must be also be taken into account.  If they are replaced by a health hub, as the Memorandum of Understanding implies, we must avoid any possibility of losing the replacement surgeries at the end of an unsatisfactorily short lease. 
-
-
-
-
+Also, the future of the two local GP surgeries at Manor Place and Princess St must be also be taken into account.  If they are replaced by a health hub, as the Memorandum of Understanding implies, we must avoid any possibility of losing the health hub at the end of an unsatisfactorily short lease. 
 
 Finally, the Council’s anxiety to reach agreement with Lendlease undermines the public benefits that the s106 is supposed to secure, if it means a smaller health hub on a shorter lease. Not for the first time, it appears Southwark is bending to Lendlease’s will; they allowed Lendlease to squeeze more homes into a smaller space on Elephant Park and then agreed in principle to an office block on H1, only rejecting it on size grounds.  This all adds up to the lesson that developers always put their own interests first, a lesson Southwark should have learned by now.
 

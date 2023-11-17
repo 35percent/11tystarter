@@ -25,9 +25,11 @@ Southwark Council go along with this approach in their version of the draft s106
 
 #### What we say….
 
-Lendlease should provide a health hub that is equal to 10% of workspace at a minimum 30-year lease, if it gets planning permission for its office block. Nor should it be at the expense of affordable workspace, which is needed for the many local traders that local charity Latin Elephant pointed out still have no  affordable premises, in their [planning inquiry evidence](https://gateleyhamer-pi.com/filer/sharing/1692279141/17445/).
+Lendlease should provide a health hub that is equal to 10% of workspace at a minimum 30-year lease, if it gets planning permission for its office block. Nor should it be at the expense of affordable workspace, which is needed for the many local traders that still have no affordable premises, as local charity Latin Elephant pointed out in their [planning inquiry evidence](https://gateleyhamer-pi.com/filer/sharing/1692279141/17445/).
 
-Against this, Lendlease and Southwark say that the health hub is the preferred option, above affordable workspace, and argue a flexible agreement is needed to enable this; however, that flexibility becomes self-defeating, if as a result the health hub is smaller and on a shorter lease.  Lendlease should instead pay any increased cost entailed in the hub (as they appeared to be committed to, previously) and count that cost as a good investment for the benefit of having a NHS facility right in the middle of what is, after all, their own development.
+Against this, Lendlease and Southwark say that the health hub is the preferred option, in place of any affordable workspace, because of the local need for a health facility.  But allowing Lendlease flexibility on the size and the length of the lease puts their financial interest above teh public need.  If all parties agree that the health hub is so so imoportant, then it must be fully delivered.  Lendlease should cover any increased cost entailed in the hub (as they appeared to be committed to, previously) and count it as a good investment, for the benefit of having a NHS facility right in the middle of what is, after all, their own development.
+
+Lendlease wants to leave the length of the lease and the size of the health hub to the vagaries of negotiation.  The cost of the health hub would be effectively capped by whatever the cost of the affordable workspace would be and the figures underlying this would be supplied by Lendlease.
 
 ![](img/floor_plan_health_hub_feb_2022.png "Indicative health hub floor plan")
 
@@ -35,7 +37,7 @@ Against this, Lendlease and Southwark say that the health hub is the preferred o
 
 Also, the future of the two local GP surgeries at Manor Place and Princess St must be also be taken into account.  If they are replaced by a health hub, as the Memorandum of Understanding implies, we must avoid any possibility of losing the replacement surgeries at the end of an unsatisfactorily short lease. 
 
-Lendlease wants to leave the length of the lease and the size of the health hub to the vagaries of negotiation.  The cost of the health hub would be effectively capped by whatever the cost of the affordable workspace would be and the figures underlying this would be supplied by Lendlease.
+
 
 Jed Holland of the Southwark Law Centre, who advised the COH1 objectors at the public inquiry, says *‘ Any figures would involve very subjective estimates. The Council would have the ability to review the figures, but will likely lack the resources and access to data needed to properly scrutinise them’.*
 

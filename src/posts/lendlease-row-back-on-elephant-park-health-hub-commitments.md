@@ -29,6 +29,8 @@ Lendlease should provide a health hub that is equal to 10% of workspace at a min
 
 Against this, Lendlease and Southwark say that the health hub is the preferred option, above affordable workspace, and argue a flexible agreement is needed to enable this; however, that flexibility becomes self-defeating, if as a result the health hub is smaller and on a shorter lease.  Lendlease should instead pay any increased cost entailed in the hub (as they appeared to be committed to, previously) and count that cost as a good investment for the benefit of having a NHS facility right in the middle of what is, after all, their own development.
 
+![](img/floor_plan_health_hub_feb_2022.png "Indicative health hub floor plan")
+
 ### .....what's the future for Walworth GP surgeries?
 
 Also, the future of the two local GP surgeries at Manor Place and Princess St must be also be taken into account.  If they are replaced by a health hub, as the Memorandum of Understanding implies, we must avoid any possibility of losing the replacement surgeries at the end of an unsatisfactorily short lease. 

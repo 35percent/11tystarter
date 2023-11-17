@@ -31,7 +31,7 @@ Against this, Lendlease and Southwark say that the health hub is the preferred o
 
 ##### Southwark Law Centre's adds....
 
-Lendlease wants to leave the length of the lease and the size of the health hub to the vagaries of negotiation.  The cost of the health hub would be effectively capped by whatever the cost of the affordable workspace would be and the figures underlying this would be supplied by Lendlease.  Jed Holloway of the Southwark Law Centre, who advised the COH1 objectors at the public inquiry, says *‘Any figures would involve very subjective estimates. The Council would have the ability to review the figures, but will likely lack the resources and access to data needed to properly scrutinise them’.*
+Lendlease wants to leave the length of the lease and the size of the health hub to the vagaries of negotiation.  The cost of the health hub would be effectively capped by whatever the cost of the affordable workspace would be and the figures underlying this would be supplied by Lendlease.  Jed Holloway of the Southwark Law Centre, who advised the COH1 objectors at the public inquiry, says *‘Any figures put forward by Lendlease would involve very subjective estimates. The Council would have the ability to review the figures, but will likely lack the resources and access to data needed to properly scrutinise them’.*
 
 ![](img/floor_plan_health_hub_feb_2022.png "Indicative health hub floor plan")
 

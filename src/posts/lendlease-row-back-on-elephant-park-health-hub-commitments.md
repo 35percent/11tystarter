@@ -29,7 +29,9 @@ Lendlease should provide a health hub that is equal to 10% of workspace at a min
 
 Against this, Lendlease and Southwark say that the health hub is the preferred option, in place of any affordable workspace, because of the local need for a health facility.  But allowing Lendlease flexibility on the size and the length of the lease puts their financial interest above teh public need.  If all parties agree that the health hub is so so imoportant, then it must be fully delivered.  Lendlease should cover any increased cost entailed in the hub (as they appeared to be committed to, previously) and count it as a good investment, for the benefit of having a NHS facility right in the middle of what is, after all, their own development.
 
-Lendlease wants to leave the length of the lease and the size of the health hub to the vagaries of negotiation.  The cost of the health hub would be effectively capped by whatever the cost of the affordable workspace would be and the figures underlying this would be supplied by Lendlease.
+##### Southwark Law Centre's adds....
+
+Lendlease wants to leave the length of the lease and the size of the health hub to the vagaries of negotiation.  The cost of the health hub would be effectively capped by whatever the cost of the affordable workspace would be and the figures underlying this would be supplied by Lendlease.  Jed Holland of the Southwark Law Centre, who advised the COH1 objectors at the public inquiry, says *‘ Any figures would involve very subjective estimates. The Council would have the ability to review the figures, but will likely lack the resources and access to data needed to properly scrutinise them’.*
 
 ![](img/floor_plan_health_hub_feb_2022.png "Indicative health hub floor plan")
 
@@ -39,7 +41,7 @@ Also, the future of the two local GP surgeries at Manor Place and Princess St mu
 
 
 
-Jed Holland of the Southwark Law Centre, who advised the COH1 objectors at the public inquiry, says *‘ Any figures would involve very subjective estimates. The Council would have the ability to review the figures, but will likely lack the resources and access to data needed to properly scrutinise them’.*
+
 
 Finally, the Council’s anxiety to reach agreement with Lendlease undermines the public benefits that the s106 is supposed to secure, if it means a smaller health hub on a shorter lease. Not for the first time, it appears Southwark is bending to Lendlease’s will; they allowed Lendlease to squeeze more homes into a smaller space on Elephant Park and then agreed in principle to an office block on H1, only rejecting it on size grounds.  This all adds up to the lesson that developers always put their own interests first, a lesson Southwark should have learned by now.
 

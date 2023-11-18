@@ -13,7 +13,8 @@ The draft agreement was lodged as part of the recent [public inquiry](https://ga
 
 The office block and health hub will only be built if Lendlease wins its appeal.  A decision will be made by the inquiry inspector and is still awaited.  The Inspector will also decide which version of the s106 will apply.
 
-![](img/extract_mou_09_feb_2022.png "From Memorandum of Understanding between Lendlease, Southwark and the NHS, 09 Feb 2022")
+![](https://35percent.org/img/extract_mou_09_feb_2022.png)
+*"From Memorandum of Understanding between Lendlease, Southwark and the NHS, 09 Feb 2022"*
 
 ## How big will the health hub be?
 
@@ -33,7 +34,8 @@ Against this, Lendlease and Southwark say that the health hub is the preferred o
 
 Lendlease wants to leave the length of the lease and the size of the health hub to the vagaries of negotiation.  The cost of the health hub would be effectively capped by whatever the cost of the affordable workspace would be and the figures underlying this would be supplied by Lendlease.  Jed Holloway of the Southwark Law Centre, who advised the COH1 objectors at the public inquiry, says *‘Any figures put forward by Lendlease would involve subjective estimates that would no doubt skew things in their favour. The Council would have the ability to review these figures, but they would likely lack the resources and the data needed to properly scrutinise them’.*
 
-![](img/floor_plan_health_hub_feb_2022.png "Indicative health hub floor plan")
+![](https://35percent.org/img/floor_plan_health_hub_feb_2022.png)
+*"Indicative health hub floor plan"*
 
 ## .....what's the future for Walworth GP surgeries?
 

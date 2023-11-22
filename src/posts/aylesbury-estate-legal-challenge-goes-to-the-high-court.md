@@ -25,6 +25,8 @@ The Guardian article also points out that there would be a reduction in social r
 
 #### Aylesbury campaigners mobilise
 
+![](img/aylesbury-estate-protest-by-guy-smallman-e1595420841115.jpg)
+
 [Fight4Aylesbury](https://twitter.com/Aylesbury_exhib) campaigners believe that there is now a fresh opportunity to shape the future of the Aylesbury.  They want a decent deal for all residents on the Aylesbury and believe that the best deal involves retaining current precious homes.  They point out the CO2 impact of demolition is huge and make a four-point proposal;
 
 •	Invest in and improve the buildings we already have

@@ -32,3 +32,7 @@ The Guardian article also points out that there would be a reduction in social r
 •	Stop social cleansing and demolition
 
 They are urging all supporters to join them at the **Royal Courts of Justice High Court (Strand, London WC2A 2LL) on Tuesday 28 Nov 2023 AT 9am.**
+
+[Twitter@AYLESBURY_EXHIBITION](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\- https:\twitter.com\Aylesbury_exhib>) 
+
+[Instagram@FIGHT4AYLESBURY](https://www.instagram.com/fight4aylesbury/)

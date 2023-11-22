@@ -20,3 +20,5 @@ The case has generated national publicity.  In a [Guardian article](https://www.
 The Guardian article also points out that there would be a reduction in social rented housing, if the new planning permission for Phase 2B is allowed to go ahead.  At the moment, there are 327 social rented homes on the site, plus 46 sold under right to buy.  NHG proposes replacing them with 614 new homes in total, but only 163 would be socially rented.
 
 #### Aylesbury campaigners mobilise
+
+Fight 4 the Aylesbury campaigners believe that there is now a fresh opportunity to shape the future of the Aylesbury.  They want a decent deal for all residents on the Aylesbury and believe that the best deal involves retaining current precious homes.  They point out the CO2 impact of demolition is huge and make a four-point proposal;

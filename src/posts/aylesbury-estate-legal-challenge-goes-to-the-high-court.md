@@ -26,3 +26,5 @@ The Guardian article also points out that there would be a reduction in social r
 •	Invest in and improve the buildings we already have
 
 •	Insulate, retrofit and refurbish
+
+•	Stop the managed decline of the estate

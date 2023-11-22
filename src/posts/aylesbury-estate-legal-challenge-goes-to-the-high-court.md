@@ -15,6 +15,8 @@ The challenge is being brought by long-term Aylesbury resident and [housing camp
 
 NHG made an application for Phase 2B last year and it was [approved, subject to legal agreement](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=7308), in January 2023.  However, NHG already had a [different planning permission](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=4808&Ver=4) for the whole of the estate, including Phase 2B, dating from 2015.  This would not have permitted, amongst other things, the construction of the new 25 storey tower which the new permission would have allowed.  Campaigners fear that the new permission opens the door to the 2015 outline planning permission for the whole estate being abandoned.  These fears have grown with the recent revelation that [Southwark intended to take over the whole estate’s regeneration](https://southwarknews.co.uk/area/walworth/exclusive-southwark-council-planned-to-take-over-2000-aylesbury-estate-homes-from-developer/) from NHG, but then concluded it did not have the resources to do so.
 
+![](img/phase_2b_jr_presentation.png "The Aylesbury planning permission jigsaw - courtesy of PILC")
+
 #### Less social rented housing
 
 The case has generated national publicity.  In a [Guardian article](https://www.theguardian.com/society/2023/may/09/london-estate-resident-goes-to-high-court-over-demolition-plans) Saskia O’Hara, from PILC, referred to a recent [supreme court decision](<recent supreme court decision>) on this issue, and said: *“It is already difficult for communities to play a meaningful role in the planning process, and this is never truer than for a resident of a London estate which has been a target for demolition by councils and private developers over decades. Developers should not be able to sidestep the findings of the supreme court and have a free pass to change what was promised to residents in the historic planning permission.”* 
@@ -35,7 +37,7 @@ The Guardian article also points out that there would be a reduction in social r
 
 They are urging all supporters to join them at the **Royal Courts of Justice High Court (Strand, London WC2A 2LL) on Tuesday 28 Nov 2023 AT 9am.**
 
-[Twitter@AYLESBURY_EXHIBITION](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\- https:\twitter.com\Aylesbury_exhib>) 
+[Twitter@AYLESBURY_EXHIBITION](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify- https:\twitter.com\Aylesbury_exhib>) 
 
 [Instagram@FIGHT4AYLESBURY](https://www.instagram.com/fight4aylesbury/)
 

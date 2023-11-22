@@ -30,3 +30,5 @@ The Guardian article also points out that there would be a reduction in social r
 •	Stop the managed decline of the estate
 
 •	Stop social cleansing and demolition
+
+They are urging all supporters to join them at the **Royal Courts of Justice High Court (Strand, London WC2A 2LL) on Tuesday 28 Nov 2023 AT 9am.**

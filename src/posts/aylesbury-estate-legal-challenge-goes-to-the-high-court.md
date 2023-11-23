@@ -9,7 +9,7 @@ date: 2023-11-22T08:38:17.311Z
 
 The legal challenge against Southwark Council’s decision to approve the latest phase of the Aylesbury redevelopment will be heard in the High Court in the Strand next Tuesday 28 November.
 
-The challenge is being brought by long-term Aylesbury resident and [housing campaigner Aysen Dennis](https://southwarknews.co.uk/area/southwark/aylesbury-estate-residents-legal-battle-with-southwark-council-edges-closer/) and relates to Phase 2B.  Aysen is being represented by the [Public Interest Law Centre (PILC)](https://www.pilc.org.uk/gentrification-project/) and barrister [Alex Shuttock of Landmark Chambers](https://www.landmarkchambers.co.uk/barristers/alex-shattock). 
+The challenge is being brought by long-term Aylesbury resident and [housing campaigner Aysen Dennis](https://southwarknews.co.uk/area/southwark/aylesbury-estate-residents-legal-battle-with-southwark-council-edges-closer/) and relates to Phase 2B, covering much of Wendover, plus Winslow, Ravenstone and Padbury..  Aysen is being represented by the [Public Interest Law Centre (PILC)](https://www.pilc.org.uk/gentrification-project/) and barrister [Alex Shuttock of Landmark Chambers](https://www.landmarkchambers.co.uk/barristers/alex-shattock). 
 
 ![](img/phase_2b_jr_presentation.png "The Aylesbury planning permission jigsaw - courtesy of PILC")
 

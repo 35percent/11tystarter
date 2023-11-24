@@ -4,7 +4,7 @@ description: Latest phase of troubled regeneration triggers legal challenge to
   Aylesbury Outline Planning Permission
 date: 2023-11-22T08:38:17.311Z
 ---
-#### Lawfulness of latest phase of troubled regeneration to be tested
+#### Latest phase of troubled regeneration triggers legal challenge to Aylesbury Outline Planning Permission
 
 ![](img/aylesbury_estate_block_from_burgess_park_-02-_wikipedia_crop.jpg)
 

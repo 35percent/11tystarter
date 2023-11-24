@@ -1,6 +1,7 @@
 ---
 title: Aylesbury estate legal battle goes to the High Court
-description: Lawfulness of latest phase of troubled regeneration to be tested
+description: Latest phase of troubled regeneration triggers legal challenge to
+  Aylesbury Outline Planning Permission
 date: 2023-11-22T08:38:17.311Z
 ---
 #### Lawfulness of latest phase of troubled regeneration to be tested

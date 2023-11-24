@@ -1,5 +1,5 @@
 ---
-title: Aylesbury estate legal challenge goes to the High Court
+title: Aylesbury estate legal battle goes to the High Court
 description: Lawfulness of latest phase of troubled regeneration to be tested
 date: 2023-11-22T08:38:17.311Z
 ---

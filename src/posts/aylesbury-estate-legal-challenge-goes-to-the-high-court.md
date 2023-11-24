@@ -3,10 +3,11 @@ title: Aylesbury estate legal battle goes to the High Court
 description: Latest phase of troubled regeneration triggers legal challenge to
   Aylesbury Outline Planning Permission
 date: 2023-11-22T08:38:17.311Z
+image: img/aylesburystrand.jpg
 ---
 #### Latest phase of troubled regeneration triggers legal challenge to Aylesbury Outline Planning Permission
 
-![](img/aylesbury_estate_block_from_burgess_park_-02-_wikipedia_crop.jpg)
+![](https://35percent.org/img/aylesbury_estate_block_from_burgess_park_-02-_wikipedia_crop.jpg)
 
 The legal challenge against Southwark Council’s decision to amend the Outline Planning Permission to facilitate approval of the latest phase of the Aylesbury redevelopment will be heard in the **High Court in the Strand next Tuesday 28 November.**
 
@@ -14,7 +15,7 @@ The challenge is being brought by long-term Aylesbury resident and [housing camp
 
 Aysen’s case is that Southwark Council acted unreasonably by approving a change to the wording of the Outline Planning Permission, which covers the whole estate and was given to Notting Hill Genesis (NHG) back in 2015.  The change is to add the word 'severable' in relation to the phased development.   Although a small change, the consequence smooths the path for planning permissions which sit outside the parameters of the Outline Planning Permission, despite it being on the same land.  As an example of this, NHG now proposes a 25-storey tower for Phase 2B, while the Outline Planning Permission only allows for a 20-story tower. Additionally, if this change is deemed lawful, it is feared that all future phases of the redevelopment could be outside the limits of the outline permission.
 
-![](img/phase_2b_jr_presentation.png "The Aylesbury planning permission jigsaw - courtesy of PILC")
+![](https://35percent.org/img/phase_2b_jr_presentation.png "The Aylesbury planning permission jigsaw - courtesy of PILC")
 
 #### Less social rented housing
 
@@ -24,7 +25,7 @@ The Guardian article also points out that there would be a reduction in social r
 
 #### Aylesbury campaigners mobilise
 
-![](img/aylesbury-estate-protest-by-guy-smallman-e1595420841115.jpg "Aylesbury estate protest - photo by Guy Smallman")
+![](https://35percent.org/img/aylesbury-estate-protest-by-guy-smallman-e1595420841115.jpg "Aylesbury estate protest - photo by Guy Smallman")
 
 [Fight4Aylesbury](https://twitter.com/Aylesbury_exhib) campaigners believe that there is now a fresh opportunity to shape the future of the Aylesbury.  They want a decent deal for all residents on the Aylesbury and believe that the best deal involves retaining current precious homes.  They point out the CO2 impact of demolition is huge and make a four-point proposal;
 

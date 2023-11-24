@@ -8,7 +8,7 @@ date: 2023-11-22T08:38:17.311Z
 
 ![](img/aylesbury_estate_block_from_burgess_park_-02-_wikipedia_crop.jpg)
 
-The legal challenge against Southwark Council’s decision to approve the latest phase of the Aylesbury redevelopment will be heard in the High Court in the Strand next Tuesday 28 November.
+The legal challenge against Southwark Council’s decision to approve the latest phase of the Aylesbury redevelopment will be heard in the **High Court in the Strand next Tuesday 28 November.**
 
 The challenge is being brought by long-term Aylesbury resident and [housing campaigner Aysen Dennis](https://southwarknews.co.uk/area/southwark/aylesbury-estate-residents-legal-battle-with-southwark-council-edges-closer/).  It relates toan amendment to the Outline Planning Permission for thee Aylesbury Estate, which would allow the latest phase, [Phase 2B](http://www.aylesburynow.london/regeneration/planning-information/phase-2b), to go forward, but not as part of the historic, overarching Outline Planning Permission.  Aysen is being represented by the [Public Interest Law Centre (PILC)](https://www.pilc.org.uk/gentrification-project/) and barrister [Alex Shuttock of Landmark Chambers](https://www.landmarkchambers.co.uk/barristers/alex-shattock).  Phase 2B includes much of Wendover, plus Winslow, Ravenstone and Padbury blocks.
 

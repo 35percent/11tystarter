@@ -1,9 +1,9 @@
 ---
-title: The cross subsidy model for estate regeneration is dead
+title: "Aylesbury estate redevelopment: £450m over budget and only 1/4 complete"
 description: The spiralling costs of a scheme that is too big to fail.
 date: 2022-05-24T10:38:48.648Z
 ---
-£456m of public money has been spent on the Aylesbury estate regeneration before the first council home on the first phase has even been completed.[^1]
+£456m of public money has been spent on the Aylesbury estate regeneration as the first of the new council homes are completed.[^1]
 
 The cross subsidy it will receive from the sale of the private homes once phase one is completed amounts to just £8.7m
 

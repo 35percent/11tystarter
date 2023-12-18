@@ -27,9 +27,4 @@ COH1 made the case for homes to be built on H1, not offices, as originally inten
 
  The Inspector acknowledged that COH1's case was a *‘perfectly legitimate’* (contrary to Lendlease, who [said it was '*inadmissible*'](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/47/d5/47d50b1e-c99c-449b-acff-986522f96f0e/inq-16_closing_submissions_of_aa__22_september_2023.pdf)), but decided that the question had been answered in 2013, when Southwark decided that the off-site replacement housing for the Heygate, (the so called Early Housing Sites) was sufficient for rehousing ex-Heygate households.  While declining to say whether this was the right or wrong decision, the Inspector could see no compelling reason to re-open that debate and no reason not to accept an office-use development on H1.  (In passing the Inspector praised the design of the Heygate, in a footnote).
 
-### Just 92 social rented homes on Elephant Park
-
-Establishing the number of 
-A key part of the case was that the affordable housing lost for the Heygate various planning documents and council reports
-
 ![](img/units_in_heygate_final.pdf-adobe-acrobat-reader-64-bit-16_12_2023-17_16_16.png "Final ")

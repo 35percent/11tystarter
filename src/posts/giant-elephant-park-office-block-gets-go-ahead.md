@@ -29,8 +29,6 @@ The Inspector acknowledges that COH1's case was a *‘perfectly legitimate’* (
 
 ![](img/units_in_heygate_final.pdf-adobe-acrobat-reader-64-bit-16_12_2023-17_16_16.png "Table of re-provided housing for the demoliishedHeygate estate, by tenure.")
 
-
-
 ### In the Zone – offices before homes….
 
 The Inspector’s decision draws heavily on the policy basis for deciding planning applications.  These policies show that building new homes is not necessarily a top priority for either the London Mayor or Southwark Council, regardless of their [pronouncements otherwise](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\building new homes is not necessarily their top priority>).

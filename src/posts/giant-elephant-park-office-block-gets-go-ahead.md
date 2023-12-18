@@ -29,3 +29,5 @@ COH1 made the case for homes to built on H1, not offices, as originally intended
 
 Establishing the number of 
 A full account of the account of the COH1 case can be found in this PILC blogpost.  A key part of the case was that the affordable housing lost for the Heygate various planning documents and council reports
+
+![](img/units_in_heygate_final.pdf-adobe-acrobat-reader-64-bit-16_12_2023-17_16_16.png "Final ")

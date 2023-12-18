@@ -35,21 +35,11 @@ COH1 made the case for homes to be built on H1, not offices, as originally inten
 
 The Inspector’s decsion also draws heavily on the policy basis for deciding planning applications.  These policies show that building new homes is not necessarily a top priority for either the London Mayor or Southwark Council, regardless of their [pronouncements otherwise](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\building new homes is not necessarily their top priority>).
 
-The Mayor tells us in his [London Plan 2021](https://www.london.gov.uk/programmes-strategies/planning/london-plan/new-london-plan/london-plan-2021) that office-building is as important as home-building at the Elephant and Castle.  The Plan designates the Elephant as part of the Central Activities Zone (CAZ), and says that in the CAZ ‘The nationally and internationally significant office functions of the CAZ should be supported and enhanced….and   ‘New residential development should not compromise the strategic functions of the CAZ’  (Policy SD4).
+The Mayor tells us in his [London Plan 2021](https://www.london.gov.uk/programmes-strategies/planning/london-plan/new-london-plan/london-plan-2021) that office-building is as important as home-building at the Elephant and Castle.  The Plan designates the Elephant as part of the Central Activities Zone (CAZ), and says that in the CAZ *‘The nationally and internationally significant office functions of the CAZ should be supported and enhanced….and   ‘New residential development should not compromise the strategic functions of the CAZ’*  (Policy SD4).
 
 For its part, Southwark Council gave Lendlease an indispensable helping hand, by introducing [Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-guidance/development-plan/new-southwark-plan) Policy ST2, in 2022.  This increases the amount of office space on Elephant Park from the 5,000sqm that Lendlease were allowed under their original 2013 planning permission, to 60,000sqm (a decision Lendlease uncannily anticipated in 2017, by hiring Acme architects to design an office block for H1 of almost exactly that size).
 
 The Inspector notes all this, as well several other policies, including London Plan policy SD5, which means that housing cannot be given more weight than offices in planning decisions for CAZ developments.  He says ‘the provision of offices on the appeal site draws support from both the London Plan and the Southwark Plan. Indeed, London Plan Policy SD5 expresses no preference for residential development over offices and/or other strategic functions in the Central Activities Zone, or vice versa. There is no policy basis, therefore, for a conclusion that housing and affordable housing would be a better use for the site.’ 
-
-
-
-
-
-
-
-
-
-
 
 ### A smaller health hub?
 

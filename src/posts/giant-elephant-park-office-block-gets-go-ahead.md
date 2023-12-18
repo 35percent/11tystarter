@@ -20,3 +20,9 @@ Contrary to Southwark and COH1 [the Inspector found](https://acp.planninginspect
 ![](img/88_96_walworth_rd.pdf-adobe-acrobat-reader-64-bit-18_12_2023-09_29_17.png "Walworth Terrace 88- 96 Walworth Rd")
 
 The Inspector acknowledged that there would be harm to the light of neighbours on Walworth Terrace, just over the road from H1, and in Hurlock Heights on Elephant Park, noting that there would be ‘significant reductions in daylight’ for Nos.82-96 Walworth Road and for ‘all the single aspect north facing master bedrooms in the lower part of Hurlock Heights’.  Against this, though, there was a ‘policy expectation’ of a big building on H1, which meant the loss of light was ‘not surprising or extreme’ and therefore acceptable.   He also did not think changing the use of the site from a residential to office development made much difference in terms of privacy.
+
+### The objectors’ case for homes
+
+COH1 made the case for homes to built on H1, not offices, as originally intended in the Elephant Park masterplan.  COH1 argued that this was required by the Mayor’s London Plan for estate regeneration H8.  This says that ….reprovided The Inspector acknowledged that this was a *‘perfectly legitimate’* case (contrary to Lendlease, who [said it was '*inadmissible*'](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/47/d5/47d50b1e-c99c-449b-acff-986522f96f0e/inq-16_closing_submissions_of_aa__22_september_2023.pdf) ), but decided that this question had been answered in 2013, when Southwark decided that the off-site replacement housing for the Heygate was sufficient (the so called Early Housing Sites).  While declining to say whether this was the right or wrong decision he could see no compelling reason to re-open that debate.  In passing the Inspector  praises the design of the Heygate, in a footnote.
+
+### Just 92 social rented homes on Elephant Park

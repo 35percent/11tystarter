@@ -33,7 +33,7 @@ The Inspector acknowledges that COH1's case was a *‘perfectly legitimate’* (
 
 ### In the Zone – offices before homes….
 
-The Inspector’s decsion draws heavily on the policy basis for deciding planning applications.  These policies show that building new homes is not necessarily a top priority for either the London Mayor or Southwark Council, regardless of their [pronouncements otherwise](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\building new homes is not necessarily their top priority>).
+The Inspector’s decision draws heavily on the policy basis for deciding planning applications.  These policies show that building new homes is not necessarily a top priority for either the London Mayor or Southwark Council, regardless of their [pronouncements otherwise](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\building new homes is not necessarily their top priority>).
 
 The Mayor tells us in his [London Plan 2021](https://www.london.gov.uk/programmes-strategies/planning/london-plan/new-london-plan/london-plan-2021) that office-building is as important as home-building at the Elephant and Castle.  The Plan designates the Elephant as part of the Central Activities Zone (CAZ), and says that in the CAZ *‘The nationally and internationally significant office functions of the CAZ should be supported and enhanced….and   ‘New residential development should not compromise the strategic functions of the CAZ’*  (Policy SD4).
 

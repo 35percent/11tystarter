@@ -5,7 +5,7 @@ date: 2023-12-18T09:03:49.435Z
 ---
 
 
-![](img/hi_office_block_from_walworth_rd_hampton_st_cgi.pdf-adobe-acrobat-reader-64-bit-18_12_2023-09_40_33.png)
+![](img/hi_office_block_from_walworth_rd_hampton_st_cgi.pdf-adobe-acrobat-reader-64-bit-18_12_2023-09_40_33.png "The H1 office block, fro Wallworth Rd and Hampton St CGI image")
 
 Southwark Council’s [decision to refuse](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=65131) Lendlease planning permission for a large office block on H1, the final plot of Elephant Park (formerly the Heygate estate) has been [overturned by a planning inspector](https://acp.planninginspectorate.gov.uk/ViewCase.aspx?Caseid=3319797&CoID=0).  The decision means that Lendlease can go ahead with construction of the office block.
 

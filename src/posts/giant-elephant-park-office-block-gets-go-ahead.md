@@ -31,6 +31,26 @@ COH1 made the case for homes to be built on H1, not offices, as originally inten
 
  The Inspector acknowledged that COH1's case was a *‘perfectly legitimate’* (contrary to Lendlease, who [said it was '*inadmissible*'](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/47/d5/47d50b1e-c99c-449b-acff-986522f96f0e/inq-16_closing_submissions_of_aa__22_september_2023.pdf)), but decided that the question had been answered in 2013, when Southwark decided that the off-site replacement housing for the Heygate, (the so called [Early Housing Sites](https://www.35percent.org/heygatepages/newhomesforheygate/)) was sufficient for rehousing ex-Heygate households.  While declining to say whether this was the right or wrong decision, the Inspector could see no compelling reason to re-open that debate and no reason not to accept an office-use development on H1.  (In passing the Inspector praised the design of the Heygate, in a footnote).
 
+### In the Zone – offices before homes….
+
+The Inspector’s decsion also draws heavily on the policy basis for deciding planning applications.  These policies show that building new homes is not necessarily a top priority for either the London Mayor or Southwark Council, regardless of their [pronouncements otherwise](<C:\Users\grego\Documents\D-Drive 201017\Copy of Elephant Amenity Network\Blog 35percent campaign\Netlify\building new homes is not necessarily their top priority>).
+
+The Mayor tells us in his [London Plan 2021](https://www.london.gov.uk/programmes-strategies/planning/london-plan/new-london-plan/london-plan-2021) that office-building is as important as home-building at the Elephant and Castle.  The Plan designates the Elephant as part of the Central Activities Zone (CAZ), and says that in the CAZ ‘The nationally and internationally significant office functions of the CAZ should be supported and enhanced….and   ‘New residential development should not compromise the strategic functions of the CAZ’  (Policy SD4).
+
+For its part, Southwark Council gave Lendlease an indispensable helping hand, by introducing [Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-guidance/development-plan/new-southwark-plan) Policy ST2, in 2022.  This increases the amount of office space on Elephant Park from the 5,000sqm that Lendlease were allowed under their original 2013 planning permission, to 60,000sqm (a decision Lendlease uncannily anticipated in 2017, by hiring Acme architects to design an office block for H1 of almost exactly that size).
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### A smaller health hub?
 
 A particularly disappointing aspect of the decision is that the Inspector favoured [Lendlease’s version of the s106 legal agreement for the Health Hub](https://www.35percent.org/posts/lendlease-row-back-on-elephant-park-health-hub-commitments/), over both the COH1 and Southwark Council versions.  Lendlease’s version leaves the exact size and length of lease open to negotiation with the NHS and is something less than what was offered at the planning committee.  The Inspector’s reasoning was that this would make it more likely that the health hub would become a reality, which may be true, but only because Lendlease now have the possibility of providing something smaller, on a shorter lease and cheaper for them. …but obviously only because it lowers the bar for what Lendlease can propose as an acceptable offer.  This is not yet decided though, so still something to fight for.

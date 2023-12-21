@@ -1,10 +1,9 @@
 ---
 title: Giant Elephant Park office block gets go-ahead
 description: Lendlease appeal against H1 planning refusal succeeds
-date: 2023-12-21T12:06:51.142Z
+date: 2023-12-21
+image: img/h1officeblock.png
 ---
-![](img/hi_office_block_from_walworth_rd_hampton_st_cgi.pdf-adobe-acrobat-reader-64-bit-18_12_2023-09_40_33.png "The H1 office block, from Walworth Rd and Hampton St CGI image")
-
 Southwark Council’s [decision to refuse](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=65131) Lendlease planning permission for a large office block on H1, the final plot of Elephant Park (formerly the Heygate estate) has been [overturned by a planning inspector](https://acp.planninginspectorate.gov.uk/ViewCase.aspx?Caseid=3319797&CoID=0).  The decision means that Lendlease can go ahead with construction of the office block.
 
 The decision comes after an [eight-day public inquiry in September](https://gateleyhamer-pi.com/en-gb/h1-elephant-park/), before Inspector Paul Griffiths, appointed by Michael Gove, the Secretary of State for Levelling Up, Housing and Communities.  Southwark and the Community Objectors H1 (COH1) argued to maintain the planning committee’s decision, who [refused the scheme](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=65131) in October 2022, because of its size, the detrimental impact it would have on the light and privacy of neighbours and harm it would cause to the character of the area.  COH1 argued in addition that the H1 site should be used for housing, not offices, as the original outline planning permission, held by Lendlease, required.  Southwark Council had no objection to an office block in principle.
@@ -15,7 +14,7 @@ The 35% Campaign was part of COH1, which included local residents, housing campa
 
 Contrary to Southwark and COH1 [the Inspector found](https://acp.planninginspectorate.gov.uk/ViewCase.aspx?Caseid=3319797&CoID=0) the proposed design of the office block to be of a very high standard.  He considered that the office block’s shape would be a *‘pleasing’* contrast to the rectilinear forms of the rest of Elephant Park and that it would provide a focus for the development and for the wider Elephant & Castle regeneration.  He thought that the design features, such as the lattice work *'cage'*, the terracing and the *‘ripples’* in the façade, would counteract any impression of oversized bulkiness.  He further thought that the high ground floor lobby, with restaurant/cafes, would amount to an extension of the outside public space, with the proposed NHS health hub giving the building a sense of destination.
 
-![](img/88_96_walworth_rd.pdf-adobe-acrobat-reader-64-bit-18_12_2023-09_29_17.png "Walworth Terrace 88- 96 Walworth Rd")
+![](https://35percent.org/img/88_96_walworth_rd.pdf-adobe-acrobat-reader-64-bit-18_12_2023-09_29_17.png "Walworth Terrace 88- 96 Walworth Rd")
 
 The Inspector acknowledges that there would be harm to the light of neighbours on Walworth Terrace, just over the road from H1, and in Hurlock Heights on Elephant Park, noting that there would be *‘significant reductions in daylight’* for Nos.82-96 Walworth Road and for *‘all the single aspect north facing master bedrooms in the lower part of Hurlock Heights’*.  Against this, though, there was a *‘policy expectation’* of a big building on H1, which meant the loss of light was *‘not surprising or extreme’* and therefore acceptable.   He also did not think changing the use of the site from a residential to office development made much difference in terms of privacy.
 
@@ -25,7 +24,7 @@ COH1 made the case for homes to be built on H1, as originally intended in the El
 
 The Inspector acknowledges that COH1's case was *‘perfectly legitimate’* (contrary to Lendlease, who [said it was '*inadmissible*'](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/47/d5/47d50b1e-c99c-449b-acff-986522f96f0e/inq-16_closing_submissions_of_aa__22_september_2023.pdf)), but decided that the question had been settled in 2013, when Southwark determined that off-site replacement housing (the so called [Early Housing Sites](https://www.35percent.org/heygatepages/newhomesforheygate/)) was sufficient for rehousing ex-Heygate households.  While declining to say whether this was the right or wrong decision, the Inspector could see no compelling reason to re-open the debate.  He also saw no reason not to accept an office-use development on H1.  (The Inspector praised the design of the Heygate, in passing, in a footnote).
 
-![](img/units_in_heygate_final.pdf-adobe-acrobat-reader-64-bit-16_12_2023-17_16_16.png "Table of re-provided housing for the demoliishedHeygate estate, by tenure.")
+![](https://35percent.org/img/units_in_heygate_final.pdf-adobe-acrobat-reader-64-bit-16_12_2023-17_16_16.png "Table of re-provided housing for the demoliishedHeygate estate, by tenure.")
 
 ### In the Zone – offices before homes….
 
@@ -39,7 +38,7 @@ The Inspector notes all this, as well several other policies, including London P
 
 ### A smaller health hub?
 
-![](img/image_health_hub_f_ludewig_presentation_cd0610.png)
+![](https://35percent.org/img/image_health_hub_f_ludewig_presentation_cd0610.png)
 
 A particularly disappointing aspect of the decision is that the Inspector favoured [Lendlease’s version of the s106 legal agreement for the Health Hub](https://www.35percent.org/posts/lendlease-row-back-on-elephant-park-health-hub-commitments/), over both the COH1 and Southwark Council versions.  Lendlease’s version leaves the exact size and length of lease open to negotiation with the NHS.  The Inspector’s reasoning is that this would make it more likely that the health hub would become a reality.  This may be true, but it also opens the door to Lendlease providing something [smaller and on a shorter lease](https://www.35percent.org/posts/lendlease-row-back-on-elephant-park-health-hub-commitments/), than the 10% of total workspace and 30-year lease that they had committed at the planning committee meeting in October 2022.  
 

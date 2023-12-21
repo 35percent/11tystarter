@@ -1,7 +1,7 @@
 ---
 title: Giant Elephant Park office block gets go-ahead
 description: Lendlease appeal against H1 planning refusal succeeds
-date: 2023-12-18T09:03:49.435Z
+date: 2023-12-21T12:06:51.142Z
 ---
 ![](img/hi_office_block_from_walworth_rd_hampton_st_cgi.pdf-adobe-acrobat-reader-64-bit-18_12_2023-09_40_33.png "The H1 office block, from Walworth Rd and Hampton St CGI image")
 

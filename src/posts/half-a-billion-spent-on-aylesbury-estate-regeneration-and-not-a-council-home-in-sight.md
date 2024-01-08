@@ -17,6 +17,8 @@ Sept 2005 - Council initiates a redevelopment strategy for a 'high quality, mixe
 
 Sept 2006 - Council agrees a borough medium term financial strategy.  This includes exploiting 'opportunities afforded through the regeneration programme, including setting a target for capital receipts from regeneration projects to support the Council’s future capital programme’.  Southwark's 3-year £455m programme includes a new Aylesbury Resource Centre as a priority. 
 
+2008-2009 - The Aylesbury Area Action Plan is prepared over four stages ((Issues and Options, Preferred Options, Revised Preferred Options, Publication/Submission).
+
 
 
 

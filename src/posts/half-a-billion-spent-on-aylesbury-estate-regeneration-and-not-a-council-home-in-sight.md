@@ -13,6 +13,8 @@ date: 2022-05-24T10:38:48.648Z
 
 2002 - Council decides to retain and refurbish stock.
 
+2003 - Phase 1 – Site 1a.  An Options Appraisal exercise carried out in the southwest corner by Levitt Bernstein and Pollard Thomas Edwards Architects, January/April 2003.  
+
 Sept 2005 - Council initiates a redevelopment strategy for a 'high quality, mixed tenurre urban area, subject to...full financial assessments'; a detailed project plan, with timescales, milesones and resource implications to be completed by the end of the year.
 
 Sept 2006 - Council agrees a borough medium term financial strategy.  This includes exploiting 'opportunities afforded through the regeneration programme, including setting a target for capital receipts from regeneration projects to support the Council’s future capital programme’.  Southwark's 3-year £455m programme includes a new Aylesbury Resource Centre as a priority. 

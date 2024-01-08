@@ -15,7 +15,7 @@ date: 2022-05-24T10:38:48.648Z
 
 Sept 2005 - Council initiates a redevelopment strategy for a 'high quality, mixed tenurre urban area, subject to...full financial assessments'; a detailed project plan, with timescales, milesones and resource implications to be completed by the end of the year.
 
-Sept 2006 - Council agrees a borough medium term financial strategy which aims to ‘To exploit opportunities afforded through the regeneration programme, including setting a target for capital receipts from regeneration projects to support the Council’s future capital programme’.  notes a 3-year £455m capital programme; notes provision for a new Aylesbury Resource Centre as a priority capital proposal; notes Regeneration & Development fund that can be released from Corporate Reserves including that of the Aylesbury estate. 
+Sept 2006 - Council agrees a borough medium term financial strategy.  This includes ‘To exploit opportunities afforded through the regeneration programme, including setting a target for capital receipts from regeneration projects to support the Council’s future capital programme’.  notes a 3-year £455m capital programme; notes provision for a new Aylesbury Resource Centre as a priority capital proposal; notes Regeneration & Development fund that can be released from Corporate Reserves including that of the Aylesbury estate. 
 
 
 

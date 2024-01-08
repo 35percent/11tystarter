@@ -13,7 +13,7 @@ date: 2022-05-24T10:38:48.648Z
 
 2002 - Council decides to retain and refurbish stock.
 
-2003 - Phase 1 – Site 1a.  An Options Appraisal exercise carried out in the southwest corner by Levitt Bernstein and Pollard Thomas Edwards Architects, January/April 2003. 
+2003 -   An Options Appraisal exercise carried out in the southwest corner of the estate (to be later known as Phase 1 – Site 1a) by Levitt Bernstein and Pollard Thomas Edwards Architects, January/April 2003. 
 
 Dec 2005 - Walworth Community Council considers outline planning permission for demolition Aylesbury Day Centre, garages and outbuildings, Boyson Rd, Bradenham Close and construction of 125 new dwellings 05-CO-0161, in advance of planning committee meeting in 2006.
 

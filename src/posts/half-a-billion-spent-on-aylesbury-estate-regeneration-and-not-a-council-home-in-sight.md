@@ -21,6 +21,8 @@ Sept 2006 - Council agrees a borough medium term financial strategy.  This inclu
 
 Dec 2009 - The Council Executive recommended the AAAP to the Council Assembly.  A proposal by a deputation to the Executive, that the wording of the the AAAP be changed to protect Burgess Park was accepted.  A proposal opposing high-rise tower blocks along the Albany Road was rejected, as was a proposal to delay AAAP for further data on carbon emissions rejected. (The Council accepted that these did not include embodied carbon, but the Inspector considered that the figures were still reliable.  The Council considered that the environmental benefits of development outweighed the benefits of retaining the present buildings.  It was also argued that the extension to the Aylesbury of the proposed Multi Utility Services Company (MUSCo), which was to be part of the Elephant and Castle regeneration, would make development carbon negative).
 
+Jan 2010 - Council Assembly accepts Executives's AAAP recommendation.  AAAP is published. 
+
 
 
 

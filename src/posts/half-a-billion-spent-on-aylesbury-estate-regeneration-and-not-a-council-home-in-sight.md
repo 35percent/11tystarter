@@ -7,9 +7,9 @@ date: 2022-05-24T10:38:48.648Z
 
 1997 - Blair government elected
 
-1999 - New Deal for Communities grant of £52m, over ten years, is secured. A further £400m is anticipated as part of a stock transfer to a housing association and a demolition/redevelopment programme
+1999 - New Deal for Communities grant of £52m, over ten years, is secured for the Aylesbury.  A further £400m is anticipated as part of a stock transfer to a housing association and a demolition/redevelopment programme
 
-2001 - A resident ballot rejects stock transfer; 73% voting against on a 73% turn-out.
+2001 - A resident ballot rejects stock transfer; 73% voting against the proposal, on a 73% turn-out.
 
 2002 - Council decides to retain and refurbish stock.
 
@@ -17,9 +17,7 @@ Sept 2005 - Council initiates a redevelopment strategy for a 'high quality, mixe
 
 Sept 2006 - Council agrees a borough medium term financial strategy.  This includes exploiting 'opportunities afforded through the regeneration programme, including setting a target for capital receipts from regeneration projects to support the Council’s future capital programme’.  Southwark's 3-year £455m programme includes a new Aylesbury Resource Centre as a priority. 
 
-2008-2009 - The Aylesbury Area Action Plan is prepared over four stages ((Issues and Options, Preferred Options, Revised Preferred Options, Publication/Submission).
-
-
+2008-2009 - The Aylesbury Area Action Plan (AAAP) is devised. This is ‘a spatial plan that combines land use planning policies with an employment strategy, a health and services strategy, a transport strategy, an open spaces strategy and a business and delivery plan, to create a holistic plan for the regeneration of the estate and surrounding area’.  The AAAP is judged to b e sound by a government appointed Inspector, after an Examination in Public in September 2009.  Recommended changes include increasing the phase one affordable housing, and reducing the private housing, to gain HCA funding and make it viable, while reducing the affordable housing and increasing the private housing by the same amount in the final phase four.  The capital programme is set at £1.2bn with a funding shortfall of £169m. The Council Executive recommends the AAAP to the Council Assembly in Dec 2009.
 
 
 

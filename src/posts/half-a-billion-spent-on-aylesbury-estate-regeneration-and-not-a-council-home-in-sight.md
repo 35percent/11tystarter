@@ -41,7 +41,7 @@ Jan 2008	         The strategic director for major projects approves formal agre
 
 Oct 2009	           The Executive approves the joint procurement of development and housing association partners with the Homes and Communities Agency (HCA) for the four Phase 1 sites - Site 1a, a second south west corner site (Sites b&c, later known as the FDS), the small Amersham site, in the centre of the estate, and the North Wolverton site (later known as Site 7), at the north east corner of the estate. It also approves the phased re-housing of Phase 1 residents and instructs officers to explore all possible external funding sources, including Social Housing Grant.
 
-The Phase 1 sites would  'be key to the Aylesbury regeneration', supplying areas of low density that will provide new homes to help re-house residents after taking vacant possession on Phase 2 and 3. 2.  They are identified in the AAP as areas *'that will provide important infrastructure components early'.*
+The Phase 1 sites would  *'be key to the Aylesbury regeneration'*, supplying areas of low density that will provide new homes to help re-house residents after taking vacant possession on Phase 2 and 3. 2.  They are identified in the AAP as areas *'that will provide important infrastructure components early'.*
 
 Funding for the redevelopment would draw on both public and private sectors.  Phase 1 would be a HCA/Southwark partnership, Phases 2 and 3 would be funded by the Housing Revenue Account (HRA) and Private Finance Initiative (PFI) credits from the HCA, supported by the Department for Communities and Local Government and the Treasury.  There were no current proposals for funding Phase 4, which was ten years away.
 

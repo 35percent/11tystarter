@@ -51,6 +51,10 @@ The re-housing of residents was programmed to be completed by 2023, with the ful
 
 Planning maintenance works would cease on Phase 1 with limited works Phases 2 and 3 and interim investment  on Phase 4 blocks.
 
+The Council would be reponsible for the development's new infrastruture including a *'key component' - 'a new energy centre to provide heat, hot water and power*' with the Elephant & Castle regeneration (the Multi Utilities Services Company, MUSCo).  These works would *'be undertaken either by appointed contractors or as part of the procurement of a developer partner using either the tariff or S106 contributions'.* 
+
+
+
 
 
 

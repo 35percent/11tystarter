@@ -41,7 +41,7 @@ Jan 2008	         The strategic director for major projects approves formal agre
 
 Oct 2009	           The Executive approved the joint procurement of development and housing association partners with the Homes and Communities Agency (HCA) for three of the four Phase 1 sites. The HCA would invite tenders by the end of January 2010.  Six to twelve housing associations/developers would  be selected to enter into a HCA framework agreement from which Southwark will select developers, with appointments made around June 2010.  
 
-The  terms of disposal will be confirmed in a Development Agreement that sets out the council’s requirements for tenure, housing type, design, build quality and sustainability according to the AAAP. The agreement will also include the Council’s initial nomination rights for decant and subsequent lettings, and management arrangements.
+The selected developer for Phase 1 will design, demolish, build and manage new mixed tenure homes and supporting infrastructure.  A Development Agreement would include terms of disposal (of the land?) and the council’s requirements for tenure, housing type, design, build quality and sustainability according to the AAAP. The agreement will also include the Council’s initial nomination rights for decant and subsequent lettings, and management arrangements.
 
 The Phase 1 sites were a second south west corner site (Sites b&c, later known as the FDS), the small Amersham site, in the centre of the estate, and the North Wolverton site (later known as Site 7), at the north east corner of the estate. (L&Q had already been appointed provider of homes on Site 1a in Jan 2008). 
 

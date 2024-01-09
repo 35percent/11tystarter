@@ -53,7 +53,7 @@ Planning maintenance works would cease on Phase 1 with limited works Phases 2 an
 
 The Council would be reponsible for the development's new infrastruture including a *'key component' - 'a new energy centre to provide heat, hot water and power*' with the Elephant & Castle regeneration (the Multi Utilities Services Company, MUSCo).  These works would *'be undertaken either by appointed contractors or as part of the procurement of a developer partner using either the tariff or S106 contributions'.* 
 
-
+The Council considered that *'successful delivery of the project depends on working with other public sector organisations....and provide public sector leadership. This view harmonises with other agencies e.g. Homes and Communities Agency, Greater London Authority, Government Office for London, London Development Agency.  The public sector partnerships will allow optimisation of public sector expertise and financial support. This will enhance private sector developer confidence at early formative stages....'*
 
 
 

@@ -43,9 +43,9 @@ Oct 2009	           The Executive approved the joint procurement of development 
 
 The selected developer for Phase 1 will design, demolish, build and manage new mixed tenure homes and supporting infrastructure.  A Development Agreement would include terms of disposal (of the land?) and the council’s requirements for tenure, housing type, design, build quality and sustainability according to the AAAP. The agreement will also include the Council’s initial nomination rights for decant and subsequent lettings, and management arrangements.
 
-The Phase 1 sites are the second south west corner site, after (Sites b&c, later known as the FDS), the small Amersham site, in the centre of the estate, and the North Wolverton site (later known as Site 7), at the north east corner of the estate. (L&Q had already been appointed provider of homes on Site 1a in Jan 2008). 
+The three Phase 1 sites are i) the second south west corner site, after L&Q's Site 1a (Sites b&c, later known as the FDS) ii) the small Amersham site, in the centre of the estate, and iii) the North Wolverton site (later known as Site 7), at the north east corner of the estate. 
 
-The Phase 1 sites would  *'be key to the Aylesbury regeneration'*, supplying areas of low density that will provide new homes to help re-house residents after taking vacant possession on Phase 2 and 3. 2.  They are identified in the AAP as areas *'that will provide important infrastructure components early'.*  
+The Phase 1 sites would  *'be key to the Aylesbury regeneration'*, supplying low density areas that will provide new homes to help re-house residents displaced to allow Phase 2 and 3.  They are identified in the AAP as areas *'that will provide important infrastructure components early'.*  
 
 Funding for the redevelopment would draw on both public and private sectors.  Phase 1 would be a HCA/Southwark partnership, Phases 2 and 3 would be funded by the Housing Revenue Account (HRA) and Private Finance Initiative (PFI) credits from the HCA, supported by the Department for Communities and Local Government and the Treasury.  There were no current proposals for funding Phase 4, which was ten years away.
 

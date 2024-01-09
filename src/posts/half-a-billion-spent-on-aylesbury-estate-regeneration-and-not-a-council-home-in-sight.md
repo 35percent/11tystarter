@@ -45,7 +45,7 @@ The selected developer for Phase 1 will design, demolish, build and manage new m
 
 The Phase 1 sites were a second south west corner site (Sites b&c, later known as the FDS), the small Amersham site, in the centre of the estate, and the North Wolverton site (later known as Site 7), at the north east corner of the estate. (L&Q had already been appointed provider of homes on Site 1a in Jan 2008). 
 
-The Phase 1 sites would  *'be key to the Aylesbury regeneration'*, supplying areas of low density that will provide new homes to help re-house residents after taking vacant possession on Phase 2 and 3. 2.  They are identified in the AAP as areas *'that will provide important infrastructure components early'.*
+The Phase 1 sites would  *'be key to the Aylesbury regeneration'*, supplying areas of low density that will provide new homes to help re-house residents after taking vacant possession on Phase 2 and 3. 2.  They are identified in the AAP as areas *'that will provide important infrastructure components early'.*  
 
 Funding for the redevelopment would draw on both public and private sectors.  Phase 1 would be a HCA/Southwark partnership, Phases 2 and 3 would be funded by the Housing Revenue Account (HRA) and Private Finance Initiative (PFI) credits from the HCA, supported by the Department for Communities and Local Government and the Treasury.  There were no current proposals for funding Phase 4, which was ten years away.
 
@@ -57,7 +57,7 @@ The Homeloss and disturbance payment to tenants will cost £2.611m (for Phase1?)
 
 The estate land was in council’s freehold ownership, but securing vacant possession would have significant costs, given the large number of leaseholders and challenging rehousing requirements.  The strategy was to demolish the worst blocks first; accommodate displaced households on-site and off-site; acquire leaseholder properties and  meeting the desire of residents to remain on the estate.  The estate residents were secure council tenants and private owners who have bought Right to Buy (RTB) homes, plus number of businesses-leased properties.  All leaseholder interests were to be bought out. (Non-secure tenants? Date of ending secure tenancies?)
 
-The Executive also approved the phased re-housing of Phase 1 residents.  This would be completed for Phase 1 by 2012, with all estate residents rehoused by 2023.  The entire redevelopment of 4,209 new homes was scheduled to be completed by 2027 - Phase 1a by 2013; Phase 1 by 2016; Phase 2 by 2018; Phase 3 by 2020;  Phase 4 by 2027.
+The Executive also approved the phased re-housing of Phase 1 residents.  It estimates that rehousing displaced Aylesbury residents may take 10% of the overall social houisng supply, up to 2014.  This would be completed for Phase 1 by 2012 (with all estate residents rehoused by 2023).  The entire redevelopment of 4,209 new homes was scheduled to be completed by 2027 - Phase 1a by 2013; Phase 1 by 2016; Phase 2 by 2018; Phase 3 by 2020;  Phase 4 by 2027.
 
 Planning maintenance works would cease on Phase 1, with limited works on Phases 2 and 3 and interim investment  on Phase 4 blocks.  Southwark says that  *‘The options appraisal concluded that the costs of stock retention were prohibitive and structural failings in some buildings, alongside design deficiencies meant that investment would not alleviate many of the estate’s problems’.*
 

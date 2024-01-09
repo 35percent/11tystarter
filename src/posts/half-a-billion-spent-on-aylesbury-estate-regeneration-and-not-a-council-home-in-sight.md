@@ -47,7 +47,7 @@ Funding for the redevelopment would draw on both public and private sectors.  Ph
 
 HCA funding of £13m for Phase 1a was *‘effectively unlocked’*.  Southwark's was making a business case for government PFI funding of Phase 2 & 3 (which along with Phase 1 would cover about half of the estate's redevelopment).
 
-The estate land was in council’s freehold ownership.  The strategy for the requied vacant possession was to demolish the worst blocks first; accommodate displaced households on-site and off-site; acquire leaseholder properties and  meeting the desire of residents to remain on the estate.  The estate residents were secure council tenants and private owners who have bought Right to Buy (RTB) homes, plus number of businesses-leased properties.  All leaseholder interests were to be bought out. (Non-secure tenants? Date of ending secure tenancies?)
+The estate land was in council’s freehold ownership, but securing vacant possession would have significant costs, given the large number of leaseholders and challenging rehousing requirements.  The strategy for the requied vacant possession was to demolish the worst blocks first; accommodate displaced households on-site and off-site; acquire leaseholder properties and  meeting the desire of residents to remain on the estate.  The estate residents were secure council tenants and private owners who have bought Right to Buy (RTB) homes, plus number of businesses-leased properties.  All leaseholder interests were to be bought out. (Non-secure tenants? Date of ending secure tenancies?)
 
 The re-housing of residents was programmed to be completed by 2023, with the full redevelopment of 4,209 new homes scheduled to be completed by 2027 - Phase 1a by 2013; Phase 1 by 2016; Phase 2 by 2018; Phase 3 by 2020;  Phase 4 by 2027.
 
@@ -56,11 +56,6 @@ Planning maintenance works would cease on Phase 1 with limited works Phases 2 an
 The Council would be reponsible for the development's new infrastruture including a *'key component' - 'a new energy centre to provide heat, hot water and power*' with the Elephant & Castle regeneration (the Multi Utilities Services Company, MUSCo).  These works would *'be undertaken either by appointed contractors or as part of the procurement of a developer partner using either the tariff or S106 contributions'.* 
 
 The Council considered that *'successful delivery of the project depends on working with other public sector organisations....and provide public sector leadership. This view harmonises with other agencies e.g. Homes and Communities Agency, Greater London Authority, Government Office for London, London Development Agency.  The public sector partnerships will allow optimisation of public sector expertise and financial support. This will enhance private sector developer confidence at early formative stages....'*
-
-
-
-
- 
 
 Dec 2009          The Council Executive recommended the AAAP to the Council Assembly.  A proposal by a deputation to the Executive, that the wording of the the AAAP be changed to protect Burgess Park was accepted.  A proposal opposing high-rise tower blocks along the Albany Road and a proposal to delay AAAP for further data on carbon emissions were both rejected.  The Council accepted that carbon data did not include embodied carbon, but the Inspector considered that the figures were still reliable.  The Council considered that the environmental benefits of development outweighed the benefits of retaining the present buildings.  It was also argued that the extension to the Aylesbury of the proposed Multi Utility Services Company (MUSCo), which was to be part of the Elephant and Castle regeneration, would make development carbon negative).
 

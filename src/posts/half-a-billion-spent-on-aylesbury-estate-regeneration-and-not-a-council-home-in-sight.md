@@ -51,7 +51,7 @@ The estate land was in council’s freehold ownership, but securing vacant posse
 
 The re-housing of residents was programmed to be completed by 2023, with the full redevelopment of 4,209 new homes scheduled to be completed by 2027 - Phase 1a by 2013; Phase 1 by 2016; Phase 2 by 2018; Phase 3 by 2020;  Phase 4 by 2027.
 
-Planning maintenance works would cease on Phase 1 with limited works Phases 2 and 3 and interim investment  on Phase 4 blocks.
+Planning maintenance works would cease on Phase 1 with limited works Phases 2 and 3 and interim investment  on Phase 4 blocks.  Southwark say that  ‘The options appraisal concluded that the costs of stock retention were prohibitive and structural failings in some buildings, alongside design deficiencies meant that investment would not alleviate many of the estate’s problems’.
 
 The Council would be reponsible for the development's new infrastruture including a *'key component' - 'a new energy centre to provide heat, hot water and power*' with the Elephant & Castle regeneration (the Multi Utilities Services Company, MUSCo).  These works would *'be undertaken either by appointed contractors or as part of the procurement of a developer partner using either the tariff or S106 contributions'.* 
 

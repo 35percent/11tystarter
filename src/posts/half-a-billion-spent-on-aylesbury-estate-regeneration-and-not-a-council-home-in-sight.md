@@ -45,13 +45,13 @@ The selected developer for Phase 1 will design, demolish, build and manage new m
 
 The three Phase 1 sites are i) the second south west corner site, after L&Q's Site 1a (Sites b&c, later known as the FDS) ii) the small Amersham site, in the centre of the estate, and iii) the North Wolverton site (later known as Site 7), at the north east corner of the estate. 
 
-The Phase 1 sites would  *'be key to the Aylesbury regeneration'*, supplying low density areas that will provide new homes to help re-house residents displaced to allow Phase 2 and 3.  They are identified in the AAP as areas *'that will provide important infrastructure components early'.*  
+The Phase 1 sites would  *'be key to the Aylesbury regeneration'*, supplying low density areas that will provide new homes to help re-house residents displaced to allow for Phases 2 and 3.  The sites are also identified in the AAP as areas *'that will provide important infrastructure components early'.*  
 
 Funding for the redevelopment would draw on both public and private sectors.  Phase 1 would be a HCA/Southwark partnership, Phases 2 and 3 would be funded by the Housing Revenue Account (HRA) and Private Finance Initiative (PFI) credits from the HCA, supported by the Department for Communities and Local Government and the Treasury.  There were no current proposals for funding Phase 4, which was ten years away.
 
 While HCA funding of £13m for Phase 1a was *‘effectively unlocked’*, Southwark was also making a business case for government PFI funding of Phase 2 & 3 (which along with Phase 1 would cover about half of the estate's redevelopment).  The Executive also instructed officers to explore funding sources, including Social Housing Grant.
 
-The funding will come from various public sources.  Capital costs of site preparation (leasehold acquisitions, re-housing and infrastructure) can be funded through the London Housing Board, NDC allocation, recycled Social Housing Grant and LBS capital allocation.  Internal project team resources and external consultants costs are estimated at £2.3m, funded through the Council's Aylesbury reserve. The estimated cost of the procurement process to next Gateway stage (Oct 2009 – Jun 2010) is £700, 000, to come from the Aylesbury Reserve.  SHG meeting any land value deficit.
+Capital costs of site preparation (leasehold acquisitions, re-housing and infrastructure) can be funded through the London Housing Board, NDC allocation, recycled Social Housing Grant and LBS capital allocation.  Internal project team resources and external consultants costs are estimated at £2.3m, funded through the Council's Aylesbury reserve. The estimated cost of the procurement process to next Gateway stage (Oct 2009 – Jun 2010) is £700, 000, to come from the Aylesbury Reserve.  SHG meeting any land value deficit.
 
 The Homeloss and disturbance payment to tenants will cost £2.611m (for Phase1?), funded from Aylesbury Homeloss budgets and other HRA resources. ‘Other costs’ for phase amount to £10.113m, funded from savings and HRA Resources.
 

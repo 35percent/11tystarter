@@ -15,7 +15,7 @@ date: 2022-05-24T10:38:48.648Z
 
 Jan - April 2003         An Options Appraisal exercise carried out in the southwest corner of the estate (to be later known as Phase 1 – Site 1a) by Levitt Bernstein and Pollard Thomas Edwards Architects.
 
-Sept 2005    Council initiates a redevelopment strategy for a 'high quality, mixed tenurre urban area, subject to...full financial assessments'; a detailed project plan, with timescales, milesones and resource implications to be completed by the end of the year.
+Sept 2005    Council initiates a redevelopment strategy for a *'high quality, mixed tenurre urban area, subject to...full financial assessments'*; a detailed project plan, with timescales, milesones and resource implications to be completed by the end of the year.
 
 Dec 2005     Walworth Community Council considers outline planning permission for demolition Aylesbury Day Centre, garages and outbuildings, Boyson Rd, Bradenham Close and construction of 125 new dwellings, on south-west corner (05-CO-0161), in advance of planning committee meeting in 2006.
 
@@ -23,7 +23,7 @@ Jan 2006       Permission for 05-CO-0161 (south west corner) granted.
 
 May 2006      Work on south west corner suspended because of health and safety concerns about the design of the day centre.  New design commissioned within an enlarged scheme.
 
-Sept 2006      Council's medium term financial strategy includes exploiting 'opportunities afforded through the regeneration programme, including setting a target for capital receipts from regeneration projects to support the Council’s future capital programme’.  Southwark's 3-year £455m programme includes a new Aylesbury Resource Centre as a priority.
+Sept 2006      Council's medium term financial strategy includes exploiting *'opportunities afforded through the regeneration programme, including setting a target for capital receipts from regeneration projects to support the Council’s future capital programme’*.  Southwark's 3-year £455m programme includes a new Aylesbury Resource Centre as a priority.
 
 Nov 2006       Executive approves procurement of a Registered Social Landlord (RSL) / developer for south west corner site (Phase 1a).  Site enlarged, by demolishing 1 - 41 Bradenham, 1-12 Red Lion Close and commercial units 6-28 Westmoreland Road.  Number of dwellings increased by 150, from 125, to approximately 270 units.  The additional 150 to be RSL housing for rent and for sale, split to be determined. Development will be funded by the appointed RSL, commuted land value and by London Housing Board funding, previously agreed for the former South-West Corner scheme revenues. The new resource centre to be funded by a Health and Social Care bid for £5.7 million (to be considered by the Executive in November 2006.  ‘..no anticipated implications for the Housing Investment Programme….’  
 
@@ -31,7 +31,7 @@ June 2007	Planning committee approves ‘council own’ outline planning applica
 
 Dec 2007	The strategic director of regeneration and neighbourhoods formally declared Phase 1a surplus to requirements. 
 
-Jan 2008	         The strategic director for major projects approves formal agreement with L&Q for the development of Phase 1a, for provision of 260 units of housing and the Aylesbury Resource Centre (ARC) 28 Jan 2008.  The land is to be sold on a 130 year lease for an undisclosed amount. The affordable housing ‘will reflect the generous space standards of the existing estate’. 
+Jan 2008	         The strategic director for major projects approves formal agreement with L&Q housing association for the development of Phase 1a, for provision of 260 units of housing and the Aylesbury Resource Centre (ARC).  The land is to be sold on a 130 year lease for an undisclosed amount. The affordable housing *‘will reflect the generous space standards of the existing estate’*. 
 
  June 2008	Major Projects Board recommends to Assembly an application to the SoS (DCLG) for consent to the transfer of housing land and for its disposal because the undisclosed proposed receipt from L&Q is less than open market value.  L&Q to add an undisclosed ‘added value’ contribution for ‘social infrastructure’ (eg employment) and will meet higher than minimum design, build and space standards.  The undisclosed cost of building the ARC to be funded from the Health and social care department’s allocation in the Council’s capital programme.  The cost of acquiring residential and commercial leaseholds (twelve and six respectively - planning report 07-CO-0046) will be met by the capital programme.  No provision for meeting costs from HRA or General Fund costs.  Social rent tenancies will ‘be a minimum of the council’s existing tenancy conditions’, with the right to acquire.
 

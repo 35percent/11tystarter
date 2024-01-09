@@ -41,9 +41,11 @@ Jan 2008	         The strategic director for major projects approves formal agre
 
 Oct 2009	           The Executive approves the joint procurement of development and housing association partners with the Homes and Communities Agency (HCA) for the four Phase 1 sites - Site 1a, a second south west corner site (later known as the FDS), the small Amersham site, in the centre of the estate, and the North Wolverton site (later known as Site 7), at the north east corner of the estate. It also approves the phased re-housing of Phase 1 residents and instructs officers to explore all possible external funding sources, including Social Housing Grant.
 
-HCA funding of £13m for Phase 1a was *‘effectively unlocked’*.  Southwark's business case for government Private Finance Initiative (PFI) funding of Phase 2 & 3 (which along with Phase 1 would cover about half of the estate's redevelopment) was due by July 2009.
+HCA funding of £13m for Phase 1a was *‘effectively unlocked’*.  Southwark's was making a business case for government Private Finance Initiative (PFI) funding of Phase 2 & 3 (which along with Phase 1 would cover about half of the estate's redevelopment).
 
-The re-housing of residents is programmed to be completed by 2023, with the full redevelopment of 4,209 new homes scheduled to be completed by 2027 - Phase 1a by 2013; Phase 1 by 2016; Phase 2 by 2018; Phase 3 by 2020;  Phase 4 by 2027.
+The estate land is in council’s freehold ownership.  The strategy for vacant possession was to demolish the worst blocks first; accommodate displaced households on-site and off-site; acquire leaseholder properties; meet desire of residents to remain on the estate.  The estate residents were secure council tenants and private owners who have bought Right to Buy (RTB) homes, plus number of businesses-leased properties.  All leaseholder interests were to be bought out. (Non-secure tenants? Date of ending secure tenancies?)
+
+The re-housing of residents was programmed to be completed by 2023, with the full redevelopment of 4,209 new homes scheduled to be completed by 2027 - Phase 1a by 2013; Phase 1 by 2016; Phase 2 by 2018; Phase 3 by 2020;  Phase 4 by 2027.
 
  
 

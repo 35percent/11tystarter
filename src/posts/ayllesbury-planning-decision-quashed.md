@@ -17,7 +17,7 @@ The decision is likely to have serious consequences for Phase 2B, the latest pha
 
 It also appears as if nothing else can be built under the OPP, until Phase 2B is completed and as required by the OPP.
 
-80 “agree that the OPP requires that Phase 2B has to be built before subsequent phases (i.e. Phase 3 and Phase 4) and that it is built in accordance with the OPP.”
+Judgement Para 80 “the parties agree that the OPP requires that Phase 2B has to be built before subsequent phases (i.e. Phase 3 and Phase 4) and that it is built in accordance with the OPP.”
 
 ### Questions that need answering - iii/ what next for rest of the development?
 

@@ -13,7 +13,11 @@ Southwark Council isn't just the local planning authority, with the power to app
 
 ### Questions that need answering - ii/ what next for Phase 2B?
 
-The decision is likely to have serious consequences for Phase 2B, the latest phase of the estate's much delayed and troubled regeneration.  The NHG planning application for Phase 2B was  approved by the planning committee in January 2023 on the understanding that another, enirely different planning permission, the outline planning permission could still be used for the rest of the Aylesbury regenerationdepends upon a change made to the earlier, DATE, outline planning permission (OPP), which covers the whole estate. The change was small, but significant.  It said that the OPP was now 'severable', and so would allow an entirely different application, a so-called 'drop-in' application, to be considered for Phase 2B.  The High Court ruled that the change itself was unlawful, which puts the fate of the 'drop-in' application into doubt. 
+The decision is likely to have serious consequences for Phase 2B, the latest phase of the estate's much delayed and troubled regeneration.  The NHG planning application for Phase 2B was  approved by the planning committee in January 2023 on the understanding that another, enirely different planning permission, the outline planning permission could still be used for the rest of the Aylesbury regenerationdepends upon a change made to the earlier, DATE, outline planning permission (OPP), which covers the whole estate. The change was small, but significant.  It said that the OPP was now 'severable', and so would allow an entirely different application, a so-called 'drop-in' application, to be considered for Phase 2B.  The High Court ruled that the change itself was unlawful, which puts the fate of the 'drop-in' application into doubt.
+
+It also appears as if nothing else can be built under the OPP, until Phase 2B is completed and as required by the OPP.
+
+80 “agree that the OPP requires that Phase 2B has to be built before subsequent phases (i.e. Phase 3 and Phase 4) and that it is built in accordance with the OPP.”
 
 ### Questions that need answering - iii/ what next for rest of the development?
 

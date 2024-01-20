@@ -1,8 +1,11 @@
 ---
-title: Ayllesbury planning decision quashed
-description: High Court overturns amendment to outline planning permission
+title: "High Court overturns Aylesbury planning decision "
+description: What next for regeneration after amendment to outline planning
+  permission quashed?
 date: 2024-01-20T11:51:16.914Z
 ---
+### What next for regeneration after amendment to outline planning permission quashed?
+
 The legal challenge against Southwark Council's decision to amend the outline planning decision for the regeneration of the Aylesbury estate has succeeded, with the High Court quashing the decision in its judgement last week. (Links to last blog and decision)
 
 The challenge was brought by long-tem Aylesbury resident and campaigner Aysen Dennis, (link) who argued.....at a hearing in Nov (link).  The judge agreed, saying.......Aysen was represented by.....
@@ -23,6 +26,10 @@ It also appears as if nothing else can be built under the OPP, until Phase 2B is
 
 Judgement Para 80 “the parties agree that the OPP requires that Phase 2B has to be built before subsequent phases (i.e. Phase 3 and Phase 4) and that it is built in accordance with the OPP.”
 
-### Questions that need answering - iii/ what next for rest of the development?
+### Questions that need answering - iii/ what about the rest of the development?
 
-DPA - delayed (FOI); next Future of the Aylesbury report - delayed (screenshot); will OPP be built out by NHG?
+It also appears that nothing can happen on the remaing phases (Phase 2C, Phase 3 and Phase 4) until Phase 2B is resolved.  In an illuminating passage of the judgement Southwark and NHG agree that Phase 2C, Phase 3 and Phase 4 can only proceedonce Phase 2B)the rest DPA - delayed (FOI); next Future of the Aylesbury report - delayed (screenshot); will OPP be built out by NHG?
+
+### Southark and NHG - authors of their own misfortune
+
+The High Court case has not caused this problem (delay? See Cllr Dennis, NHG quotes,  Southwark News) - Southwark Council and NHG have.  First, by jointly agreeing to put the OPP to one side for Phase 2B, instead of making a detailed application under the terms of the OPP. Second, with a planning manouvre that was supposed to guarantee the validity of the OPP, but which fell foul of the law.  The net result is that we have one valid permission that should have been used to advance Phase 2B, but wasn't, and one, half-born, that Southwark and NHG want to use, but whose vailidity is now in doubt.

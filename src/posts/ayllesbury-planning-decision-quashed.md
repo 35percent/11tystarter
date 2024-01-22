@@ -17,7 +17,15 @@ Southwark argued that the outline permission was just that - *“very outline”
 
 NHG took part in the case as an interested party.  They addressed the same legal point as Southwark, saying that it was inappropriate to apply the reasoning of a recent Supreme Court decision on similar isssues (Hillside) to this case.  In relation to this, NHG emphasised the distinction between an outline permission and a detailed decision.  and that “there is an obvious and inherent form of severability contemplated” in an outline permission for a phased development. 
 
-The judge did not agree with Southwark and NHG.  He said that the key point was what the outline permission 
+### The judgement
+
+The judge did not agree with Southwark and NHG.  He said that the key point was what the outline permission actually meant (what he called the scope of its *'bundle of rights')* and how had that meaning had been changed by adding of the word *'severable'* to the permission.  He ruled that this was a significant *'material'* change and should not have been made in the way that it was.  He therefore ordered that the decision to amend the outline planning decision, by adding the word *'severable'* be quashed.
+
+In reaching his decision he said *\- with respect'* - that Southwark and NHG's points about phasing and severability *'lacked coherence'.*  He showed particularly concern in his reasoning about how a severed planning permission might fall foul of time limits for implementation, if it were broken into parts.  
+
+He also notes that there would have been be nothing to stop NHG from breaking a permission down further than just into phases, if the word 'severable' was added to the permission; he says that 'I have strong
+reservations in any event about the legality of an amendment to a planning permission which simply inserts language as uncertain as the bare term “severable”. There was nothing to indicate the extent to which the OPP was purportedly severed. For a largescale development it would have been possible to conceive of many different
+alternatives'.
 
 
 
@@ -49,4 +57,4 @@ It also appears that nothing can happen on the remaing phases (Phase 2C, Phase 3
 
 ### Southark and NHG - authors of their own misfortune
 
-The High Court case has not caused this problem (delay? See Cllr Dennis, NHG quotes,  Southwark News) - Southwark Council and NHG have.  First, by jointly agreeing to put the OPP to one side for Phase 2B, instead of making a detailed application under the terms of the OPP. Second, with a planning manouvre that was supposed to guarantee the validity of the OPP, but which fell foul of the law.  The net result is that we have one valid permission that should have been used to advance Phase 2B, but wasn't, and one, half-born, that Southwark and NHG want to use, but whose validity is now in doubt.
+This is not a case where Southwark have been unwittingly tripped up by some legal technicality, as they suggest in the Southwark News (link).  The High Court case has not caused this problem (delay? See Cllr Dennis, NHG quotes,  Southwark News) - Southwark Council and NHG have.  First, by jointly agreeing to put the OPP to one side for Phase 2B, instead of making a detailed application under the terms of the OPP. Second, with a planning manouvre that was supposed to guarantee the validity of the OPP, but which fell foul of the law.  The net result is that we have one valid permission that should have been used to advance Phase 2B, but wasn't, and one, half-born, that Southwark and NHG want to use, but whose validity is now in doubt.

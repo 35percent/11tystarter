@@ -1,10 +1,9 @@
 ---
-title: "High Court overturns Aylesbury planning decision "
-description: What next for regeneration after amendment to outline planning
-  permission quashed?
+title: What next after High Court overturns Aylesbury planning decision?
+description: Amendment to outline planning permission quashed
 date: 2024-01-20T11:51:16.914Z
 ---
-### What next for regeneration after amendment to outline planning permission quashed?
+### Amendment to outline planning permission quashed
 
 The legal challenge against Southwark Council's decision to amend the outline planning decision for the regeneration of the Aylesbury estate has succeeded, with the High Court quashing the decision in its judgement last week. (Links to last blog and decision)
 

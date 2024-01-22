@@ -9,7 +9,7 @@ The legal challenge against Southwark Council's decision to amend the outline pl
 
 The challenge was brought by long-tem Aylesbury resident and campaigner Aysen Dennis.  Aysen(link) argued that a change to the description of the redevelopment was unlawful.  The change was made to smooth the path for a planning application by Notting Hill Genesis (NHG) for Phase 2B.  NHG holds an outline permission for the whole of the estate, including Phase 2B, which was awarded to them in 2015.  But in 2018 NHG applied for a new 'drop-in' application just for Phase 2B, because they wished to build something taller and denser on Phase 2B than the outline permission would allow.  Southwark also decided to change the wording on the outline permission to remove any potential legal obstacles to the new application.
 
-The change itself was to add the single word *'severable'* into the development description of the development,  This would make it easier for NHG to treat the different phases of the development seperately, rather than as one coherent whole.  Aysen argued that...
+The change itself was to add the single word *'severable'* into outline permission for Aylesbury development.  This would make it easier for NHG to treat the different phases and parts of the development seperately, rather than as one coherent whole.  Aysen argued that the outline permission was granted for an integrated scheme, with interconnected and interdependent parts and not for something where NHG could “mix and match” what they wanted to build, using different planning permissions.  
 
 
 

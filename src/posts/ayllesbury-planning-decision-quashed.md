@@ -21,17 +21,10 @@ NHG took part in the case as an interested party.  They addressed the same legal
 
 The judge did not agree with Southwark and NHG.  He said that the key point was what the outline permission actually meant (what he called the scope of its *'bundle of rights')* and how had that meaning had been changed by adding of the word *'severable'* to the permission.  He ruled that this was a significant *'material'* change and should not have been made in the way that it was.  He therefore ordered that the decision to amend the outline planning decision, by adding the word *'severable'* be quashed.
 
-In reaching his decision he said *\- with respect'* - that Southwark and NHG's points about phasing and severability *'lacked coherence'.*  He showed particularly concern in his reasoning about how a severed planning permission might fall foul of time limits for implementation, if it were broken into parts.  
+In reaching his decision the judge said *\- 'with respect'* - that Southwark and NHG's points about phasing and severability *'lacked coherence'.*  He showed particularly concern in his reasoning about how a severed planning permission might fall foul of time limits for implementation, if it were broken into parts.  
 
-He also notes that there would have been be nothing to stop NHG from breaking a permission down further than just into phases, if the word 'severable' was added to the permission; he says that 'I have strong
-reservations in any event about the legality of an amendment to a planning permission which simply inserts language as uncertain as the bare term “severable”. There was nothing to indicate the extent to which the OPP was purportedly severed. For a largescale development it would have been possible to conceive of many different
-alternatives'.
-
-
-
-
-
-
+He also notes that there would have been be nothing to stop NHG from breaking a permission down further than just into phases, if the word *'severable'* was added to the permission; he says that *'I have strong
+reservations in any event about the legality of an amendment to a planning permission which simply inserts language as uncertain as the bare term “severable”. There was nothing to indicate the extent to which the OPP \[outline permission] was purportedly severed. For a largescale development it would have been possible to conceive of many different alternatives'.*
 
 of an  award of a new planning permission to Notting Hill Genesis for Phase 2B, which that to ....at a hearing in Nov (link).  The judge agreed, saying.......Aysen was represented by.....
 

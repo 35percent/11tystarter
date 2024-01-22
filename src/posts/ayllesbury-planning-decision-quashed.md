@@ -7,7 +7,7 @@ date: 2024-01-20T11:51:16.914Z
 
 The legal challenge against Southwark Council's decision to amend the outline planning decision for the regeneration of the Aylesbury estate has succeeded, with the High Court quashing the decision in its judgement last week. (Links to last blog and decision)
 
-The challenge was brought by long-tem Aylesbury resident and campaigner Aysen Dennis, (link) who argued.....at a hearing in Nov (link).  The judge agreed, saying.......Aysen was represented by.....
+The challenge was brought by long-tem Aylesbury resident and campaigner Aysen Dennis, (link) who argued that a change to the description of the redevelopment was unlawful.  The change was made to smooth the path of an  award of a new planning permission to Notting Hill Genesis for Phase 2B, which that to ....at a hearing in Nov (link).  The judge agreed, saying.......Aysen was represented by.....
 
 ### Questions that need answering - i/ why did Southwark agree to the 'drop-in' application?
 

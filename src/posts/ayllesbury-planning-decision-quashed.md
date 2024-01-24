@@ -19,7 +19,7 @@ According to the judgement, Southwark had argued that the outline permission was
 
 NHG took part in the case as an interested party.  They addressed the same legal point as Southwark, saying that it was inappropriate to apply the reasoning of a recent Supreme Court decision on similar issues (Hillside) to this case.  In relation to this, NHG emphasised the distinction between an outline permission and a detailed decision.  and that *'there is an obvious and inherent form of severability contemplated'* in an outline permission for a phased development. 
 
-
+![](img/aylesbury_demo_high_court_281123.png)
 
 ### The judgement
 

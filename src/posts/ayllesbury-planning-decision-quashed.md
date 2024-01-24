@@ -26,8 +26,6 @@ In reaching his decision the judge said*, 'with respect'*, that Southwark and NH
 He also notes that there would have been be nothing to stop NHG from breaking a permission down further than just into phases, if the word *'severable'* was added to the permission, saying that  *'I have strong
 reservations in any event about the legality of an amendment to a planning permission which simply inserts language as uncertain as the bare term “severable”. There was nothing to indicate the extent to which the OPP \[outline permission] was purportedly severed. For a largescale development it would have been possible to conceive of many different alternatives'.*
 
-Aysen was represented by.....
-
 ### Why did Southwark agree to the 'drop-in' application?
 
 Southwark Council is a partner in the Aylesbury regeneration and has a Development Partnership Agreement with NHG.  NHG has the Outline Planning Permission for the whole of the Aylesbury and the normal procedure would be for them to have submitted more detailed applications for each of the remaining phases.  Why did Southwark agree to NHG making a new and entirely different planning application for Phase 2B instead, outside of the limits of the OPP?  
@@ -43,3 +41,5 @@ It also appears that nothing can happen on the remaing phases until Phase 2B is 
 ### Southwark and NHG - authors of their own (and our) misfortune
 
 This is not a case where Southwark have been unwittingly tripped up by some legal technicality, as they suggest in the Southwark News (link).  The High Court case has not caused this problem - Southwark Council and NHG have.  First, by jointly putting forward a 'drop-in', detailed application for Phase 2B that did not agree with the outline permission. Second, by undertaking a planning manouvre that was supposed to protect the permissions from legal challange, but had the opposite effect.  The net result is that we have one valid, eight year old, planning permission, that should have been used to advance Phase 2B, but wasn't, and one, unvalidated permission, that must now be in doubt.
+
+Aysen was represented for her case by Jenny Wigley KC and Alex Shattock, both of Landmark Chambers, instructed by PILC (Public Interest Law Centre).  Southwark was represented by Melissa Murphy KC and  Heather Sargent, both of Landmark Chambers.  NHG was represented by James Strachan KC of 39 EsseX Chambers, instructed by Winckworth Sherwood LLP.

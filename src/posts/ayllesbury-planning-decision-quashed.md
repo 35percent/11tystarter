@@ -5,7 +5,7 @@ date: 2024-01-20T11:51:16.914Z
 ---
 ### Amendment to outline planning permission quashed
 
-The legal challenge against Southwark Council's decision to amend the outline planning decision for the regeneration of the Aylesbury estate has succeeded, with the High Court quashing the decision in its judgement last week. (Links to last blog and decision)
+The legal challenge against the decision to amend the outline planning decision for the regeneration of the Aylesbury estate has succeeded.  The High Court quashed Southwark decision in its judgement last week, after a hearing last November (Links to last blog and decision).
 
 The challenge was brought by long-tem Aylesbury resident and campaigner Aysen Dennis.  Aysen(link) argued that a change to the description of the redevelopment was unlawful.  The change was made to smooth the path for a planning application by Notting Hill Genesis (NHG) for Phase 2B.  NHG holds an outline permission for the whole of the estate, including Phase 2B, which was awarded to them in 2015.  But in 2018 NHG applied for a new 'drop-in' application just for Phase 2B, because they wished to build something taller and denser on Phase 2B than the outline permission would allow.  Southwark also decided to change the wording on the outline permission to remove any potential legal obstacles to the new application.
 

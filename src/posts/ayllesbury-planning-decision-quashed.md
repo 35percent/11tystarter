@@ -1,7 +1,7 @@
 ---
 title: What next after High Court overturns Aylesbury planning decision?
 description: Amendment to outline planning permission quashed
-date: 2024-01-20T11:51:16.914Z
+date: 2024-01-24T13:25:34.078Z
 ---
 ### Amendment to outline planning permission quashed
 

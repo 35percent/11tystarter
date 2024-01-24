@@ -1,11 +1,10 @@
 ---
 title: What next after High Court overturns Aylesbury planning decision?
 description: Amendment to outline planning permission quashed
-date: 2024-01-24T13:25:34.078Z
+date: 2024-01-24
+image: img/graphic_23_ap_0062-decision_notice_-_vnmc_-_agree-3643926.pdf-google-chrome-24_01_2024-12_05_53.png
 ---
 ### Amendment to outline planning permission quashed
-
-![](img/graphic_23_ap_0062-decision_notice_-_vnmc_-_agree-3643926.pdf-google-chrome-24_01_2024-12_05_53.png)
 
 The legal challenge against the decision to amend the outline planning decision for the regeneration of the Aylesbury estate [has succeeded](https://caselaw.nationalarchives.gov.uk/ewhc/admin/2024/57).  The High Court quashed Southwark's decision in its judgement on the 17 January, after a [hearing last November](https://www.35percent.org/posts/aylesbury-estate-legal-challenge-goes-to-the-high-court/).
 
@@ -19,7 +18,7 @@ According to [the judgement](https://caselaw.nationalarchives.gov.uk/ewhc/admin/
 
 NHG took part in the case as an interested party.  They addressed the same legal point as Southwark, saying that it was inappropriate to apply the reasoning of a recent Supreme Court decision on similar issues (Hillside) to this case.  In relation to this, NHG emphasised the distinction between an outline permission and a detailed decision.  and that *'there is an obvious and inherent form of severability contemplated'* in an outline permission for a phased development. 
 
-![](img/aylesbury_demo_high_court_281123.png)
+![](https://35percent.org/img/aylesbury_demo_high_court_281123.png)
 
 ### The judgement
 

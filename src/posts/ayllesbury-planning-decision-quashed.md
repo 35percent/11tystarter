@@ -34,7 +34,7 @@ Southwark Council is a partner in the Aylesbury regeneration and has a [Developm
 
 The [High Court decision](https://caselaw.nationalarchives.gov.uk/ewhc/admin/2024/57) is likely to have serious consequences for [Phase 2B](https://moderngov.southwark.gov.uk/documents/s111184/SITE%20PLAN%20-%2022AP2226%20Aylesbury%20Estate.pdf),  which includes much of Wendover, plus Winslow, Ravenstone and Padbury blocks.  The 'drop-in' application was approved by the planning committee in 2018 on the understanding that the change to the outline permission would be made, protecting its validity.   . Now that change has been ruled unlawful will Southwark abandon the drop-in application? 
 
-Alexandra Goldenberg, solicitor at PILC (Public Interest Law Centre) told the Southwark News that: *“NHG will now have to revisit that application as this puts into question how the redevelopment will be brought forward and could lead to NHG having to submit an entirely new planning application.”* 
+After the decision, Alexandra Goldenberg, solicitor at [PILC (Public Interest Law Centre)](https://www.pilc.org.uk/), who represented Aysen, told the [Southwark News](https://southwarknews.co.uk/area/walworth/aylesbury-estate-resident-triumphs-in-high-court-battle-that-could-hinder-developers-plans-for-the-walworth-estate/) that: *“NHG will now have to revisit that application as this puts into question how the redevelopment will be brought forward and could lead to NHG having to submit an entirely new planning application.”* 
 
  Southwark also has the option of appealing against the decision.
 

@@ -28,7 +28,7 @@ reservations in any event about the legality of an amendment to a planning permi
 
 ### Why did Southwark agree to the 'drop-in' application?
 
-Southwark Council is a partner in the Aylesbury regeneration and has a [Development Partnership Agreement](https://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.pdf) with NHG.  NHG has the [Outline Planning Permission](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=4808&Ver=4) for the whole of the Aylesbury and the normal procedure would be for them to have submitted more detailed applications for each of the remaining phases.  Why did Southwark agree to NHG making a new and entirely different planning application for Phase 2B instead, outside of the limits of the OPP?  
+The High Court judgement raises serious questions about how the Aylesbury regeration is being taken forward.  Southwark Council is a partner in the Aylesbury regeneration and has a [Development Partnership Agreement](https://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.pdf) with NHG.  NHG has the [Outline Planning Permission](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=4808&Ver=4) for the whole of the Aylesbury and the normal procedure would be for them to have submitted more detailed applications for each of the remaining phases.  Why did Southwark agree to NHG making a new and entirely different planning application for Phase 2B instead, outside of the limits of the OPP?  
 
 ### What next for Phase 2B?
 

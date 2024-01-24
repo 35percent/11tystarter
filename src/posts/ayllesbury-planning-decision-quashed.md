@@ -28,11 +28,11 @@ reservations in any event about the legality of an amendment to a planning permi
 
 ### Why did Southwark agree to the 'drop-in' application?
 
-Southwark Council is a partner in the Aylesbury regeneration and has a [Development Partnership Agreement](https://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.pdf) with NHG.  NHG has the Outline Planning Permission for the whole of the Aylesbury and the normal procedure would be for them to have submitted more detailed applications for each of the remaining phases.  Why did Southwark agree to NHG making a new and entirely different planning application for Phase 2B instead, outside of the limits of the OPP?  
+Southwark Council is a partner in the Aylesbury regeneration and has a [Development Partnership Agreement](https://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.pdf) with NHG.  NHG has the [Outline Planning Permission](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=4808&Ver=4) for the whole of the Aylesbury and the normal procedure would be for them to have submitted more detailed applications for each of the remaining phases.  Why did Southwark agree to NHG making a new and entirely different planning application for Phase 2B instead, outside of the limits of the OPP?  
 
 ### What next for Phase 2B?
 
-The High Court decision is likely to have serious consequences for Phase 2B,  the latest of the estate's much delayed regeneration.  The 'drop-in' application was approved by the planning committee in 2018 on the understanding that the change to the outline permission would be made, protecting its validity.  Now that change has been ruled unlawful will Southwark abandon the drop-in application?  If they do what comes next?  Southwrk also has the option of appealing against the decision.
+The [High Court decision](https://caselaw.nationalarchives.gov.uk/ewhc/admin/2024/57) is likely to have serious consequences for Phase 2B,  which includes much of Wendover, plus Winslow, Ravenstone and Padbury blocks.  The 'drop-in' application was approved by the planning committee in 2018 on the understanding that the change to the outline permission would be made, protecting its validity.  Now that change has been ruled unlawful will Southwark abandon the drop-in application?  If they do what comes next?  Southwrk also has the option of appealing against the decision.
 
 ### What about the rest of the development?
 

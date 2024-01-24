@@ -19,6 +19,8 @@ According to the judgement, Southwark had argued that the outline permission was
 
 NHG took part in the case as an interested party.  They addressed the same legal point as Southwark, saying that it was inappropriate to apply the reasoning of a recent Supreme Court decision on similar issues (Hillside) to this case.  In relation to this, NHG emphasised the distinction between an outline permission and a detailed decision.  and that *'there is an obvious and inherent form of severability contemplated'* in an outline permission for a phased development. 
 
+
+
 ### The judgement
 
 The judge, the Hon. Mr Justice Holgate, [did not agree with Southwark and NHG](https://caselaw.nationalarchives.gov.uk/ewhc/admin/2024/57).  He said that the key question was what the outline permission actually meant (what he called the scope of its *'bundle of rights')* and how that meaning had been changed by adding of the word *'severable'* to the permission.  He ruled that this was a significant *'material'* change and should not have been made in the way that it was.  He therefore ordered that the decision to amend the outline planning decision, by adding the word *'severable'*, be quashed.

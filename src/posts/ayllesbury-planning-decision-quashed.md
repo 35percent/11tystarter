@@ -32,7 +32,7 @@ Southwark Council is a partner in the Aylesbury regeneration and has a Developme
 
 ### What next for Phase 2B?
 
-The High Court decision is likly to have serious consequences for Phase 2B,  the latest of the estate's much delayed regeneration.  The 'drop-in' application approved by planning committee in 2018 on the understanding that the change to the outline permission would be made, protecting its validity.  Now that change has been ruled ulawful will Southwark abandon the drop-in application?  If they do what comes next?
+The High Court decision is likely to have serious consequences for Phase 2B,  the latest of the estate's much delayed regeneration.  The 'drop-in' application was approved by the planning committee in 2018 on the understanding that the change to the outline permission would be made, protecting its validity.  Now that change has been ruled ulawful will Southwark abandon the drop-in application?  If they do what comes next?
 
 ### What about the rest of the development?
 

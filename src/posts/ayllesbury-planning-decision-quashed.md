@@ -36,7 +36,7 @@ The High Court decision is likely to have serious consequences for Phase 2B,  th
 
 ### What about the rest of the development?
 
-It also appears that nothing can happen on the remaing phases until Phase 2B is resolved.  In an illuminating passage of the judgement Southwark and NHG agree that Phase 2C, Phase 3 and Phase 4 can only proceed once Phase 2B is complete.  The redevelopment of the Aylesbury has been going for nearly 25 year and only a single phase has been completed.  How do Southwark and NHG intend to achieve the target date for full completion of 2035?
+It also appears that nothing can happen on the remaining phases until Phase 2B is resolved.  In an illuminating passage of the judgement Southwark and NHG agree that Phase 2C, Phase 3 and Phase 4 can only proceed once Phase 2B is complete.  The redevelopment of the Aylesbury has been going for nearly 25 year and only a single phase has been completed.  How do Southwark and NHG intend to achieve the target date for full completion of 2035?
 
 ### Southwark and NHG - authors of their own (and our) misfortune
 

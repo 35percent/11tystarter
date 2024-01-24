@@ -21,32 +21,24 @@ NHG took part in the case as an interested party.  They addressed the same legal
 
 The judge did not agree with Southwark and NHG.  He said that the key point was what the outline permission actually meant (what he called the scope of its *'bundle of rights')* and how had that meaning had been changed by adding of the word *'severable'* to the permission.  He ruled that this was a significant *'material'* change and should not have been made in the way that it was.  He therefore ordered that the decision to amend the outline planning decision, by adding the word *'severable'* be quashed.
 
-In reaching his decision the judge said *\- 'with respect'* - that Southwark and NHG's points about phasing and severability *'lacked coherence'.*  He showed particularly concern in his reasoning about how a severed planning permission might fall foul of time limits for implementation, if it were broken into parts.  
+In reaching his decision the judge said*, 'with respect'*, that Southwark and NHG's points about phasing and severability *'lacked coherence'.*  He showed particular concern in his reasoning about how a severed planning permission might fall foul of time limits for implementation, if it were broken into parts.  
 
-He also notes that there would have been be nothing to stop NHG from breaking a permission down further than just into phases, if the word *'severable'* was added to the permission; he says that *'I have strong
+He also notes that there would have been be nothing to stop NHG from breaking a permission down further than just into phases, if the word *'severable'* was added to the permission, saying that  *'I have strong
 reservations in any event about the legality of an amendment to a planning permission which simply inserts language as uncertain as the bare term “severable”. There was nothing to indicate the extent to which the OPP \[outline permission] was purportedly severed. For a largescale development it would have been possible to conceive of many different alternatives'.*
 
-of an  award of a new planning permission to Notting Hill Genesis for Phase 2B, which that to ....at a hearing in Nov (link).  The judge agreed, saying.......Aysen was represented by.....
+Aysen was represented by.....
 
-### Questions that need answering - i/ why did Southwark agree to the 'drop-in' application?
+### Why did Southwark agree to the 'drop-in' application?
 
-Southwark Council isn't just the local planning authority, with the power to approve or reject NHG and other developer's planning applications.  It is itself a partner in the Aylesbury regeneration and has a Development Partnership Agreement with NHG for this.  NHG has the Outline Planning Permission for the whole of the Aylesbury and the normal procedure would be for them to have submitted more detailed applications for each of the remaining phases.  Why did Southwark agree to NHG making a new and entirely different planning application for Phase 2B, instead, outside of the limits of the OPP?  Southwark and NHG (may) say that it is because would allow more homes to be built than the OPP, but if that is the case, where doe that leave the OPP? Is it of any use? 
+Southwark Council is a partner in the Aylesbury regeneration and has a Development Partnership Agreement with NHG.  NHG has the Outline Planning Permission for the whole of the Aylesbury and the normal procedure would be for them to have submitted more detailed applications for each of the remaining phases.  Why did Southwark agree to NHG making a new and entirely different planning application for Phase 2B instead, outside of the limits of the OPP?  
 
-### Questions that need answering - ii/ what next for Phase 2B?
+### What next for Phase 2B?
 
-it s hard to see how this decision will not have serious consequences for Phase 2B,  the latest phase of the estate's much delayed and troubled regeneration.  The NHG planning application for Phase 2B was approved by the planning committee in January 2023, on the understanding that another, entirely different planning permission, the outline planning permission (OPP), could still be used for the rest of the Aylesbury regeneration.  To ensure this Southwark and NHG proposed the change that the High Court has now  quashed. 
+The High Court decision is likly to have serious consequences for Phase 2B,  the latest of the estate's much delayed regeneration.  The 'drop-in' application approved by planning committee in 2018 on the understanding that the change to the outline permission would be made, protecting its validity.  Now that change has been ruled ulawful will Southwark abandon the drop-in application?  If they do what comes next?
 
-The change was small, but significant.  It said that the OPP was 'severable', and would thus allow another appliaction so-called 'drop-in' application, to be considered for Phase 2B, while keeping the OPP for the rest of the regeneration.  The High Court ruled that the change itself was unlawful, which begs the question of what becomes of the planning permission approved by the planning committee in January 2023.  According to the High Court judgement the decision notice for this permission has not been issued (presumably because Southwark were awaiting the outcome of the High Court challenge).  Will Southwark and NHG now press on with the January 2023 permission or abandon it?  If they press on , will they still be able to use the OPP for the rest of the estate regeneration? If they abandon the permission, what will they do instead on Phase 2B?
+### What about the rest of the development?
 
-do not puts the fate of the 'drop-in' application into doubt.
-
-It also appears as if nothing else can be built under the OPP, until Phase 2B is completed and as required by the OPP.
-
-Judgement Para 80 “the parties agree that the OPP requires that Phase 2B has to be built before subsequent phases (i.e. Phase 3 and Phase 4) and that it is built in accordance with the OPP.”
-
-### Questions that need answering - iii/ what about the rest of the development?
-
-It also appears that nothing can happen on the remaing phases (Phase 2C, Phase 3 and Phase 4) until Phase 2B is resolved.  In an illuminating passage of the judgement Southwark and NHG agree that Phase 2C, Phase 3 and Phase 4 can only proceed once Phase 2B  DPA - delayed (FOI); next Future of the Aylesbury report - delayed (screenshot); will OPP be built out by NHG?
+It also appears that nothing can happen on the remaing phases until Phase 2B is resolved.  In an illuminating passage of the judgement Southwark and NHG agree that Phase 2C, Phase 3 and Phase 4 can only proceed once Phase 2B is complete.  The redevelopment of the Aylesbury has been going for nearly 25 year and only a single phase has been completed.  How do Southwark and NHG intend to achieve the target date for full completion of 2035?
 
 ### Southwark and NHG - authors of their own (and our) misfortune
 

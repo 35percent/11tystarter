@@ -19,7 +19,7 @@ NHG took part in the case as an interested party.  They addressed the same legal
 
 ### The judgement
 
-The judge did not agree with Southwark and NHG.  He said that the key point was what the outline permission actually meant (what he called the scope of its *'bundle of rights')* and how had that meaning had been changed by adding of the word *'severable'* to the permission.  He ruled that this was a significant *'material'* change and should not have been made in the way that it was.  He therefore ordered that the decision to amend the outline planning decision, by adding the word *'severable'* be quashed.
+The judge [did not agree with Southwark and NHG](https://caselaw.nationalarchives.gov.uk/ewhc/admin/2024/57).  He said that the key point was what the outline permission actually meant (what he called the scope of its *'bundle of rights')* and how had that meaning had been changed by adding of the word *'severable'* to the permission.  He ruled that this was a significant *'material'* change and should not have been made in the way that it was.  He therefore ordered that the decision to amend the outline planning decision, by adding the word *'severable'* be quashed.
 
 In reaching his decision the judge said*, 'with respect'*, that Southwark and NHG's points about phasing and severability *'lacked coherence'.*  He showed particular concern in his reasoning about how a severed planning permission might fall foul of time limits for implementation, if it were broken into parts.  
 
@@ -28,7 +28,7 @@ reservations in any event about the legality of an amendment to a planning permi
 
 ### Why did Southwark agree to the 'drop-in' application?
 
-Southwark Council is a partner in the Aylesbury regeneration and has a Development Partnership Agreement with NHG.  NHG has the Outline Planning Permission for the whole of the Aylesbury and the normal procedure would be for them to have submitted more detailed applications for each of the remaining phases.  Why did Southwark agree to NHG making a new and entirely different planning application for Phase 2B instead, outside of the limits of the OPP?  
+Southwark Council is a partner in the Aylesbury regeneration and has a [Development Partnership Agreement](https://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.pdf) with NHG.  NHG has the Outline Planning Permission for the whole of the Aylesbury and the normal procedure would be for them to have submitted more detailed applications for each of the remaining phases.  Why did Southwark agree to NHG making a new and entirely different planning application for Phase 2B instead, outside of the limits of the OPP?  
 
 ### What next for Phase 2B?
 

@@ -32,7 +32,7 @@ Southwark Council is a partner in the Aylesbury regeneration and has a Developme
 
 ### What next for Phase 2B?
 
-The High Court decision is likely to have serious consequences for Phase 2B,  the latest of the estate's much delayed regeneration.  The 'drop-in' application was approved by the planning committee in 2018 on the understanding that the change to the outline permission would be made, protecting its validity.  Now that change has been ruled unlawful will Southwark abandon the drop-in application?  If they do what comes next?
+The High Court decision is likely to have serious consequences for Phase 2B,  the latest of the estate's much delayed regeneration.  The 'drop-in' application was approved by the planning committee in 2018 on the understanding that the change to the outline permission would be made, protecting its validity.  Now that change has been ruled unlawful will Southwark abandon the drop-in application?  If they do what comes next?  Southwrk also has the option of appealing against the decision.
 
 ### What about the rest of the development?
 
@@ -44,4 +44,4 @@ This is not a case where Southwark have been unwittingly tripped up by some lega
 
 Aysen was represented for her case by Jenny Wigley KC and Alex Shattock, both of Landmark Chambers, instructed by PILC (Public Interest Law Centre).  Southwark was represented by Melissa Murphy KC and  Heather Sargent, both of Landmark Chambers.  NHG was represented by James Strachan KC of 39 Essex Chambers, instructed by Winckworth Sherwood LLP.
 
-You can read more about the decision in [PILC's blog](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/), the [Guardian](https://www.theguardian.com/society/2023/nov/26/aylesbury-estate-resident-aysen-dennis-continues-regeneration-fight-southwark-council) and the [Big Issue](https://www.bigissue.com/news/housing/aylesbury-estate-lonon-aysen-dennis-high-court-case-verdict/),
+You can read more about the decision in [PILC's blog](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/), [Landmark Chambers](https://www.landmarkchambers.co.uk/news-and-cases/planning-court-hands-down-judgment-in-important-case-for-drop-in-planning-permissions), , the [Guardian](https://www.theguardian.com/society/2023/nov/26/aylesbury-estate-resident-aysen-dennis-continues-regeneration-fight-southwark-council) and the [Big Issue](https://www.bigissue.com/news/housing/aylesbury-estate-lonon-aysen-dennis-high-court-case-verdict/).  Some planning lawyers views of the wider implications can be found [here](https://www.dacbeachcroft.com/en/gb/articles/2024/january/hillside-and-the-limitations-of-s96a/), [here ](https://www.localgovernmentlawyer.co.uk/planning/401-planning-news/56165-non-material-amendment-that-allowed-drop-in-phases-in-aylesbury-estate-regeneration-was-ultra-vires-high-court-rules) and here

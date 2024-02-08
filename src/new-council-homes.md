@@ -69,7 +69,7 @@ In any event, even if we count these and all the hostel units and purchased S106
             },
             xAxis: {
                 categories: ['1994', '1995', '1996', '1997', '1998', '1999',
-                    '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021']
+                    '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023']
             },
             yAxis: {
                 title: {
@@ -92,14 +92,14 @@ In any event, even if we count these and all the hostel units and purchased S106
             },
             series: [{
                 name: 'Southwark',
-                data: [55803, 55162, 54439, 53363, 52448, 51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553, 38489, 38104, 38183, 37962]
+                data: [55803, 55162, 54439, 53363, 52448, 51706, 50903, 49875, 48052, 46887, 45346, 43885, 42275, 41873, 41287, 40618, 40120, 39845, 39781, 38578, 39029, 38687, 38522, 38553, 38489, 38104, 38183, 37962, 37683, 37916]
             }
 	]
         });
 
 </script>
 
-The figures show that Southwark has lost over 18k council homes, descending from 55k council homes in 1994 to 37k in 2021. Just how many of the these are down to [estate demolitions](https://35percent.org/estates/) and [sell offs](https://35percent.org/the-southwark-clearances/#void-disposal-policy) versus Right to Buy sales is difficult to say precisely.
+The figures show that Southwark has lost over 18k council homes, descending from 55k council homes in 1994 to just under 37k in 2023. Just how many of the these are down to [estate demolitions](https://35percent.org/estates/) and [sell offs](https://35percent.org/the-southwark-clearances/#void-disposal-policy) versus Right to Buy sales is difficult to say precisely.
 
 The best estimate comes from the Council's [2020 Key Housing Stats report](https://moderngov.southwark.gov.uk/documents/s92383/Appendix%20D%20Southwark%20Key%20Housing%20Stats%202020.pdf) which puts the total number of Right to Buy leaseholders at 13,777. From this we can deduce that around 5 thousand council homes have been lost through demolitions and sell offs. Note that around 2,000 council homes on the Aylesbury estate and 500 homes on the Tustin estate remain earmarked for demoltion.
 
@@ -109,7 +109,7 @@ Southwark's 2012 Housing commission report provides a sense check on this figure
 
 ![](https://35percent.org/img/lubaextract.png)
 
-For those wondering whether the current administration is genuinely committed to council housing Maydew House provides a salutory lesson. This 26-storey block was 'decanted' of its tenants and leaseholders [using compulsory purchase powers](https://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=25530) in 2012 and has now stood empty for over a decade.
+For those wondering whether the current administration is genuinely committed to council housing Maydew House provides a salutory lesson. This 26-storey block was 'decanted' of its tenants and leaseholders [using compulsory purchase powers](https://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?AIId=25530) in 2012 and stood empty for over a decade before being [condemned to demolition](https://southwarknews.co.uk/area/southwark/maydew-house-report-reveals-15-million-spent-to-date-but-council-still-set-to-demolish/) in 2023.
 
 ![](https://35percent.org/img/maydewmd.jpg)
 

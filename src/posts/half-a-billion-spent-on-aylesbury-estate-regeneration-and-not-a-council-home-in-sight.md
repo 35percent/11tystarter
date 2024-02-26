@@ -140,3 +140,5 @@ There is also the £35m cost to the Council of building the replacement library 
 Note also that Southwark will receive a Land payment from Notting Hill Genesis amounting to £5.7m.
 
 Taking this into account a total of £456.5m of public funds has been spent just in order to complete the first of four phases of the estate's redevelopment.
+
+[Room 151](https://www.room151.co.uk/treasury/hra-deficit-of-13-8m-at-southwark-endangers-ambitious-council-housing-plans/)

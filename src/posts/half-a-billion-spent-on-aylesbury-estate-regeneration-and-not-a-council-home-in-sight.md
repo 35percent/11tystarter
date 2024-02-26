@@ -129,6 +129,8 @@ The London Borough of Wandsworth also has an estate made with the same construct
 
 The scheme was subsequently allocated [46m from the government’s Estate Regeneration Fund](https://moderngov.southwark.gov.uk/documents/s52526/Report%20Aylesbury%20Regeneration%20Update.pdf) and £27m from GLA funding to date (see source [here](https://moderngov.southwark.gov.uk/documents/s52526/Report%20Aylesbury%20Regeneration%20Update.pdf)), plus £13m of HCA funding, which helped build the completed phase 1a of the scheme (see source on page 20 of the [this document](https://35percent.org/img/Estate-Regen-Sourcebook-Web-Version.pdf)).
 
+[Architects Journal](https://www.architectsjournal.co.uk/news/government-pledges-extra-32m-for-estate-regeneration) [Estate Regeneration Programme](https://www.gov.uk/government/publications/estate-regeneration-programme#full-publication-update-history)
+
 In addition, the Council has spent a considerable amount of its own HRA account funds on the scheme. This [Jan 2022 Cabinet report](https://moderngov.southwark.gov.uk/documents/s104415/Report%20Future%20of%20Aylesbury%20Estate.pdf) shows that £65.42m of HRA funds have been spent to date(para 18) and releases a further £29.8m for ongoing acquisitions of leaseholders (para 43).
 
 This comes after the Council's [decision](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/) in 2020 to spend £193m just in order to complete the first phase of the scheme alone, after its development partner said it wouldn't proceed on the agreed basis.

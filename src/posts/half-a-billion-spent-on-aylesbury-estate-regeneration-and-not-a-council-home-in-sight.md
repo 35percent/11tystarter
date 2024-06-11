@@ -231,6 +231,46 @@ Ellison House, on Albany Road, a Probation Service hostel is excluded because it
 
 Council notes that the 75% of Right to Buy receipts transferred to Treasury can be reduced by 35% of admin costs of buy-back, if it is negotiated rather than secured by CPO.
 
+Mar 2010	The NDC Board and the Steering Group are wound-up and a freshly constituted New Aylesbury Trust replaces all three bodies. Trustees include residents and councillors. It will focus on all housing related matters, non-housing services (health, education, community safety) and seek additional funding for these activities. (013e).
+
+June/July 2010	The Council PFI bid is changed after a reduction in available funding, following a government spending review.  This is because of a  reduction in available HCA funding (following a government spending review),  and following a review of financing and risks, a clarification of the project timescales, consideration of the PFI’s financial/technical requirements and delays in the HCA procurement process.
+
+The Council considered that the assumed cross subsidy of £20m, underwritten by the council, is unlikely to be achieved, because of the decline in the property market.  The HCA time limits would also require the PFI scheme to begin before the end of 2014.
+
+These risks could leave the Council with a deficit on the remaining Phase 1 sites.  This, combined with the costs of leaseholder buybacks for Phases 2 and 3, would make the programme unaffordable.
+
+These issues have delayed the marketing and delivery of the Phase 1 sites, which are needed to decant existing residents displaced from Phases 2 & 3.  Also, the Council is advised that only 200 homes per annum should be put onto the open market.  The convergence of Phase 1 with Phases 2 and 3 would mean that these numbers are greatly exceeded, with a consequent likely loss of developer interest in the scheme.
+
+The estimated acquisition and demolition costs for the sites of the original bid is £45.73m and of the revised bid is £37.10m.  The cost of leaseholder buy-backs is £23.50m for the original bid and £12.50m for the revised bid.  Estimated demolition costs remain  £11.20m. Estimated maintenance costs increase from £11.03m to £13.40m.
+
+The size of the bid is reduced. Phase 2 (Sites 4a, 4b, 5) and Site 6 are removed, while Sites 1b and 1c are added.  The PFI bid is now for Sites 1b, 1c, 8 and 9.  The changes reduce the number of current homes within the PFI-funded sites from 1087 dwellings to 875.The changes should secure funding of £181m for 360 new social homes (‘will deliver a minimum of 360 new homes funded under the PFI …\[and] can be contained within the HCA’s £181m affordability envelope’). (NB An average cost of £502.7k per unit).
+
+The changes remove Sites 1b and 1c from the procurement process that depends on HCA funding. Alternative funding will have to be found for Phase 2 and Site 6.
+
+The rehousing of Sites 8 and 9 comes forward from 2016 to 2012.  Sites 8 and 9 consist of Taplow (215 dwellings), Northchurch (82 dwellings) and East St (12 dwellings) – totalling 309 dwellings.  Alternative premises will also have to be found for the Taplow Neighbourhood Office, the Medical Centre, the Heath Centre and the Pharmacy on these sites.
+
+The changes reduce the total housing funded from 1094 units to 943.  The sites for the original bid had 1087 dwellings and for the revised bid 875.
+
+A saving of £3.07m on maintenance costs, with the loss of council homes, would be reduced to £70k under the revised PFI bid.
+
+The Council’s Housing Investment Programme (HIP) will meet £28m costs not funded by the PFI - leasehold buy-backs (£12.5m); demolition £11.2m); CPO enquiry costs (£333K); procurement costs (£4m).
+
+A Council report shows that the original bid would have led to a reduction of 509 social rented homes for the funded sites (from 919 to 410 dwellings).  The revised bid would have a loss of 425 social rented dwellings (from 785 to 360 dwellings).  The proposed intermediate housing was reduced from 136 to 131 dwellings and the proposed free-market housing was reduced from 548 to 452 homes.
+
+The PFI funding is for the social rented housing, to be completed by 2019.  The affordable intermediate and free market housing will be funded by the developer, in a timescale determined by the market, likely to be 2014-2020.
+
+There will be a likely cost of around £1.25m each year to 2014/15, for essential repairs, securing vacated dwellings, rehousing support and site security.  Homeloss and disturbance payments related to the PFI will be around £3.4m. These costs will be met from the HRA and existing budgets. (NB totals £9.65m).
+
+The HRA will also make a contribution of £171,000 per annum (April 2010 prices) to the unitary charge, for the 30 years of the contract, not starting  before 2016.
+
+The infrastructure of the PFI sites will be funded by a combination of charges levied on developer, via the PFI credits and via other sources that have yet to be identified.
+
+A financial assessment indicates a deficit of £4.7m in the PFI option for which there are no funds. This may be reduced by improved market factors eg higher sales prices for free-market homes.  Otherwise the deficit will need to be met by the Council or external funding sources.
+
+The Council would own the PFI funded homes, but they would be designed, built, managed and maintained by a developer, under a 30-year contract.  The council would pay a ‘unitary charge’ to cover the supplier’s costs. This charge   will be funded from PFI credits, HRA management and maintenance allowances, and revenue contributions from council resources.  After 30 years the Council can either manage the social units itself, or appoint new housing management or reappoint the existing housing management.
+
+The Council chooses a so-called HRA PFI over a non-HRA PFI option.  A non-HRA PFI could be cheaper (because homeownership is retained by the developer) and it could provide 35 more social rented homes. However, the Council chooses a HRA PFI because of its policy of building more council homes and because of a risk to its general fund, which would have to be used, instead of the HRA, to meet all costs.  Under the HRA PFI social rented homes would be let as council homes, with target rents achieved over four years.  Under a non-HRA PFI the social rented homes would most likely be let by a housing association, with target rents set immediately. (NB Target rents are a higher social rent, designed to bring council rents and housing association rents into line). (013f, 014) 
+
 
 
 

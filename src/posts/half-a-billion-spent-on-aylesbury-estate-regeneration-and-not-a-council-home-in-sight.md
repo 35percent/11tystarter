@@ -142,12 +142,22 @@ June/July 2008	The Council applies to the Secretary of State, Department of Comm
 
 Oct 2008	The Council submits an expression of Interest for Housing Revenue Account (HRA) Private Finance Initative (PFI) credits to the Department for Communities and Local Government in partial support of delivering Aylesbury phases 2 and 3. 	(NB PFI projects are public-private partnerships where the private sector is responsible for financing, designing, building and operating an asset. PFI credits provide central government funding to local authorities for such projects.  PFI credits support capital costs and are paid as a series of grants.  PFI credits do not fund the buy backs of ex-council properties.  Local authorities must provide contributions to the scheme eg through revenue funding;  cross subsidisation from new build for sale.  The typical PFI contract is 30 years.  Tenants should remain tenants of the local authority throughout the course of the PFI contract. There will be no change in their status or their rights as a result of the PFI project and rents for dwellings included in the scheme to be set in accordance with the authority’s general approach to rent-setting and within the Office’s rent restructuring framework - 
 
-https://assets.publishing.service.gov.uk/media/5a79635aed915d042206807e/142805.pdf)
-
-
 2008-2009	The Aylesbury Area Action Plan (AAAP) is prepared. It is approved by a government inspector, after four stages of consultation and an Examination in Public.
 
 The AAAP is ‘a holistic plan for the regeneration of the estate and surrounding area’. The AAAP outlined what would be built and included strategies for employment, health, transport, open spaces as well as a business and delivery plan.  The regeneration will provide 4,200 new homes over four phases.  The AAAP identifies health, employment, retail and a range of more general uses including assembly, youth etc. The capital programme is set at £1.2bn, with a funding shortfall of £169m.
+
+Jan 2009	         £18m of NDC capital funding is to be used for buy-outs of leaseholders living on Site 10 (the Amersham site) and improvements to Burgess Park.  The Council will developer the site, to include community facilities to be held in trust by Creation Trust, and give revenue support to Creation.
+
+The NDC scheme is due to end March 2010 and has £14 -£18m investment capital.  £7m allocated for current year (2008/09) for leaseholder buy-backs will be lost if unspent with further potential loss of £7-11m NDC capital in next year (2009/10).
+
+The Council needs adequate finance for the early acquisitions of the 500 or so leaseholder’ properties. The total cost of these will be around £130m.  It is agreed with NDC that £14m of NDC funds can be used to buy-back leases, up to 2011 and £4m can be used for improvements to Burgess Park.  This will be match funding for a bid of £2m to the Mayor’s Top Priority Parks Award.  Money which is not spent on Burgess Park can be spent on leaseholder buybacks.
+
+In return the Council will bring forward the early development of the Amersham site, starting in 2010, finishing in 2013.  This will provide 80-100 homes, mainly social rented and essential social and community facilities (including replacement doctor’s surgery, and pharmacy) to support the residents during the redevelopment process.  These facilities and others on Aylesbury sites will be transferred to the Trust at let on a long-lease at a peppercorn rent.  The Trust will have first refusal for the lease of 2500m2 of general use community space.
+The Council will also provide revenue support to the NDC successor vehicle, Creation Trust of £1.25m over the five years from 2010/11 to 2014/15.  NDC Board asks for details of off-site housing supply needed to rehouse displaced residents of 300-313 Missenden.
+
+The cost of community facilities, that are to be transferred to Creation, should be met by a tariff for developers, but it is not certain that this will be sufficient to meet all the regeneration’s requirements.
+
+The Aylesbury Area Action Plan approved by the Council’s Executive and Planning Committee.  The Finance Director says ‘This report presents Aylesbury Area Action Plan - Publication version. Delivery of the plan is anticipated to be in four main phases. The funding of Phase 1a has already been agreed. Funding of further phases, including a public sector commitment of around £299m is being sought, as shown in paragraph 33 of this report and in more detail in section 7 of the AAP. The Finance Director considers that securing funding for each of the further stages of the Aylesbury programme will continue to be challenging. No financial commitment will be entered into until the necessary funding for that element has been secured.’
 
 
 

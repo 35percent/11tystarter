@@ -113,6 +113,10 @@ A Steering Group of councillors, TRA and NDC representatives is set up. (013e)
 
 Dec 2005	Walworth Community Council considers outline planning application 05-CO-0161 for the south-west corner, now for 125 new dwellings and the new day centre, in advance of planning committee meeting in 2006.
 
+Jan 2006	Planning permission for 05-CO-0161 (south-west corner) is granted.  This will be the first part of Phase 1, Site 1a.
+
+March 2006	Initial demolition notices served on all Phase 1 properties on March 31 2006; also suspends existing and future Right-to- Buy applications for a period of 5 years.  	Phase 1 properties are 1-59 Wolverton on East St, on the north of the estate; 42-256 Bradenham, 1- 172 Chiltern, 1-149 Chartridge, and 1-28 Arklow, all on the remainder of the south-west corner, and 300-313 Missenden (the Amersham site), in the centre of the estate, on Thurland Rd.
+
 
 
 

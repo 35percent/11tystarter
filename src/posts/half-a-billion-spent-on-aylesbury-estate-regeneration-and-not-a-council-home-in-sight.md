@@ -5,7 +5,6 @@ date: 2022-05-24T10:38:48.648Z
 ---
 ##### The Aylesbury regeneration – 25  years old and counting……
 
-
 In 1997 Tony Blair chose the [Aylesbury estate](https://www.35percent.org/aylesbury-estate/) as the venue for his [first speech as prime minister](http://www.independent.co.uk/news/blairs-pledge-to-the-dark-estates-1253883.html).  It was a speech of [renewal and hope](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml), vowing to 'learn from the mistakes of the past' and replace dogma with pragmatism and common sense.  New Labour's '[Urban Task Force](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance)' duly promised an *'urban renaissance'* and in 1999 the Aylesbury was included in the [New Deal for Local Communities](https://en.wikipedia.org/wiki/New_Deal_for_Communities) (NDC) regeneration programme.
 Tony Blair departed as prime minister in 2010, but the Aylesbury regeneration is still with us, just nearing the finish of the first phase of its four-phase programme, twenty-five years after it began.  The completion date for whole redevelopment has stretched from 2027 to 2037 (link), but the rate of progress so far makes that date very unlikely.
 
@@ -15,9 +14,7 @@ The 1999 New Deal for Communities (NDC) partnership secured [£52m government fu
 
 After this, in 2002, Southwark decided on a [retention and  refurbishment](<https://moderngov.southwark.gov.uk/Data/Executive/20050927/Agenda/Item 07 - The AylesburyEstate Revised Strategy - Annex A.pdf>) of the estate.  In 2005 Southwark estimated that this would have cost between [£315m and £350m](<https://moderngov.southwark.gov.uk/Data/Executive/20050927/Agenda/Item 07 - The AylesburyEstate Revised Strategy - Annex A.pdf>), with funding options for this coming up short by a least £93m.  Another £50m would be needed for some offsite relocation, but with funding identified. 
 
-
 Southwark instead choose to pursue the *‘redevelopment’* option, to provide 2,288 new social housing units and 2,603 units for sale, almost doubling the number of homes on the estate footprint.  The land would be transferred to housing associations ‘or other partners at current land values’ and after construction costs, a 15% developer profit margin and £16m management costs the *‘development would be broadly cost neutral’*.  The finance director noted cautiously *‘….it is very difficult to assess the full financial implications of the scheme….. Ultimately the financial implications will be driven principally by external funding from Government and other sources’*. 
-
 
 By the time of the time of the 2010 [Aylesbury Area Action Plan](https://www.southwark.gov.uk/assets/attach/12791/EIP32-Aylesbury-AAP-2010-.pdf) (AAAP) the cost estimate for the regeneration [stood at £1.2bn](<https://moderngov.southwark.gov.uk/documents/s6720/Adoption of Local Development Document Aylesbury Area Action Plan report.pdf>), with an identified short fall of £169m.  The money would still be a combination of public and private sector funding, with the AAAP noting ‘ The success of the scheme requires the private sector to commit to significant levels of borrowing and investment’.
 
@@ -95,6 +92,32 @@ The Council considers that the regeneration will ultimately lead to higher prope
 Dec 2009          The Council Executive recommended the AAAP to the Council Assembly.  A proposal by a deputation to the Executive, that the wording of the the AAAP be changed to protect Burgess Park was accepted.  A proposal opposing high-rise tower blocks along the Albany Road and a proposal to delay AAAP for further data on carbon emissions were both rejected.  The Council accepted that carbon data did not include embodied carbon, but the Inspector considered that the figures were still reliable.  The Council considered that the environmental benefits of development outweighed the benefits of retaining the present buildings.  It was also argued that the extension to the Aylesbury of the proposed Multi Utility Services Company (MUSCo), which was to be part of the Elephant and Castle regeneration, would make development carbon negative).
 
 Jan 2010 - The Council Assembly accepts Executives's AAAP recommendation.  AAAP is published. 
+
+
+
+1999	New Deal for Communites (NDC) award. £52m (later £56m) for ten years, with expectation of further £400m as part of stock transfer, for comprehensive demolition/redevelopment.
+
+Dec 2001	A stock transfer to Faraday Housing Association rejected by residents, by ballot (73% against, 73% turn-out) (0001a)
+
+2002	Service consultants Capita engaged to ‘get NDC programme back on track and provided strategic direction’.  (1999 NDC award is £56.2m according to 2010 leaflet, with £36m for physical renewal and £20m for a social programme) (012a).
+
+Lord Adebowale is appointed the chair of NDC Board (0001).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 £456m of public money has been spent on the Aylesbury estate regeneration as the first of the new council homes are completed.[^1]
 

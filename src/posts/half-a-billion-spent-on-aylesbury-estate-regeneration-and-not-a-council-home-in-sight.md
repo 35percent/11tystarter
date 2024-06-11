@@ -25,11 +25,7 @@ The undisclosed cost the new resource centre is be funded from the Health and so
 
 ### Background - timeline
 
-
-
-
-
-### Background - timeline
+1997        Election of Blair government.
 
 1999	New Deal for Communites (NDC) award. £52m (later £56m) for ten years, with expectation of further £400m as part of stock transfer, for comprehensive demolition/redevelopment.
 

@@ -159,6 +159,18 @@ The cost of community facilities, that are to be transferred to Creation, should
 
 The Aylesbury Area Action Plan approved by the Council’s Executive and Planning Committee.  The Finance Director says ‘This report presents Aylesbury Area Action Plan - Publication version. Delivery of the plan is anticipated to be in four main phases. The funding of Phase 1a has already been agreed. Funding of further phases, including a public sector commitment of around £299m is being sought, as shown in paragraph 33 of this report and in more detail in section 7 of the AAP. The Finance Director considers that securing funding for each of the further stages of the Aylesbury programme will continue to be challenging. No financial commitment will be entered into until the necessary funding for that element has been secured.’
 
+Mar 2009	Building work begins on Site 1a.
+
+July 2009	The Council is invited to submit an outline business case (OBC) after a successful application for Private Finance Initiative (PFI) funding for Phases 2 and 3 (Sites 4a, 4b, 5, 6, 8, 9). This scheme to be considered in more detail in a separate report to the October 20 Executive.   Homes and Communities Agency (HCA) funding of £13m for Phase 1a confirmed to Executive committee.
+
+Sept 2009	AAAP Examination in Public (EiP), 2/3 Sept, before government inspector.
+
+Oct 2009	The Council, working with the Homes and Communities Agency (HCA), begins the search for the development and housing association partners the for remainder of Phase 1, the first of four phases.  It also approves the start of the phased re-housing of Phase 1 residents, to allow demolition of their homes. 639 homes will be demolished and replaced by 1,159 new homes (plus the 260 new homes on Site 1a). The blocks to be demolished are 1-59 Wolverton on East St, on the north of the estate; 42-256 Bradenham, 1- 172 Chiltern, 1-149 Chartridge, and 1-28 Arklow, all on the remainder of the south-west corner, and 300-313 Missenden (the Amersham site), in the centre of the estate, on Thurland Rd.
+
+Residents on Phase 1 will be rehoused between 2010 and 2012 with building work to start in 2011 and finish by 2016.  All estate residents will be rehoused by 2023.  All four phases will be completed by 2027.
+
+The Council states that lettings of council tenancies on Phase 1 have already been stopped and will soon stop for Phase 2.
+
 
 
 

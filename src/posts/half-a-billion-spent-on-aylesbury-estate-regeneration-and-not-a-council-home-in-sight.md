@@ -134,8 +134,13 @@ Nov 2006	The Council approves procuring a Registered Social Landlord (housing as
 
 Mar 2007	The New Aylesbury Trust (Creation Trust) is set up with the  key aims of engaging the community in the regeneration programme and promoting skills, training, health and wellbeing (004a).
 
-
 June 2007	The planning committee approves outline planning application 07-CO-0046, for the south-west corner (Site 1a).  This now supercedes planning permission 05-CO-0161.  It increases the homes in Site to 260 units.  This entailed the demolition of 1-41 Bradenham, 1-12 Red Lion Close and commercial units on Westmoreland Rd. All 53 demolished social rented units are to be re-provided. Of the 207 additional units, 37.7% will be affordable, of which 62.8% will be social rented and 37.2% to be intermediate, by habitable rooms. Overall there will be 34.6% social rented, 11.1% intermediate and 54.2% market.  This equates to 114 private homes, 90 social rent units and 29 inter units. 90% of the homes will be 1/2 bed.
+
+Jan 2008	The L&Q housing association is chosen as the developer of Site 1a.  The Council will sell the land to L&Q on a 130 year lease for an undisclosed amount. The affordable housing ‘will reflect the generous space standards of the existing estate’.  (A FOI request of 2023 revealed that the land was sold for £3m, against a valuation of £9.8m).
+
+June/July 2008	The Council applies to the Secretary of State, Department of Communities and Local Government for consent to sell the Phase 1a land to L&Q at less than open market price. L&Q is to add an undisclosed ‘added value’ contribution for ‘social infrastructure’ (eg employment) and will meet higher than minimum design, build and space standards.  The undisclosed cost of building the ARC and the cost of acquiring the twelve residential and six commercial leaseholds will be met by the Council.  Social rent tenancies will ‘be a minimum of the council’s existing tenancy conditions’, with the right to acquire. 
+
+
 
 
 

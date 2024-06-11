@@ -183,6 +183,16 @@ The Council believes that ‘this approach will also enable the council to respo
 
 The Council rules out a land sale onto the open market.  It notes the significant cost of achieving vacant possession because of the high number of leaseholders and resident’ rehousing requirements.  The requirement to provide 50% affordable housing would also be unattractive to developers.  Property values were low and unlikely to recover soon; valuations of properties on the Amersham site have produced negative land values.  A partnership with a housing association or developer would more likely attract greater social housing grant.
 
+The Council intends to secure a share of the rise in land value brought about by the regeneration by provisions in the Development Agreements with housing association/developer partners.
+
+Funding for the regeneration will come from private and public sources.  It will be different for the different phases.  For Phase 1 it will come through forming a partnership with a housing association/developer, chosen by competition, with the HCA, according to EU rules.  The Council is in ‘dialogue’ with the HCA to secure Social Housing Grant, which it is assumed will meet any land value deficit.   For Phases 2 and 3 funding will come through a ‘HRA \[Housing Revenue Account] PFI \[Private Finance Initiative] mechanism’.  There were no proposals for Phase 4.
+
+The Finance Director warns that that this route is heavily reliant on HCA commitment to provide liquidity and that any alterations in levels of proposed grant funding for the phase should be carefully scrutinised in order to avoid placing the council in a financially onerous position, for example half way through a build out of a site’.
+Capital costs of site preparation (for Phase 1?) i.e. for leasehold acquisitions, re-housing and infrastructure can be funded through London Housing Board, NDC allocation, recycled Social Housing Grant and LBS capital allocation.
+Homeloss and disturbance payment to tenants will cost £2.611m, to be met by efficiency savings and from the HRA. Other costs to be met from efficiencies and HRA will total £10.113m.
+
+Project team costs are estimated at £2.3m, to be funded through the Aylesbury reserve.	
+
 
 
 

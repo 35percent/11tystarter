@@ -128,7 +128,14 @@ The Council notes that ‘unless the policy for rehousing tenants/homeowners on 
 	Leaseholders will receive compensation for the loss of their homes.  This should be the market value of the home plus 10%, plus disturbance and legal costs.   However, the Council acknowledges that ‘it is considered highly likely that the value of new build properties on the Aylesbury Estate will be significantly in excess of the market value of the leaseholders existing property’.  Four other options will be available to suitably qualified leaseholders – i/part-buy, part-rent shared ownership ii/ part-buy, no rent, with outstanding amount paid on sale of home iii/ a swap, for another council property of equivalent value iv/ becoming a council tenant. The options are conditional on leaseholders’ differing financial circumstances.
 
 There will be negotiations between the Council and leaseholders so that all options can be explored. The Council will also seek Compulsory Purchase Order (CPO) powers ‘at the appropriate time’ for compulsory acquisitions.
-The Council agrees a Medium Term Financial Strategy, including a 3-year £455m capital programme and the aim of securing ‘capital receipts from regeneration projects to support the Council’s future capital programme’.  The Strategy notes a Regeneration & Development fund that can be released from Corporate Reserves including that of the Aylesbury estate. 
+The Council agrees a Medium Term Financial Strategy, including a 3-year £455m capital programme and the aim of securing ‘capital receipts from regeneration projects to support the Council’s future capital programme’.  The Strategy notes a Regeneration & Development fund that can be released from Corporate Reserves including that of the Aylesbury estate.
+
+Nov 2006	The Council approves procuring a Registered Social Landlord (housing association) or private developer for south-west corner site, also known as Phase 1a.
+
+Mar 2007	The New Aylesbury Trust (Creation Trust) is set up with the  key aims of engaging the community in the regeneration programme and promoting skills, training, health and wellbeing (004a).
+
+
+June 2007	The planning committee approves outline planning application 07-CO-0046, for the south-west corner (Site 1a).  This now supercedes planning permission 05-CO-0161.  It increases the homes in Site to 260 units.  This entailed the demolition of 1-41 Bradenham, 1-12 Red Lion Close and commercial units on Westmoreland Rd. All 53 demolished social rented units are to be re-provided. Of the 207 additional units, 37.7% will be affordable, of which 62.8% will be social rented and 37.2% to be intermediate, by habitable rooms. Overall there will be 34.6% social rented, 11.1% intermediate and 54.2% market.  This equates to 114 private homes, 90 social rent units and 29 inter units. 90% of the homes will be 1/2 bed.
 
 
 

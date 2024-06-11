@@ -117,6 +117,13 @@ Jan 2006	Planning permission for 05-CO-0161 (south-west corner) is granted.  Thi
 
 March 2006	Initial demolition notices served on all Phase 1 properties on March 31 2006; also suspends existing and future Right-to- Buy applications for a period of 5 years.  	Phase 1 properties are 1-59 Wolverton on East St, on the north of the estate; 42-256 Bradenham, 1- 172 Chiltern, 1-149 Chartridge, and 1-28 Arklow, all on the remainder of the south-west corner, and 300-313 Missenden (the Amersham site), in the centre of the estate, on Thurland Rd.
 
+May 2006	Work on south-west corner suspended because of health and safety concerns about the design of the day centre.  A new design is commissioned within an enlarged scheme.
+
+Sept 2006	The Council changes its policy for rehousing regeneration estate residents’.  Council tenants will be able to retain their secure tenancies by moving to another council home elsewhere in the borough, or move to a new-build home on Aylesbury footprint or replacement sites and become a housing association tenant, with an assured tenancy.  Tenants ‘under-occupying’ homes with 2-beds or more will be entitled to an extra bedroom whether they opt for a new-build replacement home or an existing Council home.
+
+
+Those who wish to remain council tenants will be rehoused by bidding for available properties, using the choice based letting system, ‘Homesearch’.  Tenants will be given Band 1 priority, but if they are unable to find a suitable home through Homesearch the Council will make them a single direct offer.  
+
 
 
 

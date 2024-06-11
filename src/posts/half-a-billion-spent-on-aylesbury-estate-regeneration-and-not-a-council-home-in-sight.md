@@ -103,6 +103,10 @@ Dec 2001	A stock transfer to Faraday Housing Association rejected by residents, 
 
 Lord Adebowale is appointed the chair of NDC Board (0001).
 
+2002	The Council to retain and refurbish estate, beginning with southwest corner, which provide 100 new social rent homes and new day centre, without the demolition of homes.  The funding will come from the NDC, £8m, the Council, £15m, and the London Housing Board, £11.5m; total £33m.  The cost for the whole estate, including the south-west corner is estimated to be £133m.  The NDC would pay a further £24m for this, with other identified sources giving £44m, leaving a £30m shortfall.
+
+Jan/Apr 2003	Options Appraisal Exercise south-west corner Levitt Bernstein. 	Lord Adebowale steps down as chair of NDC Board (0001b)
+
 
 
 

@@ -121,8 +121,14 @@ May 2006	Work on south-west corner suspended because of health and safety concer
 
 Sept 2006	The Council changes its policy for rehousing regeneration estate residents’.  Council tenants will be able to retain their secure tenancies by moving to another council home elsewhere in the borough, or move to a new-build home on Aylesbury footprint or replacement sites and become a housing association tenant, with an assured tenancy.  Tenants ‘under-occupying’ homes with 2-beds or more will be entitled to an extra bedroom whether they opt for a new-build replacement home or an existing Council home.
 
+Those who wish to remain council tenants will be rehoused by bidding for available properties, using the choice based letting system, ‘Homesearch’.  Tenants will be given Band 1 priority, but if they are unable to find a suitable home through Homesearch the Council will make them a single direct offer. 
 
-Those who wish to remain council tenants will be rehoused by bidding for available properties, using the choice based letting system, ‘Homesearch’.  Tenants will be given Band 1 priority, but if they are unable to find a suitable home through Homesearch the Council will make them a single direct offer.  
+The Council notes that ‘unless the policy for rehousing tenants/homeowners on regeneration schemes is based on full re-provision of all socially rented homes within the regeneration scheme, regeneration schemes have an adverse impact on all other applicants on the Council’s Housing List. Unless all lost homes are re-provided, fewer applicants on the Housing List can be rehoused’.
+
+	Leaseholders will receive compensation for the loss of their homes.  This should be the market value of the home plus 10%, plus disturbance and legal costs.   However, the Council acknowledges that ‘it is considered highly likely that the value of new build properties on the Aylesbury Estate will be significantly in excess of the market value of the leaseholders existing property’.  Four other options will be available to suitably qualified leaseholders – i/part-buy, part-rent shared ownership ii/ part-buy, no rent, with outstanding amount paid on sale of home iii/ a swap, for another council property of equivalent value iv/ becoming a council tenant. The options are conditional on leaseholders’ differing financial circumstances.
+
+There will be negotiations between the Council and leaseholders so that all options can be explored. The Council will also seek Compulsory Purchase Order (CPO) powers ‘at the appropriate time’ for compulsory acquisitions.
+The Council agrees a Medium Term Financial Strategy, including a 3-year £455m capital programme and the aim of securing ‘capital receipts from regeneration projects to support the Council’s future capital programme’.  The Strategy notes a Regeneration & Development fund that can be released from Corporate Reserves including that of the Aylesbury estate. 
 
 
 

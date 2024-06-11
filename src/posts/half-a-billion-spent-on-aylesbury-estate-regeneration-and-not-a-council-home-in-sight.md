@@ -85,13 +85,7 @@ Planning maintenance works would cease on Phase 1, with limited works on Phases 
 
 The Council would be reponsible for the development's new infrastruture including a *'key component' - 'a new energy centre to provide heat, hot water and power*' with the Elephant & Castle regeneration (the Multi Utilities Services Company, MUSCo).  These works would *'be undertaken either by appointed contractors or as part of the procurement of a developer partner using either the tariff or S106 contributions'.* 
 
-The Council considered that *'successful delivery of the project depends on working with other public sector organisations....and provide public sector leadership. This view harmonises with other agencies e.g. Homes and Communities Agency, Greater London Authority, Government Office for London, London Development Agency.  The public sector partnerships will allow optimisation of public sector expertise and financial support. This will enhance private sector developer confidence at early formative stages....'*
 
-The Council considers that the regeneration will ultimately lead to higher property values. 
-
-Dec 2009          The Council Executive recommended the AAAP to the Council Assembly.  A proposal by a deputation to the Executive, that the wording of the the AAAP be changed to protect Burgess Park was accepted.  A proposal opposing high-rise tower blocks along the Albany Road and a proposal to delay AAAP for further data on carbon emissions were both rejected.  The Council accepted that carbon data did not include embodied carbon, but the Inspector considered that the figures were still reliable.  The Council considered that the environmental benefits of development outweighed the benefits of retaining the present buildings.  It was also argued that the extension to the Aylesbury of the proposed Multi Utility Services Company (MUSCo), which was to be part of the Elephant and Castle regeneration, would make development carbon negative).
-
-Jan 2010 - The Council Assembly accepts Executives's AAAP recommendation.  AAAP is published. 
 
 ### Background - timeline
 
@@ -282,23 +276,7 @@ April 2012	Cabinet Report: Selection of Preferred Developer for Land Transfer Ay
 April 2014		Partnership for Phases 2, 3, 4 awarded to Notting Hill
 Decision Taker: Chief Executive Report title: Gateway 2 - Contract Award Approval Development partner for the regeneration of the Aylesbury Estate	 https://moderngov.southwark.gov.uk/documents/s44910/Report.pdf 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+CONTINUE...
 
 £456m of public money has been spent on the Aylesbury estate regeneration as the first of the new council homes are completed.[^1]
 

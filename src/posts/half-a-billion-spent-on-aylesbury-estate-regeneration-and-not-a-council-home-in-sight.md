@@ -107,6 +107,12 @@ Lord Adebowale is appointed the chair of NDC Board (0001).
 
 Jan/Apr 2003	Options Appraisal Exercise south-west corner Levitt Bernstein. 	Lord Adebowale steps down as chair of NDC Board (0001b)
 
+Sept 2005	The Council adopts a new ‘demolish and replace’ strategy for the redevelopment of the Aylesbury Estate. This would increase the density of the estate from around 2,700 to 4,900 homes.  The 2005 level of social housing would be maintained, at around 2,300 homes, with the remaining 2,700 homes being for sale or shared-ownership.  Scheme would be ‘broadly cost neutral’ with costs met by the value of the land, after it had been sold to either to a housing association or other development partner.  The south-west corner is to remain the starting point of redevelopment.
+
+A Steering Group of councillors, TRA and NDC representatives is set up. (013e)
+
+Dec 2005	Walworth Community Council considers outline planning application 05-CO-0161 for the south-west corner, now for 125 new dwellings and the new day centre, in advance of planning committee meeting in 2006.
+
 
 
 

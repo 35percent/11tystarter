@@ -269,7 +269,18 @@ A financial assessment indicates a deficit of £4.7m in the PFI option for which
 
 The Council would own the PFI funded homes, but they would be designed, built, managed and maintained by a developer, under a 30-year contract.  The council would pay a ‘unitary charge’ to cover the supplier’s costs. This charge   will be funded from PFI credits, HRA management and maintenance allowances, and revenue contributions from council resources.  After 30 years the Council can either manage the social units itself, or appoint new housing management or reappoint the existing housing management.
 
-The Council chooses a so-called HRA PFI over a non-HRA PFI option.  A non-HRA PFI could be cheaper (because homeownership is retained by the developer) and it could provide 35 more social rented homes. However, the Council chooses a HRA PFI because of its policy of building more council homes and because of a risk to its general fund, which would have to be used, instead of the HRA, to meet all costs.  Under the HRA PFI social rented homes would be let as council homes, with target rents achieved over four years.  Under a non-HRA PFI the social rented homes would most likely be let by a housing association, with target rents set immediately. (NB Target rents are a higher social rent, designed to bring council rents and housing association rents into line). (013f, 014) 
+The Council chooses a so-called HRA PFI over a non-HRA PFI option.  A non-HRA PFI could be cheaper (because homeownership is retained by the developer) and it could provide 35 more social rented homes. However, the Council chooses a HRA PFI because of its policy of building more council homes and because of a risk to its general fund, which would have to be used, instead of the HRA, to meet all costs.  Under the HRA PFI social rented homes would be let as council homes, with target rents achieved over four years.  Under a non-HRA PFI the social rented homes would most likely be let by a housing association, with target rents set immediately. (NB Target rents are a higher social rent, designed to bring council rents and housing association rents into line). (013f, 014)
+
+Oct	              https://moderngov.southwark.gov.uk/documents/s13437/Report%20Creation%20Trust%20-%20Approval%20of%20Finance%20to%20Support%20its%20Business%20Case%20for%20201112.pdf
+
+Nov 2010	Cabinet Report: Aylesbury Regeneration – Phase 1: sites 7 & 10 - revised delivery route, 02 Nov 2010 (015)
+
+April 2012	Cabinet Report: Selection of Preferred Developer for Land Transfer Aylesbury Site 7 (1-50 Wolverton), 17 April 2012 (016)
+
+2011/2012		Phase 1a completed.  http://www.aylesburynow.london/regeneration/regeneration-programme
+
+April 2014		Partnership for Phases 2, 3, 4 awarded to Notting Hill
+Decision Taker: Chief Executive Report title: Gateway 2 - Contract Award Approval Development partner for the regeneration of the Aylesbury Estate	 https://moderngov.southwark.gov.uk/documents/s44910/Report.pdf 
 
 
 

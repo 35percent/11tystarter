@@ -93,7 +93,7 @@ Dec 2009          The Council Executive recommended the AAAP to the Council Asse
 
 Jan 2010 - The Council Assembly accepts Executives's AAAP recommendation.  AAAP is published. 
 
-
+### Background - timeline
 
 1999	New Deal for Communites (NDC) award. £52m (later £56m) for ten years, with expectation of further £400m as part of stock transfer, for comprehensive demolition/redevelopment.
 

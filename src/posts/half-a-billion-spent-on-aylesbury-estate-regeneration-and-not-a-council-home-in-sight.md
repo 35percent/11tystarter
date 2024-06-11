@@ -191,7 +191,22 @@ The Finance Director warns that that this route is heavily reliant on HCA commit
 Capital costs of site preparation (for Phase 1?) i.e. for leasehold acquisitions, re-housing and infrastructure can be funded through London Housing Board, NDC allocation, recycled Social Housing Grant and LBS capital allocation.
 Homeloss and disturbance payment to tenants will cost £2.611m, to be met by efficiency savings and from the HRA. Other costs to be met from efficiencies and HRA will total £10.113m.
 
-Project team costs are estimated at £2.3m, to be funded through the Aylesbury reserve.	
+Project team costs are estimated at £2.3m, to be funded through the Aylesbury reserve.
+
+The Council makes the business case for Private Finance Initiative (PFI) support for Phases 2 and 3.  It looks at options for delivering the phases, which comprise 1094 mixed tenure homes and strategic and social infrastructure.  Phase 2 will have 645 new homes (241 rental, 81 intermediate, 322 for sale).  Phase 3 will have 450 new homes (169 rental, 57 intermediate, 224 for sale).
+
+The phases will be built on council owned land with an obligation on the Council to acquire the existing leasehold properties. They will be delivered within the council’s Housing Revenue Account (HRA) using the PFI credits, valued at £180.25m.  It is assumed that the project will have a 30-year term beginning in 2013/14. At the end of the PFI contract the rented homes will come into Council ownership. (Query; So the PFI partner would be the landlord until then?)
+
+The credits support the cost of demolition, design, build, finance, maintenance and management of social rented homes and the supporting infrastructure.  The PFI provider will be responsible for the management, maintenance and community safety of properties before the start of demolition from the start of the PFI contract (although the re-housing process will have already commenced). The cost of leasehold acquisitions is specifically excluded from PFI.
+
+
+The PFI process has two stages.  The first to prepare the Outline Business Case (OBC), over 15-18 months.  The second stage is the procurement of a partner ending with the award of the contract, over approximately 3 years, by the end of 2013.
+
+The HCA requires an additional interim OBC stage to address concerns about funding and high costs and examining alternatives to the HRA PFI, to be completed by June 2010.
+
+The Council will have to meet or underwrite significant costs - achieving vacant possession, procurement, the payments under the 30 year PFI contract (the unitary charge), the cross subsidy of affordable housing by private sales.  This will have a significant have a significant impact on the council’s HRA, though no estimates of the costs for Phase 1 and Phases 2 and 3 are made public.
+
+The Finance Director notes ‘The estimated financial impact in relation to the PFI represents a very significant financial challenge to the council and will require continual re-examination moving forward’.
 
 
 

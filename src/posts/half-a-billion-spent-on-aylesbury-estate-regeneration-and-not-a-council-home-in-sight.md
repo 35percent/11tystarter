@@ -25,51 +25,7 @@ The undisclosed cost the new resource centre is be funded from the Health and so
 
 ### Background - timeline
 
-1997          Blair Labour government elected
 
-1999          Southwark Council secure New Deal for Communities grant of £52m, over ten years, for the Aylesbury estate.  A further £400m is anticipated as part of a stock transfer to a housing association and a demolition/redevelopment programme
-
-2001           A ballot of estate residents rejects stock transfer; 73% voting against the proposal, on a 73% turn-out.
-
-2002           Council decides to retain and refurbish stock.
-
-Jan - April 2003         An Options Appraisal exercise carried out in the southwest corner of the estate (to be later known as Phase 1 – Site 1a) by Levitt Bernstein and Pollard Thomas Edwards Architects.
-
-Sept 2005    Council initiates a redevelopment strategy for a *'high quality, mixed tenurre urban area, subject to...full financial assessments'*; a detailed project plan, with timescales, milesones and resource implications to be completed by the end of the year.
-
-Dec 2005     Walworth Community Council considers outline planning permission for demolition Aylesbury Day Centre, garages and outbuildings, Boyson Rd, Bradenham Close and construction of 125 new dwellings, on south-west corner (05-CO-0161), in advance of planning committee meeting in 2006.
-
-Jan 2006       Permission for 05-CO-0161 (south west corner) granted.
-
-May 2006      Work on south west corner suspended because of health and safety concerns about the design of the day centre.  New design commissioned within an enlarged scheme.
-
-Sept 2006      Council's medium term financial strategy includes exploiting *'opportunities afforded through the regeneration programme, including setting a target for capital receipts from regeneration projects to support the Council’s future capital programme’*.  Southwark's 3-year £455m programme includes a new Aylesbury Resource Centre as a priority.
-
-Nov 2006       The Executive approves procurement of a Registered Social Landlord (RSL) / developer for south west corner site (Phase 1a).  Site enlarged, by demolishing 1 - 41 Bradenham, 1-12 Red Lion Close and commercial units 6-28 Westmoreland Road.  Number of dwellings increased by 150, from 125, to approximately 270 units.  The additional 150 to be RSL housing for rent and for sale, split to be determined. Development will be funded by the appointed RSL, commuted land value and by London Housing Board funding, previously agreed for the former south-west corner scheme revenues. The new resource centre to be funded by a Health and Social Care bid for £5.7 million (to be considered by the Executive in November 2006.  There are *‘..no anticipated implications for the Housing Investment Programme….’*  
-
-June 2007	Planning committee approves ‘council own’ outline planning application 07-CO-0046, Westmoreland Rd, Red Lion Row, Bradenham, Phase 1a Aylesbury regeneration.  Supercedes 05-CO-0161. All (53) existing social rented units to be reprovided. Of the 207 additional units, 37.7% would be affordable; 62.8% to be social rented and 37.2% to be intermediate. The overall tenure mix will be is 34.6% social rented, 11.1% intermediate and 54.2% market (hab. rooms); 90 social rent units, 29 inter units. 90% of the homes will be 1/2 bed.
-
-Dec 2007	The strategic director of regeneration and neighbourhoods formally declared Phase 1a surplus to requirements. 
-
-Jan 2008	         The strategic director for major projects approves formal agreement with L&Q housing association for the development of Phase 1a, for provision of 260 units of housing and the Aylesbury Resource Centre (ARC).  The land is to be sold on a 130 year lease for an undisclosed amount. The affordable housing *‘will reflect the generous space standards of the existing estate’*. 
-
- June 2008	 The Council's Major Projects Board recommends to the Assembly that an application is made to the SoS (DCLG) for consent to the transfer and disposal of the south west corner land (Phase 1a); the consent is needed because the undisclosed proposed receipt from L&Q is less than open market value.  L&Q is to add an undisclosed *‘added value’* contribution for *‘social infrastructure’* (eg employment) and will meet higher than minimum design, build and space standards.  The undisclosed cost of building the ARC to be funded from the Health and social care department’s allocation in the Council’s capital programme.  The cost of acquiring the twelve residential and six commercial leaseholds (planning report 07-CO-0046) will be met by the capital programme.  No provision is made for meeting costs from HRA or General Fund costs.  The social rent tenancies on the completed development will *‘be a minimum of the council’s existing tenancy conditions’*, with the right to acquire.
-
- July 2008	  The Council Assembly approves the Major Board recommendation, for application to SoS, after public and press were excluded from the discussion, a decision challenged by opposition councillors.  A successful 2023 FOI request (Southwark ref 18871362) for the Closed Assembly report shows that the land was sold for £3m, against a valuation of £9.8m.   
-
-2008-2009          Southwark drafts the Aylesbury Area Action Plan (AAAP).  This is *‘a spatial plan that combines land use planning policies with an employment strategy, a health and services strategy, a transport strategy, an open spaces strategy and a business and delivery plan, to create a holistic plan for the regeneration of the estate and surrounding area’*.  The AAAP is judged to be sound by a government appointed Inspector, after an Examination in Public in September 2009.  Recommended changes include increasing the phase one affordable housing, and reducing the private housing, to gain HCA funding and make it viable, while reducing the affordable housing and increasing the private housing by the same amount in the final phase four.  The capital programme is set at £1.2bn with a funding shortfall of £169m.
-
-Oct 2009	           The Executive approved the joint procurement of development partners, with the Homes and Communities Agency (HCA), for three of the four Phase 1 sites; tenders by the end of January 2010, with final appointment by Southwark around June 2010.  
-
-The selected developer for Phase 1 will design, demolish, build and manage new mixed tenure homes and supporting infrastructure.  A Development Agreement would include terms of disposal (of the land?) and the council’s requirements for tenure, housing type, design, build quality and sustainability according to the AAAP. The agreement will also include the Council’s initial nomination rights for decant and subsequent lettings, and management arrangements.
-
-The three Phase 1 sites are i) the second south west corner site, after L&Q's Site 1a (Sites b&c, later known as the FDS) ii) the small Amersham site, in the centre of the estate, and iii) the North Wolverton site (later known as Site 7), at the north east corner of the estate. 
-
-The Phase 1 sites would  *'be key to the Aylesbury regeneration'*, supplying low density areas that will provide new homes to help re-house residents displaced to allow for Phases 2 and 3.  The sites are also identified in the AAP as areas *'that will provide important infrastructure components early'.*  
-
-
-
- 
 
 
 

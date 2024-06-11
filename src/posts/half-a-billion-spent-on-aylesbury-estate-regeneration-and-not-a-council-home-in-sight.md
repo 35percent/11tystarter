@@ -171,6 +171,20 @@ Residents on Phase 1 will be rehoused between 2010 and 2012 with building work t
 
 The Council states that lettings of council tenancies on Phase 1 have already been stopped and will soon stop for Phase 2.
 
+Only limited maintenance works, on heating, lifts and security, will be undertaken hench forth, on Phases 2 and 3 Any interim investment will be on Phase 4 blocks.
+
+There will be 1,419 new homes on Phase 1.  Site 1a will provide 260 new homes, Site 1b, 409 homes; Site 1c, 471 homes; North Wolverton, 166 homes and the Amersham site 113 homes.
+
+One of the ‘key components’ of the whole scheme is a new energy centre, which would also serve the new buildings of the Elephant & Castle regeneration. The energy centre will be built on the Amersham site, along with a pre-school facility and a community facility.  Site 1b will also have a pre-school facility.   These infrastucture components will be funded by tariff or s106 payments.
+
+The Council will control the delivery programme.  It will form partnerships with other public sector partnership bodies. The sites will be offered to ‘the developer market in a series of phases or sub-phases over time’.  The Council will securing vacant possession and clear the site.
+
+The Council believes that ‘this approach will also enable the council to respond to the various property market, economic, financial risk and other factors that change over time and that will affect how and when sites are taken to the market’.
+
+The Council rules out a land sale onto the open market.  It notes the significant cost of achieving vacant possession because of the high number of leaseholders and resident’ rehousing requirements.  The requirement to provide 50% affordable housing would also be unattractive to developers.  Property values were low and unlikely to recover soon; valuations of properties on the Amersham site have produced negative land values.  A partnership with a housing association or developer would more likely attract greater social housing grant.
+
+
+
 
 
 

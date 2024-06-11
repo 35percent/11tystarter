@@ -140,7 +140,14 @@ Jan 2008	The L&Q housing association is chosen as the developer of Site 1a.  The
 
 June/July 2008	The Council applies to the Secretary of State, Department of Communities and Local Government for consent to sell the Phase 1a land to L&Q at less than open market price. L&Q is to add an undisclosed ‘added value’ contribution for ‘social infrastructure’ (eg employment) and will meet higher than minimum design, build and space standards.  The undisclosed cost of building the ARC and the cost of acquiring the twelve residential and six commercial leaseholds will be met by the Council.  Social rent tenancies will ‘be a minimum of the council’s existing tenancy conditions’, with the right to acquire. 
 
+Oct 2008	The Council submits an expression of Interest for Housing Revenue Account (HRA) Private Finance Initative (PFI) credits to the Department for Communities and Local Government in partial support of delivering Aylesbury phases 2 and 3. 	(NB PFI projects are public-private partnerships where the private sector is responsible for financing, designing, building and operating an asset. PFI credits provide central government funding to local authorities for such projects.  PFI credits support capital costs and are paid as a series of grants.  PFI credits do not fund the buy backs of ex-council properties.  Local authorities must provide contributions to the scheme eg through revenue funding;  cross subsidisation from new build for sale.  The typical PFI contract is 30 years.  Tenants should remain tenants of the local authority throughout the course of the PFI contract. There will be no change in their status or their rights as a result of the PFI project and rents for dwellings included in the scheme to be set in accordance with the authority’s general approach to rent-setting and within the Office’s rent restructuring framework - 
 
+https://assets.publishing.service.gov.uk/media/5a79635aed915d042206807e/142805.pdf)
+
+
+2008-2009	The Aylesbury Area Action Plan (AAAP) is prepared. It is approved by a government inspector, after four stages of consultation and an Examination in Public.
+
+The AAAP is ‘a holistic plan for the regeneration of the estate and surrounding area’. The AAAP outlined what would be built and included strategies for employment, health, transport, open spaces as well as a business and delivery plan.  The regeneration will provide 4,200 new homes over four phases.  The AAAP identifies health, employment, retail and a range of more general uses including assembly, youth etc. The capital programme is set at £1.2bn, with a funding shortfall of £169m.
 
 
 

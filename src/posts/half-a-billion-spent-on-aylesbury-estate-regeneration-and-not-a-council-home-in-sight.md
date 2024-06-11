@@ -67,23 +67,9 @@ The three Phase 1 sites are i) the second south west corner site, after L&Q's Si
 
 The Phase 1 sites would  *'be key to the Aylesbury regeneration'*, supplying low density areas that will provide new homes to help re-house residents displaced to allow for Phases 2 and 3.  The sites are also identified in the AAP as areas *'that will provide important infrastructure components early'.*  
 
-Funding for the redevelopment would draw on both public and private sectors.  Phase 1 would be a HCA/Southwark partnership, Phases 2 and 3 would be funded by the Housing Revenue Account (HRA) and Private Finance Initiative (PFI) credits from the HCA, supported by the Department for Communities and Local Government and the Treasury.  There were no current proposals for funding Phase 4, which was ten years away.
 
-While HCA funding of £13m for Phase 1a was *‘effectively unlocked’*, Southwark was also making a business case for government PFI funding of Phase 2 & 3 (which along with Phase 1 would cover about half of the estate's redevelopment).  The Executive also instructed officers to explore funding sources, including Social Housing Grant.
 
-Capital costs of site preparation (leasehold acquisitions, re-housing and infrastructure) can be funded through the London Housing Board, NDC allocation, recycled Social Housing Grant and LBS capital allocation.  Internal project team resources and external consultants costs are estimated at £2.3m, funded through the Council's Aylesbury reserve. The estimated cost of the procurement process to next Gateway stage (Oct 2009 – Jun 2010) is £700, 000, to come from the Aylesbury Reserve.  SHG meeting any land value deficit.
-
-The Homeloss and disturbance payment to tenants will cost £2.611m (for Phase1?), funded from Aylesbury Homeloss budgets and other HRA resources. ‘Other costs’ for phase amount to £10.113m, funded from savings and HRA Resources.
-
-The estate land was in council’s freehold ownership, but securing vacant possession would have significant costs, given the large number of leaseholders and challenging rehousing requirements.  The strategy was to demolish the worst blocks first; accommodate displaced households on-site and off-site; acquire leaseholder properties and  meeting the desire of residents to remain on the estate.  The estate residents were secure council tenants and private owners who have bought Right to Buy (RTB) homes, plus number of businesses-leased properties.  All leaseholder interests were to be bought out. (Non-secure tenants? Date of ending secure tenancies?).
-
-Expenditure for vacant possession includes acquiring leasehold interests; obtaining a Compulsory Purchase Order; physically securing vacant properties; paying Home Loss and other costs in relocating tenants; net loss of rental income during vacation process (longer term loss?) and management/project costs.
-
-The Executive also approved the phased re-housing of Phase 1 residents.  It estimates that rehousing displaced Aylesbury residents may take 10% of the overall social houisng supply, up to 2014.  This would be completed for Phase 1 by 2012 (with all estate residents rehoused by 2023).  The entire redevelopment of 4,209 new homes was scheduled to be completed by 2027 - Phase 1a by 2013; Phase 1 by 2016; Phase 2 by 2018; Phase 3 by 2020;  Phase 4 by 2027.
-
-Planning maintenance works would cease on Phase 1, with limited works on Phases 2 and 3 and interim investment  on Phase 4 blocks.  Southwark says that  *‘The options appraisal concluded that the costs of stock retention were prohibitive and structural failings in some buildings, alongside design deficiencies meant that investment would not alleviate many of the estate’s problems’.*
-
-The Council would be reponsible for the development's new infrastruture including a *'key component' - 'a new energy centre to provide heat, hot water and power*' with the Elephant & Castle regeneration (the Multi Utilities Services Company, MUSCo).  These works would *'be undertaken either by appointed contractors or as part of the procurement of a developer partner using either the tariff or S106 contributions'.* 
+ 
 
 
 

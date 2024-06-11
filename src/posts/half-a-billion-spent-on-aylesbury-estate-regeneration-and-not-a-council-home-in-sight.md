@@ -208,6 +208,29 @@ The Council will have to meet or underwrite significant costs - achieving vacant
 
 The Finance Director notes ‘The estimated financial impact in relation to the PFI represents a very significant financial challenge to the council and will require continual re-examination moving forward’.
 
+Jan 2010	The Council adopts the AAP. The estimated ‘full lifetime cost’ of the capital programme is around £1.2 billion with an identified funding shortfall of around £169m.
+
+The Council has the freehold ownership of the land, subject to a number of long leases granted as Right to Buy or business leases. These will be acquired by negotiation or by Compulsory Purchase Orders.  The first three phases of development will be marketed as cleared sites i.e. with residents re-housing and homes demolished. The second and third phases may be partly funded by PFI. The fourth phase which is likely to have greater land value, may be demolished by an appointed developer.
+
+The sale of the land in manageable parcels should generate competitive bids and prove attractive to a wider range of developers, contractors, funders and Registered Social Landlords (RSLs).  The Council is in discussions with the HCA about funding new replacement affordable rented and intermediate accommodation in phase 1. The GLA has provided £2m for improvements to Burgess Park, with £4m match funding from the NDC.
+
+The schemes infrastructure will be provided by appointed contractors or by preferred developer partners and paid for out of an estate-wide social and strategic infrastructure tariff.
+
+A partnership between the Council, HCA, the GLA and the Government Office for London (GOL) will give public sector leadership as a clearly defined client. This will allow the  best use of public sector expertise and financial support, and will enhance private sector developer confidence.
+
+The Partnership will retain control over all aspects of the development programme, maximise its returns on a phase by phase basis because it will retain control of the land, and ensure that infrastructure is delivered in a sustainable way to support the development.
+
+
+Feb 2010  	The Council takes Compulsory Purchase Order (CPO) powers for remainder of Phase 1.  This comprises 1-59 Wolverton (Site 7; 59 dwellings); 42-256 Bradenham, 1- 172 Chiltern, 1-149 Chartridge,1-28 Arklow (Sites 1b and 1c; 566 dwellings) and 300-313 Missenden (Site 10; 14 dwellings).  The total number of dwellings is 639.
+
+Site 7 has 18 leaseholders, Sites 1b and 1c has 65 leaseholders and Site 7 has 2 leaseholders.  The total number of leaseholders is 85.
+
+The Council aims to conclude leaseholder purchases by 2012.  	The estimated costs of acquiring the leasehold properties are -  £11.923m, compensation;  £1.192m homeloss payments; £64k disturbance payments; total £13.75m.
+
+Ellison House, on Albany Road, a Probation Service hostel is excluded because it is Crown Property.  The Council hopes to include the site at a later stage, if an alternative premises can be agrees with the Service.
+
+Council notes that the 75% of Right to Buy receipts transferred to Treasury can be reduced by 35% of admin costs of buy-back, if it is negotiated rather than secured by CPO.
+
 
 
 

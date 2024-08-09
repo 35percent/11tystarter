@@ -28,3 +28,13 @@ We need a council house building programme because the private sector has failed
 Southwark’s pledge to build 11,000 council homes was a laudable attempt to make up for this market failure.  To hope that the private sector will now take up the slack left by endiing direct delivery, with ‘development parnerships’ looks like wishful thinking.  The building industry’ problems that the two cabinet reports outline apply to the whole sector.  Developers will factor these into viability assessments, along with profit margins set by themselves, to deliver as little affordable and social rented housing as possible.
 
 Southwark are the lead signatories in an appeal by 20 councils to the new Labour government for more housing support. Whether or not this succeeds private developers must also begin to pull their weight.  We have been stuck on a minimum 35% affordable housing requirement for too long.  Southwark and the Mayor also have a ‘strategic’ target of 50%.  They must start to make this a reality and demand 50% affordable housing on every new development. They could begin with the new Aylesham and the Borough Triangle developments proposed by Berkeley Homes (check ‘Homes’).  Together they will deliver 1,600 new homes.  Southwark must demand that 800 should be affordable, with 70% social rented, if there is to be any credible chance of the private sector finally giving us the affordable housing we need.
+
+### Email text/other points 
+
+So, while direct delivery has provided 79% council homes, Monday’s report cautiously says that DAs could ‘enable’ only 50% affordable housing (which could, maybe, be 50% social rent - para 85)
+
+DAs are a route that Southwark has already taken.  The table below is from a 2018 report and shows 10 DA developments with a delivery 47% social rent (NB if the sites have been completed – we haven’t checked). 
+
+Key point is that Southwark will be using its own land for this, but whereas it could get nearly 80% c/h by direct delivery it looks like it will only get 50% with DA’s (if all the affordable housing is social rent).
+
+Southwark is also taking a ‘portfolio’ approach to this, where some sites might be, say, 100% free-market, with greater proportions of affordable housing on other sites to compensate.  The obvious danger here is that affordable housing gets squeezed out, particularly if there are long timescales, over linked developments (the Aylesbury is a developer partnership development).

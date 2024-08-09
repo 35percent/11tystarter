@@ -24,3 +24,5 @@ Inside Housing recently reported on figures supplied by Southwark Council in res
 #### What we think – 50% must become the new minimum
 
 We need a council house building programme because the private sector has failed to provide us with enough affordable housing.  According to the Southwark Plan 2022 only 8% of the borough’s households can afford free-market housing, yet 65% of the new housing on private developments is exactly that – free-market.
+
+Southwark’s pledge to build 11,000 council homes was a laudable attempt to make up for this market failure.  To hope that the private sector will now take up the slack left by endiing direct delivery, with ‘development parnerships’ looks like wishful thinking.  The building industry’ problems that the two cabinet reports outline apply to the whole sector.  Developers will factor these into viability assessments, along with profit margins set by themselves, to deliver as little affordable and social rented housing as possible.

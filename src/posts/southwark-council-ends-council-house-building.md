@@ -37,4 +37,8 @@ DAs are a route that Southwark has already taken.  The table below is from a 201
 
 Key point is that Southwark will be using its own land for this, but whereas it could get nearly 80% c/h by direct delivery it looks like it will only get 50% with DA’s (if all the affordable housing is social rent).
 
-Southwark is also taking a ‘portfolio’ approach to this, where some sites might be, say, 100% free-market, with greater proportions of affordable housing on other sites to compensate.  The obvious danger here is that affordable housing gets squeezed out, particularly if there are long timescales, over linked developments (the Aylesbury is a developer partnership development).
+Southwark is also taking a ‘portfolio’ approach to this, where some sites might be, say, 100% free-market, with greater proportions of affordable housing on other sites to compensate.  The obvious danger here is that affordable housing gets squeezed out, particularly if there are long timescales, over linked developments (the Aylesbury is a developer partnership development). 
+
+Only the net increase in homes will be included in the delivery of 11,000 homes. Routes to 11,000 pg 05 – so Aylesbury homes should not be included?
+Finance the first of our 2,500 new council homes through a Greater London Authority grant, other resources such as s106/RTB receipts, and the lifting of the HRA borrowing cap.  Routes to 11,000 pg 09
+Start to build more homes for private sale and other tenures to help pay for new council homes

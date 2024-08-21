@@ -35,7 +35,9 @@ The Tustin regeneration was approved by residents by ballot and will provide mor
 
 #### What's wrong with s106 purchases?
 
-As well as the estate regeneration schemes several of the delopments contributing to the council house programme are purchases of affordable housing from private develpments.  These are affordable housing units that have been provided under s106 legal agreements with the Council, as an obligation to build a certain numbe of social rented or intermediate housing units, when a planning approval is awarded.
+As well as the estate regeneration schemes several of the delopments contributing to the council house programme are purchases of affordable housing from private developments.  This is affordable housing that has been provided under s106 legal agreements with the Council, as an obligation attached to a planning approval.
+
+These affordable units increase the amount of affordable housing in the borough and are vital to increasing social housing, in the abscence of enough council-built social housing.  However, they are usually 
 
 
 

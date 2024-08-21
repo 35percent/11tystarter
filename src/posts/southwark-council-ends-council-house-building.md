@@ -23,6 +23,14 @@ Two adjoining Aylesbury sites will deliver 581 council homes between them (FDS P
 
 ![](img/table_fds_demolitions_210824_edit.png "Sources – Officer report, 07-CO-0046, Planning committee, 5 June 2007; Executive report Aylesbury Phase 1 Compulsory Purchase Orders, 9 Feb 2010")
 
+### Tustin On-site?
+
+On the Tustin estate Bowness House, Heversham House, Kentmere House and Hillbeck Close are all earmarked for demolition.  This will [lose 202 council homes](<https://moderngov.southwark.gov.uk/documents/s107929/Report Tustin Estate land bounded by Manor Grove Ilderton Road Hillbeck Close Old Kent Road SE15.pdf>), with 355 social rent built in their place, giving an ‘uplift’ of 153 social rent homes . There will also be 115 intermediate and 220 free market homes, giving a total of 690.
+
+But while the scheme is described as being ‘on site’, this is only practically true of Phase 1 of the four-phase development.    An examination of Southwark’s planning register shows that while all the phases have an outline planning permission, only [Phase 1 has a full detailed planning permission](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=64449). Phases 2, 3 and 4 still need these vital approvals.  Most of the 690 new homes will be delivered on these later phases (523 homes); Phase 1 will deliver 167 units, including 157 ‘affordable’ homes. 
+
+The Tustin regeneration was approved by residents by ballot and will provide more and better quality social rented housing.  But counting them all now and without taking account of the social housing lost is inaccurate and premature.
+
 #### The cost of scrapping schemes
 
 Inside Housing recently reported on figures supplied by Southwark Council in response to FOI requests.....

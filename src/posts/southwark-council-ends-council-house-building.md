@@ -31,6 +31,8 @@ But while the scheme is described as being ‘on site’, this is only practical
 
 The Tustin regeneration was approved by residents by ballot and will provide more and better quality social rented housing.  But counting them all now and without taking account of the social housing lost is inaccurate and premature.
 
+### Ledbury estate
+
 #### The cost of scrapping schemes
 
 Inside Housing recently reported on figures supplied by Southwark Council in response to FOI requests.....

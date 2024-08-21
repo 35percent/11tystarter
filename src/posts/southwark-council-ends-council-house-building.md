@@ -37,7 +37,9 @@ The Tustin regeneration was approved by residents by ballot and will provide mor
 
 As well as the estate regeneration schemes several of the delopments contributing to the council house programme are purchases of affordable housing from private developments.  This is affordable housing that has been provided under s106 legal agreements with the Council, as an obligation attached to a planning approval.
 
-These affordable units increase the amount of affordable housing in the borough and are vital to increasing social housing, in the absence of enough council-built social housing.  They are usually bought from private developers by housing associations, though, not local councils.  There is therefore no net increase in social rented housing when they are bought by the local authority, because they would have been social rent homes anyway, albeit as with housing association landlords, not council landlords.
+These affordable units increase the amount of affordable housing in the borough and are vital to increasing social housing, in the absence of enough council-built social housing.  They are usually bought from private developers by housing associations, though, not local councils.  There is therefore no net increase in social rented housing when they are bought by the local authority, because they would have been social rent homes anyway, albeit with housing association landlords, not council landlords.
+
+Southwark has included 252 social rented homes and 26 intermediate homess bought from private developers.  These come from four developments, including the giant Canada Water development
 
  
 

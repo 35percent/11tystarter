@@ -37,7 +37,10 @@ The Tustin regeneration was approved by residents by ballot and will provide mor
 
 As well as the estate regeneration schemes, Southwark has included 252 social rented homes and 26 intermediate homes bought from private developers.  These come from four developments - the giant Canada Water development (Plot K1; Salter Rd, Blocks C,E,F); Sylvan Grove, Old Kent Road; Dibdin Appartments (128 – 150 Blackfriars Road); 1-5 Odessa Street SE16.  This is affordable housing that has been provided under s106 legal agreements with the Council, as an obligation attached to a planning approval.
 
-These affordable units increase the amount of affordable housing in the borough and are vital to increasing social housing, in the absence of enough council-built social housing.  They are usually bought from private developers by housing associations, though, not local councils.  There is therefore no net increase in social rented housing when they are bought by the local authority, because they would have been social rent homes anyway, albeit with housing association landlords, not council landlords.
+These affordable units increase the amount of affordable housing in the borough and are vital to increasing social housing, in the absence of enough council-built social housing.  They are usually bought from private developers by housing associations, though, not local councils.  There is therefore no net increase in social rented housing when they are bought by the local authority, because they would have been social rent homes anyway, albeit with housing association landlords, not council landlords.  Southwark is also using resources that could be used to build or maintain truly additional social rented housing, on top of what developers have to provide in any event.
+
+Southwark also includes 57 social rented homes in the New Almshouse, 94-116 Southwark Park Road, otherwise known as [Appleby Blue](https://www.ustsc.org.uk/almshouses/new-almshouse/).  These are attactive, well-designed new homes, owned by charity Unitied St Saviours for over-65s, who have lived at least 3 years in Southwark and are in owned by charity [United St Saviours](https://www.ustsc.org.uk/),   A minimum of three years’ residency in Southwark.\
+Financial Need: Demonstrable financial need and eligibility for charitable support.  	
 
 
 

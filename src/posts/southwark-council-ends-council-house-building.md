@@ -48,6 +48,16 @@ Inside Housing recently reported on figures supplied by Southwark Council in res
 
 <https://www.insidehousing.co.uk/news/news/exclusive-three-london-councils-scrapped-at-least-240m-worth-of-social-housing-last-year-87902 >
 
+### The upshot....
+
+If the demolitions we have noted above are taken into account it means that Southwark's council housing programme has xxxxx council homes either onsite or completed, not 3,057.  It also reduces the number actually completed from 1,486 to yyyy.
+
+If the s106 purchases are also discounted then the number of council homes onsite or completed is reduced further to xxxxxx and the number completed to yyyyy.
+
+This does not take into account big loses of council housing elswhere eg on th Heygate and Silwood estates.
+
+Southwark’s pledge to build 11,000 council homes was a laudable attempt to make up for a market failure, but it is boosting the figures in a way which just disguises the fact that it has been running just to stand still and now that it has ended direct delivery......what?
+
 ### What we think – 50% must become the new minimum
 
 We need a council house building programme because the private sector has failed to provide us with enough affordable housing.  According to the Southwark Plan 2022 only 8% of the borough’s households can afford free-market housing, yet 65% of the new housing on private developments is exactly that – free-market.
@@ -55,14 +65,6 @@ We need a council house building programme because the private sector has failed
 Southwark’s pledge to build 11,000 council homes was a laudable attempt to make up for this market failure.  To hope that the private sector will now take up the slack left by endiing direct delivery, with ‘development parnerships’ looks like wishful thinking.  The building industry’ problems that the two cabinet reports outline apply to the whole sector.  Developers will factor these into viability assessments, along with profit margins set by themselves, to deliver as little affordable and social rented housing as possible.
 
 Southwark are the lead signatories in an appeal by 20 councils to the new Labour government for more housing support. Whether or not this succeeds private developers must also begin to pull their weight.  We have been stuck on a minimum 35% affordable housing requirement for too long.  Southwark and the Mayor also have a ‘strategic’ target of 50%.  They must start to make this a reality and demand 50% affordable housing on every new development. They could begin with the new Aylesham and the Borough Triangle developments proposed by Berkeley Homes (check ‘Homes’).  Together they will deliver 1,600 new homes.  Southwark must demand that 800 should be affordable, with 70% social rented, if there is to be any credible chance of the private sector finally giving us the affordable housing we need.
-
-### The upshot....
-
-If the demolitions we have noted above are taken into account it means that Southwark's council housing programme has xxxxx council homes either onsite or completed, not 3,057.  It also reduces the number actually completed from 1,486 to yyyy.
-
-If the s106 purchases are also discounted then the number of council homes onsite or completed is reduced further to xxxxxx and the number completed to yyyyy.
-
-
 
 ### Email text/other points
 

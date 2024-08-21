@@ -13,9 +13,9 @@ The figures reported for council homes built or started does not give the full p
 
 The LTF found that Southwark Council has demolished 4,382 social rented-homes between 2012 and 2022. This is 19% of the 22,892 total number of social rent homes demolished in London over that decade.  Only one other borough had demolished more (Ealing – 4,986).  Nearly 70% of the total demolitions were in just seven boroughs, including Southwark.  (LTF table screenshot)
 
-![](img/demolitions_london_2012_22_table_pdf_-090824-.png "London Tenant’s Federation table of delivery and loss of social-rented homes in London 2012-2022.")
+![](img/demolitions_london_2012_22_table_pdf_-090824_edit.png "London Tenant’s Federation table of delivery and loss of social-rented homes in London 2012-2022.")
 
-#### The homes demolished on the Aylesbury FDS 
+#### The homes demolished on the Aylesbury FDS
 
 A close look at the list homes built [under the council house building programme](<https://moderngov.southwark.gov.uk/documents/s121470/Appendix 1 Southwark Construction New homes programme scheme list.pdf>) that accompanies the update report supports the LTF analysis.  According to this appendix nearly 40% of the new social housing comes from just three estate regeneration sites, with substantial demolition of council housing – the Aylesbury, the Tustin and the Ledbury estates.
 

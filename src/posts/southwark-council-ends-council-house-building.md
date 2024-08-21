@@ -3,7 +3,7 @@ title: Southwark’s new council homes are welcome, but a lot are being demolish
 description: "Council to fulfill 11,000 council home pledge through DPAs "
 date: 2024-08-09T16:55:10.448Z
 ---
-When Southwark Council recently ended the ‘direct delivery’ of new council housing, the main strand of its council house building programme, it also announced that 3,057 council homes had been started (up to May 2024), of which 1,486 were complete.
+When Southwark Council recently [ended the ‘direct delivery’ of new council housing](https://southwarknews.co.uk/area/southwark/council-says-it-must-stop-building-its-own-homes-and-rely-on-developers-instead/), the main strand of its council house building programme, it also announced that 3,057 council homes had been started (up to May 2024), of which 1,486 were complete.
 
 The figures were given in an update report to the Council Cabinet meeting on 22 July.  The report also says that 312 intermediate homes and 495 private homes are also under construction, with 134 intermediate and 130 private homes completed .  Southwark’s target was to have at least 2,500 council homes built or under construction by 2022.   It will now rely upon private developments to fulfil a 2013 pledge to build 11,000 new council homes by 2043.
 

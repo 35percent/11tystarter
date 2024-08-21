@@ -15,9 +15,11 @@ The LTF found that Southwark Council has demolished 4,382 social rented-homes be
 
 ![](img/demolitions_london_2012_22_table_pdf_-090824-.png "London Tenant’s Federation table of delivery and loss of social-rented homes in London 2012-2022.")
 
-#### 1,486 council homes?
+#### The homes demolished on the Aylesbury FDS 
 
-A close look at the list of council homes that accompanies the report shows…….
+A close look at the list homes built under the council house building programme that accompanies the update report supports the LTF analysis.  According to this appendix nearly 40% of the new social housing comes from just three estate regeneration sites, with substantial demolition of council housing – the Aylesbury, the Tustin and the Ledbury estates.
+
+Two adjoining Aylesbury sites will deliver 581 council homes between them (FDS Package A and FDS Package B).  There will be a further 55 social rented units on FDS  Package C .  However, 692 homes were demolished on the FDS site to allow for this; 595 of these were council homes.
 
 #### The cost of scrapping schemes
 

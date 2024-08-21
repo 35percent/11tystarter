@@ -21,6 +21,8 @@ A close look at the list homes built [under the council house building programme
 
 Two adjoining Aylesbury sites will deliver 581 council homes between them (FDS Package A and FDS Package B).  There will be a further 55 social rented units on FDS  Package C .  However, 692 homes were demolished on the FDS site to allow for this; 595 of these were council homes.
 
+![](img/table_fds_demolitions_210824_edit.png)
+
 #### The cost of scrapping schemes
 
 Inside Housing recently reported on figures supplied by Southwark Council in response to FOI requests.....

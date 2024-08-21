@@ -33,7 +33,9 @@ The Tustin regeneration was approved by residents by ballot and will provide mor
 
 ### Ledbury estate
 
-#### What's wrong with s106 purchases?
+.......to be added
+
+### What's wrong with s106 purchases?
 
 As well as the estate regeneration schemes, Southwark has included 252 social rented homes and 26 intermediate homes bought from private developers.  These come from four developments - the giant Canada Water development (Plot K1; Salter Rd, Blocks C,E,F); Sylvan Grove, Old Kent Road; Dibdin Appartments (128 – 150 Blackfriars Road); 1-5 Odessa Street SE16.  This is affordable housing that has been provided under s106 legal agreements with the Council, as an obligation attached to a planning approval.
 

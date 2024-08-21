@@ -40,11 +40,7 @@ As well as the estate regeneration schemes, Southwark has included 252 social re
 These affordable units increase the amount of affordable housing in the borough and are vital to increasing social housing, in the absence of enough council-built social housing.  They are usually bought from private developers by housing associations, though, not local councils.  There is therefore no net increase in social rented housing when they are bought by the local authority, because they would have been social rent homes anyway, albeit with housing association landlords, not council landlords.  Southwark is also using resources that could be used to build or maintain truly additional social rented housing, on top of what developers have to provide in any event.
 
 Southwark also includes 57 social rented homes in the New Almshouse, 94-116 Southwark Park Road, otherwise known as [Appleby Blue](https://www.ustsc.org.uk/almshouses/new-almshouse/).  These are attactive, well-designed new homes, owned by charity Unitied St Saviours for over-65s, who have lived at least 3 years in Southwark and are in owned by charity [United St Saviours](https://www.ustsc.org.uk/),   A minimum of three years’ residency in Southwark.\
-Financial Need: Demonstrable financial need and eligibility for charitable support.  	
-
-
-
-
+Financial Need: Demonstrable financial need and eligibility for charitable support. 
 
 ### The cost of scrapping schemes
 
@@ -59,6 +55,12 @@ We need a council house building programme because the private sector has failed
 Southwark’s pledge to build 11,000 council homes was a laudable attempt to make up for this market failure.  To hope that the private sector will now take up the slack left by endiing direct delivery, with ‘development parnerships’ looks like wishful thinking.  The building industry’ problems that the two cabinet reports outline apply to the whole sector.  Developers will factor these into viability assessments, along with profit margins set by themselves, to deliver as little affordable and social rented housing as possible.
 
 Southwark are the lead signatories in an appeal by 20 councils to the new Labour government for more housing support. Whether or not this succeeds private developers must also begin to pull their weight.  We have been stuck on a minimum 35% affordable housing requirement for too long.  Southwark and the Mayor also have a ‘strategic’ target of 50%.  They must start to make this a reality and demand 50% affordable housing on every new development. They could begin with the new Aylesham and the Borough Triangle developments proposed by Berkeley Homes (check ‘Homes’).  Together they will deliver 1,600 new homes.  Southwark must demand that 800 should be affordable, with 70% social rented, if there is to be any credible chance of the private sector finally giving us the affordable housing we need.
+
+### The upshot....
+
+If the demolitions we have noted above are taken into account it means that Southwark's council housing programme has xxxxx council homes either onsite or completed, not 3,057.  It also reduces the number actually completed from 1,486 to yyyy.
+
+If the s106 purchases are also discounted then the number of council homes onsite or completed is reduced further to xxxxxx and the number completed to yyyyy.
 
 
 

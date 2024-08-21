@@ -39,8 +39,7 @@ As well as the estate regeneration schemes, Southwark has included 252 social re
 
 These affordable units increase the amount of affordable housing in the borough and are vital to increasing social housing, in the absence of enough council-built social housing.  They are usually bought from private developers by housing associations, though, not local councils.  There is therefore no net increase in social rented housing when they are bought by the local authority, because they would have been social rent homes anyway, albeit with housing association landlords, not council landlords.  Southwark is also using resources that could be used to build or maintain truly additional social rented housing, on top of what developers have to provide in any event.
 
-Southwark also includes 57 social rented homes in the New Almshouse, 94-116 Southwark Park Road, otherwise known as [Appleby Blue](https://www.ustsc.org.uk/almshouses/new-almshouse/).  These are attactive, well-designed new homes, owned by charity Unitied St Saviours for over-65s, who have lived at least 3 years in Southwark and are in owned by charity [United St Saviours](https://www.ustsc.org.uk/),   A minimum of three years’ residency in Southwark.\
-Financial Need: Demonstrable financial need and eligibility for charitable support. 
+Southwark also includes 57 social rented homes in the New Almshouse, 94-116 Southwark Park Road, otherwise known as [Appleby Blue](https://www.ustsc.org.uk/almshouses/new-almshouse/).  These attactive, well-designed new homes, owned by charity [Unitied St Saviours](https://www.ustsc.org.uk/), are for over-65s, who have lived at least 3 years in Southwark and are in *'Demonstrable financial need and eligibility for charitable support',* so not council housing. 
 
 ### The cost of scrapping schemes
 

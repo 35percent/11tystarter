@@ -37,6 +37,8 @@ The Tustin regeneration was approved by residents by ballot and will provide mor
 
 Inside Housing recently reported on figures supplied by Southwark Council in response to FOI requests.....
 
+<https://www.insidehousing.co.uk/news/news/exclusive-three-london-councils-scrapped-at-least-240m-worth-of-social-housing-last-year-87902 >
+
 #### What we think – 50% must become the new minimum
 
 We need a council house building programme because the private sector has failed to provide us with enough affordable housing.  According to the Southwark Plan 2022 only 8% of the borough’s households can afford free-market housing, yet 65% of the new housing on private developments is exactly that – free-market.

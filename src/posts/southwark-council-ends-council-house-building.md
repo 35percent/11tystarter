@@ -1,5 +1,5 @@
 ---
-title: "Southwark Council ends council house building "
+title: Southwark’s new council homes are welcome, but a lot are being demolished too
 description: "Council to fulfill 11,000 council home pledge through DPAs "
 date: 2024-08-09T16:55:10.448Z
 ---

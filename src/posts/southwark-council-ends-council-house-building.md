@@ -33,7 +33,7 @@ The Tustin regeneration was approved by residents by ballot and will provide mor
 
 ### Ledbury estate
 
-'Serious structural and fire safety issues' had found in (the) four tower blocks of Ledbury estate - Bromyard House, Skenfirth House, Sarnsfield House and Peterchurch House.
+*'Serious structural and fire safety issues'* had been found in (the) four tower blocks of Ledbury estate - Bromyard House, Skenfirth House, Sarnsfield House and Peterchurch House - according to the [officer report](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) that secured planning permission for their demolition, in June 2022.
 
 .......to be added
 

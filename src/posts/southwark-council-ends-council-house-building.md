@@ -9,7 +9,7 @@ The figures were given in an [update report](<https://moderngov.southwark.gov.uk
 
 #### Southwark demolish over 4,000 social rented homes
 
-The figures reported for council homes built or started does not give the full picture though.  They take no account of the numbers that are being demolished and, according to a [London Tenant Federation (LTF) analysis](https://londontenants.org/publication/23000-social-rented-homes-were-demolished-in-london-over-the-last-ten-years-2012-2022/), Southwark is demolishing more council homes than any other London borough, bar one.
+[The figures reported for council homes built or started](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf) does not give the full picture though.  They take no account of the numbers that are being demolished and, according to a [London Tenant Federation (LTF) analysis](https://londontenants.org/publication/23000-social-rented-homes-were-demolished-in-london-over-the-last-ten-years-2012-2022/), Southwark is demolishing more council homes than any other London borough, bar one.
 
 The LTF found that Southwark Council has demolished 4,382 social rented-homes between 2012 and 2022. This is 19% of the 22,892 total number of social rent homes demolished in London over that decade.  Only one other borough had demolished more (Ealing – 4,986).  Nearly 70% of the total demolitions were in just seven boroughs, including Southwark.  (LTF table screenshot)
 
@@ -41,7 +41,9 @@ In 2017 *'serious structural and fire safety issues'* were found in the four tow
 
 224 homes are to be demolished in Bromyard House, Skenfirth House, Sarnsfield House and Peterchurch House and 340 new homes built in their place.  209 of the demolished homes are council homes, to be replaced by 260 new council homes (social rent), an increase of 51 homes.  Southwark Council list the redevelopment as delivering 260 social rent units, but without noting the those that are being demolished.
 
-The 'Ledbury Towers' scheme is also described by Southwark as being 'On site' (SCREENSHOT).  While the whole scheme has planning permission, it is divided into two sites and building work is only happening on the first, smaller Bromyard site , which will deliver xx units.  Work on the second site is not due to begin until yyyy (SCREENSHOT)
+The 'Ledbury Towers' scheme is also [described by Southwark as being 'On site](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf)' (SCREENSHOT).  While the whole scheme has planning permission, it is divided into two sites and building work is only happening on the first, smaller Bromyard site , which will deliver xx units.  Work on the second site is not due to begin until yyyy (SCREENSHOT)
+
+![](img/cabinet_report_new_homes_update_appendix_1_excerpt_220724_22_08_2024-12_57_20.png)
 
 
 

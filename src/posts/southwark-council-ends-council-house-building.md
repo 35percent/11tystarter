@@ -47,8 +47,6 @@ The 'Ledbury Towers' scheme is also [described by Southwark as being 'On site](h
 
 ![](img/cabinet_report_new_homes_update_appendix_1_excerpt_220724_22_08_2024-12_57_20.png)
 
-
-
 Lke the Tustin, the regeneration of the Ledbury estate was approved by the estate residents in a ballot and will provide more and better quality social rented housing.  But also like the Tustin, Southwark is flattering its acheivement by not taking account of the social housing that has been demolished and is also getting ahead of itself by claiming they are all 'on site', when most of the development has not yet begun.
 
 ### What's wrong with s106 purchases?
@@ -75,11 +73,9 @@ Measured against the number of completed social rented units, the 992 demolished
 
 ![](img/table_gains_in_social_rented_homes_aylesbury_tustin_ledbury_220824.pdf-adobe-acrobat-reader-64-bit-22_08_2024-16_55_31.png)
 
- 
-
-
-
 (TABLE - The gains in social rented homes)
+
+If the 252 social rented homes purchased from s106 contributions from private developments are also discounted against the against the whole programme of completed and on site units, then the number of council homes onsite or completed is reduced further to 1,813 and the number completed to just 242.
 
 If the s106 purchases are also discounted then the number of council homes onsite or completed is reduced further to xxxxxx and the number completed to yyyyy.
 

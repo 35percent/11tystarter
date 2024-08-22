@@ -23,7 +23,7 @@ The London Tenant Federation found that Southwark Council has demolished 4,382 s
 
 A close look at the list homes built [under the council house building programme](<https://moderngov.southwark.gov.uk/documents/s121470/Appendix 1 Southwark Construction New homes programme scheme list.pdf>) that accompanies the update report supports the LTF analysis.  According to this appendix nearly 40% of the new social housing comes from just three estate regeneration sites, with substantial demolition of council housing – the Aylesbury, the Tustin and the Ledbury estates.
 
-The Aylesbury is listed as delivering 581 social rent, on two sites, the Tustin 220 and the Ledbury 260 - 1,061 new social rent homes in total.
+The Aylesbury is listed as delivering 581 social rent, on two sites, with the Tustin providing 220 and the Ledbury 260 - 1,061 new social rent homes in total.
 
 #### The Aylesbury FDS
 

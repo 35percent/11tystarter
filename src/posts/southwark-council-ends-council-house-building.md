@@ -11,7 +11,7 @@ The figures were given in an [update report](<https://moderngov.southwark.gov.uk
 
 Also, the 1,486 figure for completed social rented homes is inflated by the purchase of nearly 250 social rented homes from private developments, purchases which do not increase the total number of social rented housing in the borough, but simply transfer them from one landlord to another.
 
-When these two factors are included in the calculations the numbers for both the number of social rent homes started and those completed are drastically reduced.
+When these two factors are included in the calculations the numbers for both the number of social rent homes started and those completed in the new homes programme are drastically reduced.
 
 #### Southwark demolish over 4,000 social rented homes
 

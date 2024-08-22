@@ -15,9 +15,13 @@ The LTF found that Southwark Council has demolished 4,382 social rented-homes be
 
 ![](img/demolitions_london_2012_22_table_pdf_-090824_edit.png "London Tenant’s Federation table of delivery and loss of social-rented homes in London 2012-2022.")
 
-#### The homes demolished on the Aylesbury FDS
+#### Estate regeneration.... and demolition
 
 A close look at the list homes built [under the council house building programme](<https://moderngov.southwark.gov.uk/documents/s121470/Appendix 1 Southwark Construction New homes programme scheme list.pdf>) that accompanies the update report supports the LTF analysis.  According to this appendix nearly 40% of the new social housing comes from just three estate regeneration sites, with substantial demolition of council housing – the Aylesbury, the Tustin and the Ledbury estates.
+
+The Aylesbury is listed as delivering 581 social rent, on two sites, the Tustin 220 and the Ledbury 260 - 1,061 new homes in total.
+
+#### On the Aylesbury FDS
 
 Two adjoining Aylesbury sites will deliver 581 council homes between them (FDS Package A and FDS Package B).  There will be a further 55 social rented units on FDS  Package C .  However, 692 homes were demolished on the FDS site to allow for this; 595 of these were council homes.
 
@@ -34,6 +38,18 @@ The Tustin regeneration was approved by residents by ballot and will provide mor
 ### Ledbury estate
 
 *'Serious structural and fire safety issues'* had been found in (the) four tower blocks of Ledbury estate - Bromyard House, Skenfirth House, Sarnsfield House and Peterchurch House - according to the [officer report](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) that secured planning permission for their demolition, in June 2022.
+
+All four blocks are to be demolished, losing 224 homes, and 340 new homes built in their place.  209 of the demolished homes are council homes, to be replaced by 260 new council homes (social rent), an increase of 51 homes.
+
+The 
+
+
+
+
+
+The redevelopment is on two sites
+
+Ballot
 
 .......to be added
 

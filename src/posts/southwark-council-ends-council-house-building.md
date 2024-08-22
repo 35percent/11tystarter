@@ -33,6 +33,8 @@ The Tustin regeneration was approved by residents by ballot and will provide mor
 
 ### Ledbury estate
 
+'Serious structural and fire safety issues' had found in (the) four tower blocks of Ledbury estate - Bromyard House, Skenfirth House, Sarnsfield House and Peterchurch House.
+
 .......to be added
 
 ### What's wrong with s106 purchases?

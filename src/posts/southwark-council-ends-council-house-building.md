@@ -25,7 +25,7 @@ The Aylesbury is listed as delivering 581 social rent, on two sites, the Tustin 
 
 The Aylesbury will deliver its 581 council homes on two sites - FDS Package A and FDS Package B.  However, fout blocks (Arklow, Bradenham,  Chartridge and Chiltern) and 566 homes were demolished on the FDS site to allow for this and 501 of the demolished homes were council homes.
 
-(NB There will be a further 55 social rented units built on FDS Package C, where a total of 53 homes were demolished, including 41 council homes (1-41 Bradenham, 1-12 Red Lion Row).  FDS Package C is not included in the New Homes prgramme).
+(NB There will be a further 55 social rented units built on FDS Package C, where a total of 53 homes were demolished, including 41 council homes (1-41 Bradenham, 1-12 Red Lion Row).  FDS Package C is not included in the New Homes programme).
 
 ![]( "Sources – Officer report, 07-CO-0046, Planning committee, 5 June 2007; Executive report Aylesbury Phase 1 Compulsory Purchase Orders, 9 Feb 2010")
 

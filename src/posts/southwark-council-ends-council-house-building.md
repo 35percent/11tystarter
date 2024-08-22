@@ -21,21 +21,21 @@ A close look at the list homes built [under the council house building programme
 
 The Aylesbury is listed as delivering 581 social rent, on two sites, the Tustin 220 and the Ledbury 260 - 1,061 new social rent homes in total.
 
-#### On the Aylesbury FDS
+#### The Aylesbury FDS
 
 The Aylesbury sites (FDS Package A and FDS Package B) sites will deliver 581 council homes between them .  There will be a further 55 social rented units on FDS  Package C .  However, 619 homes were demolished on the FDS site to allow for this - in Bradenham, Red Lion Row, Arklow, Chartridge and Chiltern and 595 of these homes were council homes.
 
 ![](img/table_demolished_on_the_aylesbury_fds_220824.pdf-adobe-acrobat-reader-64-bit-22_08_2024-11_06_23.png "Sources – Officer report, 07-CO-0046, Planning committee, 5 June 2007; Executive report Aylesbury Phase 1 Compulsory Purchase Orders, 9 Feb 2010")
 
-### Tustin On-site?
+### The Tustin estate
 
-On the Tustin estate Bowness House, Heversham House, Kentmere House and Hillbeck Close are all earmarked for demolition.  This will [lose 202 council homes](<https://moderngov.southwark.gov.uk/documents/s107929/Report Tustin Estate land bounded by Manor Grove Ilderton Road Hillbeck Close Old Kent Road SE15.pdf>), with 355 social rent built in their place, giving an ‘uplift’ of 153 social rent homes . There will also be 115 intermediate and 220 free market homes, giving a total of 690.
+On the Tustin estate Bowness House, Heversham House, Kentmere House and Hillbeck Close are all earmarked for demolition.  This will [lose 202 council homes](<https://moderngov.southwark.gov.uk/documents/s107929/Report Tustin Estate land bounded by Manor Grove Ilderton Road Hillbeck Close Old Kent Road SE15.pdf>), with 355 social rent built in their place, giving an ‘uplift’ of 153 social rent homes. There will also be 115 intermediate and 220 free market homes, giving a total of 690.
 
-But while the scheme is described as being ‘on site’, this is only practically true of Phase 1 of the four-phase development.    An examination of Southwark’s planning register shows that while all the phases have an outline planning permission, only [Phase 1 has a full detailed planning permission](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=64449). Phases 2, 3 and 4 still need these vital approvals.  Most of the 690 new homes will be delivered on these later phases (523 homes); Phase 1 will deliver 167 units, including 157 ‘affordable’ homes. 
+But while the scheme is described by Southwark Council as being ‘on site’, this is only practically true of Phase 1 of the four-phase development.    An examination of Southwark’s planning register (CHECK) shows that while all the phases have an outline planning permission, only [Phase 1 has a full detailed planning permission](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=64449). Phases 2, 3 and 4 still need these vital approvals.  Most of the 690 new homes will be delivered on these later phases (523 homes); Phase 1 will deliver 167 units, including 157 ‘affordable’ homes. 
 
 The Tustin regeneration was approved by residents by ballot and will provide more and better quality social rented housing.  But counting them all now and without taking account of the social housing lost is inaccurate and premature.
 
-### Ledbury estate
+### The Ledbury estate
 
 In 2017 *'serious structural and fire safety issues'* were found in the four tower blocks of Ledbury estate, according to the [officer report](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) that secured planning permission for their demolition, in June 2022.
 

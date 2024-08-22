@@ -27,7 +27,7 @@ The Aylesbury will deliver its 581 council homes on two sites - FDS Package A an
 
 (NB There will be a further 55 social rented units built on FDS Package C, where a total of 53 homes were demolished, including 41 council homes (1-41 Bradenham, 1-12 Red Lion Row).  FDS Package C is not included in the New Homes programme).
 
-![]( "Sources – Officer report, 07-CO-0046, Planning committee, 5 June 2007; Executive report Aylesbury Phase 1 Compulsory Purchase Orders, 9 Feb 2010")
+![](img/table_demolished_on_the_aylesbury_fds_220824.pdf_22_08_2024-16_25_16.png "Sources – Officer report, 07-CO-0046, Planning committee, 5 June 2007; Executive report Aylesbury Phase 1 Compulsory Purchase Orders, 9 Feb 2010")
 
 ### The Tustin estate
 

@@ -25,7 +25,7 @@ The Aylesbury is listed as delivering 581 social rent, on two sites, the Tustin 
 
 The Aylesbury sites (FDS Package A and FDS Package B) sites will deliver 581 council homes between them .  There will be a further 55 social rented units on FDS  Package C .  However, 619 homes were demolished on the FDS site to allow for this - in Bradenham, Red Lion Row, Arklow, Chartridge and Chiltern and 595 of these homes were council homes.
 
-![](img/table_demolished_on_the_aylesbury_fds_220824.pdf-adobe-acrobat-reader-64-bit-22_08_2024-11_06_23.png "Sources – Officer report, 07-CO-0046, Planning committee, 5 June 2007; Executive report Aylesbury Phase 1 Compulsory Purchase Orders, 9 Feb 2010")
+![]( "Sources – Officer report, 07-CO-0046, Planning committee, 5 June 2007; Executive report Aylesbury Phase 1 Compulsory Purchase Orders, 9 Feb 2010")
 
 ### The Tustin estate
 
@@ -65,7 +65,13 @@ Inside Housing recently reported on figures supplied by Southwark Council in res
 
 ### The upshot....
 
-If the demolitions we have noted above are taken into account it means that Southwark's council housing programme has xxxxx council homes either onsite or completed, not 3,057.  It also reduces the number actually completed from 1,486 to yyyy.
+ A total of 1021 social rented homes have been demolished on the Aylesbury FDS and the Tustin and Ledbury redevelopments.  Against this, 1196 new social rented homes will be built to replace them.  This means that there is a net gain of just 175 social rented homes across these three big sites.
+
+Measured against the whole programme of completed and on site units, the 1,021 demolished homes reduces the total number of 3,057 social rented units to **2,061**. 
+
+Measured against the number of completed social rented units, the 1,021 demolished homes reduces the number of completed social rent homes to just **465**.  
+
+(TABLE - The gains in social rented homes)
 
 If the s106 purchases are also discounted then the number of council homes onsite or completed is reduced further to xxxxxx and the number completed to yyyyy.
 

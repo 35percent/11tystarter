@@ -67,11 +67,13 @@ Inside Housing recently reported on figures supplied by Southwark Council in res
 
 ### The upshot....
 
- A total of 1021 social rented homes have been demolished on the Aylesbury FDS and the Tustin and Ledbury redevelopments.  Against this, 1196 new social rented homes will be built to replace them.  This means that there is a net gain of just 175 social rented homes across these three big sites.
+ A total of 992 social rented homes have been demolished on the Aylesbury FDS Package A and B sites and the Tustin and Ledbury redevelopments.  Against this, 1,196 new social rented homes will be built to replace them.  This means that there is a net gain of just **204** social rented homes across these three big sites.
 
-Measured against the whole programme of completed and on site units, the 1,021 demolished homes reduces the total number of 3,057 social rented units to **2,061**. 
+Measured against the whole programme of completed and on site units, the 992 demolished homes reduces the total number of 3,057 social rented units to **2,065**. 
 
-Measured against the number of completed social rented units, the 1,021 demolished homes reduces the number of completed social rent homes to just **465**.  
+Measured against the number of completed social rented units, the 992 demolished homes reduces the number of 1,486 completed social rent homes to just **494**.  
+
+
 
 (TABLE - The gains in social rented homes)
 

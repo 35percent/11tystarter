@@ -73,7 +73,7 @@ Measured against the whole programme of completed and on site units, the 992 dem
 
 Measured against the number of completed social rented units, the 992 demolished homes reduces the number of 1,486 completed social rent homes to just **494**.
 
-![](img/table_demolished_on_the_aylesbury_fds_220824.pdf_22_08_2024-16_25_16.png)
+![](img/table_gains_in_social_rented_homes_aylesbury_tustin_ledbury_220824.pdf-adobe-acrobat-reader-64-bit-22_08_2024-16_55_31.png)
 
  
 

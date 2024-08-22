@@ -47,11 +47,7 @@ The 'Ledbury Towers' scheme is also [described by Southwark as being 'On site](h
 
 
 
-The redevelopment is on two sites
-
-Ballot
-
-.......to be added
+Lke the Tustin, the regeneration of the Ledbury estate was approved by the estate residents in a ballot and will provide more and better quality social rented housing.  But also like the Tustin, Southwark is flattering its acheivement by not taking account of the social housing that has been demolished and is ahead of itself by claiming they are all 'on site', when most of the deevelopment has not yet begun.
 
 ### What's wrong with s106 purchases?
 

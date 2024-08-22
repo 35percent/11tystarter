@@ -75,7 +75,7 @@ Measured against the number of completed social rented units, the 992 demolished
 
 (TABLE - The gains in social rented homes)
 
-If the 252 social rented homes purchased from s106 contributions from private developments are also discounted against the against the whole programme of completed and on site units, then the number of council homes onsite or completed is reduced further to 1,813 and the number completed to just **242**.
+If the 252 social rented homes purchased from s106 contributions from private developments are also discounted against the against the whole programme of completed and on site units, then the number of council homes onsite or completed is reduced further to **1,813** and the number completed to just **242**.
 
 
 

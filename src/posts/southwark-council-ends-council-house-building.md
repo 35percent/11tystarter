@@ -71,7 +71,11 @@ Inside Housing recently reported on figures supplied by Southwark Council in res
 
 Measured against the whole programme of completed and on site units, the 992 demolished homes reduces the total number of 3,057 social rented units to **2,065**. 
 
-Measured against the number of completed social rented units, the 992 demolished homes reduces the number of 1,486 completed social rent homes to just **494**.  
+Measured against the number of completed social rented units, the 992 demolished homes reduces the number of 
+
+![](img/table_demolished_on_the_aylesbury_fds_220824.pdf_22_08_2024-16_25_16.png)
+
+1,486 completed social rent homes to just **494**.  
 
 
 

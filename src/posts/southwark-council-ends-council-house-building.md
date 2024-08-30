@@ -13,7 +13,7 @@ The figures were given in an [update report](<https://moderngov.southwark.gov.uk
 
 [The figures reported for council homes built or started](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf) does not give the full picture though.  They take no account of the numbers of council homes that are being demolished and, according to a [London Tenant Federation (LTF) analysis](https://londontenants.org/publication/23000-social-rented-homes-were-demolished-in-london-over-the-last-ten-years-2012-2022/), Southwark is demolishing more council homes than any other London borough, bar one.
 
-Also, the 1,486 figure for completed social rented homes is inflated by the purchase of nearly 250 social rented homes from private developments, purchases which do not increase the total number of social rented housing in the borough, but simply transfer them from one landlord to another.
+Also, the 1,486 figure for completed social rented homes is boosted by the purchase of nearly 250 social rented homes from private developments, purchases which do not increase the total number of social rented housing in the borough, but simply transfer them from one landlord to another.
 
 When these two factors are included in the calculations the numbers for both the number of social rent homes started and those completed in the new homes programme are drastically reduced.
 

@@ -87,7 +87,7 @@ Measured against the number of completed social rented units, the 992 demolished
 
 If the 252 social rented homes purchased from s106 contributions from private developments are also discounted against the against the whole programme of completed and on-site units, then the number of council homes onsite or completed is reduced further to **1,813** and the number completed to just **242**.
 
-This does not take into account big loses of council housing elswhere in Southwark eg on th Heygate and Silwood estates.
+This does not take into account big loses of council housing elsewhere in Southwark eg on th Heygate and Silwood estates.
 
 ### What we think – 50% must become the new minimum
 

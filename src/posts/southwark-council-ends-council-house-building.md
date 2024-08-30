@@ -71,7 +71,7 @@ Southwark Council says it has competed 1,486 council homes, up to May 2024. This
 
 Measured agains the whole of Southwark's council house building programme, the 992 demolished homes reduces the number of **completed social rent homes** from 1,486 to just **494**.
 
-Measured against the **completed and on-site units** the 992 demolished homes reduces the total number of 3,057 social rented units to **2,065** across the whole programme.
+Measured against both the **completed and homes not-yet-completed**, the 992 demolished homes reduces the total number of social rented units from 3,057 to **2,065**.
 
 ![](img/table_gains_in_social_rented_homes_aylesbury_tustin_ledbury_220824.pdf-adobe-acrobat-reader-64-bit-22_08_2024-16_55_31.png)
 

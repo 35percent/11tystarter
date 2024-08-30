@@ -77,7 +77,7 @@ Measured against both the **completed and homes not-yet-completed**, the 977 dem
 
 If the 252 social rented homes purchased from s106 contributions from private developments are also discounted against the against the whole programme of completed and on-site units, then the number of council homes onsite or completed is reduced further to **1,828** and the number completed to just **257**.
 
-This does not take into account big loses of council housing elsewhere in Southwark eg on the Heygate and Silwood estates.
+This does not take into account big loses of council housing elsewhere in Southwark eg [on the Heygate](https://35percent.github.io/heygate-regeneration/) and [Silwood estates](https://www.35percent.org/silwood-regeneration/).
 
 ### What we think – 50% must become the new minimum
 

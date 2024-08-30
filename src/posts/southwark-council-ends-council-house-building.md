@@ -31,7 +31,7 @@ These are the Aylesbury, Tustin and Ledbury estates and between them they will d
 
 #### The Aylesbury FDS
 
-The Aylesbury will deliver its 581 council homes on two sites - FDS Package A and FDS Package B.  However, four blocks (Arklow, Bradenham,  Chartridge and Chiltern) and 566 homes were demolished on the FDS site to allow for this and 501 of the demolished homes were council homes.
+The Aylesbury will deliver its 581 council homes on two sites - FDS Package A and FDS Package B.  However, 566 homes in four blocks (Arklow, Bradenham,  Chartridge and Chiltern) on the FDS site to allow for this and 501 of the demolished homes were council homes.
 
 (NB There will be a further 55 social rented units built on FDS Package C, where a total of 53 homes were demolished, including 41 council homes (1-41 Bradenham, 1-12 Red Lion Row).  FDS Package C is not included in the New Homes programme).
 

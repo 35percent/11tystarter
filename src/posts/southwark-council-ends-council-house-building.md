@@ -63,7 +63,7 @@ As well as the estate regeneration schemes, Southwark has included 252 social re
 
 These affordable units increase the amount of affordable housing in the borough and are vital to increasing social housing, in the absence of enough council-built social housing.  They are usually bought from private developers by housing associations, though, not local councils.  There is therefore no net increase in social rented housing when they are bought by the local authority, because they would have been social rent homes anyway, albeit with housing association landlords, not council landlords.  Southwark is also using its own resources to provide social housing that could have been paid for by housing associations, money that could be used to build or maintain truly additional social rented housing.
 
-Aside from s106 purchases, Southwark also includes 57 social rented homes in the New Almshouse, 94-116 Southwark Park Road, otherwise known as [Appleby Blue](https://www.ustsc.org.uk/almshouses/new-almshouse/).  These attractive, well-designed new homes, owned by charity [Unitied St Saviours](https://www.ustsc.org.uk/), are for over-65s, who have lived at least 3 years in Southwark and are in *['Demonstrable financial need and eligibility for charitable support',](https://www.ustsc.org.uk/2796-2/)* so they are not council housing. 
+Aside from s106 purchases, Southwark also includes 57 social rented homes in the New Almshouse, 94-116 Southwark Park Road, otherwise known as [Appleby Blue](https://www.ustsc.org.uk/almshouses/new-almshouse/).  These attractive, well-designed new homes, owned by charity [United St Saviours](https://www.ustsc.org.uk/), are for over-65s, who have lived at least 3 years in Southwark and are in *['Demonstrable financial need and eligibility for charitable support',](https://www.ustsc.org.uk/2796-2/)* so they are not council housing. 
 
 ### The cost of scrapping schemes
 
@@ -73,7 +73,7 @@ Inside Housing recently reported on figures supplied by Southwark Council in res
 
 ### The upshot....
 
-Southwark Council says it has competed 1,486 council homes, up to May 2024 (CHECK).  This may be true, but it takes no accound of those it has had to demolish to do this.
+Southwark Council says it has competed 1,486 council homes, up to May 2024 (CHECK).  This may be true, but it takes no account of those it has had to demolish to do this.
 
 Over two-thirds of the new council homes are from council regenerations, on the Aylesbury FDS, the Tustin and Ledbury, where a total of **992 council homes have been demolished**.  Against this, **1,196 new social rented homes will be built** to replace them.  This means that there is a **net gain of just 204 social rented homes** across these three big sites.
 

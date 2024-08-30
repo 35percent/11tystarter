@@ -63,13 +63,7 @@ These affordable units increase the amount of affordable housing in the borough 
 
 Aside from s106 purchases, Southwark also includes 57 social rented homes in the New Almshouse, 94-116 Southwark Park Road, otherwise known as [Appleby Blue](https://www.ustsc.org.uk/almshouses/new-almshouse/).  These attractive, well-designed new homes, owned by charity [United St Saviours](https://www.ustsc.org.uk/), are for over-65s and are in *['Demonstrable financial need and eligibility for charitable support',](https://www.ustsc.org.uk/2796-2/)* so it is hard to see how they qualify as council housing. 
 
-### The cost of scrapping schemes
-
-Inside Housing recently reported on figures supplied by Southwark Council in response to FOI requests.....
-
-<https://www.insidehousing.co.uk/news/news/exclusive-three-london-councils-scrapped-at-least-240m-worth-of-social-housing-last-year-87902 >
-
-### The upshot....
+### A summary
 
 Southwark Council says it has competed 1,486 council homes, up to May 2024 (CHECK).  This may be true, but it takes no account of those it has had to demolish to do this.
 

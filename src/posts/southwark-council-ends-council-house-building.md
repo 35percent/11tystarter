@@ -11,7 +11,7 @@ The figures were given in an [update report](<https://moderngov.southwark.gov.uk
 
 ### A fuller picture
 
-[The figures reported for council homes built or started](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf) does not give the full picture though.  They take no account of the numbers of council homes that are being demolished and, according to a [London Tenant Federation (LTF) analysis](https://londontenants.org/publication/23000-social-rented-homes-were-demolished-in-london-over-the-last-ten-years-2012-2022/), Southwark is demolishing more council homes than any other London borough, bar one.
+[The figures reported as council homes built or started](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf) does not give the full picture though.  They take no account of the numbers of council homes that are being demolished and, according to a [London Tenant Federation (LTF) analysis](https://londontenants.org/publication/23000-social-rented-homes-were-demolished-in-london-over-the-last-ten-years-2012-2022/), Southwark is demolishing more council homes than any other London borough, bar one.
 
 Also, the 1,486 figure for completed social rented homes is boosted by the purchase of nearly 250 social rented homes from private developments, purchases which do not increase the total number of social rented housing in the borough, but simply transfer them from one landlord to another.
 
@@ -87,7 +87,7 @@ Measured against the number of completed social rented units, the 992 demolished
 
 If the 252 social rented homes purchased from s106 contributions from private developments are also discounted against the against the whole programme of completed and on-site units, then the number of council homes onsite or completed is reduced further to **1,813** and the number completed to just **242**.
 
-This does not take into account big loses of council housing elsewhere in Southwark eg on th Heygate and Silwood estates.
+This does not take into account big loses of council housing elsewhere in Southwark eg on the Heygate and Silwood estates.
 
 ### What we think – 50% must become the new minimum
 

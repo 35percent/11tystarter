@@ -5,7 +5,9 @@ date: 2024-08-09T16:55:10.448Z
 ---
 Southwark Council recently [ended the ‘direct delivery’ of new council housing](https://southwarknews.co.uk/area/southwark/council-says-it-must-stop-building-its-own-homes-and-rely-on-developers-instead/), the main strand of its council house buildiing programme.  At the same time it announced that it had started to build 3,057 council homes, and completed 1,486.
 
-The figures were given in an [update report](<https://moderngov.southwark.gov.uk/documents/s121469/Report Southwarks New Homes Programme Update.pdf>) to the Council Cabinet meeting on 22 July.  The report also says that 312 intermediate homes and 495 private homes are under construction, with 134 intermediate and 130 private homes completed .  Southwark’s target was to have at least 2,500 council homes built or under construction by 2022.   It will now rely upon private developments to fulfil a 2013 pledge to build 11,000 new council homes by 2043.
+Southwark’s target was to have at least 2,500 council homes built or under construction by 2022.   It will now rely upon private developments to fulfil a 2013 pledge to build 11,000 new council homes by 2043.
+
+The figures were given in an [update report](<https://moderngov.southwark.gov.uk/documents/s121469/Report Southwarks New Homes Programme Update.pdf>) to the Council Cabinet meeting on 22 July.  The report also says that 312 intermediate homes and 495 private homes are under construction, with 134 intermediate and 130 private homes completed .  
 
 [The figures reported for council homes built or started](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf) does not give the full picture though.  They take no account of the numbers that are being demolished and, according to a [London Tenant Federation (LTF) analysis](https://londontenants.org/publication/23000-social-rented-homes-were-demolished-in-london-over-the-last-ten-years-2012-2022/), Southwark is demolishing more council homes than any other London borough, bar one.
 

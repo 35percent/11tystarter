@@ -43,7 +43,7 @@ On the Tustin estate Bowness House, Heversham House, Kentmere House and Hillbeck
 
 But while the scheme is described by Southwark Council as being ‘on site’, in practice. this is only true of Phase 1 of  which will have 167 units, including 157 'affordable' homes.    An examination of Southwark’s planning register (CHECK) shows that while all the four phases have an outline planning permission, only [Phase 1 has a full detailed planning permission](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=64449).  Phases 2, 3 and 4 do not yet have these vital approvals and that is where most of the new homes will be, providing 523 of the 690 newhomes.
 
-The Tustin regeneration was approved by residents by ballot and will provide more and better quality social rented housing.  But counting them all now and without taking account of the social housing lost is inaccurate and premature.
+The Tustin regeneration was approved by residents by ballot and will provide more and better quality social rented housing.  But counting them all now,  without taking account of the social housing lost is inaccurate and premature.
 
 ### The Ledbury estate
 

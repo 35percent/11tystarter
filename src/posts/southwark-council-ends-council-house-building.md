@@ -3,7 +3,7 @@ title: Southwark’s new council homes are welcome, but a lot are being demolish
 description: "Council to fulfil 11,000 council home pledge through 'develolpment DPAs "
 date: 2024-08-09T16:55:10.448Z
 ---
-Southwark Council recently [ended the ‘direct delivery’ of new council housing](https://southwarknews.co.uk/area/southwark/council-says-it-must-stop-building-its-own-homes-and-rely-on-developers-instead/), the main strand of its council house building programme.  At the same time it announced that it had started to build 3,057 council homes, and completed 1,486.
+Southwark Council recently [ended the ‘direct delivery’ of new council housing](https://southwarknews.co.uk/area/southwark/council-says-it-must-stop-building-its-own-homes-and-rely-on-developers-instead/), the main strand of its council house building programme.  At the same time, the Council announced that it had started to build 3,057 council homes, and completed 1,486.
 
 Southwark’s target was to have at least 2,500 council homes built or under construction by 2022.   It will now rely upon private developments to fulfil a 2013 pledge to build 11,000 new council homes by 2043.
 
@@ -25,7 +25,7 @@ The London Tenant Federation found that Southwark Council has demolished 4,382 s
 
 ### Estate regenerationand estate demolition
 
-A close look at the list homes built [under the council house building programme](<https://moderngov.southwark.gov.uk/documents/s121470/Appendix 1 Southwark Construction New homes programme scheme list.pdf>) that accompanies the update report supports the LTF analysis.  According to this appendix nearly 40% of the new social housing comes from just three estate regeneration sites, where large number of council home are being demolished.– the Aylesbury, the Tustin and the Ledbury estates.
+A close look at the list homes built [under the council house building programme](<https://moderngov.southwark.gov.uk/documents/s121470/Appendix 1 Southwark Construction New homes programme scheme list.pdf>) that accompanies the update report supports the LTF analysis.  According to this appendix nearly 40% of the new social housing comes from just three estate regeneration sites, where large number of council home are being demolished – the Aylesbury, the Tustin and the Ledbury estates.
 
 These are the Aylesbury, Tustin and Ledbury estates and between them they will deliver 1,061 new social rent homes in total.  The Aylesbury is listed as providing 581 social rent, with the Tustin providing 220 and the Ledbury 260.
 

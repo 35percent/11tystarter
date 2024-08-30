@@ -3,7 +3,7 @@ title: Southwark’s new council homes are welcome, but a lot are being demolish
 description: "Council to fulfill 11,000 council home pledge through DPAs "
 date: 2024-08-09T16:55:10.448Z
 ---
-When Southwark Council recently [ended the ‘direct delivery’ of new council housing](https://southwarknews.co.uk/area/southwark/council-says-it-must-stop-building-its-own-homes-and-rely-on-developers-instead/), the main strand of its council house building programme, it also announced that 3,057 council homes had been started (up to May 2024), of which 1,486 were complete.
+Southwark Council recently [ended the ‘direct delivery’ of new council housing](https://southwarknews.co.uk/area/southwark/council-says-it-must-stop-building-its-own-homes-and-rely-on-developers-instead/), the main strand of its council house buildiing programme.  At the same time it announced that it had started to build 3,057 council homes, and completed 1,486.
 
 The figures were given in an [update report](<https://moderngov.southwark.gov.uk/documents/s121469/Report Southwarks New Homes Programme Update.pdf>) to the Council Cabinet meeting on 22 July.  The report also says that 312 intermediate homes and 495 private homes are under construction, with 134 intermediate and 130 private homes completed .  Southwark’s target was to have at least 2,500 council homes built or under construction by 2022.   It will now rely upon private developments to fulfil a 2013 pledge to build 11,000 new council homes by 2043.
 
@@ -80,8 +80,6 @@ Measured against the number of completed social rented units, the 992 demolished
 (TABLE - The gains in social rented homes)
 
 If the 252 social rented homes purchased from s106 contributions from private developments are also discounted against the against the whole programme of completed and on site units, then the number of council homes onsite or completed is reduced further to **1,813** and the number completed to just **242**.
-
-
 
 This does not take into account big loses of council housing elswhere eg on th Heygate and Silwood estates.
 

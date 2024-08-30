@@ -73,7 +73,9 @@ Inside Housing recently reported on figures supplied by Southwark Council in res
 
 ### The upshot....
 
- A total of 992 social rented homes have been demolished on the Aylesbury FDS Package A and B sites and the Tustin and Ledbury redevelopments.  Against this, 1,196 new social rented homes will be built to replace them.  This means that there is a net gain of just **204** social rented homes across these three big sites.
+Southwark Council says it has competed 1,486 council homes, up to May 2024 (CHECK).  This may be true, but it takes no accound of those it has had to demolish to do this.
+
+Over two-thirds of the new council homes are from council regenerations, on the Aylesbury FDS, the Tustin and Ledbury, where a total of **992 council homes have been demolished**.  Against this, **1,196 new social rented homes will be built** to replace them.  This means that there is a **net gain of just 204 social rented homes** across these three big sites.
 
 Measured against the whole programme of completed and on site units, the 992 demolished homes reduces the total number of 3,057 social rented units to **2,065**. 
 
@@ -85,7 +87,7 @@ Measured against the number of completed social rented units, the 992 demolished
 
 If the 252 social rented homes purchased from s106 contributions from private developments are also discounted against the against the whole programme of completed and on site units, then the number of council homes onsite or completed is reduced further to **1,813** and the number completed to just **242**.
 
-This does not take into account big loses of council housing elswhere eg on th Heygate and Silwood estates.
+This does not take into account big loses of council housing elswhere in Southwark eg on th Heygate and Silwood estates.
 
 Southwark’s pledge to build 11,000 council homes was a laudable attempt to make up for a market failure, but it is boosting the figures in a way which just disguises the fact that it has been running just to stand still and now that it has ended direct delivery......what?
 
@@ -93,7 +95,7 @@ Southwark’s pledge to build 11,000 council homes was a laudable attempt to mak
 
 We need a council house building programme because the private sector has failed to provide us with enough affordable housing.  According to the Southwark Plan 2022 only 8% of the borough’s households can afford free-market housing, yet 65% of the new housing on private developments is exactly that – free-market.
 
-Southwark’s pledge to build 11,000 council homes was a laudable attempt to make up for this market failure.  To hope that the private sector will now take up the slack left by endiing direct delivery, with ‘development parnerships’ looks like wishful thinking.  The building industry’ problems that the two cabinet reports outline apply to the whole sector.  Developers will factor these into viability assessments, along with profit margins set by themselves, to deliver as little affordable and social rented housing as possible.
+Southwark’s pledge to build 11,000 council homes was a laudable attempt to make up for this market failure.  To hope that the private sector will now take up the slack left by ending direct delivery, with ‘development parnerships’ looks like wishful thinking.  The building industry’ problems that the two cabinet reports outline apply to the whole sector.  Developers will factor these into viability assessments, along with profit margins set by themselves, to deliver as little affordable and social rented housing as possible.
 
 Southwark are the lead signatories in an appeal by 20 councils to the new Labour government for more housing support. Whether or not this succeeds private developers must also begin to pull their weight.  We have been stuck on a minimum 35% affordable housing requirement for too long.  Southwark and the Mayor also have a ‘strategic’ target of 50%.  They must start to make this a reality and demand 50% affordable housing on every new development. They could begin with the new Aylesham and the Borough Triangle developments proposed by Berkeley Homes (check ‘Homes’).  Together they will deliver 1,600 new homes.  Southwark must demand that 800 should be affordable, with 70% social rented, if there is to be any credible chance of the private sector finally giving us the affordable housing we need.
 

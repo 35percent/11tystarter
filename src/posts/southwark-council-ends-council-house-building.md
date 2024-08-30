@@ -23,7 +23,7 @@ The London Tenant Federation found that Southwark Council has demolished 4,382 s
 
 ![](img/demolitions_london_2012_22_table_pdf_-090824_edit.png "London Tenant’s Federation table of delivery and loss of social-rented homes in London 2012-2022.")
 
-### Estate regeneration
+### Estate regenerationand estate demolition
 
 A close look at the list homes built [under the council house building programme](<https://moderngov.southwark.gov.uk/documents/s121470/Appendix 1 Southwark Construction New homes programme scheme list.pdf>) that accompanies the update report supports the LTF analysis.  According to this appendix nearly 40% of the new social housing comes from just three estate regeneration sites, where large number of council home are being demolished.– the Aylesbury, the Tustin and the Ledbury estates.
 
@@ -55,7 +55,7 @@ The 'Ledbury Towers' scheme is also [described by Southwark as being 'On site](h
 
 ![](img/cabinet_report_new_homes_update_appendix_1_excerpt_220724_22_08_2024-12_57_20.png)
 
-Lke the Tustin, the regeneration of the Ledbury estate was approved by the estate residents in a ballot and will provide more and better quality social rented housing.  But also like the Tustin, Southwark Coubcil is flattering the figures by not taking account of the social housing that has been demolished.  Southwark is also getting ahead of itself by claiming they are all 'on site', when most of the development has not yet begun.
+Like the Tustin, the regeneration of the Ledbury estate was approved by the estate residents in a ballot and will provide more and better quality social rented housing.  But also like the Tustin, Southwark Coubcil is flattering the figures by not taking account of the social housing that has been demolished.  Southwark is also getting ahead of itself by claiming they are all 'on site', when most of the development has not yet begun.
 
 ### What's wrong with s106 purchases?
 

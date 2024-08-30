@@ -17,19 +17,19 @@ Also, the 1,486 figure for completed social rented homes is boosted by the purch
 
 When these two factors are included in the calculations the numbers for both the number of social rent homes started and those completed in the new homes programme are drastically reduced.
 
-#### Southwark demolish over 4,000 social rented homes
+### Southwark demolish over 4,000 social rented homes
 
 The London Tenant Federation found that Southwark Council has demolished 4,382 social rented-homes between 2012 and 2022. This is 19% of the 22,892 total number of social rent homes demolished in London over that decade.  Only one other borough had demolished more (Ealing – 4,986).  Nearly 70% of the total demolitions were in just seven boroughs, including Southwark.  (LTF table screenshot)
 
 ![](img/demolitions_london_2012_22_table_pdf_-090824_edit.png "London Tenant’s Federation table of delivery and loss of social-rented homes in London 2012-2022.")
 
-#### Estate regeneration.... and demolition
+### Estate regeneration
 
 A close look at the list homes built [under the council house building programme](<https://moderngov.southwark.gov.uk/documents/s121470/Appendix 1 Southwark Construction New homes programme scheme list.pdf>) that accompanies the update report supports the LTF analysis.  According to this appendix nearly 40% of the new social housing comes from just three estate regeneration sites, where large number of council home are being demolished.– the Aylesbury, the Tustin and the Ledbury estates.
 
 These are the Aylesbury, Tustin and Ledbury estates and between them they will deliver 1,061 new social rent homes in total.  The Aylesbury is listed as providing 581 social rent, with the Tustin providing 220 and the Ledbury 260.
 
-#### The Aylesbury FDS
+### The Aylesbury FDS
 
 The Aylesbury will deliver its 581 council homes on two sites - FDS Package A and FDS Package B.  However, 566 homes in four blocks (Arklow, Bradenham,  Chartridge and Chiltern) on the FDS site to allow for this and 501 of the demolished homes were council homes.
 

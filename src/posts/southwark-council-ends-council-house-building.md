@@ -89,8 +89,6 @@ If the 252 social rented homes purchased from s106 contributions from private de
 
 This does not take into account big loses of council housing elswhere in Southwark eg on th Heygate and Silwood estates.
 
-Southwark’s pledge to build 11,000 council homes was a laudable attempt to make up for a market failure, but it is boosting the figures in a way which just disguises the fact that it has been running just to stand still and now that it has ended direct delivery......what?
-
 ### What we think – 50% must become the new minimum
 
 We need a council house building programme because the private sector has failed to provide us with enough affordable housing.  According to the Southwark Plan 2022 only 8% of the borough’s households can afford free-market housing, yet 65% of the new housing on private developments is exactly that – free-market.

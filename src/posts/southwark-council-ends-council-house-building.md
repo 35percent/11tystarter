@@ -109,4 +109,10 @@ Southwark is also taking a ‘portfolio’ approach to this, where some sites mi
 
 Only the net increase in homes will be included in the delivery of 11,000 homes. Routes to 11,000 pg 05 – so Aylesbury homes should not be included?
 Finance the first of our 2,500 new council homes through a Greater London Authority grant, other resources such as s106/RTB receipts, and the lifting of the HRA borrowing cap.  Routes to 11,000 pg 09
-Start to build more homes for private sale and other tenures to help pay for new council homes
+Start to build more homes for private sale and other tenures to help pay for new council homes.
+
+### The cost of scrapping schemes
+
+Inside Housing recently reported on figures supplied by Southwark Council in response to FOI requests.....
+
+<https://www.insidehousing.co.uk/news/news/exclusive-three-london-councils-scrapped-at-least-240m-worth-of-social-housing-last-year-87902 >

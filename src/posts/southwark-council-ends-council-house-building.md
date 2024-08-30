@@ -86,25 +86,3 @@ We need a council house building programme because the private sector has failed
 Southwark’s pledge to build 11,000 council homes was a laudable attempt to make up for this market failure, but it has only had limited success. Now that it is abandoning direct delivery, fulfilling that pledge by *‘utilise (-ing) development partners’* looks like wishful thinking. The building industry’ problems reported to the July cabinet meeting  apply to the whole sector. Developers will factor these into viability assessments, along with profit margins set by themselves, to deliver as little affordable and social rented housing as possible.
 
 Southwark are the lead signatories in an [appeal by 20 councils to the new Labour government for more housing support](https://www.southwark.gov.uk/news/2024/jul/joint-open-letter-to-deputy-prime-minister-angela-rayner#:~:text=We%20look%20forward%20to%20working,to%20end%20the%20housing%20crisis.). Whether or not this succeeds private developers must also begin to pull their weight. We have been stuck on a minimum 35% affordable housing requirement for too long. Southwark and the Mayor also have a ‘strategic’ target of 50%. They must start to make this a reality and demand 50% affordable housing on every new development. They could begin with the new [Aylesham Centre](https://www.southwark.gov.uk/regeneration/peckham-and-nunhead/the-aylesham-centre) and the [Borough Triangle](https://planning.southwark.gov.uk/online-applications/simpleSearchResults.do?action=firstPage) developments proposed by developer Berkeley. Together they will deliver over 1,700 new homes. Southwark must demand that 800 should be affordable, with 70% social rented, if there is to be any credible chance of the private sector giving us the affordable housing we need.
-
-END
-
-### Email text/other points
-
-So, while direct delivery has provided 79% council homes, Monday’s report cautiously says that DAs could ‘enable’ only 50% affordable housing (which could, maybe, be 50% social rent - para 85)
-
-DAs are a route that Southwark has already taken.  The table below is from a 2018 report and shows 10 DA developments with a delivery 47% social rent (NB if the sites have been completed – we haven’t checked). 
-
-Key point is that Southwark will be using its own land for this, but whereas it could get nearly 80% c/h by direct delivery it looks like it will only get 50% with DA’s (if all the affordable housing is social rent).
-
-Southwark is also taking a ‘portfolio’ approach to this, where some sites might be, say, 100% free-market, with greater proportions of affordable housing on other sites to compensate.  The obvious danger here is that affordable housing gets squeezed out, particularly if there are long timescales, over linked developments (the Aylesbury is a developer partnership development). 
-
-Only the net increase in homes will be included in the delivery of 11,000 homes. Routes to 11,000 pg 05 – so Aylesbury homes should not be included?
-Finance the first of our 2,500 new council homes through a Greater London Authority grant, other resources such as s106/RTB receipts, and the lifting of the HRA borrowing cap.  Routes to 11,000 pg 09
-Start to build more homes for private sale and other tenures to help pay for new council homes.
-
-### The cost of scrapping schemes
-
-Inside Housing recently reported on figures supplied by Southwark Council in response to FOI requests.....
-
-<https://www.insidehousing.co.uk/news/news/exclusive-three-london-councils-scrapped-at-least-240m-worth-of-social-housing-last-year-87902 >

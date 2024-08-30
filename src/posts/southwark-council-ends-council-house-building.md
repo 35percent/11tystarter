@@ -75,8 +75,6 @@ Measured against both the **completed and homes not-yet-completed**, the 992 dem
 
 ![](img/table_gains_in_social_rented_homes_aylesbury_tustin_ledbury_220824.pdf-adobe-acrobat-reader-64-bit-22_08_2024-16_55_31.png)
 
-(TABLE - The gains in social rented homes)
-
 If the 252 social rented homes purchased from s106 contributions from private developments are also discounted against the against the whole programme of completed and on-site units, then the number of council homes onsite or completed is reduced further to **1,813** and the number completed to just **242**.
 
 This does not take into account big loses of council housing elsewhere in Southwark eg on the Heygate and Silwood estates.

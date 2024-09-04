@@ -33,7 +33,7 @@ As well as not discounting demolitions, Southwark boosts the number of completed
 
 When demolitions and s106 purchases are included in the calculations the numbers for both the number of social rent homes started and those completed in the new homes programme are drastically reduced.
 
-### Estate regenerationand estate demolition
+### Estate regeneration and estate demolition
 
 A close look at the list homes built [under the council house building programme](<https://moderngov.southwark.gov.uk/documents/s121470/Appendix 1 Southwark Construction New homes programme scheme list.pdf>) that accompanies the update report supports the LTF analysis.  According to this appendix nearly 40% of the new social housing comes from just three estate regeneration sites, where large numbers of council homes are being demolished – the Aylesbury, the Tustin and the Ledbury estates.
 

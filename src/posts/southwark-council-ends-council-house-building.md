@@ -25,9 +25,7 @@ The LTF found that Southwark Council has demolished [4,382 social rented-homes b
 
 ### A fuller picture
 
-As well as not discounting demolitions, Southwark boosts the number of completed social rented homes by including the purchase of nearly 250 social rented homes from private developments , in its 1,486 total.  These purchases do not increase the total number of social rented housing in the borough, but simply transfer them from one landlord to another.
 
-When demolitions and s106 purchases are included in the calculations the numbers for both the number of social rent homes started and those completed in the new homes programme are drastically reduced.
 
 ### Estate regeneration and estate demolition
 
@@ -63,7 +61,9 @@ Like the Tustin, the regeneration of the Ledbury estate was approved by the esta
 
 ### What's wrong with s106 purchases?
 
-Southwark has also included 252 social rented homes and 26 intermediate homes bought from private developers in its list of new council housing.  These come from four developments - the giant Canada Water development (Plot K1; Salter Rd, Blocks C,E,F); Sylvan Grove, Old Kent Road; Dibdin Apartments (128 – 150 Blackfriars Road); 1-5 Odessa Street SE16.  This is affordable housing that has been provided under s106 legal agreements with the Council, as an obligation attached to a planning approval.
+As well as not discounting demolitions, Southwark boosts the number of completed social rented homes by including the purchase of 252 social rented homes from private developments, in its 1,486 total.  These purchases do not increase the total number of social rented housing in the borough, but simply transfer them from one landlord to another.  (Footnote 26 intermediate and xx private purchases)
+
+The social rented homes come from four developments - the giant Canada Water development (Plot K1; Salter Rd, Blocks C,E,F); Sylvan Grove, Old Kent Road; Dibdin Apartments (128 – 150 Blackfriars Road); 1-5 Odessa Street SE16.  This is affordable housing that has been provided under s106 legal agreements with the Council, as an obligation attached to a planning approval.
 
 These affordable units increase the amount of affordable housing in the borough and are vital to increasing social housing, in the absence of enough council-built social housing.  They are usually bought from private developers by housing associations, though, not local councils.  There is therefore no net increase in social rented housing when they are bought by the local authority, because they would have been social rent homes anyway, albeit with housing association landlords, not council landlords.  Southwark is also using its own resources to provide social housing that could have been paid for by housing associations, money that could be used to build or maintain truly additional social rented housing.
 

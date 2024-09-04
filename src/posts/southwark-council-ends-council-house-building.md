@@ -25,7 +25,6 @@ Cllr John was [refuting the charge that the 11,000 new homes would simply replac
 
 We do not know how many new council homes are ‘additional’, in line with the 2014 promise, because [the figures reported as council homes built or started](<https://moderngov.southwark.gov.uk/documents/s121470/Appendix 1 Southwark Construction New homes programme scheme list.pdf>) take no account of numbers demolished .  We do know, though, that Southwark is second only to Enfield in the number of council homes that are being demolished, from a [London Tenant Federation analysis](https://londontenants.org/publication/23000-social-rented-homes-were-demolished-in-london-over-the-last-ten-years-2012-2022/).  This found that Southwark Council has demolished [4,382 social rented-homes between 2012 and 2022](https://londontenants.org/wp-content/uploads/2022/12/Demolitions-London-2012-22-table.pdf).
 
-
 This is 19% of the 22,892 total number of social rent homes demolished in London over that decade.  Nearly 70% of the total demolitions were in just seven boroughs, including Southwark.
 
 
@@ -36,7 +35,7 @@ This is 19% of the 22,892 total number of social rent homes demolished in London
 
 
 
-[The figures reported as council homes built or started](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf) does not give the full picture though.  They take no account of the numbers of council homes that are being demolished and, according to a [London Tenant Federation (LTF) analysis](https://londontenants.org/publication/23000-social-rented-homes-were-demolished-in-london-over-the-last-ten-years-2012-2022/), Southwark is demolishing more council homes than any other London borough, bar one.
+[](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf)
 
 Also, the 1,486 figure for completed social rented homes is boosted by the purchase of nearly 250 social rented homes from private developments, purchases which do not increase the total number of social rented housing in the borough, but simply transfer them from one landlord to another.
 

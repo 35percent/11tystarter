@@ -5,17 +5,17 @@ date: 2024-08-09T16:55:10.448Z
 ---
 Southwark Council recently [ended the ‘direct delivery’ of new council housing](https://southwarknews.co.uk/area/southwark/council-says-it-must-stop-building-its-own-homes-and-rely-on-developers-instead/), the main strand of its council house building programme.  At the same time, the Council announced that it had started to build 3,864 council homes, and completed 1,486.
 
-Southwark’s target was to have at least 2,500 council homes built or under construction by 2022.   It will now rely upon private developments to fulfil its pledge to build 11,000 new council homes.
+The figures were given in an [update report](<https://moderngov.southwark.gov.uk/documents/s121469/Report Southwarks New Homes Programme Update.pdf>) to the Council Cabinet meeting on 22 July.
 
-The figures were given in an [update report](<https://moderngov.southwark.gov.uk/documents/s121469/Report Southwarks New Homes Programme Update.pdf>) to the Council Cabinet meeting on 22 July.  
+The report said that Southwark’s target was to have at least 2,500 council homes built or under construction by 2022.   It will now rely upon private developments to fulfil its pledge to build 11,000 new council homes.  
 
 ### What Southwark Council promised
 
-Southwark Council made the [pledge to build 11,000 council homes](https://www.35percent.org/new-council-homes/) over 30 years, in July 2013.  Southwark reiterated the pledge in 2014 and was emphatic that the new homes would be in addition to current council housing stock.  Then Leader Cllr Peter John wrote in an open letter to residents *‘To be absolutely clear, the 11,000 new homes that we promise to deliver will be new homes additional to our existing stock’*.
+Southwark Council made the [pledge to build 11,000 council homes](https://www.35percent.org/new-council-homes/) over 30 years, in July 2013.  When Southwark reiterated the pledge in 2014 it emphasised that the new homes would be in addition to current council housing stock.  Then Leader Cllr Peter John wrote in an open letter to residents *‘To be absolutely clear, the 11,000 new homes that we promise to deliver will be new homes additional to our existing stock’*.
 
 ![](img/pj11000councilhomesletter_highlighted_190924.png "From ‘Delivering our promise to build 11,000 new council homes: An open letter from Councillor Peter John, Leader of Southwark Council’. 19 Sept 2014.")
 
-Cllr John was [refuting the charge that the 11,000 new homes would simply replace 11,000 demolished homes](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) and we can now see, ten years later, that this has not happened.  However, we can also see that while 11,000 council homes may not have been demolished a good number have been and that when these are taken into account the number of additional council homes is much lower than the 1,500 target - a target, moreover, set in 2014, to be achieved by 2018, not 2024.
+Cllr John was [refuting the charge that the 11,000 new homes would simply replace 11,000 demolished homes](https://crappistmartin.github.io/images/SNHeygateOverage.pdf).  We can now see, ten years later, that while 11,000 council homes may not have been demolished a good number have been. When these demolitions are taken into account the number of *'additional'* council homes is much lower than the 1,500 target (a target set in 2014, to be achieved by 2018, not 2024) and the number .
 
 ![](img/cabinet_report_next_steps_on_developing_long_term_plans_for_the_delivery_of_new_council_homes_220714.png "From Cabinet report ‘Next Steps on Developing Long Term Plans for the Delivery of New Council Homes’. 22 July 2014 ")
 

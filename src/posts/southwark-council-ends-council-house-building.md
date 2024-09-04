@@ -29,9 +29,9 @@ This is 19% of the 22,892 total number of social rent homes demolished in London
 
 ### A fuller picture
 
-Also, the 1,486 figure for completed social rented homes is boosted by the purchase of nearly 250 social rented homes from private developments, purchases which do not increase the total number of social rented housing in the borough, but simply transfer them from one landlord to another.
+As well as not discounting demolitions, Southwark boosts the number of completed social rented homes by including the purchase of nearly 250 social rented homes from private developments , in its 1,486 total.  These purchases do not increase the total number of social rented housing in the borough, but simply transfer them from one landlord to another.
 
-When these two factors are included in the calculations the numbers for both the number of social rent homes started and those completed in the new homes programme are drastically reduced.
+When demolitions and s106 purchases are included in the calculations the numbers for both the number of social rent homes started and those completed in the new homes programme are drastically reduced.
 
 ### Estate regenerationand estate demolition
 

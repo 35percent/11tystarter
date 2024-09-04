@@ -23,7 +23,7 @@ Cllr John was [refuting the charge that the 11,000 new homes would simply replac
 
 ### Southwark demolish over 4,000 social rented homes
 
-We do not know how many new council homes are ‘additional’, in line with the 2014 promise, because [the figures reported as council homes built or started](<https://moderngov.southwark.gov.uk/documents/s121470/Appendix 1 Southwark Construction New homes programme scheme list.pdf>) take no account of numbers demolished .  We do know, though, that Southwark is second only to Enfield in the number of council homes that are being demolished, from a  London Tenant Federation (LTF) analysis.  This found that Southwark Council has demolished 4,382 social rented-homes between 2012 and 2022.
+We do not know how many new council homes are ‘additional’, in line with the 2014 promise, because [the figures reported as council homes built or started](<https://moderngov.southwark.gov.uk/documents/s121470/Appendix 1 Southwark Construction New homes programme scheme list.pdf>) take no account of numbers demolished .  We do know, though, that Southwark is second only to Enfield in the number of council homes that are being demolished, from a [London Tenant Federation analysis](https://londontenants.org/publication/23000-social-rented-homes-were-demolished-in-london-over-the-last-ten-years-2012-2022/).  This found that Southwark Council has demolished 4,382 social rented-homes between 2012 and 2022.
 This is 19% of the 22,892 total number of social rent homes demolished in London over that decade.  Nearly 70% of the total demolitions were in just seven boroughs, including Southwark.
 
 

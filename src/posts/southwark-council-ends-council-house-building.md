@@ -11,7 +11,7 @@ The figures were given in an [update report](<https://moderngov.southwark.gov.uk
 
 ### What Southwark Council promised
 
-Southwark Council made the pledge to build 11,000 council homes over 30 years, in July 2013.  Southwark reiterated the pledge in 2014 and was emphatic that the new homes would be in addition to current council housing stock.  Then Leader Cllr Peter John wrote in an open letter to residents ‘To be absolutely clear, the 11,000 new homes that we promise to deliver will be new homes additional to our existing stock’.
+Southwark Council made the [pledge to build 11,000 council homes](https://www.35percent.org/new-council-homes/) over 30 years, in July 2013.  Southwark reiterated the pledge in 2014 and was emphatic that the new homes would be in addition to current council housing stock.  Then Leader Cllr Peter John wrote in an open letter to residents ‘To be absolutely clear, the 11,000 new homes that we promise to deliver will be new homes additional to our existing stock’.
 
 ### A fuller picture
 

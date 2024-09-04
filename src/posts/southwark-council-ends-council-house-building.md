@@ -37,15 +37,17 @@ This is 19% of the 22,892 total number of social rent homes demolished in London
 
 [](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf)
 
-Also, the 1,486 figure for completed social rented homes is boosted by the purchase of nearly 250 social rented homes from private developments, purchases which do not increase the total number of social rented housing in the borough, but simply transfer them from one landlord to another.
 
-When these two factors are included in the calculations the numbers for both the number of social rent homes started and those completed in the new homes programme are drastically reduced.
 
 ### A fuller picture
 
 The London Tenant Federation found that Southwark Council has [demolished 4,382 social rented-homes between 2012 and 2022](https://londontenants.org/wp-content/uploads/2022/12/Demolitions-London-2012-22-table.pdf). This is 19% of the 22,892 total number of social rent homes demolished in London over that decade.  Only one other borough had demolished more (Ealing – 4,986).  Nearly 70% of the total demolitions were in just seven boroughs, including Southwark.
 
 ![](img/demolitions_london_2012_22_table_pdf_-090824_edit.png "London Tenant’s Federation table of delivery and loss of social-rented homes in London 2012-2022.")
+
+Also, the 1,486 figure for completed social rented homes is boosted by the purchase of nearly 250 social rented homes from private developments, purchases which do not increase the total number of social rented housing in the borough, but simply transfer them from one landlord to another.
+
+When these two factors are included in the calculations the numbers for both the number of social rent homes started and those completed in the new homes programme are drastically reduced.
 
 ### Estate regenerationand estate demolition
 

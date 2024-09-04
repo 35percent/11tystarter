@@ -7,7 +7,7 @@ Southwark Council recently [ended the ‘direct delivery’ of new council housi
 
 ### What Southwark Council promised
 
-Southwark Council made the [pledge to build 11,000 council homes](https://www.35percent.org/new-council-homes/) over 30 years, in July 2013.  Southwark reiterated the pledge in 2014 and emphasised that the new homes would be in addition to current council housing stock.  Then Leader Cllr Peter John wrote in an open letter to residents *‘To be absolutely clear, the 11,000 new homes that we promise to deliver will be new homes additional to our existing stock’*.
+Southwark Council made the [pledge to build 11,000 council homes](https://www.35percent.org/new-council-homes/) over 30 years, in July 2013.  Southwark reiterated the pledge in 2014 and emphasised that the new homes would be in addition to current council housing stock, not instead of demolished counil housing.  Then Leader Cllr Peter John wrote in an open letter to residents *‘To be absolutely clear, the 11,000 new homes that we promise to deliver will be new homes additional to our existing stock’*.
 
 ![](img/pj11000councilhomesletter_highlighted_190924.png "From ‘Delivering our promise to build 11,000 new council homes: An open letter from Councillor Peter John, Leader of Southwark Council’. 19 Sept 2014.")
 

@@ -17,6 +17,8 @@ Southwark Council made the [pledge to build 11,000 council homes](https://www.35
 
 Cllr John was [refuting the charge that the 11,000 new homes would simply replace 11,000 demolished homes](https://crappistmartin.github.io/images/SNHeygateOverage.pdf) and we can now see, ten years later, that this has not happened.  However, we can also see that while 11,000 council homes may not have been demolished a good number have been and that when these are taken into account the number of additional council homes is much lower than the 1,500 target - a target, moreover, set in 2014, to be achieved by 2018, not 2024.
 
+![](img/cabinet_report_next_steps_on_developing_long_term_plans_for_the_delivery_of_new_council_homes_220714.png "From Cabinet report ‘Next Steps on Developing Long Term Plans for the Delivery of New Council Homes’. 22 July 2014 ")
+
 
 
 ### A fuller picture

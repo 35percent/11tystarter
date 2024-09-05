@@ -45,7 +45,7 @@ The Tustin regeneration was approved by residents by ballot and will provide mor
 
 ### The Ledbury estate
 
-In 2017 *'serious structural and fire safety issues'* were found in the four tower blocks of Ledbury estate, according to the [officer report](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) that secured planning permission for their demolition, in June 2022.
+In 2017 *'serious structural and fire safety issues'* were found in the four tower blocks of Ledbury estate, according to the [officer report](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) that secured planning permission for their demolition, in June 2022[^7].
 
 The 224 homes in Bromyard House, Skenfirth House, Sarnsfield House and Peterchurch House are to be demolished and 340 new homes built in their place.  209 of the demolished homes are council homes, to be replaced by 260 new council social rented homes, an increase of 51 homes.
 
@@ -104,3 +104,5 @@ Southwark are the lead signatories in an [appeal by 20 councils to the new Labou
 [^5] The figures for lost council homes are taken from the Officer’s report 22/AP/1221, 19 July 2022, para 6, 14, 73.  The figure includes 51 leaseholders, but the report refers to these as social rent units.  The figures for new homes are taken from the Cabinet report appendix, 22 July 2024.  There will be ten more social rent units than in the Officer’s report.
 
 [^6] Officer’s report 22/AP/1221 19 July 2022, para 31, 34, 434
+
+[^7] Officer’s report 22/AP/0554 8 June 2022

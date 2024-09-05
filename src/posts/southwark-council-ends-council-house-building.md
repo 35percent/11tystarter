@@ -59,9 +59,11 @@ Like the Tustin, the regeneration of the Ledbury estate was approved by ballot, 
 
 ### What's wrong with s106 purchases?
 
-As well as not discounting demolitions, Southwark boosts the number of completed social rented homes by including the purchase of 252 social rented homes from private developments, in its 1,486 total.  These purchases do not increase the total number of social rented housing in the borough, but simply transfer them from one landlord to another.  (Footnote 26 intermediate and xx private purchases)
+As well as not discounting demolitions, Southwark boosts the number of completed social rented homes by including the purchase of 252 social rented homes from private developments, in its 1,486 total.  
 
 The purchased social rented homes come from four developments - Canada Water (Plot K1; Salter Rd, Blocks C,E,F); Sylvan Grove, Old Kent Road; Dibdin Apartments (128 – 150 Blackfriars Road); 1-5 Odessa Street SE16. 
+
+These purchases do not increase the total number of social rented housing in the borough, but simply transfer them from one landlord to another.  (Footnote 26 intermediate and xx private purchases)
 
 These affordable units are provided under s106 legal agreements as an obligation attached to a planning approval. They are vital to increasing our social housing, in the absence of enough council-built housing.  But they are usually bought from private developers by housing associations and there is no net increase in social rented housing when they are bought by the local authority, because they would have been social rent homes anyway, just with different landlords.  Southwark is also using resources that could be used to build or maintain truly additional social rented housing elsewhere.
 

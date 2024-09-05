@@ -47,7 +47,7 @@ The Tustin regeneration was approved by residents by ballot and will provide mor
 
 In 2017 *'serious structural and fire safety issues'* were found in the four tower blocks of Ledbury estate, according to the [officer report](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) that secured planning permission for their demolition, in June 2022.
 
-The 224 homes in Bromyard House, Skenfirth House, Sarnsfield House and Peterchurch House are to be demolished and 340 new homes built in their place.  209 of the demolished homes are council homes, to be replaced by 260 new council social rented homes, an increase of 51 homes.  Southwark Council [list the redevelopment as delivering 260 social rent units](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf), but without noting the 209 that are being demolished.
+The 224 homes in Bromyard House, Skenfirth House, Sarnsfield House and Peterchurch House are to be demolished and 340 new homes built in their place.  209 of the demolished homes are council homes, to be replaced by 260 new council social rented homes, an increase of 51 homes.
 
 The 'Ledbury Towers' scheme is also [described by Southwark as being 'On site](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf)', when this only practically true for the smaller half of the two-site scheme.  Both parts have planning permission and the smaller Bromyard site is scheduled for completion in March 2024.  This will provide 80 new homes, including 42 social rent.  
 

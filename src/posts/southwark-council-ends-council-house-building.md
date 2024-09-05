@@ -25,7 +25,7 @@ The LTF found that Southwark Council has demolished [4,382 social rented-homes b
 
 ### Estate regeneration and estate demolition
 
-A close look at the list homes built [under the council house building programme](<https://moderngov.southwark.gov.uk/documents/s121470/Appendix 1 Southwark Construction New homes programme scheme list.pdf>) in the appendix that accompanies the Cabinet update report supports the LTF analysis.  According to this appendix nearly 40% of the new social housing comes from just three estate regeneration sites – the Aylesbury, the Tustin and the Ledbury - where large numbers of council homes are being demolished.
+A close look at the list homes built [under the council house building programme](<https://moderngov.southwark.gov.uk/documents/s121470/Appendix 1 Southwark Construction New homes programme scheme list.pdf>) in the appendix that accompanies the Cabinet update report supports the LTF analysis.  According to this appendix nearly 40% of the new social housing comes from just three estate regeneration sites where large numbers of council homes are being demolished.
 
 These are the Aylesbury, Tustin and Ledbury estates and between them they will deliver 1,196 new social rent homes in total.  The Aylesbury is listed as providing 581 social rent, with the Tustin providing 355 and the Ledbury 260.
 
@@ -37,9 +37,9 @@ The Aylesbury will deliver its 581 council homes on two sites - FDS Package A an
 
 ### The Tustin estate
 
-On the Tustin estate Bowness House, Heversham House, Kentmere House and Hillbeck Close are all earmarked for demolition.  This will [lose 202 council homes](<https://moderngov.southwark.gov.uk/documents/s107929/Report Tustin Estate land bounded by Manor Grove Ilderton Road Hillbeck Close Old Kent Road SE15.pdf>), with 355 social rent homes to be built in their place, giving an ‘uplift’ of 153 social rent homes. There will also be 115 intermediate and 220 free market homes, giving a total of 690.
+On the Tustin estate Bowness House, Heversham House, Kentmere House and Hillbeck Close are all earmarked for demolition.  This will [lose 202 council homes](<https://moderngov.southwark.gov.uk/documents/s107929/Report Tustin Estate land bounded by Manor Grove Ilderton Road Hillbeck Close Old Kent Road SE15.pdf>), with 355 social rent homes to be built in their place, giving an ‘uplift’ of 153 social rent homes.  There will also be 115 intermediate and 220 free market homes, giving a total of 690 homes).
 
-But while the scheme is described by Southwark Council as being *‘On site’*, in practical terms this is only true of Phase 1 of  which will have 167 units, including 157 'affordable' homes.    An examination of Southwark’s planning register (CHECK) shows that while all the four phases have an outline planning permission, only [Phase 1 has a full detailed planning permission](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=64449).  Phases 2, 3 and 4 do not yet have these vital approvals and that is where most of the new homes will be, providing 523 of the 690 newhomes.
+But while the scheme is described by Southwark Council as being *‘On site’*, in practical terms this is only true of Phase 1, which will have 167 units, including 157 'affordable' homes.    An examination of Southwark’s planning register (CHECK) shows that while all the four phases have an outline planning permission, only [Phase 1 has a full detailed planning permission](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=64449).  Phases 2, 3 and 4 do not yet have these vital approvals and that is where most of the new homes will be, providing 523 of the 690 new homes.
 
 The Tustin regeneration was approved by residents by ballot and will provide more and better quality social rented housing.  But counting them all now,  without taking account of the social housing lost is inaccurate and premature.
 

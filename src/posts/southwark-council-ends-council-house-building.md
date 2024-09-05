@@ -31,7 +31,7 @@ These are the Aylesbury, Tustin and Ledbury estates and between them they will d
 
 ### The Aylesbury FDS
 
-The Aylesbury will deliver its 581 council homes on two sites - FDS Package A and FDS Package B[^3].  However, 566 homes in four blocks (Arklow, Bradenham,  Chartridge and Chiltern) were demolished on the FDS site to allow for this and 501 of the demolished homes were council homes.  (NB ).
+The Aylesbury will deliver its 581 council homes on two sites - FDS Package A and FDS Package B[^3].  However, 566 homes in four blocks (Arklow, Bradenham,  Chartridge and Chiltern) were demolished on the FDS site to allow for this and 501 of the demolished homes were council homes[^4].
 
 ![](img/table_demolished_on_the_aylesbury_fds_220824.pdf_22_08_2024-16_25_16.png "Sources – Officer report, 07-CO-0046, Planning committee, 5 June 2007; Executive report Aylesbury Phase 1 Compulsory Purchase Orders, 9 Feb 2010")
 
@@ -98,3 +98,5 @@ Southwark are the lead signatories in an [appeal by 20 councils to the new Labou
 [^2] Routes to 11,000: a new council homes strategy for Southwark March 2020, pg 01
 
 [^3] There will be a further 56 social rented units built on FDS Package C, but these are not included in Southwark’s new council homes programme.
+
+[^4] [Appendix Two, Executive report Aylesbury Phase 1 Compulsory Purchase Order 9 Feb 2010](<https://moderngov.southwark.gov.uk/documents/s7790/Aylesbury cpo appendxix 2.pdf>)

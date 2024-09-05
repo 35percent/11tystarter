@@ -49,7 +49,9 @@ In 2017 *'serious structural and fire safety issues'* were found in the four tow
 
 The 224 homes in Bromyard House, Skenfirth House, Sarnsfield House and Peterchurch House are to be demolished and 340 new homes built in their place.  209 of the demolished homes are council homes, to be replaced by 260 new council social rented homes, an increase of 51 homes.  Southwark Council [list the redevelopment as delivering 260 social rent units](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf), but without noting the 209 that are being demolished.
 
-The 'Ledbury Towers' scheme is also [described by Southwark as being 'On site](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf)', when this only practically true for the smaller half of the two-site scheme.  Both parts have planning permission and the smaller Bromyard site is scheduled for completion in March 2024.  This will provide 80 new homes, including 42 social rent.  Most of the housing will be on the larger Old Kent Rd site, which will have 260 new homes, including 125 social rent,  but work is not due to start on this site until March 2025, scheduled for completion in May 2030. 
+The 'Ledbury Towers' scheme is also [described by Southwark as being 'On site](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf)', when this only practically true for the smaller half of the two-site scheme.  Both parts have planning permission and the smaller Bromyard site is scheduled for completion in March 2024.  This will provide 80 new homes, including 42 social rent.  
+
+Most of the housing, though,  will be on the larger Old Kent Rd site, and work is not due to start here until March 2025, for completion by May 2030.  This site will have 260 new homes, including 125 social rent.
 
 ![](img/cabinet_report_new_homes_update_appendix_1_excerpt_220724_22_08_2024-12_57_20.png)
 

@@ -115,4 +115,4 @@ Southwark are the lead signatories in an [appeal by 20 councils to the new Labou
 
 [^11] [Southwark Plan 2022](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-guidance/development-plan/new-southwark-plan) P1 Social rented and intermediate housing. Reason 2, which says *‘CACI Paycheck data confirms that 93% of households in Southwark have a household income that requires social and intermediate housing’*. 
 
-[^12] Cabinet report Southwark’s New Homes Programme Update 22 July 2024, para 50
+[^12] [Cabinet report Southwark’s New Homes Programme Update 22 July 2024](<https://moderngov.southwark.gov.uk/documents/s121469/Report Southwarks New Homes Programme Update.pdf>) para 50

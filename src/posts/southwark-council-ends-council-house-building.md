@@ -11,7 +11,7 @@ Southwark Council made [the pledge to build 11,000 council homes over 30 years](
 
 ![](img/pj11000councilhomesletter_highlighted_190924.png "From ‘Delivering our promise to build 11,000 new council homes: An open letter from Councillor Peter John, Leader of Southwark Council’. 19 Sept 2014.")
 
-Cllr John was [refuting the charge that the 11,000 new homes would simply replace 11,000 demolished homes](https://crappistmartin.github.io/images/SNHeygateOverage.pdf), but we can now see, ten years later, that while 11,000 council homes may not have been demolished, many have been and when these demolitions are taken into account the number of *'additional'* council homes is much lower than the 1,486 figure Southwark claims, as well as the 1,500 target set in 2014 (to be achieved by 2018, not 2024).
+Cllr John was [refuting the charge that the 11,000 new homes would simply replace 11,000 demolished homes](https://crappistmartin.github.io/images/SNHeygateOverage.pdf). We can see now, ten years later, that while 11,000 council homes have not been demolished, many have been. When we take these demolitions into account the number of built *'additional'* council homes is much lower than the 1,486 figure Southwark claims, as well as lower than the 1,500 target set in 2014 (to be achieved by 2018, not 2024).
 
 ![](img/cabinet_report_next_steps_on_developing_long_term_plans_for_the_delivery_of_new_council_homes_220714.png "From Cabinet report ‘Next Steps on Developing Long Term Plans for the Delivery of New Council Homes’. 22 July 2014 ")
 

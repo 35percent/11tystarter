@@ -75,7 +75,7 @@ Southwark Council says it has competed 1,486 council homes, up to May 2024. This
 
 Measured against the whole of Southwark's council house building programme, the 977 demolished homes reduce the number of **completed social rent homes** from 1,486 to just **509**.
 
-Measured against both the **completed and homes not-yet-completed**, the 977 demolished homes reduces the total number of social rented units from 3,057 to **2,080**.
+Measured against both the **completed and homes not-yet-completed**, the 977 demolished homes reduce the total number of social rented units from 3,057 to **2,080**.
 
 If the 252 social rented homes purchased from the s106 contributions of private developments are also discounted against the whole programme (completed and on-site), then the number of council homes onsite or completed is reduced further to **1,828** and the number completed to just **257**.
 

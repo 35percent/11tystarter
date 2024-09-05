@@ -71,7 +71,7 @@ Aside from s106 purchases, Southwark also includes 57 social rented homes in the
 
 Southwark Council says it has competed 1,486 council homes, up to May 2024. This may be true, but it takes no account of those it has had to demolish to do this.
 
-**1,196 of these new council homes** are on the Aylesbury FDS, the Tustin and Ledbury estates, while a **total of 977 council homes have had to be demolished**.  This means that there is a net gain of just **219 social rented homes** across these three big sites.
+**1,196 of these new council homes** are on the Aylesbury FDS, the Tustin and Ledbury estates, where a **total of 977 council homes will have had to be demolished** to accomoddate them.  This means that there is a net gain of just **219 social rented homes** across these three big sites.
 
 Measured agains the whole of Southwark's council house building programme, the 977 demolished homes reduces the number of **completed social rent homes** from 1,486 to just **509**.
 

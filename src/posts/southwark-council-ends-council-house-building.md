@@ -85,7 +85,7 @@ This does not take into account big loses of council housing elsewhere in Southw
 
 ### What we think – 50% must become the new minimum
 
-We need a council house building programme because the private sector has failed to provide us with enough affordable housing.  According to the Southwark Plan 2022 only 7% of the borough’s households can fully afford free-market housing, yet 65% of the new housing on private developments is exactly that – free-market.
+We need a council house building programme because the private sector has failed to provide us with enough affordable housing.  According to the Southwark Plan 2022 only 7% of the borough’s households can fully afford free-market housing[^11], yet 65% of the new housing on private developments is exactly that – free-market.
 
 Southwark’s pledge to build 11,000 council homes was a laudable attempt to make up for this market failure, but by 2024 it has achieved only a third of the 2014 target. 
 
@@ -112,3 +112,5 @@ Southwark are the lead signatories in an [appeal by 20 councils to the new Labou
 [^9]  Officer’s report 22/AP/0554 8 June 2022 para 325
 
 [^10] 29 intermediate units were also purchased – 19 on Canada Water Plot K1, 10 on Surrey Docks Block E
+
+[^11] Southwark Plan 2022 P1 Social rented and intermediate housing. Reason 2, which says ‘CACI Paycheck data confirms that 93% of households in Southwark have a household income that requires social and intermediate housing’.

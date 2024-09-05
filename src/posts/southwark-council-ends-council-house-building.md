@@ -47,11 +47,11 @@ The Tustin regeneration was approved by residents by ballot and will provide mor
 
 In 2017 *'serious structural and fire safety issues'* were found in the four tower blocks of Ledbury estate, according to the [officer report](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) that secured planning permission for their demolition, in June 2022[^7].
 
-The 224 homes in Bromyard House, Skenfirth House, Sarnsfield House and Peterchurch House are to be demolished and 340 new homes built in their place.  209 of the demolished homes are council homes, to be replaced by 260 new council social rented homes, an increase of 51 homes.
+The 224 homes in Bromyard House, Skenfirth House, Sarnsfield House and Peterchurch House are to be demolished and 340 new homes built in their place.  209 of the demolished homes are council homes, to be replaced by 260 new council social rented homes, an increase of 51 homes [^8].
 
 The 'Ledbury Towers' scheme is also [described by Southwark as being 'On site](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf)', when this only practically true for the smaller half of the two-site scheme.  Both parts have planning permission and the smaller Bromyard site is scheduled for completion in March 2024.  This will provide 80 new homes, including 42 social rent.  
 
-Most of the housing, though,  will be on the larger Old Kent Rd site, and work is not due to start here until March 2025, for completion by May 2030.  This site will have 260 new homes, including 125 social rent.
+Most of the housing, though,  will be on the larger Old Kent Rd site, and work is not due to start here until March 2025, for completion by May 2030.  This site will have 260 new homes, including 125 social rent[^9].
 
 ![](img/cabinet_report_new_homes_update_appendix_1_excerpt_220724_22_08_2024-12_57_20.png)
 
@@ -106,3 +106,7 @@ Southwark are the lead signatories in an [appeal by 20 councils to the new Labou
 [^6] Officer’s report 22/AP/1221 19 July 2022, para 31, 34, 434
 
 [^7] Officer’s report 22/AP/0554 8 June 2022
+
+[^8] Officer’s report 22/AP/0554 8 June 2022 para 12
+
+[^9]  Officer’s report 22/AP/0554 8 June 2022 para 325

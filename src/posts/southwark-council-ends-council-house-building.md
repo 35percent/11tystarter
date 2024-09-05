@@ -77,11 +77,9 @@ Measured agains the whole of Southwark's council house building programme, the 9
 
 Measured against both the **completed and homes not-yet-completed**, the 977 demolished homes reduces the total number of social rented units from 3,057 to **2,080**.
 
-If the 252 social rented homes purchased from s106 contributions from private developments are also discounted against the against the whole programme of completed and on-site units, then the number of council homes onsite or completed is reduced further to **1,828** and the number completed to just **257**.
+If the 252 social rented homes purchased from the s106 contributions of private developments are also discounted against the whole programme (completed and on-site), then the number of council homes onsite or completed is reduced further to **1,828** and the number completed to just **257**.
 
 ![](img/table_gains_in_social_rented_homes_300824.png)
-
-If the 252 social rented homes purchased from s106 contributions from private developments are also discounted against the against the whole programme of completed and on-site units, then the number of council homes onsite or completed is reduced further to **1,828** and the number completed to just **257**.
 
 This does not take into account big loses of council housing elsewhere in Southwark eg [on the Heygate](https://35percent.github.io/heygate-regeneration/) and [Silwood estates](https://www.35percent.org/silwood-regeneration/).
 

@@ -101,9 +101,9 @@ Southwark are the lead signatories in an [appeal by 20 councils to the new Labou
 
 [^4] [Appendix Two, Executive report Aylesbury Phase 1 Compulsory Purchase Order 9 Feb 2010](<https://moderngov.southwark.gov.uk/documents/s7790/Aylesbury cpo appendxix 2.pdf>)
 
-[^5] The figures for new homes are taken from the Cabinet report appendix, 22 July 2024.  The figures for lost council homes are taken from the Officer’s report 22/AP/1221, 19 July 2022, para 6, 14, 73.  The figure includes 51 leaseholders, but the report refers to these as social rent units. .  There will be ten more social rent units than in the Officer’s report, which gives 345 units.  The intermediate housing figure includes 27 shared equity homes that do not qualify as affordable housing.
+[^5] The figures for new homes are taken from the Cabinet report appendix, 22 July 2024.  The figures for lost council homes are taken from the [Officer’s report 22/AP/1221, 19 July 2022](https://moderngov.southwark.gov.uk/documents/s107929/Report%20Tustin%20Estate%20land%20bounded%20by%20Manor%20Grove%20Ilderton%20Road%20Hillbeck%20Close%20Old%20Kent%20Road%20SE15.pdf), para 6, 14, 73.  The figure includes 51 leaseholders, but the report refers to these as social rent units. .  There will be ten more social rent units than in the Officer’s report, which gives 345 units.  The intermediate housing figure includes 27 shared equity homes that do not qualify as affordable housing.
 
-[^6] Officer’s report 22/AP/1221 19 July 2022, para 31, 34, 434
+[^6] [Officer’s report 22/AP/1221 19 July 2022](https://moderngov.southwark.gov.uk/documents/s107929/Report%20Tustin%20Estate%20land%20bounded%20by%20Manor%20Grove%20Ilderton%20Road%20Hillbeck%20Close%20Old%20Kent%20Road%20SE15.pdf), para 31, 34, 434
 
 [^7] Officer’s report 22/AP/0554 8 June 2022
 

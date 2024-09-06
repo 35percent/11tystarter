@@ -37,7 +37,7 @@ The Aylesbury will deliver its 581 council homes on two sites - FDS Package A an
 
 ### The Tustin estate
 
-On the Tustin estate 355 new social rent homes are due to be built, with the [demolition of 202 council homes](https://moderngov.southwark.gov.uk/documents/s107929/Report%20Tustin%20Estate%20land%20bounded%20by%20Manor%20Grove%20Ilderton%20Road%20Hillbeck%20Close%20Old%20Kent%20Road%20SE15.pdf) in Bowness House, Heversham House, Kentmere House and Hillbeck Close, giving an ‘uplift’ of 153 social rent homes. There will also be 115 intermediate and 220 free market homes, giving a total of 690 homes[^5].
+On the Tustin estate 355 new social rent homes are due to be built, with the [demolition of 202 council homes](https://moderngov.southwark.gov.uk/documents/s107929/Report%20Tustin%20Estate%20land%20bounded%20by%20Manor%20Grove%20Ilderton%20Road%20Hillbeck%20Close%20Old%20Kent%20Road%20SE15.pdf) in Bowness House, Heversham House, Kentmere House and Hillbeck Close, giving an ‘uplift’ of 153 social rent homes. There will also be 125 intermediate and 220 free market homes, giving a total of 690 homes[^5].
 
 But while the scheme is described by Southwark Council as being *‘On site’*, in practical terms this is only true of Phase 1, which will have 167 units, including 157 'affordable' homes.  An examination of Southwark’s planning register (CHECK) shows that while all the four phases have an outline planning permission, only [Phase 1 has a full detailed planning permission](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=64449).  Phases 2, 3 and 4 do not yet have these vital approvals and that is where most of the new homes will be, providing 523 of the 690 new homes[^6].
 
@@ -101,7 +101,7 @@ Southwark are the lead signatories in an [appeal by 20 councils to the new Labou
 
 [^4] [Appendix Two, Executive report Aylesbury Phase 1 Compulsory Purchase Order 9 Feb 2010](<https://moderngov.southwark.gov.uk/documents/s7790/Aylesbury cpo appendxix 2.pdf>)
 
-[^5] The figures for lost council homes are taken from the Officer’s report 22/AP/1221, 19 July 2022, para 6, 14, 73.  The figure includes 51 leaseholders, but the report refers to these as social rent units.  The figures for new homes are taken from the Cabinet report appendix, 22 July 2024.  There will be ten more social rent units than in the Officer’s report.
+[^5] The figures for lost council homes are taken from the Officer’s report 22/AP/1221, 19 July 2022, para 6, 14, 73.  The figure includes 51 leaseholders, but the report refers to these as social rent units.  The figures for new homes are taken from the Cabinet report appendix, 22 July 2024.  There will be ten more social rent units than in the Officer’s report, which gives 345 units.  The intermediate housing figure includes 27 shared equity homes that do not qualify as affordable housing.
 
 [^6] Officer’s report 22/AP/1221 19 July 2022, para 31, 34, 434
 

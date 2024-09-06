@@ -107,7 +107,7 @@ Southwark are the lead signatories in an [appeal by 20 councils to the new Labou
 
 [^7] [Officer’s report 22/AP/0554 8 June 2022](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) para 3
 
-[^8] [Officer’s report 22/AP/0554 8 June 2022](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) para 12
+[^8] [Officer’s report 22/AP/0554 8 June 2022](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) Proposal, para 12
 
 [^9]  [Officer’s report 22/AP/0554 8 June 2022](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) para 325
 

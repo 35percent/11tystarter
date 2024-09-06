@@ -93,7 +93,7 @@ Now that it is abandoning direct delivery, fulfilling that pledge by *‘utilise
 
 Southwark are the lead signatories in an [appeal by 20 councils to the new Labour government for more housing support](https://www.southwark.gov.uk/news/2024/jul/joint-open-letter-to-deputy-prime-minister-angela-rayner#:~:text=We%20look%20forward%20to%20working,to%20end%20the%20housing%20crisis.). Whether or not this succeeds private developers must also begin to pull their weight. We have been stuck on a minimum 35% affordable housing requirement for too long. Southwark and the Mayor also have a ‘strategic’ target of 50%. They must start to make this a reality and demand 50% affordable housing on every new development. They could begin with the new [Aylesham Centre](https://www.southwark.gov.uk/regeneration/peckham-and-nunhead/the-aylesham-centre) and the [Borough Triangle](https://planning.southwark.gov.uk/online-applications/simpleSearchResults.do?action=firstPage) developments proposed by developer Berkeley. Together they will deliver over 1,700 new homes. Southwark must demand that 800 should be affordable, with a minimum 70% social rented, if there is to be any credible chance of the private sector giving us the affordable housing we need.
 
-[^1] [Cabinet report Southwark’s New Homes Programme Update 22 July 2024](<https://moderngov.southwark.gov.uk/documents/s121469/Report Southwarks New Homes Programme Update.pdf>), para 15, 17
+[^1] [Cabinet report Southwark’s New Homes Programme Update 22 July 2024](<https://moderngov.southwark.gov.uk/documents/s121469/Report Southwarks New Homes Programme Update.pdf>), para 17, 15
 
 [^2] Routes to 11,000: a new council homes strategy for Southwark March 2020, pg 01
 

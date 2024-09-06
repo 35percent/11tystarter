@@ -95,7 +95,7 @@ Southwark are the lead signatories in an [appeal by 20 councils to the new Labou
 
 [^1] [Cabinet report Southwark’s New Homes Programme Update 22 July 2024](<https://moderngov.southwark.gov.uk/documents/s121469/Report Southwarks New Homes Programme Update.pdf>), para 17, 15
 
-[^2] Routes to 11,000: a new council homes strategy for Southwark March 2020, pg 01
+[^2] [Routes to 11,000: a new council homes strategy for Southwark March 2020](https://moderngov.southwark.gov.uk/documents/s88156/App%201%2011000%20Homes%20Strategy.pdf), pg 01
 
 [^3] There will be a further 56 social rented units built on FDS Package C, but these are not included in Southwark’s new council homes programme. Design and Access Statement Aylesbury FDS amendment 22/AP/1063 2022
 

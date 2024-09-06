@@ -105,7 +105,7 @@ Southwark are the lead signatories in an [appeal by 20 councils to the new Labou
 
 [^6] [Officer’s report 22/AP/1221 19 July 2022](https://moderngov.southwark.gov.uk/documents/s107929/Report%20Tustin%20Estate%20land%20bounded%20by%20Manor%20Grove%20Ilderton%20Road%20Hillbeck%20Close%20Old%20Kent%20Road%20SE15.pdf), para 31, 34, 434
 
-[^7] Officer’s report 22/AP/0554 8 June 2022
+[^7] Officer’s report 22/AP/0554 8 June 2022 para 3
 
 [^8] Officer’s report 22/AP/0554 8 June 2022 para 12
 

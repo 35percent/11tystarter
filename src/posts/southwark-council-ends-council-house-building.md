@@ -13,7 +13,7 @@ Southwark Council made [the pledge to build 11,000 council homes over 30 years](
 
 Cllr John was [refuting the charge that the 11,000 new homes would simply replace 11,000 demolished homes](https://crappistmartin.github.io/images/SNHeygateOverage.pdf). We can see now, ten years later, that while 11,000 council homes have not been demolished, many have been, and when these are taken into account the number of 'additional' council homes is much lower than the 1,486 homes that Southwark claims.  It is also lower than the [1,500 target set in 2014](https://moderngov.southwark.gov.uk/documents/s47488/Report%20Long%20term%20plans%20for%20the%20delivery%20of%20new%20council%20homes.pdf) (to be achieved by 2018, not 2024).
 
-![](img/cabinet_report_next_steps_on_developing_long_term_plans_for_the_delivery_of_new_council_homes_220714.png "From Cabinet report ‘Next Steps on Developing Long Term Plans for the Delivery of New Council Homes’. 22 July 2014 ")
+![](img/cabinet_report_next_steps_on_developing_long_term_plans_for_the_delivery_of_new_council_homes_220714.png "From Cabinet report ‘Next Steps on Developing Long Term Plans for the Delivery of New Council Homes’ 22 July 2014 ")
 
 ### Southwark demolish over 4,000 social rented homes
 
@@ -53,7 +53,7 @@ The 'Ledbury Towers' scheme is also [described by Southwark as being 'On site](h
 
 Most of the housing, though,  will be on the larger Old Kent Rd site, and work is not due to start here until March 2025, for completion by May 2030.  This site will have 260 new homes, including 125 social rent[^10].
 
-![](img/cabinet_report_new_homes_update_appendix_1_excerpt_220724_22_08_2024-12_57_20.png)
+![](img/cabinet_report_new_homes_update_appendix_1_excerpt_220724_22_08_2024-12_57_20.png "From Cabinet report ‘Next Steps on Developing Long Term Plans for the Delivery of New Council Homes’ Appendix 1 22 July 2014")
 
 Like the Tustin, the regeneration of the Ledbury estate was approved by ballot, by the estate residents and will provide more and better quality social rented housing.  But also like the Tustin, Southwark Council is flattering the figures by not taking account of the social housing that has been demolished.  Southwark is also getting ahead of itself by claiming they are all 'on site', when most of the development has not yet begun.
 

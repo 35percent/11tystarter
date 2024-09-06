@@ -103,13 +103,13 @@ Southwark are the lead signatories in an [appeal by 20 councils to the new Labou
 
 [^5] The figures for new homes are taken from the [Cabinet report appendix, 22 July 2024](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf).  The figures for lost council homes are taken from the [Officer’s report 22/AP/1221, 19 July 2022](https://moderngov.southwark.gov.uk/documents/s107929/Report%20Tustin%20Estate%20land%20bounded%20by%20Manor%20Grove%20Ilderton%20Road%20Hillbeck%20Close%20Old%20Kent%20Road%20SE15.pdf), para 6, 14, 73.  The figure includes 51 leaseholders, but the report refers to these as social rent units. .  There will be ten more social rent units than in the Officer’s report, which gives 345 units. 
 
-[^6] [Officer’s report 22/AP/1221 19 July 2022](https://moderngov.southwark.gov.uk/documents/s107929/Report%20Tustin%20Estate%20land%20bounded%20by%20Manor%20Grove%20Ilderton%20Road%20Hillbeck%20Close%20Old%20Kent%20Road%20SE15.pdf), para 31, 34, 434
+[^6] [Officer’s report 22/AP/1221 19 July 2022](https://moderngov.southwark.gov.uk/documents/s107929/Report%20Tustin%20Estate%20land%20bounded%20by%20Manor%20Grove%20Ilderton%20Road%20Hillbeck%20Close%20Old%20Kent%20Road%20SE15.pdf) para 31, 34, 434
 
-[^7] Officer’s report 22/AP/0554 8 June 2022 para 3
+[^7] [Officer’s report 22/AP/0554 8 June 2022](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) para 3
 
-[^8] Officer’s report 22/AP/0554 8 June 2022 para 12
+[^8] [Officer’s report 22/AP/0554 8 June 2022](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) para 12
 
-[^9]  Officer’s report 22/AP/0554 8 June 2022 para 325
+[^9]  [Officer’s report 22/AP/0554 8 June 2022](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) para 325
 
 [^10] 29 intermediate units were also purchased – 19 on Canada Water Plot K1, 10 on Surrey Docks Block E
 

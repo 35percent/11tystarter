@@ -51,7 +51,7 @@ The 224 homes in Bromyard House, Skenfirth House, Sarnsfield House and Peterchur
 
 The 'Ledbury Towers' scheme is also [described by Southwark as being 'On site](https://moderngov.southwark.gov.uk/documents/s121470/Appendix%201%20Southwark%20Construction%20New%20homes%20programme%20scheme%20list.pdf)', when this only practically true for the smaller half of the two-site scheme.  Both parts have planning permission and the smaller Bromyard site is scheduled for completion in March 2024.  This will provide 80 new homes, including 42 social rent[^9].  
 
-Most of the housing, though,  will be on the larger Old Kent Rd site, and work is not due to start here until March 2025, for completion by May 2030.  This site will have 260 new homes, including 125 social rent.
+Most of the housing, though,  will be on the larger Old Kent Rd site, and work is not due to start here until March 2025, for completion by May 2030.  This site will have 260 new homes, including 125 social rent[^10].
 
 ![](img/cabinet_report_new_homes_update_appendix_1_excerpt_220724_22_08_2024-12_57_20.png)
 
@@ -59,7 +59,7 @@ Like the Tustin, the regeneration of the Ledbury estate was approved by ballot, 
 
 ### What's wrong with s106 purchases?
 
-As well as not discounting demolitions, Southwark boosts the number of completed social rented homes by including the purchase of 252 social rented homes from private developments, in its 1,486 total for the council house programme[^10]. 
+As well as not discounting demolitions, Southwark boosts the number of completed social rented homes by including the purchase of 252 social rented homes from private developments, in its 1,486 total for the council house programme[^11]. 
 
 The purchased social rented homes come from four developments - Canada Water (Plot K1; Salter Rd, Blocks C,E,F); Sylvan Grove, Old Kent Road; Dibdin Apartments (128 – 150 Blackfriars Road); 1-5 Odessa Street SE16. 
 
@@ -85,11 +85,11 @@ This does not take into account big loses of council housing elsewhere in Southw
 
 ### What we think – 50% must become the new minimum
 
-We need a council house building programme because the private sector has failed to provide us with enough affordable housing.  According to the Southwark Plan 2022 only 7% of the borough’s households can fully afford free-market housing[^11], yet 65% of the new housing on private developments is exactly that – free-market.
+We need a council house building programme because the private sector has failed to provide us with enough affordable housing.  According to the Southwark Plan 2022 only 7% of the borough’s households can fully afford free-market housing[^12], yet 65% of the new housing on private developments is exactly that – free-market.
 
 Southwark’s pledge to build 11,000 council homes was a laudable attempt to make up for this market failure, but by 2024 it has achieved only a third of the 2014 target. 
 
-Now that it is abandoning direct delivery, fulfilling that pledge by *‘utilise (-ing) development partners’*[^12] looks like wishful thinking. The building industry’ problems reported to the July cabinet apply to the whole sector[^13]. Developers will factor these into viability assessments, along with profit margins set by themselves, to deliver as little affordable and social rented housing as possible.
+Now that it is abandoning direct delivery, fulfilling that pledge by *‘utilise (-ing) development partners’*[^13] looks like wishful thinking. The building industry’ problems reported to the July cabinet apply to the whole sector[^14]. Developers will factor these into viability assessments, along with profit margins set by themselves, to deliver as little affordable and social rented housing as possible.
 
 Southwark are the lead signatories in an [appeal by 20 councils to the new Labour government for more housing support](https://www.southwark.gov.uk/news/2024/jul/joint-open-letter-to-deputy-prime-minister-angela-rayner#:~:text=We%20look%20forward%20to%20working,to%20end%20the%20housing%20crisis.). Whether or not this succeeds private developers must also begin to pull their weight. We have been stuck on a minimum 35% affordable housing requirement for too long. Southwark and the Mayor also have a ‘strategic’ target of 50%. They must start to make this a reality and demand 50% affordable housing on every new development. They could begin with the new [Aylesham Centre](https://www.southwark.gov.uk/regeneration/peckham-and-nunhead/the-aylesham-centre) and the [Borough Triangle](https://planning.southwark.gov.uk/online-applications/simpleSearchResults.do?action=firstPage) developments proposed by developer Berkeley. Together they will deliver over 1,700 new homes. Southwark must demand that 800 should be affordable, with a minimum 70% social rented, if there is to be any credible chance of the private sector giving us the affordable housing we need.
 
@@ -111,10 +111,12 @@ Southwark are the lead signatories in an [appeal by 20 councils to the new Labou
 
 [^9]  [Officer’s report 22/AP/0554 8 June 2022](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) para 325
 
-[^10] 29 intermediate units were also purchased – 19 on Canada Water Plot K1, 10 on Surrey Docks Block E
+[^10] [Officer’s report 22/AP/0554 8 June 2022](https://moderngov.southwark.gov.uk/documents/s107169/Report%20The%20Ledbury%20Estate%20Commercial%20Way%20And%20Old%20Kent%20Road.pdf) para 325
 
-[^11] [Southwark Plan 2022](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-guidance/development-plan/new-southwark-plan) P1 Social rented and intermediate housing. Reason 2, which says *‘CACI Paycheck data confirms that 93% of households in Southwark have a household income that requires social and intermediate housing’*. 
+[^11] 29 intermediate units were also purchased – 19 on Canada Water Plot K1, 10 on Surrey Docks Block E
 
-[^12] [Cabinet report Southwark’s New Homes Programme Update 22 July 2024](<https://moderngov.southwark.gov.uk/documents/s121469/Report Southwarks New Homes Programme Update.pdf>) para 50
+[^12] [Southwark Plan 2022](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-guidance/development-plan/new-southwark-plan) P1 Social rented and intermediate housing. Reason 2, which says *‘CACI Paycheck data confirms that 93% of households in Southwark have a household income that requires social and intermediate housing’*. 
 
-[^13] [Cabinet report GW1 - Southwark Construction New Homes Programme 2022-2026 Procurement Strategy 22July 2024](<https://moderngov.southwark.gov.uk/documents/s121466/Report GW1 Southwark Construction New Homes Programme 2022-2026 Procurement Strategy.pdf>) para 17
+[^13] [Cabinet report Southwark’s New Homes Programme Update 22 July 2024](<https://moderngov.southwark.gov.uk/documents/s121469/Report Southwarks New Homes Programme Update.pdf>) para 50
+
+[^14] [Cabinet report GW1 - Southwark Construction New Homes Programme 2022-2026 Procurement Strategy 22July 2024](<https://moderngov.southwark.gov.uk/documents/s121466/Report GW1 Southwark Construction New Homes Programme 2022-2026 Procurement Strategy.pdf>) para 17

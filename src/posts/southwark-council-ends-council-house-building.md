@@ -10,11 +10,11 @@ Southwark Council recently [ended the ‘direct delivery’ of new council housi
 
 Southwark Council made [the pledge to build 11,000 council homes over 30 years](https://www.35percent.org/new-council-homes/), in July 2013.  Southwark reiterated the pledge in 2014, emphasising that the new homes would be in addition to current council housing stock, not instead of demolished council housing.  The then Council Leader Cllr Peter John wrote in an [open letter to residents](https://www.35percent.org/img/pj11000councilhomesletter.pdf) *‘To be absolutely clear, the 11,000 new homes that we promise to deliver will be new homes additional to our existing stock’*.
 
-![](img/pj11000councilhomesletter_highlighted_190924.png)*"From ‘Delivering our promise to build 11,000 new council homes: An open letter from Councillor Peter John, Leader of Southwark Council’. 19 Sept 2014."*
+![](https://35percent.org/img/pj11000councilhomesletter_highlighted_190924.png)*"From ‘Delivering our promise to build 11,000 new council homes: An open letter from Councillor Peter John, Leader of Southwark Council’. 19 Sept 2014."*
 
 Cllr John was [refuting the charge that the 11,000 new homes would simply replace 11,000 demolished homes](https://crappistmartin.github.io/images/SNHeygateOverage.pdf). We can see now, ten years later, that while 11,000 council homes have not been demolished, many have been, and when these are taken into account the number of 'additional' council homes is much lower than the 1,486 homes that Southwark claims.  It is also lower than the [1,500 target set in 2014](https://moderngov.southwark.gov.uk/documents/s47488/Report%20Long%20term%20plans%20for%20the%20delivery%20of%20new%20council%20homes.pdf) (to be achieved by 2018, not 2024).
 
-![](img/cabinet_report_next_steps_on_developing_long_term_plans_for_the_delivery_of_new_council_homes_220714.png)*"From Cabinet report ‘Next Steps on Developing Long Term Plans for the Delivery of New Council Homes’ 22 July 2014 "*
+![](https://35percent.org/img/cabinet_report_next_steps_on_developing_long_term_plans_for_the_delivery_of_new_council_homes_220714.png)*"From Cabinet report ‘Next Steps on Developing Long Term Plans for the Delivery of New Council Homes’ 22 July 2014 "*
 
 ### Southwark demolish over 4,000 social rented homes
 
@@ -22,7 +22,7 @@ Because [the figures reported to the Cabinet](<https://moderngov.southwark.gov.u
 
 The LTF found that Southwark Council has demolished [4,382 social rented-homes between 2012 and 2022](https://londontenants.org/wp-content/uploads/2022/12/Demolitions-London-2012-22-table.pdf).  This is 19% of the 22,892 total number of social rent homes demolished in London over that decade.  Nearly 70% of the total demolitions were in just seven boroughs, including Southwark.
 
-![](img/demolitions_london_2012_22_table_pdf_-090824_edit.png)*"London Tenant’s Federation table of delivery and loss of social-rented homes in London 2012-2022."*
+![](https://35percent.org/img/demolitions_london_2012_22_table_pdf_-090824_edit.png)*"London Tenant’s Federation table of delivery and loss of social-rented homes in London 2012-2022."*
 
 ### Estate regeneration and estate demolition
 
@@ -34,7 +34,7 @@ These are the Aylesbury, Tustin and Ledbury estates and between them they will d
 
 The Aylesbury will deliver its 581 council homes on two sites - FDS Package A and FDS Package B[^3].  However, 566 homes in four blocks (Arklow, Bradenham,  Chartridge and Chiltern) were demolished on the FDS site to allow for this and 501 of the demolished homes were council homes[^4].
 
-![](img/table_demolished_on_the_aylesbury_fds_220824.pdf_22_08_2024-16_25_16.png)*"Sources – Officer report, 07-CO-0046, Planning committee, 5 June 2007; Executive report Aylesbury Phase 1 Compulsory Purchase Orders, 9 Feb 2010"*
+![](https://35percent.org/img/table_demolished_on_the_aylesbury_fds_220824.pdf_22_08_2024-16_25_16.png)*"Sources – Officer report, 07-CO-0046, Planning committee, 5 June 2007; Executive report Aylesbury Phase 1 Compulsory Purchase Orders, 9 Feb 2010"*
 
 ### The Tustin estate
 
@@ -54,7 +54,7 @@ The 'Ledbury Towers' scheme is also [described by Southwark as being 'On site](h
 
 Most of the housing, though,  will be on the larger Old Kent Rd site, and work is not due to start here until March 2025, for completion by May 2030.  This site will have 260 new homes, including 125 social rent[^10].
 
-![](img/cabinet_report_new_homes_update_appendix_1_excerpt_220724_22_08_2024-12_57_20.png)*"From Cabinet report ‘Next Steps on Developing Long Term Plans for the Delivery of New Council Homes’ Appendix 1 22 July 2014"*
+![](https://35percent.org/img/cabinet_report_new_homes_update_appendix_1_excerpt_220724_22_08_2024-12_57_20.png)*"From Cabinet report ‘Next Steps on Developing Long Term Plans for the Delivery of New Council Homes’ Appendix 1 22 July 2014"*
 
 Like the Tustin, the regeneration of the Ledbury estate was approved by ballot, by the estate residents and will provide more and better quality social rented housing.  But also like the Tustin, Southwark Council is flattering the figures by not taking account of the social housing that has been demolished.  Southwark is also getting ahead of itself by claiming they are all 'on site', when most of the development has not yet begun.
 
@@ -82,7 +82,7 @@ If the 252 social rented homes purchased from the s106 contributions of private 
 
 This does not take into account big loses of council housing elsewhere in Southwark eg [on the Heygate](https://35percent.github.io/heygate-regeneration/) and [Silwood estates](https://www.35percent.org/silwood-regeneration/).
 
-![](img/table_gains_in_social_rented_homes_300824.png)
+![](https://35percent.org/img/table_gains_in_social_rented_homes_300824.png)
 
 ### What we think – 50% must become the new minimum
 

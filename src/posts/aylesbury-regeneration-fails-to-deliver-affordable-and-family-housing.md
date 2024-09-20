@@ -17,7 +17,7 @@ The Strategy justifies this failure on the grounds that the First Development Si
 
 ### Family housing is lost too...
 
-The same Housing Strategy report also reveals that Plot 18 does not have enough 'Houses' and Duplexes/Maisonettes and Two Bedroom Fourperson homes.  These are all larger dwelling types, used for family housing (DEFINITION OF HOUSE? 3+ BEDROOMS - more detail).  
+The same Housing Strategy report also reveals that Plot 18 does not have enough 'Houses' and Duplexes/Maisonettes and Two Bedroom Fourperson homes.  These are all larger dwelling types, used for family housing (DEFINITION OF HOUSE? 3+ BEDROOMS - more detail).  MORE DETAIL
 
 What does any previous Strategy say? Check s106 and DOVs.
 

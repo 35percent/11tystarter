@@ -33,6 +33,12 @@ Questions for Southwark; did it know during construction that the affordable/fam
 
 ### NHG eats Southwark's lunch - twice
 
-NHG has not only failed to build the 50% affordable housing it should have on Plot 18, it also wants to reduce the amount on the next phases, Stage 2B/C.  Southwark has provided 65.7% affordable housing on the First Devlopment Site (FDS), in the shape of 581 council homes; NHG want to take advantage of this 'overprovision' to reduce their contribution in Stage 2B/C to only 41.1%.  NHG justify this demand by arguing that because Southwark provided more than 50% on the FDS, which Southwark took over in 2016 (CHECK DATE), NHG should be allowed to provide less.  
+NHG has not only failed to build the 50% affordable housing it should have on Plot 18, it also wants to reduce the amount on the next phases, Stage 2B/C.  Southwark has provided 65.7% affordable housing on the First Devlopment Site (FDS), in the shape of 581 council homes; NHG want to take advantage of this 'overprovision' to reduce their contribution in Stage 2B/C to only 41.1%.  NHG justify this demand by arguing that because Southwark provided more than 50% on the FDS, which Southwark took over in 2016 (CHECK DATE), NHG should be allowed to provide less.
 
 ### What we say
+
+Southwark Council took over the FDS in 201? at the cost of £200m (link).  For that money it provided 581 much-needed council homes.  NHG has decided it will undermine the undoubted benefit of these homes to local people, by reducing the amount of affordable housing it will deliver on the remainder of the regeneration.  This cannot be right, whether or not it is allowable under the s106 agreement,.
+
+NHG need Southwark's written agreement to its demands, before it can proceed with the regeneration under its outline planning permission.  NHG has already tried once to  build outside of this permission, on Phase 2B, but fell foul of the High Court (link).  It is now making a second attempt with an almost identical 'standalone' application for Phase 2B, again outside of the outline planning permission parameters.
+
+Southwark must make it clear to NHG - you have had an outline planning planning permission since 2014, we expect you to fulfill it, with 50% affordable housing on every phase and with all the family housing too.

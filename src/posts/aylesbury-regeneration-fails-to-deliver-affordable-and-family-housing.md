@@ -9,6 +9,8 @@ A completed Aylesbury regeneration sites has failed to deliver all the affordabl
 
 Plot 18 will supply 122 residential units, a medical centre and .....(ADD).  The plot's development entailed the demolition of x number of council homes in a-b Missenden.
 
+
+
 SCREENSHOT OF STRATEGY COVER?
 
 However, a report lodged with Southwark Council's planning department in Septmeber 2023(link) by developer Notting Hill Genesis (NHG) reveals that less than half of the required affordable housing promised for Plot 18 has been built.  The report is NHG's Housing Delivery Strategy (LINK) and it says that while 50% of the housing should be affordable, only 22.9% (XX units) has been provided.  The Strategy renames Plot 18 as 'Development Stage 2A' and says that it *'will provide 358 Habitable Rooms, of which 82 Habitable Rooms (22.9%) will be Affordable Housing'* and *'this does not meet the requirement to provide a minimum of  50% of Habitable Rooms as Affordable Housing'* (LINK, SCREENSHOT OF ).  

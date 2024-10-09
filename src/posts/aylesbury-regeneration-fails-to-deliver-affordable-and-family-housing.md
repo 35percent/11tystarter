@@ -25,7 +25,7 @@ What does any previous Strategy say? Check s106 and DOVs.
 
 
 
-![](img/fig_5_housing_delivery_strategy_23ap2603.png)
+![](img/fig_5_housing_delivery_strategy_23ap2603.png "Housing Delivery Stategy showing showing zero houses on Plot 18")
 
 ### NHG's solution - reduce affordable housing
 

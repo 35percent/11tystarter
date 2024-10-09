@@ -23,7 +23,7 @@ The same Housing Strategy report also reveals that Plot 18 does not have enough 
 
 What does any previous Strategy say? Check s106 and DOVs.
 
-### NHG's solution
+### NHG's solution - reduce affordable housing
 
 NHG proposes taking advantage of clauses in the legal s106 agreement to deliver the missing affordable and family housing at later stages of the development.
 
@@ -31,6 +31,8 @@ Although Strategy has been with Southwark Council for over a year, Southwark hav
 
 Questions for Southwark; did it know during construction that the affordable/family housing was not going to be provided?  Why was this information not included in the July Cabinet update? Is it in the confidential report of that date? (35% Campaign has FOI-ed this). Will it approve the NHG's housing strategy and deferr delivery of the affordable and family housing to future phases?
 
-### NHG eats Southwark's lunch
+### NHG eats Southwark's lunch - twice
+
+NHG has not only failed to build the 50% affordable housing it should have on Plot 18, it also wants to reduce the amount on the next phases, Stage 2B/C.  Southwark has provided 65.7% affordable housing on the First Devlopment Site (FDS), in the shape of 581 council homes; NHG want to take advantage of this 'overprovision' to reduce their contribution in Stage 2B/C to only 41.1%.  NHG justify this demand by arguing that because Southwark provided more than 50% on the FDS, which Southwark took over in 2016 (CHECK DATE), NHG should be allowed to provide less.  
 
 ### What we say

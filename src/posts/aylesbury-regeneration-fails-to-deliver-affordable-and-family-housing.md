@@ -9,7 +9,7 @@ A completed Aylesbury regeneration site has failed to deliver all the affordable
 
 Plot 18 provides [122 residential units, a medical centre, a library and a early years facility](http://www.aylesburynow.london/regeneration/planning-information/plot-18).  The plot's development entailed the demolition of x number of council homes in 57-76 Northchurch and 300-313 Missenden.
 
-Despite the undoubted benefits the new medical centre, library and early years facility will bring, a  report lodged with Southwark Council's planning department by developer Notting Hill Genesis (NHG) reveals that less than half of the required affordable housing promised for Plot 18 has been built.  The report is NHG's Housing Delivery Strategy (LINK), dated September 2023.  The Strategy says that while 50% of the housing should be affordable, only 22.9% (measured by habitable room) has been provided.  The Strategy renames Plot 18 as 'Development Stage 2A' and says that it *'will provide 358 Habitable Rooms, of which 82 Habitable Rooms (22.9%) will be Affordable Housing'* and *'this does not meet the requirement to provide a minimum of  50% of Habitable Rooms as Affordable Housing'* (LINK, SCREENSHOT OF ). 
+Despite the undoubted benefits the new medical centre, library and early years facility will bring, a  report lodged with Southwark Council's planning department by developer Notting Hill Genesis (NHG) reveals that less than half of the required affordable housing promised for Plot 18 has been built.  The report is NHG's Housing Delivery Strategy (LINK), dated September 2023.  The Strategy says that while 50% of the housing should be affordable, only 22.9% (measured by habitable room) has been provided.  The Strategy refers to Plot 18 as 'Development Stage 2A' and says that it *'will provide 358 Habitable Rooms, of which 82 Habitable Rooms (22.9%) will be Affordable Housing'* and *'this does not meet the requirement to provide a minimum of  50% of Habitable Rooms as Affordable Housing'* (LINK, SCREENSHOT OF ). 
 
 ![](img/23_ap_2603-housing_delivery_strategy.-3727685.pdf-adobe-acrobat-reader-64-bit-09_10_2024-15_37_41.png)
 
@@ -22,6 +22,10 @@ The Strategy justifies this failure on the grounds that the First Development Si
 The same Housing Strategy report also reveals that Plot 18 does not have enough 'Houses' and Duplexes/Maisonettes and Two Bedroom Fourperson homes.  These are all larger dwelling types, used for family housing (DEFINITION OF HOUSE? 3+ BEDROOMS - more detail).  MORE DETAIL
 
 What does any previous Strategy say? Check s106 and DOVs.
+
+
+
+![](img/fig_5_housing_delivery_strategy_23ap2603.png)
 
 ### NHG's solution - reduce affordable housing
 

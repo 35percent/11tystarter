@@ -5,7 +5,7 @@ date: 2024-09-20T10:39:31.724Z
 ---
 IMAGE OF AYLESBURY or SCREENSHOT OF STRATEGY COVER
 
-One of the completed Aylesbury regeneration sites has failed to deliver all the affordable and family housing that is required by its planning permission (link).  Plot 18 is just the third plot of the estate's regeneration to be completed since 1997 (NB after Site 1A, Site 7), with a fourth site, the First Development Site, also nearing completion.
+A completed Aylesbury regeneration sites has failed to deliver all the affordable and family housing that is required by its planning permission (link).  Plot 18 is just the third plot of the estate's regeneration to be completed since 1997 (NB after Site 1A, Site 7), with a fourth site, the First Development Site, also nearing completion.
 
 Plot 18 will supply 122 residential units, a medical centre and .....(ADD).  The plot's development entailed the demolition of x number of council homes in a-b Missenden.
 

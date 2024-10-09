@@ -31,4 +31,6 @@ Although Strategy has been with Southwark Council for over a year, Southwark hav
 
 Questions for Southwark; did it know during construction that the affordable/family housing was not going to be provided?  Why was this information not included in the July Cabinet update? Is it in the confidential report of that date? (35% Campaign has FOI-ed this). Will it approve the NHG's housing strategy and deferr delivery of the affordable and family housing to future phases?
 
+### NHG eats Southwark's lunch
+
 ### What we say

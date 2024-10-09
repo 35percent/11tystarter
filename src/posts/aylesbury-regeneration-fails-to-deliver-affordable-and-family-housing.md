@@ -17,9 +17,11 @@ Despite the undoubted benefits the new medical centre, library and early years f
 
 The Strategy justifies this failure on the grounds that the First Development Site (FDS) has an *'overprovision'* of affordable housing and that taken together the two sites will have be 60.9% affordable housing.  The Strategy neglects to add that the great majority of the affordable housing on the FDS is being provided by Southwark Council, not NHG.  Southwark Council took over FDS 'A' and FDS 'B' in 2022, with great fanfare, and is providing 561/581 council homes at a cost of over £200m (LINK, CHECK).  Under the deal NHG retained FDS 'C', which will have xxx free-market units and just 56 social rented homes (CHECK).
 
-### Family housing is lost too...
+### Family housing promises broken
 
-Houses are distinguished from other types of dwelling, such as flats, and are particularly valued as family housing.  The now discarded [Aylesbury Area Action Plan 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^1] and *'At a borough wide level there is a need for a mix of dwellings, particularly those capable of accommodating families. The proportion of maisonettes and houses will help meet this need'* ^\[2].
+Houses are distinguished from other types of dwelling, such as flats, and are particularly valued as family housing.  The now discarded [Aylesbury Area Action Plan 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^1] and *'At a borough wide level there is a need for a mix of dwellings, particularly those capable of accommodating families. The proportion of maisonettes and houses will help meet this need'* [^2].
+
+The AAAP 2010 notes that  *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and '*Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^3]
 
 The same Housing Strategy report also reveals that Plot 18 does not have enough 'Houses' and Duplexes/Maisonettes and Two Bedroom Fourperson homes.  These are all larger dwelling types, used for family housing (DEFINITION OF HOUSE? 3+ BEDROOMS - more detail).  MORE DETAIL
 
@@ -52,3 +54,5 @@ Southwark must make it clear to NHG - you have had an outline planning planning 
 [^1] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Foreword pg 3; The vision and plan objectives 1.6.4
 
 [^2] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5 Type of homes; 3.5.1
+
+[^3] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.3, 3.5.4

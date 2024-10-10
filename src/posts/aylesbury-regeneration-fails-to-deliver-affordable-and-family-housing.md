@@ -13,11 +13,11 @@ Despite the undoubted benefits the new medical centre, library and early years f
 
 ![](img/23_ap_2603-housing_delivery_strategy.-3727685.pdf-adobe-acrobat-reader-64-bit-09_10_2024-15_37_41.png "NHG's Housing Delivery Strategy Sept 2023")
 
-### 60+ lost social rented homes
+### The lost social rented homes
 
+The percentages are measured in habitable rooms (living room, bedroom, kitchen), giving a loss of 97 habitable rooms, which works out as a loss of about 32 affordable homes, if they were all one-bed flats.  The planning permission requires that 75% of these should be social rent, which would be 24 units, leaving eight as shared-ownership homes.
 
-
-The Strategy justifies this failure on the grounds that the First Development Site (FDS) has an *'overprovision'* of affordable housing and that taken together the two sites will have be 60.9% affordable housing.  The Strategy neglects to add that the great majority of the affordable housing on the FDS is being provided by Southwark Council, not NHG.  Southwark Council took over FDS 'A' and FDS 'B' in 2022, with great fanfare, and is providing 561/581 council homes at a cost of over £200m (LINK, CHECK).  Under the deal NHG retained FDS 'C', which will have xxx free-market units and just 56 social rented homes (CHECK).
+[NHG's Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) justifies this failure on the grounds that the First Development Site (FDS) has an *'overprovision'* of affordable housing and that taken together the two sites will have be 60.9% affordable housing.  The Strategy neglects to add that the great majority of the affordable housing on the FDS is being provided by Southwark Council, not NHG.  Southwark Council [took over FDS 'A' and FDS 'B' in 2022](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/), with great fanfare, and is providing 581 council homes at a cost of over £200m.  Under the deal NHG retained FDS 'C', which will have xxx free-market units and just 56 social rented homes (CHECK).
 
 ### Family housing promises forgotten
 

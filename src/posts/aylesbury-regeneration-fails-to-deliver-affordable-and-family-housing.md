@@ -24,7 +24,7 @@ The percentages are measured in habitable rooms (living room, bedroom, kitchen),
 NHG also comes up short for houses on Plot 18.  About a fifth of the new homes should be houses, which would be around 14 three-bed homes, whereas the number actually provided is....**zero.**
 
 Houses are distinguished from other types of dwelling, such as flats, and are particularly valued as family homes.  The now discarded [Aylesbury Area Action Plan 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) defines them as a *'self contained residential dwelling. Houses
-can be detached, semi detached or terraced'* [^1].  The AAAP promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^2] 
+can be detached, semi detached or terraced'* [^1].  The AAAP promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^2]. 
 
 The AAAP 2010 notes that  *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and '*Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^3].
 
@@ -36,7 +36,7 @@ NHG justify supplying no houses on Plot 18 by referring to the s106 agreement be
 
 ### Maisonettes, Duplexes and bigger family homes all go missing...
 
-The pattern of shortfalls is repeated for maisonettes/duplexes and larger 2-bed homes.   The AAAP 2010 notes their role as family housing -tthat  At a borough wide level there is a need for a mix of dwellings, particularly those capable of accommodating families. The proportion of maisonettes and houses will help meet this need [^4]
+The pattern of shortfalls is repeated for maisonettes/duplexes and larger 2-bed homes.  The AAAP 2010 notes their role as family housing  *'At a borough wide level there is a need for a mix of dwellings, particularly those capable of accommodating families. The proportion of maisonettes and houses will help meet this need'* [^4].
 
 
 

@@ -44,6 +44,9 @@ Similarly, half of Plot 18's two-bed homes should be for four persons, giving 26
 
 ### Will the shortfalls be made up?
 
+It is clear that NHG has purposely underprovided both affordable and social rented housing and larger family-type housing on Plot 18.  NHG claims that it can do this under the terms of the s106 agreement it has with Southwark for the remainder of the Aylesbury regeneration.
+
+In the case of affordable housing NHG also claims that because more than 50% affordable housing has been provided on the FDS (by Southwark, as council housing) then NHG can deliver less affordable housing on Stage 2B/C.  It is obvious that if it does this, then Southwark Council will have effectively subsidised NHG's affordable housing contribution, through its £200m purchase of FDS 'A' and 'B' [^6].  paid £200m and local people will lose out 
 
 
 
@@ -52,9 +55,6 @@ Similarly, half of Plot 18's two-bed homes should be for four persons, giving 26
 
 
 
-amendmentsHousing Strategy report also reveals that Plot 18 does not have enough 'Houses' and Duplexes/Maisonettes and Two Bedroom Fourperson homes.  These are all larger dwelling types, used for family housing (DEFINITION OF HOUSE? 3+ BEDROOMS - more detail).  
-
-maisonette A self contained apartment, usually on two floors connected by an internal staircase. Sometimes known as a duplex apartment. Where two maisonettes are stacked one on top of another with an external staircase, these are also known as “houses above houses”.
 
 What does any previous Strategy say? Check s106 and DOVs.
 
@@ -88,7 +88,7 @@ Southwark must make this clear to NHG - 'you have had an outline planning planni
 
 [^5] Aylesbury Phase 2 Update June 2024 Display Board 9 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 
-
+[^6] NHG retains FDS 'C' where it will provide 56 affordable homes and xxx private homes.
 
 
 

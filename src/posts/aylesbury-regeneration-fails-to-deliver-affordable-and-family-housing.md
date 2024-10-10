@@ -26,11 +26,11 @@ The AAAP 2010 notes that  *'Increasing the proportion of homes suitable for fami
 
 Despite these well-attested virtues the number of houses required in the regeneration stands at 19.7% (by habitable rooms), according to the Strategy, not the 23% given in the AAAP.  This would amount to about 14 three-bed houses, but the Strategy candidly states *'As shown in Figure 5 Development Stage 2A does not provide any ‘Houses’*.
 
+![](img/fig_5_housing_delivery_strategy_23ap2603.png "Housing Delivery Stategy showing showing zero houses on Plot 18")
+
 The same Housing Strategy report also reveals that Plot 18 does not have enough 'Houses' and Duplexes/Maisonettes and Two Bedroom Fourperson homes.  These are all larger dwelling types, used for family housing (DEFINITION OF HOUSE? 3+ BEDROOMS - more detail).  MORE DETAIL
 
 What does any previous Strategy say? Check s106 and DOVs.
-
-![](img/fig_5_housing_delivery_strategy_23ap2603.png "Housing Delivery Stategy showing showing zero houses on Plot 18")
 
 ### NHG's solution - reduce affordable housing
 

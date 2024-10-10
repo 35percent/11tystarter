@@ -24,9 +24,9 @@ The percentages are measured in habitable rooms (living room, bedroom, kitchen),
 NHG also comes up short for houses on Plot 18.  About a fifth of the new homes should be houses, which would be around 14 three-bed homes, whereas the number actually provided is....**zero.**
 
 Houses are distinguished from other types of dwelling, such as flats, and are particularly valued as family homes.  The now discarded [Aylesbury Area Action Plan 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) defines them as a *'self contained residential dwelling. Houses
-can be detached, semi detached or terraced'* [^1].  The AAAP promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^2] and *'At a borough wide level there is a need for a mix of dwellings, particularly those capable of accommodating families. The proportion of maisonettes and houses will help meet this need'* [^3].
+can be detached, semi detached or terraced'* [^1].  The AAAP promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^2] 
 
-The AAAP 2010 notes that  *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and '*Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^4].
+The AAAP 2010 notes that  *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and '*Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^3].
 
 ![](img/fig_5_housing_delivery_strategy_23ap2603.png "Housing Delivery Stategy showing showing zero houses on Plot 18")
 
@@ -36,7 +36,27 @@ NHG justify supplying no houses on Plot 18 by referring to the s106 agreement be
 
 ### Maisonettes, Duplexes and bigger family homes all go missing...
 
-The same Housing Strategy report also reveals that Plot 18 does not have enough 'Houses' and Duplexes/Maisonettes and Two Bedroom Fourperson homes.  These are all larger dwelling types, used for family housing (DEFINITION OF HOUSE? 3+ BEDROOMS - more detail).  MORE DETAIL
+The pattern of shortfalls is repeated for maisonettes/duplexes and larger 2-bed homes.   The AAAP 2010 notes their role as family housing -tthat  At a borough wide level there is a need for a mix of dwellings, particularly those capable of accommodating families. The proportion of maisonettes and houses will help meet this need [^4]
+
+
+
+
+
+NHG's Strategy reports that while 17% of dwellings should be maisonettes/duplexes, there are none on Plot 18, going on to propose 'the  *'the necessary amendments within future Development Stages (namely Development Stage 2B/C) to ensure that the Minimum Maisonettes / Duplexes Requirement is met'* but without actually promising that this is going to happen.
+
+
+
+Similarly 2b4p 
+
+
+
+
+
+
+
+amendmentsHousing Strategy report also reveals that Plot 18 does not have enough 'Houses' and Duplexes/Maisonettes and Two Bedroom Fourperson homes.  These are all larger dwelling types, used for family housing (DEFINITION OF HOUSE? 3+ BEDROOMS - more detail).  
+
+maisonette A self contained apartment, usually on two floors connected by an internal staircase. Sometimes known as a duplex apartment. Where two maisonettes are stacked one on top of another with an external staircase, these are also known as “houses above houses”.
 
 What does any previous Strategy say? Check s106 and DOVs.
 
@@ -66,11 +86,9 @@ Southwark must make this clear to NHG - 'you have had an outline planning planni
 
 [^2] Foreword pg 3; The vision and plan objectives 1.6.4
 
-[^3] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5 Type of homes; 3.5.1
+[^3] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.3, 3.5.4
 
-[^4] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.3, 3.5.4
-
-[^4] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf)
+[^4] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.1
 
 
 

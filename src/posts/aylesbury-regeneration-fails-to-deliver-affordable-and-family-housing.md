@@ -17,12 +17,14 @@ The Strategy justifies this failure on the grounds that the First Development Si
 
 ### Family housing promises forgotten
 
-Houses are distinguished from other types of dwelling, such as flats, and are particularly valued as family housing.  The now discarded [Aylesbury Area Action Plan 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) defines them as *'self contained residential dwelling. Houses
+NHG also comes up short for houses on Plot 18.  About a fifth of the new homes should be houses, around 14 three-bed homes, whereas the number actually provided is........... **zero.**
+
+Houses are distinguished from other types of dwelling, such as flats, and are particularly valued as family homes.  The now discarded [Aylesbury Area Action Plan 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) defines them as a *'self contained residential dwelling. Houses
 can be detached, semi detached or terraced'* [^1].  The AAAP promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^2] and *'At a borough wide level there is a need for a mix of dwellings, particularly those capable of accommodating families. The proportion of maisonettes and houses will help meet this need'* [^3].
 
 The AAAP 2010 notes that  *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and '*Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^4].
 
-Despite their well-attested virtues the number of houses required in the regeneration is now 19.7% of the total number of habitable rooms, according to the Strategy, not the 23% given in the AAAP.  This would amount to about 14 three-bed houses, but the Strategy candidly states *'As shown in Figure 5 Development Stage 2A does not provide any ‘Houses’*.
+Despite these well-attested virtues the number of houses required in the regeneration stands at 19.7% (by habitable rooms), according to the Strategy, not the 23% given in the AAAP.  This would amount to about 14 three-bed houses, but the Strategy candidly states *'As shown in Figure 5 Development Stage 2A does not provide any ‘Houses’*.
 
 The same Housing Strategy report also reveals that Plot 18 does not have enough 'Houses' and Duplexes/Maisonettes and Two Bedroom Fourperson homes.  These are all larger dwelling types, used for family housing (DEFINITION OF HOUSE? 3+ BEDROOMS - more detail).  MORE DETAIL
 

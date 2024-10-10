@@ -48,17 +48,9 @@ It is clear that NHG has purposely underprovided both affordable and social rent
 
 In the case of affordable housing NHG also claims that because more than 50% affordable housing has been provided on the FDS (by Southwark, as council housing) then NHG can deliver less affordable housing on Stage 2B/C.  It is obvious that if it does this, then Southwark Council will have effectively subsidised NHG's affordable housing contribution, through its £200m purchase of FDS 'A' and 'B' [^5].  It is equally obvious that local people will lose affordable and social rented housing.
 
-NHG has already [started to consult](<http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>) on the Aylesbury's next phase, Phase 2B.  It has proposed 50% affordable housing, not the reduced amount of 41.1% proposed in the Strategy for Stage 2B/2C, but it is not clear that this will be enough to make up what has been lost on Plot 18.  NHG also proposes maisonettes in mansion blocks, but whether these will be in enough numbers to also make up for what is lost on Plot 18 is again unclear.  Finally, NHG have proposed 179 two-bed/four-person homes for Phase 2B, which is 26.4 units short of the 205.4 needed over Stage 2B/C to make up for those lost on Plot 18 [^5].  There is no sign of any houses in the Phase 2B proposal.
+NHG has already [started to consult](<http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>) on the Aylesbury's next phase, Phase 2B.  It has proposed 50% affordable housing, not the reduced amount of 41.1% proposed in the Strategy for Stage 2B/2C, but it is not clear that this will be enough to make up what has been lost on Plot 18.  NHG also proposes maisonettes in mansion blocks, but whether these will be in enough numbers to also make up for what is lost on Plot 18 is again unclear.  Finally, NHG have proposed 179 two-bed/four-person homes for Phase 2B, which is 26.4 units short of the 205.4 needed over Stage 2B/C to make up for those lost on Plot 18 [^5].  There is no sign of any houses in the Phase 2B proposal.  There is also only the vaguest acknowledgement of future phases, to be completed by '2030 and beyond'
 
 NHG will also making their planning application for Phase 2B as a 'standalone' application, outside of the outline planning permission for the regeneration of the whole estate that they have held since 2015.  This means that the Strategy that they have put forward to justify the shortfalls on Plot 18, including the possibility of making these up, may not apply to Phase 2B, because the Strategy relates only to the outline permission[^7].  
-
-
-
-
-
-
-
-
 
 What does any previous Strategy say? Check s106 and DOVs.
 
@@ -76,7 +68,11 @@ NHG has not only failed to build the 50% affordable housing it should have on Pl
 
 ### What we say
 
-Southwark Council took over the FDS in 201? at the cost of £200m (link).  For that money it provided 581 much-needed council homes.  NHG has decided it will undermine the undoubted benefit of these homes to local people, by reducing the amount of affordable housing it will deliver on the remainder of the regeneration.  This cannot be right, whether or not it is allowable under the s106 agreement,.
+NHG's record is poor.  It has held an outline planning permission since 2014 and has only built....Southwark Council took over most of the FDS iteself in 201? at the cost of £200m (link) and now NHG is trying to use the council homes that Southwark has paid for to reduce its own affordable housing obligation.  Instead of pushing on with detailed permissions under the OPP it has tried to squeeze more out of Phase 2b than that allowed and having failed first time is back with a second attempt. Finally it has underdelivered on both affordable and family housing on Plot 18 and wants Southwark to sign up to the vaguest undertaking that these 'could' be made up in future phases. With such a miserable record, no-one can have any confidence in NHG completing the Aylesbury regeneration and delivering the promised and much-needed affordable and social rented housing.
+
+It's time for Southwark to lay the law down...
+
+  and failed to For that money it provided 581 much-needed council homes.  NHG has decided it will undermine the undoubted benefit of these homes to local people, by reducing the amount of affordable housing it will deliver on the remainder of the regeneration.  This cannot be right, whether or not it is allowable under the s106 agreement,.
 
 NHG need Southwark's written agreement to its demands, before it can proceed with the regeneration under its outline planning permission.  NHG has already tried once to  build outside of this permission, on Phase 2B, but fell foul of the High Court (link).  It is now making a second attempt with another similar identical 'standalone' application for Phase 2B, again outside of the outline planning permission parameters.
 

@@ -13,6 +13,10 @@ Despite the undoubted benefits the new medical centre, library and early years f
 
 ![](img/23_ap_2603-housing_delivery_strategy.-3727685.pdf-adobe-acrobat-reader-64-bit-09_10_2024-15_37_41.png "NHG's Housing Delivery Strategy Sept 2023")
 
+### 60+ lost social rented homes
+
+
+
 The Strategy justifies this failure on the grounds that the First Development Site (FDS) has an *'overprovision'* of affordable housing and that taken together the two sites will have be 60.9% affordable housing.  The Strategy neglects to add that the great majority of the affordable housing on the FDS is being provided by Southwark Council, not NHG.  Southwark Council took over FDS 'A' and FDS 'B' in 2022, with great fanfare, and is providing 561/581 council homes at a cost of over £200m (LINK, CHECK).  Under the deal NHG retained FDS 'C', which will have xxx free-market units and just 56 social rented homes (CHECK).
 
 ### Family housing promises forgotten
@@ -27,6 +31,8 @@ The AAAP 2010 notes that  *'Increasing the proportion of homes suitable for fami
 Despite these well-attested virtues the number of houses required in the regeneration is now 19.7% of total dwellings (by habitable rooms), according to t[he Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf), not the 23% given in the AAAP 2010.  This would amount to about 14 three-bed houses, but the Strategy candidly states *'As shown in Figure 5 Development Stage 2A does not provide any ‘Houses’*.
 
 ![](img/fig_5_housing_delivery_strategy_23ap2603.png "Housing Delivery Stategy showing showing zero houses on Plot 18")
+
+### Maisonettes, Duplexes and bigger family homes all go missing...
 
 The same Housing Strategy report also reveals that Plot 18 does not have enough 'Houses' and Duplexes/Maisonettes and Two Bedroom Fourperson homes.  These are all larger dwelling types, used for family housing (DEFINITION OF HOUSE? 3+ BEDROOMS - more detail).  MORE DETAIL
 
@@ -48,9 +54,9 @@ NHG has not only failed to build the 50% affordable housing it should have on Pl
 
 Southwark Council took over the FDS in 201? at the cost of £200m (link).  For that money it provided 581 much-needed council homes.  NHG has decided it will undermine the undoubted benefit of these homes to local people, by reducing the amount of affordable housing it will deliver on the remainder of the regeneration.  This cannot be right, whether or not it is allowable under the s106 agreement,.
 
-NHG need Southwark's written agreement to its demands, before it can proceed with the regeneration under its outline planning permission.  NHG has already tried once to  build outside of this permission, on Phase 2B, but fell foul of the High Court (link).  It is now making a second attempt with an almost identical 'standalone' application for Phase 2B, again outside of the outline planning permission parameters.
+NHG need Southwark's written agreement to its demands, before it can proceed with the regeneration under its outline planning permission.  NHG has already tried once to  build outside of this permission, on Phase 2B, but fell foul of the High Court (link).  It is now making a second attempt with another similar identical 'standalone' application for Phase 2B, again outside of the outline planning permission parameters.
 
-Southwark must make it clear to NHG - you have had an outline planning planning permission since 2014, we expect you to fulfill it, with 50% affordable housing on every phase and with all the family housing that was promised too. 
+Southwark must make this clear to NHG - 'you have had an outline planning planning permission since 2014, we expect you to fulfill it, with 50% affordable housing on every phase and with all the family housing that was promised. 
 
 ### Southwark lose the plot
 

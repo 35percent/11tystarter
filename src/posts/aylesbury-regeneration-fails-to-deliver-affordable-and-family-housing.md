@@ -5,7 +5,7 @@ date: 2024-09-20T10:39:31.724Z
 ---
 ![](img/20240921_144523-0-.jpg "Plot 18 nearing completion")
 
-A completed Aylesbury regeneration site has failed to deliver all the affordable and family housing that is required by its [planning permission](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=R95ATPKB00300&activeTab=summary) (link).  Plot 18 is just the third plot of the estate's regeneration to be completed since 1997 (after Site 1A and Site 7, delivered by L&Q housing association), with a fourth site, the First Development Site, also nearing completion.
+A completed Aylesbury regeneration site has failed to deliver all the affordable and family housing that is required by its [planning permission](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=R95ATPKB00300&activeTab=summary).  Plot 18 is just the third plot of the estate's regeneration to be completed since 1997 (after Site 1A and Site 7, delivered by L&Q housing association), with a fourth site, the First Development Site, also nearing completion.
 
 Plot 18 provides [122 residential units, a medical centre, a library and a early years facility](http://www.aylesburynow.london/regeneration/planning-information/plot-18).  The plot's development entailed the demolition of x number of council homes in 57-76 Northchurch and 300-313 Missenden.
 
@@ -49,6 +49,8 @@ Southwark Council took over the FDS in 201? at the cost of £200m (link).  For t
 NHG need Southwark's written agreement to its demands, before it can proceed with the regeneration under its outline planning permission.  NHG has already tried once to  build outside of this permission, on Phase 2B, but fell foul of the High Court (link).  It is now making a second attempt with an almost identical 'standalone' application for Phase 2B, again outside of the outline planning permission parameters.
 
 Southwark must make it clear to NHG - you have had an outline planning planning permission since 2014, we expect you to fulfill it, with 50% affordable housing on every phase and with all the family housing that was promised too. 
+
+### Southwark lose the plot
 
 [^1] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Glossary, pg 178
 

@@ -28,8 +28,6 @@ The same Housing Strategy report also reveals that Plot 18 does not have enough 
 
 What does any previous Strategy say? Check s106 and DOVs.
 
-
-
 ![](img/fig_5_housing_delivery_strategy_23ap2603.png "Housing Delivery Stategy showing showing zero houses on Plot 18")
 
 ### NHG's solution - reduce affordable housing
@@ -61,3 +59,7 @@ Southwark must make it clear to NHG - you have had an outline planning planning 
 [^4] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.3, 3.5.4
 
 [^4] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf)
+
+
+
+<https://planning.southwark.gov.uk/online-applications/simpleSearchResults.do?action=firstPage>

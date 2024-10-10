@@ -40,13 +40,15 @@ The pattern of shortfalls is repeated for maisonettes/duplexes and larger 2-bed 
 
 [NHG's Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) reports that while 17% of dwellings should be maisonettes/duplexes, there are none on Plot 18.  The Strategy then goes on to propose 'the  *'the necessary amendments within future Development Stages (namely Development Stage 2B/C) to ensure that the Minimum Maisonettes / Duplexes Requirement is met'* but without actually promising that this is going to happen.
 
-Similarly, half of Plot 18's two-bed homes should be for four persons, giving 26 new two-bed/four-person homes, but instead there only 4 two-bed/four-person homes - a shortfall of twenty-two.  Again, NHG proposes making up the difference on the next Stage 2B/C, which would need to provide 205.4 two-bed/four-person homes.  NHG have proposed 179 two-bed/four-person homes for Phase 2B [at a recent consultation](http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626) [^5].
+Similarly, half of Plot 18's two-bed homes should be for four persons, giving 26 new two-bed/four-person homes, but instead there only 4 two-bed/four-person homes - a shortfall of twenty-two.  Again, NHG proposes making up the difference on the next Stage 2B/C, which would need to provide 205.4 two-bed/four-person homes.  
 
 ### Will the shortfalls be made up?
 
 It is clear that NHG has purposely underprovided both affordable and social rented housing and larger family-type housing on Plot 18.  NHG claims that it can do this under the terms of the s106 agreement with Southwark, covering the remainder of the Aylesbury regeneration and that the shortfall in the number of maisonettes/duplexes and two-bed/four person homes *'could'* be made up in future phases.
 
 In the case of affordable housing NHG also claims that because more than 50% affordable housing has been provided on the FDS (by Southwark, as council housing) then NHG can deliver less affordable housing on Stage 2B/C.  It is obvious that if it does this, then Southwark Council will have effectively subsidised NHG's affordable housing contribution, through its £200m purchase of FDS 'A' and 'B' [^6].  It is equally obvious that local people will lose affordable and social rented housing.
+
+NHG has already [started to consult](<http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>) on the Aylesbury's next phase, Phase 2B.  It has proposed 50% affordable housing, not the reduced amount of 41.1% proposed in the Strategy for Stage 2B/2C, but it is not clear that this will be enough to make up what has been lost on Plot 18.  NHG also proposes maisonettes in mansion blocks, but whether these will be in enough numbers to also make up for what is lost on Plot 18 is again unclear.  Finally, NHG have proposed 179 two-bed/four-person homes for Phase 2B, which is 26.4 units short of the 205.4 needed over Stage 2B/C to make up for those lost on Plot 18 [^5].  There is no sign of any houses i the proposal.
 
 
 
@@ -64,7 +66,7 @@ NHG proposes taking advantage of clauses in the legal s106 agreement to deliver 
 
 Although Strategy has been with Southwark Council for over a year, Southwark have not yet approved it.  This approval is needed by NHG before they can get any of the necessary further planning permissions to complete the Aylesbury's regeneration.
 
-Questions for Southwark; did it know during construction that the affordable/family housing was not going to be provided?  Why was this information not included in the July Cabinet update? Is it in the confidential report of that date? (35% Campaign has FOI-ed this). Will it approve the NHG's housing strategy and deferr delivery of the affordable and family housing to future phases?
+Questions for Southwark; did it know during construction that the affordable/family housing was not going to be provided?  Why was this information not included in the July Cabinet update? Is it in the confidential report of that date? (35% Campaign has FOI-ed this). Will it approve the NHG's housing strategy and defer delivery of the affordable and family housing to future phases?
 
 ### NHG eats Southwark's lunch - twice
 
@@ -86,7 +88,7 @@ Southwark must make this clear to NHG - 'you have had an outline planning planni
 
 [^4] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.1
 
-[^5] Aylesbury Phase 2 Update June 2024 Display Board 9 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
+[^5] Aylesbury Phase 2 Update June 2024 Display Boards 1, 8 9 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 
 [^6] NHG retains FDS 'C' where it will provide 56 affordable homes and xxx private homes.
 

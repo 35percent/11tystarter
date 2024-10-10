@@ -5,7 +5,7 @@ date: 2024-09-20T10:39:31.724Z
 ---
 ![](img/20240921_144523-0-.jpg "Plot 18 nearing completion")
 
-A completed Aylesbury regeneration site has failed to deliver all the affordable and family housing that is required by its planning permission (link).  Plot 18 is just the third plot of the estate's regeneration to be completed since 1997 (after Site 1A and Site 7, delivered by L&Q housing association), with a fourth site, the First Development Site, also nearing completion.
+A completed Aylesbury regeneration site has failed to deliver all the affordable and family housing that is required by its [planning permission](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=R95ATPKB00300&activeTab=summary) (link).  Plot 18 is just the third plot of the estate's regeneration to be completed since 1997 (after Site 1A and Site 7, delivered by L&Q housing association), with a fourth site, the First Development Site, also nearing completion.
 
 Plot 18 provides [122 residential units, a medical centre, a library and a early years facility](http://www.aylesburynow.london/regeneration/planning-information/plot-18).  The plot's development entailed the demolition of x number of council homes in 57-76 Northchurch and 300-313 Missenden.
 
@@ -63,3 +63,5 @@ Southwark must make it clear to NHG - you have had an outline planning planning 
 
 
 <https://planning.southwark.gov.uk/online-applications/simpleSearchResults.do?action=firstPage>
+
+<https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=R95ATPKB00300&activeTab=summary> - 22/AP/1063

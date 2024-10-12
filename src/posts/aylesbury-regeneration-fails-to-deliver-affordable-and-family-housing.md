@@ -48,11 +48,11 @@ It is clear that NHG has purposely underprovided both affordable and social rent
 
 In the case of affordable housing NHG also claims that because more than 50% affordable housing has been provided on the FDS (by Southwark, as council housing) then NHG can deliver less affordable housing on Stage 2B/C.  It is obvious that if it does this, then Southwark Council will have effectively subsidised NHG's affordable housing contribution, through its £200m purchase of FDS 'A' and 'B' [^5].  It is equally obvious that local people will lose affordable and social rented housing.
 
-NHG has already [started to consult](http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626) on the Aylesbury's next phase, Phase 2B.  It has proposed 50% affordable housing, not the reduced amount of 41.1% proposed in the Strategy for Stage 2B/2C, but it is not clear that this will be enough to make up what has been lost on Plot 18.  NHG also proposes maisonettes in mansion blocks, but whether these will be in enough numbers to also make up for what is lost on Plot 18 is again unclear.  Finally, NHG have proposed 179 two-bed/four-person homes for Phase 2B, which is 26.4 units short of the 205.4 needed over Stage 2B/C to make up for those lost on Plot 18 [^5].  There is no sign of any houses in the Phase 2B proposal.  There is also only the vaguest acknowledgement of future phases, which are to be completed by '2030 and beyond'
+NHG has already [started to consult](http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626) on the Aylesbury's next phase, Phase 2B.  It has proposed 50% affordable housing, not the reduced amount of 41.1% proposed in the Strategy for Stage 2B/2C, but it is not clear that this will be enough to make up what has been lost on Plot 18.  NHG also proposes maisonettes in mansion blocks, but whether these will be in enough numbers to also make up for what is lost on Plot 18 is again unclear.  Finally, NHG have proposed 179 two-bed/four-person homes for Phase 2B, which is 26.4 units short of the 205.4 needed over Stage 2B/C to make up for those lost on Plot 18 [^5].  There is no sign of any houses in the Phase 2B proposal.  There is also only the vaguest acknowledgement of future phases, which are to be completed by *'2030 and beyond'.*
 
 NHG will also making their planning application for Phase 2B as a 'standalone' application, outside of the outline planning permission for the regeneration of the whole estate, which they have held since 2015.  This means that the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf)  justifying Plot 18's shortfalls on Plot 18, and the possibility of making these up, may not apply to Phase 2B, because the Strategy relates only to the outline permission[^7].  
 
-What does any previous Strategy say? Check s106 and DOVs.
+
 
 ### NHG's solution - reduce affordable housing
 
@@ -60,7 +60,7 @@ NHG proposes taking advantage of clauses in the legal s106 agreement to deliver 
 
 Although Strategy has been with Southwark Council for over a year, Southwark have not yet approved it.  This approval is needed by NHG before they can get any of the necessary further planning permissions to complete the Aylesbury's regeneration.
 
-Questions for Southwark; did it know during construction that the affordable/family housing was not going to be provided?  Why was this information not included in the July Cabinet update? Is it in the confidential report of that date? (35% Campaign has FOI-ed this). Will it approve the NHG's housing strategy and defer delivery of the affordable and family housing to future phases?
+Will it approve the NHG's housing strategy and defer delivery of the affordable and family housing to future phases?
 
 ### NHG eats Southwark's lunch - twice
 
@@ -91,6 +91,16 @@ Southwark must make this clear to NHG - 'you have had an outline planning planni
 [^6] Aylesbury Phase 2 Update June 2024 Display Boards 1, 8 9 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 
 [^7] This is NHG's second attempt at a 'standalone' application for Phase 2B; the first fell foul of a High Court judgement on a related change to the outline planning permission.  See our blogpost ['What next after High Court overturns Aylesbury planning decision?'](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/)
+
+\-----------------------------------------------------------------------------------------------------------------------
+
+Questions for Southwark; did it know during construction that the affordable/family housing was not going to be provided?  Why was this information not included in the July Cabinet update? Is it in the confidential report of that date? (35% Campaign has FOI-ed this).
+
+What does any previous Strategy say? Check s106 and DOVs.
+
+
+
+
 
 <https://planning.southwark.gov.uk/online-applications/simpleSearchResults.do?action=firstPage>
 

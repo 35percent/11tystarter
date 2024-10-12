@@ -52,10 +52,6 @@ NHG has already [started to consult](http://www.aylesburynow.london/web/uploads/
 
 NHG will also making their planning application for Phase 2B as a 'standalone' application, outside of the outline planning permission for the regeneration of the whole estate, which they have held since 2015.  This means that the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf)  justifying Plot 18's shortfalls on Plot 18, and the possibility of making these up, may not apply to Phase 2B, because the Strategy relates only to the outline permission[^7].  
 
-
-
-### NHG's solution - reduce affordable housing
-
 NHG proposes taking advantage of clauses in the legal s106 agreement to deliver the missing affordable and family housing at later stages of the development.
 
 Although Strategy has been with Southwark Council for over a year, Southwark have not yet approved it.  This approval is needed by NHG before they can get any of the necessary further planning permissions to complete the Aylesbury's regeneration.

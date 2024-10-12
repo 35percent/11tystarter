@@ -67,24 +67,16 @@ Southwark should consider that;
 
 * NHG's record of housing delivery is poor.  It has held an outline planning permission since 2015 and has only completed the 122  homes on Plot 18, of which **only 23 are social rented**, with no shared ownership units, under half of the total affordable housing required.
 * Southwark Council had to take over FDS 'A' and 'B' itself, at a cost of over £200m.  NHG retains FDS 'C', which will provide just 56 affordable units, plus **xxx private**
-* NHG's [fell foul of a High Court ruling](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/) related to their last Aylesbury planning application, for Phase 2B.  This 'standalone' or 'drop-in' application was for a denser development than would have been allowed under the outline permission NHG already held.  Notwithstanding this failure, NHG have [begun consulting](http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626) on another, very similar 'drop-in' Phase 2B scheme.
+* NHG and Southwark Council both [fell foul of a High Court ruling](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/) related to NHG's last Aylesbury planning application, for Phase 2B.  This 'standalone' or 'drop-in' application was for a denser development than would have been allowed under the outline permission NHG already held.  Notwithstanding this failure, NHG have [begun consulting](http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626) on another, very similar 'drop-in' Phase 2B scheme.
 * NHG's commitment to actually delivering any future phases is a vague reference to '2030 and beyond'[^8].  Applications for Stage 2B/C, Stage 3 and Stage 4 under their outline permission must be submitted by Aug 2033 [^9].
 
- 
+Finally, in the light of the above, a big final question is whether or not Southwark Council can have any confidnce at all that NHG will deliver the Aylesbury regeneration according to 
 
 
 
 
 
-But NHG's record is poor.  It has held an outline planning permission for ten years, since 2014 and has only built....Southwark Council took over most of the FDS iteself in 201? at the cost of £200m (link) and now NHG is trying to use the council homes that Southwark has paid for to reduce its own affordable housing obligation.  Instead of pushing on with detailed permissions under the OPP it has tried to squeeze more out of Phase 2b than that allowed and having failed first time is back with a second attempt. Finally it has underdelivered on both affordable and family housing on Plot 18 and wants Southwark to sign up to the vaguest undertaking that these 'could' be made up in future phases. With such a miserable record, no-one can have any confidence in NHG completing the Aylesbury regeneration and delivering the promised and much-needed affordable and social rented housing.
 
-It's time for Southwark to lay the law down...
-
-  and failed to For that money it provided 581 much-needed council homes.  NHG has decided it will undermine the undoubted benefit of these homes to local people, by reducing the amount of affordable housing it will deliver on the remainder of the regeneration.  This cannot be right, whether or not it is allowable under the s106 agreement,.
-
-NHG need Southwark's written agreement to its demands, before it can proceed with the regeneration under its outline planning permission.  NHG has already tried once to  build outside of this permission, on Phase 2B, but fell foul of the High Court (link).  It is now making a second attempt with another similar identical 'standalone' application for Phase 2B, again outside of the outline planning permission parameters.
-
-Southwark must make this clear to NHG - 'you have had an outline planning planning permission since 2014, we expect you to fulfill it, with 50% affordable housing on every phase and with all the family housing that was promised. 
 
 [^1] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Glossary, pg 178
 
@@ -100,7 +92,7 @@ Southwark must make this clear to NHG - 'you have had an outline planning planni
 
 [^7] This is NHG's second attempt at a 'drop-in' application for Phase 2B; the first fell foul of a High Court judgement on a related change to the outline planning permission.  See our blogpost ['What next after High Court overturns Aylesbury planning decision?'](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/)
 
-[^8] Aylesbury Phase 2 Update June 2024 Display Boards 1, 8 9 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
+[^8] Aylesbury Phase 2 Update June 2024 Display Board 3 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 
 [^9] para 73 [](https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023_RDENNIS-v-LBC_NHG_-17-01-2024_final.pdf)Aysen Dennis -v- London Borough of Southwark, Neutral Citation Number: \[2024] EWHC 57 (Admin)
 AC-2023-LON-001410, 17 January 2024  [https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023*RDENNIS-v-LBC_NHG*-17-01-2024_final.pdf](https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023_RDENNIS-v-LBC_NHG_-17-01-2024_final.pdf)

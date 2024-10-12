@@ -70,13 +70,7 @@ Southwark should consider that;
 * NHG and Southwark Council both [fell foul of a High Court ruling](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/) related to NHG's last Aylesbury planning application, for Phase 2B.  This 'standalone' or 'drop-in' application was for a denser development than would have been allowed under the outline permission NHG already held.  Notwithstanding this failure, NHG have [begun consulting](http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626) on another, very similar 'drop-in' Phase 2B scheme.
 * NHG's commitment to actually delivering any future phases is a vague reference to '2030 and beyond'[^8].  Applications for Stage 2B/C, Stage 3 and Stage 4 under their outline permission must be submitted by Aug 2033 [^9].
 
-Finally, in the light of the above, a big final question is whether or not Southwark Council can have any confidnce at all that NHG will deliver the Aylesbury regeneration according to 
-
-
-
-
-
-
+Finally, in the light of all the above, a big final question is whether anyone can have any confidence at all that NHG and Southwark Council are capable between them of delivering the Aylesbury regeneration, as promised. 
 
 [^1] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Glossary, pg 178
 

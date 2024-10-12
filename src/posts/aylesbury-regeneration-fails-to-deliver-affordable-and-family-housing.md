@@ -92,7 +92,7 @@ Southwark must make this clear to NHG - 'you have had an outline planning planni
 
 
 
-NHG retains FDS 'C' where it will provide 56 affordable homes and xxx private homes.
+
 
 \-----------------------------------------------------------------------------------------------------------------------
 

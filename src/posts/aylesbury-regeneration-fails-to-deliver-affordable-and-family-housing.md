@@ -54,7 +54,9 @@ NHG will also making their planning application for Phase 2B as a 'standalone' a
 
 ### What we say
 
-Although the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf)  has been with Southwark Council for over a year, Southwark have not yet approved it.  Southwark's approval is needed before NHG can get any of the necessary further planning permissions, under the outline planning permission they already have, to complete the Aylesbury's regeneration.  In the Strategy NHG proposes taking advantage of clauses in the legal s106 agreement to deliver the family housing at later stages of the development. It also wants to reduce the amount of affordable housing it delivers, because Southwark has *'overprovided'* affordable housing on the FDS - It is obvious that if it does this, then Southwark Council will have effectively subsidised NHG's affordable housing contribution, through its £200m purchase of FDS 'A' and 'B' [^7].
+Although the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf)  has been with Southwark Council for over a year, Southwark have not yet approved it.  Southwark's approval is needed before NHG can get any of the necessary further planning permissions, under the outline planning permission they already have, to complete the Aylesbury's regeneration.  In the Strategy, NHG proposes taking advantage of clauses in the legal s106 agreement to deliver the family housing at later stages of the development. 
+
+NHG also wants to reduce the amount of affordable housing it provides, because Southwark has *'overprovided'* affordable housing on the FDS.  It is obvious that if it does this, then Southwark Council will have effectively subsidised NHG's affordable housing contribution, through its £200m purchase of FDS 'A' and 'B' [^7].
 
 Southwark is 
 

@@ -50,7 +50,7 @@ In the case of affordable housing NHG also claims that because more than 50% aff
 
 NHG has already [started to consult](http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626) on the Aylesbury's next phase, Phase 2B.  It has proposed 50% affordable housing, not the reduced amount of 41.1% proposed in the Strategy for Stage 2B/2C, but it is not clear that this will be enough to make up what has been lost on Plot 18.  NHG also proposes maisonettes in mansion blocks, but whether these will be in enough numbers to also make up for what is lost on Plot 18 is again unclear.  Finally, NHG have proposed 179 two-bed/four-person homes for Phase 2B, [^5] which is 26.4 units short of the 205.4 needed over Stage 2B/C to make up for those lost on Plot 18 [^6] .  There is no sign of any houses in the Phase 2B proposal.  There is also only the vaguest acknowledgement of future phases, which are to be completed by *'2030 and beyond'.*
 
-NHG will also making their planning application for Phase 2B as a 'standalone' application, outside of the outline planning permission for the regeneration of the whole estate, which they have held since 2015.  This means that the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf)  justifying Plot 18's shortfalls on Plot 18, and the possibility of making these up, may not apply to Phase 2B, because the Strategy relates only to the outline permission[^7].  
+NHG will also making their planning application for Phase 2B as a 'standalone' or 'drop-in' application, outside of the outline planning permission for the regeneration of the whole estate, which they have held since 2015.  This means that the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf)  justifying Plot 18's shortfalls on Plot 18, and the possibility of making these up, may not apply to Phase 2B, because the Strategy relates only to the outline permission[^7].  
 
 ### What we say
 
@@ -98,7 +98,7 @@ Southwark must make this clear to NHG - 'you have had an outline planning planni
 
 [^6] Aylesbury Phase 2 Update June 2024 Display Boards 1, 8 9 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 
-[^7] This is NHG's second attempt at a 'standalone' application for Phase 2B; the first fell foul of a High Court judgement on a related change to the outline planning permission.  See our blogpost ['What next after High Court overturns Aylesbury planning decision?'](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/)
+[^7] This is NHG's second attempt at a 'drop-in' application for Phase 2B; the first fell foul of a High Court judgement on a related change to the outline planning permission.  See our blogpost ['What next after High Court overturns Aylesbury planning decision?'](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/)
 
 [^8] Aylesbury Phase 2 Update June 2024 Display Boards 1, 8 9 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 

@@ -58,11 +58,18 @@ Although the [NHG Strategy](https://planning.southwark.gov.uk/online-application
 
 NHG also wants to reduce the amount of affordable housing it provides, because Southwark has *'overprovided'* affordable housing on the FDS.  It is obvious that if it does this, then Southwark Council will have effectively subsidised NHG's affordable housing contribution, through its £200m purchase of FDS 'A' and 'B' [^7].
 
-Southwark is 
+Southwark has at least two questions to answer; 
 
-* will it approve the NHG's housing delivery strategy and agree with them defer delivery of the affordable and family housing to future phases?
+* will it approve the NHG's housing delivery strategy and agree with them in deferring delivery of the affordable and family housing to future phases?
+* will it approve NHG reducing the affordable housing on Plot 18 (Stage 2A) and Stage 2B/C, below the 50% requirement?
 
- It is equally obvious that local people will lose affordable and social rented housing.
+Southwark should consider;
+
+* NHG's record of housing delivery is poor.  It has held an outline planning permission since 2015 and has only completed those on Plot 18 - 122 homes in all, of which only 23 are social rented, with no shared ownership units, under half of the total affordable housing required.
+* Southwark Council had to take over FDS 'A' and 'B' itself, at a cost of over £200m.  NHG retains FDS 'C', which will provide just 56 affordable units, plus **xxx private**
+* NHG's last Aylesbury application, for Phase 2B, was compromised by a High Court ruling.  This 'standalone' or 'drop-in' application was for a denser development than would have been allowed under the outline permission NHG already held
+
+ 
 
 
 

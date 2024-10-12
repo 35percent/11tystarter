@@ -68,7 +68,7 @@ Southwark should consider that;
 * NHG's record of housing delivery is poor.  It has held an outline planning permission for nearly ten years, since 2015, and has only completed the 122 homes on Plot 18, of which **only xx are social rented**, (CHECK s73 variation) with no shared ownership units, under half of the total affordable housing required.
 * Southwark Council had to take over FDS 'A' and 'B' itself, at a cost of over £200m.  NHG retains FDS 'C', which will provide just **56 social rent units**, 75 shared-ownership and 190 private homes [^8].
 * NHG and Southwark Council both [fell foul of a High Court ruling](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/) related to NHG's last Aylesbury planning application, for Phase 2B.  This 'standalone' or 'drop-in' application was for a denser development than would have been allowed under the outline permission NHG already held.  Notwithstanding this failure, NHG have [begun consulting](http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626) on another, very similar 'drop-in' Phase 2B scheme.
-* NHG's commitment to actually delivering any future phases is a vague reference to '2030 and beyond'[^8].  Applications for Stage 2B/C, Stage 3 and Stage 4 under their outline permission must be submitted by Aug 2033 [^9].
+* NHG's commitment to actually delivering any future phases is a vague reference to '2030 and beyond'[^9].  Applications for Stage 2B/C, Stage 3 and Stage 4 under their outline permission must be submitted by Aug 2033 [^10].
 
 Finally, in the light of all the above, a big final question is whether anyone can have any confidence at all that NHG and Southwark Council are capable between them of delivering the Aylesbury regeneration, as promised. 
 
@@ -88,7 +88,7 @@ Finally, in the light of all the above, a big final question is whether anyone c
 
 [^8] Design and Access Statement, 22/AP/1063, 2.1 FDS Summary Schedule, Proposed Amendments, Sub-plots SO-3, SO-4
 
-[^8] Aylesbury Phase 2 Update June 2024 Display Board 3 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
+[^9] Aylesbury Phase 2 Update June 2024 Display Board 3 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 
-[^9] para 73 [](https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023_RDENNIS-v-LBC_NHG_-17-01-2024_final.pdf)Aysen Dennis -v- London Borough of Southwark, Neutral Citation Number: \[2024] EWHC 57 (Admin)
+[^10] para 73 [](https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023_RDENNIS-v-LBC_NHG_-17-01-2024_final.pdf)Aysen Dennis -v- London Borough of Southwark, Neutral Citation Number: \[2024] EWHC 57 (Admin)
 AC-2023-LON-001410, 17 January 2024  [https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023*RDENNIS-v-LBC_NHG*-17-01-2024_final.pdf](https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023_RDENNIS-v-LBC_NHG_-17-01-2024_final.pdf)

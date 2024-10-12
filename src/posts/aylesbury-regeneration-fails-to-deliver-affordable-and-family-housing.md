@@ -90,25 +90,3 @@ Finally, in the light of all the above, a big final question is whether anyone c
 
 [^9] para 73 [](https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023_RDENNIS-v-LBC_NHG_-17-01-2024_final.pdf)Aysen Dennis -v- London Borough of Southwark, Neutral Citation Number: \[2024] EWHC 57 (Admin)
 AC-2023-LON-001410, 17 January 2024  [https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023*RDENNIS-v-LBC_NHG*-17-01-2024_final.pdf](https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023_RDENNIS-v-LBC_NHG_-17-01-2024_final.pdf)
-
-
-
-
-
-
-
-\-----------------------------------------------------------------------------------------------------------------------
-
-Questions for Southwark; did it know during construction that the affordable/family housing was not going to be provided?  Why was this information not included in the July Cabinet update? Is it in the confidential report of that date? (35% Campaign has FOI-ed this).
-
-What does any previous Strategy say? Check s106 and DOVs.
-
-### NHG eats Southwark's lunch - twice
-
-NHG has not only failed to build the 50% affordable housing it should have on Plot 18, it also wants to reduce the amount on the next phases, Stage 2B/C.  Southwark has provided 65.7% affordable housing on the First Devlopment Site (FDS), in the shape of 581 council homes; NHG want to take advantage of this 'overprovision' to reduce their contribution in Stage 2B/C to only 41.1%.  NHG justify this demand by arguing that because Southwark provided more than 50% on the FDS, which Southwark took over in 2016 (CHECK DATE), NHG should be allowed to provide less.
-
-
-
-<https://planning.southwark.gov.uk/online-applications/simpleSearchResults.do?action=firstPage>
-
-<https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=R95ATPKB00300&activeTab=summary> - 22/AP/1063

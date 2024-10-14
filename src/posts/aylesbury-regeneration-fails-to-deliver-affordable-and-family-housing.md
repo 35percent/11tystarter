@@ -1,9 +1,15 @@
 ---
-title: Aylesbury regeneration fails to deliver affordable and family housing
-description: Plot 18 site falls short of minimum housing requirements
+title: Aylesbury regeneration family housing
+description: "Plot 18 "
 date: 2024-09-20T10:39:31.724Z
 ---
 ![](img/20240921_144523-0-.jpg "Plot 18 nearing completion")
+
+The developer of the Aylesbury estate has asked Southwark Council to agree to defer the delivery of some of the larger family homes until the later stages of the regeneration
+
+Notting Hill Genesis (NHG) confirm that make the proposal in a [Housing Delivery Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf), dated Sept 2023, submitted for Southwark's approval.  
+
+
 
 A nearly-completed Aylesbury regeneration site has failed to deliver all the affordable and family housing that is required by its [planning permission](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=R95ATPKB00300&activeTab=summary).  Plot 18 will be just the third plot of the estate's regeneration to be completed since 1997 (after Site 1A and Site 7, delivered by L&Q housing association), with a fourth site, the First Development Site, also in its final stages.
 

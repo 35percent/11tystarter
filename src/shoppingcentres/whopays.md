@@ -8,7 +8,7 @@ Southwark Council has waived a payment of £46.6m from developer Delancey in the
 
 Delancey [agreed to build](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!b5xBNaYRSleWlYx6oXVrEA%3d%3d!%7d%7d%7d) the social rented homes in June 2018, after it failed to secure planning permission for the shopping centre's redevelopment at its first attempt, in January.   Delancey also agreed that if they had not started building the homes themselves within ten years, they would provide the land and the money for Southwark, or a housing association, to do so instead.
 
-This arrangement first appeared in a note about the 'heads of terms' of the legal s106 agreement', drafted by Delancey's planning consultant DS2, in June 2018 (LINK ADRIAN).  The note said that if Southwark took over the work, Delancey would transfer the land *'and pay to the Council or a Registered Provider....'the sum of \[£    ] for the purposes of construction and completion of the West Site Social rented Units'*, leaving the precise amount blank.
+This arrangement first appeared in a note about the 'heads of terms' of the legal s106 agreement', drafted by Delancey's planning consultant DS2, in June 2018 (LINK).  The note said that if Southwark took over the work, Delancey would transfer the land *'and pay to the Council or a Registered Provider....'the sum of \[£    ] for the purposes of construction and completion of the West Site Social rented Units'*, leaving the precise amount blank.
 
 ### 'Land and a sum of money'
 

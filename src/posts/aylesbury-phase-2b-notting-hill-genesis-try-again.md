@@ -17,9 +17,11 @@ The updated application retains the same reference number, 22/AP/2226, as the or
 
 The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP) that NHG already hold for the site and for the regeneration of the rest of the Aylesbury.
 
+The original 'drop-in' application has already received the approval of Southwark's planning commitee, in  January 2023.  
+
 Part of the reason for this, according to NHG, is because it cannot meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace, within the OPP, and that it cannot complete the whole scheme according to the OPP timescale [^3].
 
-
+Notwithstanding the loss of 154 social rent units NHG claims that the 'drop-in' application will increase the 
 
 policy requirement provide 'Having undertaken a comprehensive assessment of
 the approved masterplan against the prevailing planning context, the Applicant has identified a number of issues

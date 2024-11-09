@@ -41,9 +41,27 @@ This is a significant departure from the now discarded Aylesbury Area Action Pla
 
 The AAAP notes that *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and *'Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^8].
 
+#### What about the future phases?
+
+NHG's record is poor.  NHG has had the OPP for the remainder of the Aylesbury regeneration for over nine years, since 2015, and has yet to complete a single site. Plot 18 is almost finished, but while it includes a very welcome new library and health facility it is relatively small in terms of housing, having just 122 new homes. 
+
+NHG also had planning permission for the First Development Site, also now almost finished, but most of this was taken over by Southwark Council in 2018 \[to be completed in 2025? CHECK;LINK].  Both Plot 18 and the FDS come several years after the fully completed sites Site 1a \[DATE] and Site 7 \[DATE], both built by L&Q.
+
+NHG have abandoned the OPP for Phase 2B for reasons that will apply to all the remaining phases 2C, 3, and 4 - ie that they cannot be build within the OPP's masterplan's timescale and they cannot reprovide the lost affordable housing floorspace.
+
+NHG have also abandoned the attempt to protect the validity of the OPP, after their proposal to change the OPP to do this was quashed in the High Court the 
+
+It looks as if we can only look forward to piecemeal development, without the integrity promised by the AAAP, fo as long as NHG are in control of the regeneration.  It is clear that NHG will not be delivering the regeneration as promised to residents and the local community, as described in the AAAP, and as 
+
+If NHG cannot deliver the regeneration promised under the AAAP it should be taken from them
 
 
 
+ of the regeneration.  The updated Phase 2B application is for the final site of the phase, and comes after Site 1a, Site 7 (completed by L&Q (LINK) and the First Development Site (largely taken over by Southwark Council) and Plot 18, both nearing completion
+
+Number of social rented units delivered by NHG
+
+IMAGE - plan 
 
 They only refer to the High Court case that quashed an attempt to amend the OPP in passing
 

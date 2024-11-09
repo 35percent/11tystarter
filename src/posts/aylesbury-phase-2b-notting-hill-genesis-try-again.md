@@ -11,13 +11,11 @@ There will also be either one or two additional floors on six of the eleven buil
 
 The phase entails the demolition of 241-171 Wendover, Padbury, Winslow and Ravensbourne, with the loss of 373 homes, of which 327 remain council housing, giving a net loss of 154 social rented homes[^2].
 
-The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022.  NHG say that the updated application was necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
+The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022 and approved by Southwark's planning committee in January 2023.  NHG say that the updated application was necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
 
 #### NHG abandons the OPP
 
 The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP) that NHG already hold for the site and for the regeneration of the rest of the Aylesbury.
-
-The original 'drop-in' application has already received the approval of Southwark's planning commitee, in  January 2023.  
 
 Part of the reason for this, according to NHG, is because it cannot meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace, within the OPP, and that it cannot complete the whole scheme according to the OPP timescale [^3].
 

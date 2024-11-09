@@ -15,21 +15,23 @@ The updated application retains the same reference number, 22/AP/2226, as the or
 
 #### NHG abandons the OPP
 
-The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP) that NHG already hold for the site and for the regeneration of the rest of the Aylesbury.
+The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP), which NHG already holds for the site and for the regeneration of the rest of the Aylesbury.
 
-Part of the reason for this, according to NHG, is that it cannot complete the whole scheme within to the OPP timescale and is because it cannot meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace, within the OPP, [^3].
+Part of the reason for this, according to NHG, is that it cannot complete the whole scheme within to the OPP timescale and because it cannot meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace, within the OPP[^3].
 
 #### More or less social rented housing?
 
-Notwithstanding the net loss of 154 social rent units, NHG nonetheless claim that the 'drop-in' application will increase the amount of social rent and affordable floorspace, because more of the units will be family sized.  This is despite the fact that the amount of family housing fails to meet Southwark's policy requirements, where the housing proposed falls short on at least three measures;
+Notwithstanding the net loss of 154 social rent units, NHG nonetheless claim that, unlike the OPP, the 'drop-in' application will increase the amount of social rent and affordable floorspace, because more of the units will be family sized.  This is despite the fact that the amount of family housing fails to meet Southwark's policy requirements, where the housing proposed falls short on at least three measures;
 
 * A minimum of **70%** 2+ bed homes is required; only **64.5%** is proposed.
 * A minimum of **20%** family homes with 3+ beds is required; only **15.94%** is proposed
 * A minimum of **3%** 5-bed homes; only **1.72%** is proposed. 
 
-One measure is met - a minimum of 7% 4 bed homes is required and 7.66% proposed.
+One measure is met - a minimum of 7% 4 bed homes is required and 7.66% is proposed.
 
 There is no ready information about the number of two-bedroom homes that will be 2 bed/3 person and 2 bed/4 person homes nor if there will be any studio flats (a mximum of 3% are allowed as private housing.
+
+NHG also claim that the number of social rented habitable rooms will increase, but do not give a baseline figure for what is already exists, to measure this claim.  The January 2023 planning committee report gives an implausibly low figure of 484 habitable rooms for the 327 demolished council homes [^4]. 
 
 They only refer to the High Court case that quashed an attempt to amend the OPP in passing
 
@@ -43,6 +45,8 @@ Why did NHG fight the High Court case? Protect the validity of teh OPP - <https:
 
 [^1] Planning Statement Addendum 22/AP/2226, Oct 2024 - <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
-[^2] [Officer's report 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 31
+[^2] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 31
 
-[^3] [Officer's report 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 23
+[^3] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 23
+
+[^4] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf)  para 128.  A habitable room is one that is used for living, sleeping, eating or cooking (not a bathroom).  The report says that 327 social rent units equates to 484 habitable rooms, which is only an average of 1.48 hb rm per dwelling.  Using figures for the social housing on the whole estate gives an average of 3.06 hb rms per dwelling (Officer's report 14/AP/3844, 23 April 2015, para 89)

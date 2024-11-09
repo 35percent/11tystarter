@@ -19,25 +19,17 @@ The application also remains a 'standalone' or 'drop-in' application, outside th
 
 Part of the reason for this, according to NHG, is that it cannot complete the whole scheme within to the OPP timescale and is because it cannot meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace, within the OPP, [^3].
 
-Notwithstanding the net loss of 154 social rent units, NHG nonetheless claim that the 'drop-in' application will increase the amount of social rent and affordable floorspace, because more of the units will be family sized.  This is despite the fact that the amount of family housing fails to meet Southwark's policy requirements, 
+#### More or less social rented housing?
 
-6.35, 6.36             The family housing requirements measured against proposals;
-A minimum of 70% 2+ bed homes; 64.5% proposed.
-A minimum of 20% family homes with 3+ beds;15.94% proposed.
-A minimum of 7% 4 bed homes; 7.66% proposed.
-A minimum of 3% 5 bed homes; 1.72% proposed.
-A maximum of 3% studios (which can only be used for private housing); no information provided.
-Two-bedroom homes as a mix of 2b3p and 2b4p homes; no information provided.
-Family homes in apartment blocks should have direct access to outdoor amenity space and allow
-oversight of children outside; no information provided.
+Notwithstanding the net loss of 154 social rent units, NHG nonetheless claim that the 'drop-in' application will increase the amount of social rent and affordable floorspace, because more of the units will be family sized.  This is despite the fact that the amount of family housing fails to meet Southwark's policy requirements, where the housing proposed falls short on at least three measures;
 
+* A minimum of **70%** 2+ bed homes is required; only **64.5%** is proposed.
+* A minimum of **20%** family homes with 3+ beds is required; only **15.94%** is proposed
+* A minimum of **3%** 5-bed homes; only **1.72%** is proposed. 
 
+One measure is met - a minimum of 7% 4 bed homes is required and 7.66% proposed.
 
-
-
-that the
-demolition of affordable housing must be replaced by an
-equivalent amount of affordable housing floorspace.
+There is no ready information about the number of two-bedroom homes that will be 2 bed/3 person and 2 bed/4 person homes nor if there will be any studio flats (a mximum of 3% are allowed as private housing.
 
 They only refer to the High Court case that quashed an attempt to amend the OPP in passing
 

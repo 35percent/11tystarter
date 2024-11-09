@@ -17,19 +17,19 @@ The updated application retains the same reference number, 22/AP/2226, as the or
 
 The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP) that NHG already hold for the site and for the regeneration of the rest of the Aylesbury.
 
-Part of the reason for this, according to NHG, is because it cannot meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace, within the OPP, and that it cannot complete the whole scheme according to the OPP timescale [^3].
+Part of the reason for this, according to NHG, is that it cannot complete the whole scheme within to the OPP timescale and is because it cannot meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace, within the OPP, [^3].
 
-Notwithstanding the loss of 154 social rent units NHG claims that the 'drop-in' application will increase the 
+Notwithstanding the net loss of 154 social rent units, NHG nonetheless claim that the 'drop-in' application will increase the amount of social rent and affordable floorspace, because more of the units will be family sized.  This is despite the fact that the amount of family housing fails to meet Southwark's policy requirements, 
 
-policy requirement provide 'Having undertaken a comprehensive assessment of
-the approved masterplan against the prevailing planning context, the Applicant has identified a number of issues
-which compromise their ability to successfully deliver the proposals as previously conceived. These include both
-the deliverability of the phases within the masterplan (in terms of the speed at which construction can commence)
-and the policy requirement for the reprovision of existing affordable floorspace, which cannot be accommodated
-within the approved masterplan parameters.
-
-is Policy H8 in the London Plan, which requires that the demolition of affordable housing must be replaced by an
-equivalent amount of affordable housing floorspace
+6.35, 6.36             The family housing requirements measured against proposals;
+A minimum of 70% 2+ bed homes; 64.5% proposed.
+A minimum of 20% family homes with 3+ beds;15.94% proposed.
+A minimum of 7% 4 bed homes; 7.66% proposed.
+A minimum of 3% 5 bed homes; 1.72% proposed.
+A maximum of 3% studios (which can only be used for private housing); no information provided.
+Two-bedroom homes as a mix of 2b3p and 2b4p homes; no information provided.
+Family homes in apartment blocks should have direct access to outdoor amenity space and allow
+oversight of children outside; no information provided.
 
 
 

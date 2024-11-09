@@ -11,7 +11,18 @@ There will also be either one or two additional floors on six of the eleven buil
 
 The phase entails the demolition of 241-171 Wendover, Padbury, Winslow and Ravensbourne, with the loss of 373 homes, of which 327 remain council housing, giving a net loss of 154 social rented homes[^2].
 
-The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022.  NHG say that the updated application was necessary beause of new fire safety requirements, including the need to add second staircases to four of the blocks.
+The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022.  NHG say that the updated application was necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
+
+#### The nearly forgotten court case
+
+The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Plnning Permission that NHG already hold for the site and for the regeneration of the rest of the Aylesbury.   One of the reason for this, according th NHG is 'Having undertaken a comprehensive assessment of
+the approved masterplan against the prevailing planning context, the Applicant has identified a number of issues
+which compromise their ability to successfully deliver the proposals as previously conceived. These include both
+the deliverability of the phases within the masterplan (in terms of the speed at which construction can commence)
+and the policy requirement for the reprovision of existing affordable floorspace, which cannot be accommodated
+within the approved masterplan parameters.
+
+They only refer to the High Court case that quashed an attempt to amend the OPP in passing
 
 Boards -  <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 

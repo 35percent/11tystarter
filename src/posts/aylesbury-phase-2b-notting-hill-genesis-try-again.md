@@ -17,7 +17,7 @@ Boards -  <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocac
 
 Financial viability
 
-Why did NHG fight the High Court case?
+Why did NHG fight the High Court case? Protect the validity of teh OPP - <https://moderngov.southwark.gov.uk/mgAi.aspx?ID=63880>
 
 NHG have abandoned the OPP
 

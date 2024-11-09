@@ -17,7 +17,7 @@ The updated application retains the same reference number, 22/AP/2226, as the or
 
 The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP), which NHG already holds for the site and for the regeneration of the rest of the Aylesbury.
 
-Part of the reason for this, according to NHG, is that it cannot complete the whole scheme within to the OPP timescale and because it cannot meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace, within the OPP[^3].
+Part of the reason for this, according to NHG, is that it cannot complete the whole scheme within the OPP timescale and the OPP will also not allow it to meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace,[^3].
 
 #### More or less social rented housing?
 

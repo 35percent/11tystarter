@@ -7,6 +7,12 @@ Notting Hill Genesis (NHG) have updated their [planning application for Phase 2B
 
 There will also be either one or two additional floors on six of the eleven buildings. All the blocks are between five and ten storeys, with one tower of 26 storeys, which remains the same height.
 
+#### Lost council housing
+
+
+
+The phase entails the demolition of 241-171 Wendover, Padbury, Winslow and Ravensbourne.
+
 The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022.  NHG say that the updated application was necessary beause of new fire safety requirements, including the need to add second staircases to four of the blocks.
 
 Boards -  <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>

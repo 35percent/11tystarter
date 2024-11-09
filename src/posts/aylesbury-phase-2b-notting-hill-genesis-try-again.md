@@ -7,7 +7,7 @@ Notting Hill Genesis (NHG) have updated their [planning application for Phase 2B
 
 There will also be either one or two additional floors on six of the eleven buildings. All the blocks are between five and ten storeys, with one tower of 26 storeys, which remains the same height [^1].
 
-
+![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-16_32_16.png)
 
 #### Over 154 social rented homes to be lost
 

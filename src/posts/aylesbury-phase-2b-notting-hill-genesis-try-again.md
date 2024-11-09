@@ -7,6 +7,8 @@ Notting Hill Genesis (NHG) have updated their [planning application for Phase 2B
 
 There will also be either one or two additional floors on six of the eleven buildings. All the blocks are between five and ten storeys, with one tower of 26 storeys, which remains the same height [^1].
 
+
+
 #### Over 154 social rented homes to be lost
 
 The phase entails the demolition of 241-171 Wendover, Padbury, Winslow and Ravensbourne, with the loss of 373 homes, of which 327 remain council housing, giving a net loss of 154 social rented homes[^2].
@@ -46,6 +48,8 @@ The AAAP notes that *'Increasing the proportion of homes suitable for families w
 NHG's record is poor.  NHG has had the OPP for the remainder of the Aylesbury regeneration for over nine years, since 2015, and has yet to complete a single site. Plot 18 is almost finished, but while it includes a very welcome new library and health facility it is relatively small in terms of housing, having just 122 new homes. 
 
 NHG also had planning permission for the First Development Site, also now almost finished, but most of this was taken over by Southwark Council in 2018 \[to be completed in 2025? CHECK;LINK].  Both Plot 18 and the FDS come several years after the fully completed sites Site 1a \[DATE] and Site 7 \[DATE], both built by L&Q.
+
+![](img/22_ap_2226-design_and_access_statement__part_1_.-3521527.pdf-adobe-acrobat-reader-64-bit-09_11_2024-15_51_51.png)
 
 NHG have abandoned the OPP for Phase 2B for reasons that will apply to all the remaining phases 2C, 3, and 4 - ie that they cannot be build within the OPP's masterplan's timescale and they cannot reprovide the lost affordable housing floorspace.
 

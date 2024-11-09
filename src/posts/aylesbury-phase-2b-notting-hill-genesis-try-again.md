@@ -13,18 +13,31 @@ The phase entails the demolition of 241-171 Wendover, Padbury, Winslow and Raven
 
 The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022.  NHG say that the updated application was necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
 
-
-
 #### NHG abandons the OPP
 
-The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Plnning Permission that NHG already hold for the site and for the regeneration of the rest of the Aylesbury.
+The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP) that NHG already hold for the site and for the regeneration of the rest of the Aylesbury.
 
-One of the reason for this, according th NHG is because it cannot provide 'Having undertaken a comprehensive assessment of
+Part of the reason for this, according to NHG, is because it cannot meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace, within the OPP, and that it cannot complete the whole scheme according to the OPP timescale [^3].
+
+
+
+policy requirement provide 'Having undertaken a comprehensive assessment of
 the approved masterplan against the prevailing planning context, the Applicant has identified a number of issues
 which compromise their ability to successfully deliver the proposals as previously conceived. These include both
 the deliverability of the phases within the masterplan (in terms of the speed at which construction can commence)
 and the policy requirement for the reprovision of existing affordable floorspace, which cannot be accommodated
 within the approved masterplan parameters.
+
+is Policy H8 in the London Plan, which requires that the demolition of affordable housing must be replaced by an
+equivalent amount of affordable housing floorspace
+
+
+
+
+
+that the
+demolition of affordable housing must be replaced by an
+equivalent amount of affordable housing floorspace.
 
 They only refer to the High Court case that quashed an attempt to amend the OPP in passing
 
@@ -39,3 +52,5 @@ Why did NHG fight the High Court case? Protect the validity of teh OPP - <https:
 [^1] Planning Statement Addendum 22/AP/2226, Oct 2024 - <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
 [^2] [Officer's report 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 31
+
+[^3] [Officer's report 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 23

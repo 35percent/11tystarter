@@ -47,6 +47,10 @@ This is a significant departure from the now discarded Aylesbury Area Action Pla
 
 The AAAP notes that *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and *'Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^8].
 
+#### Not financially viable
+
+
+
 #### What about the future phases?
 
 NHG's record is poor.  NHG has had the OPP for the remainder of the Aylesbury regeneration for over nine years, since 2015, and has yet to complete a single site. Plot 18 is almost finished, but while it includes a very welcome new library and health facility it is relatively small in terms of housing, having just 122 new homes. 
@@ -69,15 +73,13 @@ If NHG cannot deliver the regeneration promised under the AAAP it should be take
 
 
 
-Number of social rented units delivered by NHG
+#### Number of social rented units delivered by NHG
 
 IMAGE - plan 
 
 They only refer to the High Court case that quashed an attempt to amend the OPP in passing
 
 Boards -  <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
-
-#### Not financially viable
 
 
 

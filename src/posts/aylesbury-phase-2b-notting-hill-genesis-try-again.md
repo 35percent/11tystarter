@@ -31,7 +31,13 @@ One measure is met - a minimum of 7% 4 bed homes is required and 7.66% is propos
 
 There is no ready information about the number of two-bedroom homes that will be 2 bed/3 person and 2 bed/4 person homes, nor if there will be any studio flats (a maximum of 3% are allowed as private housing [^4]
 
-NHG also claim that the number of social rented habitable rooms will increase over, but do not give a baseline figure for what already exists, against which to measure this claim.  The January 2023 planning committee report says that there will be an uplift of 254 habitable rooms, but calculates this on an an implausibly low figure of 484 habitable rooms for the existing 327council homes.  This would only be an average of 1.48 hb rm per dwelling, when the average for social housing across the whole estate is 3.06 hb rm per dwelling [^5].  
+NHG also claim that the number of social rented habitable rooms will increase over, but do not give a baseline figure for what already exists, against which to measure this claim.  The January 2023 planning committee report says that there will be an uplift of 254 habitable rooms, but calculates this on an an implausibly low figure of 484 habitable rooms for the existing 327council homes.  This would only be an average of 1.48 hb rm per dwelling, when the average for social housing across the whole estate is 3.06 hb rm per dwelling [^5]. 
+
+#### No houses
+
+There will also be no houses on Phase 2B, although the number of maisonettes will be greater than that required by policy (20% against 17%) \[REF].
+
+This is a significant departure from the now discarded Aylesbury Area Action Plan (AAAP), which emphasised the benfits of houses as a type of family home.
 
 
 

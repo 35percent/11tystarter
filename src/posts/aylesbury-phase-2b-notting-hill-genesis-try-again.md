@@ -29,9 +29,9 @@ Notwithstanding the net loss of 154 social rent units, NHG nonetheless claim tha
 
 One measure is met - a minimum of 7% 4 bed homes is required and 7.66% is proposed.
 
-There is no ready information about the number of two-bedroom homes that will be 2 bed/3 person and 2 bed/4 person homes nor if there will be any studio flats (a mximum of 3% are allowed as private housing.
+There is no ready information about the number of two-bedroom homes that will be 2 bed/3 person and 2 bed/4 person homes nor if there will be any studio flats (a mximum of 3% are allowed as private housing [^4]
 
-NHG also claim that the number of social rented habitable rooms will increase, but do not give a baseline figure for what is already exists, to measure this claim.  The January 2023 planning committee report gives an implausibly low figure of 484 habitable rooms for the 327 demolished council homes [^4]. 
+NHG also claim that the number of social rented habitable rooms will increase over, but do not give a baseline figure for what already exists, to measure this claim.  The January 2023 planning committee report gives an implausibly low figure of 484 habitable rooms for the 327 demolished council homes [^5]. 
 
 They only refer to the High Court case that quashed an attempt to amend the OPP in passing
 
@@ -43,10 +43,12 @@ Why did NHG fight the High Court case? Protect the validity of teh OPP - <https:
 
 
 
-[^1] Planning Statement Addendum 22/AP/2226, Oct 2024 - <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
+[^1] Planning Statement Addendum 22/AP/2226, Oct 2024 - [](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300)find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
 [^2] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 31
 
 [^3] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 23
 
-[^4] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf)  para 128.  A habitable room is one that is used for living, sleeping, eating or cooking (not a bathroom).  The report says that 327 social rent units equates to 484 habitable rooms, which is only an average of 1.48 hb rm per dwelling.  Using figures for the social housing on the whole estate gives an average of 3.06 hb rms per dwelling (Officer's report 14/AP/3844, 23 April 2015, para 89)
+[^4] Planning Statement Addendum 22/AP/226, Oct 2024, 6.35, 6.36 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
+
+[^5] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf)  para 128.  A habitable room is one that is used for living, sleeping, eating or cooking (not a bathroom).  The report says that 327 social rent units equates to 484 habitable rooms, which is only an average of 1.48 hb rm per dwelling.  Using figures for the social housing on the whole estate gives an average of 3.06 hb rms per dwelling (Officer's report 14/AP/3844, 23 April 2015, para 89)

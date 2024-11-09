@@ -35,9 +35,11 @@ NHG also claim that the number of social rented habitable rooms will increase ov
 
 #### No houses
 
-There will also be no houses on Phase 2B, although the number of maisonettes will be greater than that required by policy (20% against 17%) \[REF].
+There will also be no houses on Phase 2B, although the number of maisonettes will be greater than that required by policy (20% against 17%) \[REF - DAS Pt 1; PS].
 
-This is a significant departure from the now discarded Aylesbury Area Action Plan (AAAP), which emphasised the benfits of houses as a type of family home.
+This is a significant departure from the now discarded Aylesbury Area Action Plan 2010 (AAAP), which emphasised the benfits of houses as a type of family home.  The AAAP defines them as a *'self contained residential dwelling. Houses can be detached, semi detached or terraced'* [^1] and promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^2].  
+
+The AAAP notes that *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and *'Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^3].
 
 
 
@@ -47,7 +49,9 @@ They only refer to the High Court case that quashed an attempt to amend the OPP 
 
 Boards -  <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 
-Financial viability
+#### Not financially viable
+
+
 
 Why did NHG fight the High Court case? Protect the validity of teh OPP - <https://moderngov.southwark.gov.uk/mgAi.aspx?ID=63880>
 

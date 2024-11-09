@@ -49,7 +49,9 @@ NHG also had planning permission for the First Development Site, also now almost
 
 NHG have abandoned the OPP for Phase 2B for reasons that will apply to all the remaining phases 2C, 3, and 4 - ie that they cannot be build within the OPP's masterplan's timescale and they cannot reprovide the lost affordable housing floorspace.
 
-NHG have also abandoned the attempt to protect the validity of the OPP, after their proposal to change the OPP to do this was quashed in the High Court the 
+NHG and Southwark Council have also abandoned the attempt to protect the validity of the OPP for future phases.  NHG's proposal to change the OPP's wording, with this aim (and with Southwark's support) was quashed in the High Court, leaving the OPP legally vulnerable 
+
+Quote from Southwark Law Centre '*I have deep concerns about the legal consequences of this development going ahead, in light of the Hillside case (as confirmed by Dennis). My understanding is that, if this application were granted and development began pursuant to it, it would render any further development under the OPP (on other Phases) unlawful. In other words, it would stop all future development across the Aylesbury, and would require a whole new masterplan permission to be sought. I am concerned that the Council have not fully recognised this, or there is an ulterior consideration that is being kept secret…*
 
 It looks as if we can only look forward to piecemeal development, without the integrity promised by the AAAP, fo as long as NHG are in control of the regeneration.  It is clear that NHG will not be delivering the regeneration as promised to residents and the local community, as described in the AAAP, and as 
 
@@ -57,7 +59,7 @@ If NHG cannot deliver the regeneration promised under the AAAP it should be take
 
 
 
- of the regeneration.  The updated Phase 2B application is for the final site of the phase, and comes after Site 1a, Site 7 (completed by L&Q (LINK) and the First Development Site (largely taken over by Southwark Council) and Plot 18, both nearing completion
+
 
 Number of social rented units delivered by NHG
 
@@ -71,7 +73,7 @@ Boards -  <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocac
 
 
 
-Why did NHG fight the High Court case? Protect the validity of teh OPP - <https://moderngov.southwark.gov.uk/mgAi.aspx?ID=63880>
+#### Why did NHG and Southwark fight the High Court case? Protect the validity of teh OPP - <https://moderngov.southwark.gov.uk/mgAi.aspx?ID=63880>
 
 
 

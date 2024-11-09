@@ -9,9 +9,7 @@ There will also be either one or two additional floors on six of the eleven buil
 
 #### Lost council housing
 
-
-
-The phase entails the demolition of 241-171 Wendover, Padbury, Winslow and Ravensbourne.
+The phase entails the demolition of 241-171 Wendover, Padbury, Winslow and Ravensbourne, with the loss of 373 homes, of which 327 remain council housing.
 
 The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022.  NHG say that the updated application was necessary beause of new fire safety requirements, including the need to add second staircases to four of the blocks.
 

@@ -9,7 +9,7 @@ There will also be either one or two additional floors on six of the eleven buil
 
 ![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-16_32_16.png)
 
-#### Over 154 social rented homes to be lost
+#### Over 150 social rented homes will be lost
 
 The phase entails the demolition of 241-171 Wendover, Padbury, Winslow and Ravensbourne, with the loss of 373 homes, of which 327 remain council housing, giving a net loss of 154 social rented homes[^2].
 
@@ -17,29 +17,33 @@ The updated application retains the same reference number, 22/AP/2226, as the or
 
 #### NHG abandons the OPP
 
-The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP), which NHG already holds for the site and for the regeneration of the rest of the Aylesbury.
+The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP), which NHG already holds for the Phase 2b, Phase 2c, Phase 3 and Phase 4, which together make up the rest of the regeneration.
 
-Part of the reason for this, according to NHG, is that it cannot complete the whole scheme within the OPP timescale and the OPP will also not allow it to meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace,[^3].
+NHG says that it is submitting a standalone application because it cannot complete the scheme within the OPP masterplan timescale.  NHG also say that the OPP will not allow the development to meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace,[^3].
 
 #### More or less social rented housing?
 
-Notwithstanding the net loss of 154 social rent units, NHG nonetheless claim that, unlike the OPP, the 'drop-in' application will increase the amount of social rent and affordable floorspace, because more of the units will be family sized.  This is despite the fact that the amount of family housing fails to meet Southwark's policy requirements, where the housing proposed falls short on at least three measures;
+NHG claim that, unlike the OPP, the 'drop-in' application will increase the amount of social rent and affordable floorspace, despite the loss of 154 social rent units.  NHG say that this because more of the new homes will be bigger family-sized units.  
+
+However, the amount of family-housing proposed by NHG fails to meet Southwark's policy requirements, on at least three measures;
 
 * A minimum of **70%** 2+ bed homes is required; only **64.5%** is proposed.
 * A minimum of **20%** family homes with 3+ beds is required; only **15.94%** is proposed
-* A minimum of **3%** 5-bed homes; only **1.72%** is proposed. 
+* A minimum of **3%** 5-bed homes is required; only **1.72%** is proposed. 
 
 One measure is met - a minimum of 7% 4 bed homes is required and 7.66% is proposed.
 
-There is no ready information about the number of two-bedroom homes that will be 2 bed/3 person and 2 bed/4 person homes, nor if there will be any studio flats (a maximum of 3% are allowed as private housing [^4]
+There is no ready information about the number of two-bedroom homes that will be 2 bed/3 person and 2 bed/4 person homes, nor if there will be any studio flats (a maximum of 3% are allowed as private housing [^4].
 
-NHG also claim that the number of social rented habitable rooms will increase over, but do not give a baseline figure for what already exists, against which to measure this claim.  The January 2023 planning committee report says that there will be an uplift of 254 habitable rooms, but calculates this on an an implausibly low figure of 484 habitable rooms for the existing 327council homes.  This would only be an average of 1.48 hb rm per dwelling, when the average for social housing across the whole estate is 3.06 hb rm per dwelling [^5]. 
+NHG also claim that the number of social rented habitable rooms will increase, but do not give a baseline figure for what already exists, against which to measure this claim.  The [January 2023 planning committee report](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) says that there will be an uplift of 254 habitable rooms, but calculates this on an implausibly low figure of 484 habitable rooms for the existing 327 council homes.  This would only be an average of 1.48 hb rm per dwelling, when the average for social housing across the whole estate is 3.06 hb rm per dwelling [^5]. 
 
 #### No houses
 
 There will also be no houses on Phase 2B, although the number of maisonettes will be greater than that required by policy (20% against 17%) \[REF - DAS Pt 1; PS].
 
-This is a significant departure from the now discarded Aylesbury Area Action Plan 2010 (AAAP), which emphasised the benfits of houses as a type of family home.  The AAAP defines them as a *'self contained residential dwelling. Houses can be detached, semi detached or terraced'* [^6] and promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^7].  
+![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png)
+
+This is a significant departure from the now discarded Aylesbury Area Action Plan 2010 (AAAP), which emphasised the benefits of houses as a type of family home.  The AAAP defines a house as a *'self contained residential dwelling. Houses can be detached, semi detached or terraced'* [^6] and promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^7].  
 
 The AAAP notes that *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and *'Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^8].
 

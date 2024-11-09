@@ -21,4 +21,6 @@ Why did NHG fight the High Court case?
 
 NHG have abandoned the OPP
 
-[^1] Planning Statement Addendum 22/AP/2226 - <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
+[^1] Planning Statement Addendum 22/AP/2226, Oct 2024 - <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
+
+[^2] [Officer's report 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 31

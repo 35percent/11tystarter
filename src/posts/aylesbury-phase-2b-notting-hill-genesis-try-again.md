@@ -69,13 +69,15 @@ It looks as if we can only look forward to piecemeal development, without the in
 
 If NHG cannot deliver the regeneration promised under the AAAP it should be taken from them
 
+#### NHG's record - number of social rented units delivered by NHG
 
+The updated application has a long explanation of what has been built by so far, largely by others; reveals how little social rented housing NHG has provided
 
+FDS C - 56, Plot 18 - 23; total 79 - table of social rent delivered to date  L&Q 148 ; Southwark - 581; NHG - 79
 
+FDS C - 56, Plot 18 - 23; Phase 2B - 173; total 252
 
-#### Number of social rented units delivered by NHG
-
-IMAGE - plan 
+Leaving aside whether or not there will be more social rent floorspace - when the number of demolished homes is taken into account, after ten years and assuming that Phase 2B will get built (more 172 not yet built) we will have still have 75 fewer social rented homes from NHG than we have already (327 minus 252 = 75)
 
 They only refer to the High Court case that quashed an attempt to amend the OPP in passing
 

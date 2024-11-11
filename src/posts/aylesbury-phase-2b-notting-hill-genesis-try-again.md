@@ -47,9 +47,11 @@ This is a significant departure from the now discarded Aylesbury Area Action Pla
 
 The AAAP notes that *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and *'Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^8].
 
-#### Not financially viable
+#### Not financially viable, but still profitable
 
+The updated proposal is larger than the original in response to updated fire regulations which require changes, such as extra staircases in four of the blocks, which reduce the amount of residential floorspace.  Extra floors have been added to compensate, taking the total number of new homes to 640.  
 
+NHG say that this is *'to ensure the scheme viably delivers the required affordable homes'* \[REF].  The viability assessment for the scheme, though, concludes *'our appraisals demonstrated this scheme to be unviable generating a deficit of c. £6.69m.....'.  'Unviable'* aso does not mean unprofitable 
 
 #### What about the future phases?
 
@@ -83,11 +85,7 @@ They only refer to the High Court case that quashed an attempt to amend the OPP 
 
 Boards -  <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 
-
-
 #### Why did NHG and Southwark fight the High Court case? Protect the validity of teh OPP - <https://moderngov.southwark.gov.uk/mgAi.aspx?ID=63880>
-
-
 
 [^1] Planning Statement Addendum 22/AP/2226, Oct 2024 - [](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300)find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 

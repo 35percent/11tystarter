@@ -57,8 +57,6 @@ This seeming contradiction is solved, though, when it's noted that *'unviable'* 
 
 ![](img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png)
 
-  
-
 #### £0 for the land
 
 The viability assessment also notes that the benchmark landvalue is set at £0, *'based on the development agreement between NHG and LB Southwark'* which indicates that nothing has been paid for the land.  NHG are also in receipt of £23.78m from the Mayor's Affordable Housing Fund \[LINK] - expand; conditions

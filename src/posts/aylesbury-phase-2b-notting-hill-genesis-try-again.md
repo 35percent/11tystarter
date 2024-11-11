@@ -49,7 +49,11 @@ The AAAP notes that *'Increasing the proportion of homes suitable for families w
 
 #### Not financially viable, but still profitable
 
-The updated proposal is larger than the original in response to updated fire regulations which require changes, such as extra staircases in four of the blocks, which reduce the amount of residential floorspace.  Extra floors have been added to compensate, taking the total number of new homes to 640.  
+The updated proposal is larger than the original in response to updated fire regulations which require changes, such as extra staircases in four of the blocks, which reduce the amount of residential floorspace.  Extra floors have been added to compensate, taking the total number of new homes to 640.
+
+![](img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png)
+
+  
 
 NHG say that this is *'to ensure the scheme viably delivers the required affordable homes'* \[REF].  The viability assessment for the scheme concludes something to the contrary*,* saying *'our appraisals demonstrated this scheme to be unviable generating a deficit of c. £6.69m.....'.*  
 

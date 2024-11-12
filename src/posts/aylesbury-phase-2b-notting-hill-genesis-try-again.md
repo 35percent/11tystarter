@@ -53,7 +53,7 @@ The updated proposal is larger than the original in response to updated fire reg
 
 NHG say that this is *'to ensure the scheme viably delivers the required affordable homes'* \[REF].  The viability assessment for the scheme concludes the opposite, saying *'our appraisals demonstrated this scheme to be unviable generating a deficit of c. £6.69m.....'.*  
 
-This seeming contradiction is solved, though, when it's noted that *'unviable'* aso does not mean unprofitable, just less profitable.  The assessment says that if the deficit is absorbed into profits it *'reduces the lower than typical target thresholds for schemes of this size and also below any of the thresholds adopted / accepted for other estate regeneration schemes across London'.*  Put another way, while NHG want a *'typical'* profit (15% of Gross Development Value), it will only get 12.7% GDV; in cash terms a profit of £31.04m, instead of £36.7m.  NHG will not be making a much as they would like, but they will not be making a loss.
+It must be noted though, that *'unviable'* aso does not mean unprofitable, just less profitable.  The assessment says that if the deficit is absorbed into profits it *'reduces the lower than typical target thresholds for schemes of this size and also below any of the thresholds adopted / accepted for other estate regeneration schemes across London'.*  Put another way, while NHG want a *'typical'* profit (15% of Gross Development Value), it will only get 12.7% GDV; in cash terms a profit of £31.04m, instead of £36.7m.  NHG will not be making a much as they would like, but they will not be making a loss.
 
 ![](img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png)
 

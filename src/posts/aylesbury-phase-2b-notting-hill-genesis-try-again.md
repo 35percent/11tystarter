@@ -81,7 +81,13 @@ If NHG cannot deliver the regeneration promised under the AAAP it should be take
 
 #### NHG's record - number of social rented units delivered by NHG
 
-The updated application has a long explanation of what has been built by so far, largely by others; reveals how little social rented housing NHG has provided
+The updated application has a long explanation of what has been built by so far, largely by others; reveals how little social rented housing NHG has provided.
+
+The figures provided in two tables of the completed phases omits to say who actually provided the social rented homes.
+
+The figures for the FDS also omit to say it is in three parts, FDS A, B & C and that NHG are only responsible for FDC C.
+
+When this information is added the 'scorecard' looks like this;
 
 FDS C - 56, Plot 18 - 23; total 79 - table of social rent delivered to date  L&Q 148 ; Southwark - 581; NHG - 79
 

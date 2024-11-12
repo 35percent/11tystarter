@@ -59,7 +59,7 @@ It must be noted though, that *'unviable'* aso does not mean unprofitable, just 
 
 #### £0 for the land
 
-The viability assessment also notes that the benchmark landvalue is set at £0, *'based on the development agreement between NHG and LB Southwark'* which indicates that nothing has been paid for the land.  NHG are also in receipt of £23.78m from the Mayor's Affordable Housing Fund \[LINK] - expand; conditions
+The viability assessment also notes that the benchmark landvalue is set at £0, *'based on the development agreement between NHG and LB Southwark'* which indicates that nothing has been paid for the land.  NHG are also in receipt of £23.78m from the Mayor's Affordable Housing Fund, which lays down the  \[LINK] - expand; conditions
 
 #### What about the future phases?
 
@@ -94,6 +94,22 @@ They only refer to the High Court case that quashed an attempt to amend the OPP 
 Boards -  <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 
 #### Why did NHG and Southwark fight the High Court case? Protect the validity of teh OPP - <https://moderngov.southwark.gov.uk/mgAi.aspx?ID=63880>
+
+
+
+#### Five reasons not to give Phase 2b planning permission
+
+On the face of it a proposal for 640 new homes, with relatively generous proportions of affordabe and social rented housing looks attractive. But the there are at least five reasons why planning permission should not be given; 
+
+* NHG has only delivered 79 social rented homes in the ten years since they got the OPP; less than the number knocked down....
+* NHG is looking to make £31.04m profit on Phase 2b, while getting the land for nothing, barely increasing family housing and reducing the number of social rented homes
+* NHG is not providing any houses on the 'new' Aylesbury, despite their attested benefits for families and the promises made to residents
+* A planning approval for the Phase 2b standalone application throws the future of the remainder of a Aylesbury  regeneration into doubt. 
+* Both the AAAP and OPP have been abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration;
+
+
+
+
 
 [^1] Planning Statement Addendum 22/AP/2226, Oct 2024 - [](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300)find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 

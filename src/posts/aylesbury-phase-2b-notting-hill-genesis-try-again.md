@@ -31,7 +31,7 @@ However, the amount of family-housing proposed by NHG fails to meet Southwark's 
 * A minimum of **20%** family homes with 3+ beds is required; only **15.94%** is proposed
 * A minimum of **3%** 5-bed homes is required; only **1.72%** is proposed. 
 
-One measure is met - a minimum of 7% 4 bed homes is required and 7.66% is proposed.
+One measure is met - a minimum of 7% 4-bed homes is required and 7.66% is proposed.
 
 There is no ready information about the number of two-bedroom homes that will be 2 bed/3 person and 2 bed/4 person homes, nor if there will be any studio flats (a maximum of 3% are allowed as private housing [^4].
 

@@ -23,7 +23,7 @@ NHG says that it is submitting a standalone application because it cannot comple
 
 #### More or less social rented housing?
 
-NHG claim that, unlike the OPP, the 'drop-in' application will increase the amount of social rent and affordable floorspace, despite the loss of 154 social rent units.  NHG say that this because more of the new homes will be bigger family-sized units.  
+NHG claim that, unlike the OPP, the 'stand-alone' application will increase the amount of social rent and affordable floorspace, despite the loss of 154 social rent units.  NHG say that this because more of the new homes will be bigger family-sized units.  
 
 However, the amount of family-housing proposed by NHG fails to meet Southwark's policy requirements, on at least three measures;
 
@@ -35,7 +35,7 @@ One measure is met - a minimum of 7% 4-bed homes is required and 7.66% is propos
 
 There is no ready information about the number of 2 bed/3 person and 2 bed/4 person homes, nor if there will be any studio flats (a maximum of 3% are allowed as private housing [^4].
 
-NHG also claim that the number of social rented habitable rooms will increase, but do not give a baseline figure for what already exists, against which to measure this claim.  The [January 2023 planning committee report](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) says that there will be an uplift of 254 habitable rooms, but calculates this on an implausibly low figure of 484 habitable rooms for the existing 327 council homes.  This would only be an average of 1.48 hb rm per dwelling, when the average for social housing across the whole estate is 3.06 hb rm per dwelling [^5]. 
+NHG also claim that the number of social rented habitable rooms will increase overall, but do not give a baseline figure for what already exists, against which to measure this claim.  The [January 2023 planning committee report](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) says that there will be an uplift of 254 habitable rooms, but calculates this on an implausibly low figure of 484 habitable rooms for the existing 327 council homes.  This would only be an average of 1.48 hb rm per dwelling, when the average for social housing across the whole estate is 3.06 hb rm per dwelling [^5]. 
 
 #### No houses
 

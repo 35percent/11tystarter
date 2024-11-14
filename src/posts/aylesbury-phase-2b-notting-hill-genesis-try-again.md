@@ -15,6 +15,8 @@ The phase entails the demolition of 241-171 Wendover, Padbury, Winslow and Raven
 
 The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022 and approved by Southwark's planning committee in January 2023.  NHG say that the updated application was necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
 
+
+
 #### NHG abandons the OPP
 
 The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP), which NHG already holds for the Phase 2b, Phase 2c, Phase 3 and Phase 4, which together make up the rest of the regeneration.
@@ -101,8 +103,6 @@ Boards -  <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocac
 
 #### Why did NHG and Southwark fight the High Court case? Protect the validity of teh OPP - <https://moderngov.southwark.gov.uk/mgAi.aspx?ID=63880>
 
-
-
 #### Five reasons not to give Phase 2b planning permission
 
 On the face of it a proposal for 640 new homes, with relatively generous proportions of affordabe and social rented housing looks attractive. But the there are at least five reasons why planning permission should not be given; 
@@ -112,10 +112,6 @@ On the face of it a proposal for 640 new homes, with relatively generous proport
 * NHG is not providing any houses on the 'new' Aylesbury, despite their attested benefits for families and the promises made to residents
 * A planning approval for the Phase 2b standalone application throws the future of the remainder of a Aylesbury  regeneration into doubt. 
 * Both the AAAP and OPP have been abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration;
-
-
-
-
 
 [^1] Planning Statement Addendum 22/AP/2226, Oct 2024 - [](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300)find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 

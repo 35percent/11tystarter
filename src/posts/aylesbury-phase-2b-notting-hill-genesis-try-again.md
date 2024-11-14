@@ -7,13 +7,13 @@ Notting Hill Genesis (NHG) have updated their [planning application for Phase 2B
 
 There will also be either one or two additional floors on six of the eleven buildings. All the blocks are between five and ten storeys, with one tower of 26 storeys, which remains the same height [^1].
 
+The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022 and approved by Southwark's planning committee in January 2023.  NHG say that the updated application was necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
+
 ![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-16_32_16.png)
 
 #### Over 150 social rented homes will be lost
 
 The phase entails the demolition of 241-171 Wendover, Padbury, Winslow and Ravensbourne, with the loss of 373 homes, of which 327 remain council housing, giving a net loss of 154 social rented homes[^2].
-
-The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022 and approved by Southwark's planning committee in January 2023.  NHG say that the updated application was necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
 
 
 

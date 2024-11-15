@@ -23,13 +23,13 @@ NHG's planning permission requires that 50% of the housing should be affordable 
 
 In the event only 82 habitable rooms on Plot 18 are affordable.  All 82 are social rent, but this is still a fraction of the amount of both affordable and social rent that the planning permission requires.
 
-On a rough calculation this is a shortfall of about ot NHG's Strategy only gives the affordable housing figures as habitable rooms and percentages, not as units.  The Aylesbury Now webpage for Plot 18 says that it has 23 social rented units, which means on a rough calculation, 
+On a rough calculation this is a shortfall of about 27 affordable homes and 15 social rent, if each dwelling had just over three habitable rooms.  ot , [^X]
 
 It equates 27 social rented homes, and seventeen fewer than the 44 required, if all were one-bed flats 
 
 in terms of units this would work out as about  60 affordable units, if they were one-bed flats, of which about 44 should be social rent.
 
-[NHG's Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) justifies these affordable housing shortfalls on the grounds that the First Development Site (FDS) has an *'overprovision'* of affordable housing and that taken together the two sites will have be 60.9% affordable housing.  The Strategy neglects to add that the great majority of the affordable housing on the FDS is being provided by Southwark Council, not NHG.  Southwark Council [took over FDS 'A' and FDS 'B' in 2022](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/), with great fanfare, and is providing 581 council homes at a cost of over £200m.  Under the deal NHG retained FDS 'C', which will have 190 free-market units, 75 shared ownership and **just 56 social rented homes** (CHECK; ref DAS 22/AP/1063).
+[NHG's Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) justifies these affordable housing shortfalls on the grounds that the First Development Site (FDS) has an *'overprovision'* of affordable housing and that taken together the two sites will have be 60.9% affordable housing.  The Strategy also notes that two-thirds of the FDS passed into the ownership of Southwark Council, but without adding that this means that most of the affordable housing on the FDS is being provided by Southwark Council, not NHG.  Southwark Council [took over FDS 'A' and FDS 'B' in 2022](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/), with great fanfare, and is providing 581 council homes at a cost of over £200m.  Under the deal NHG retained FDS 'C', which will have 190 free-market units, 75 shared ownership and **just 56 social rented homes** (CHECK; ref DAS 22/AP/1063).
 
 But the Strategy also notes that two-thirds of the FDS has passed to the ownership of Southwark Council (HDS 2.18).  Southwark are providing nearly all the social rented housing on the FDS.
 
@@ -86,7 +86,9 @@ Southwark should consider that;
 
 Finally, in the light of all the above, a big final question is whether anyone can have any confidence at all that NHG and Southwark Council are capable between them of delivering the Aylesbury regeneration, as promised. 
 
-[^ ] The Housing Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603.  
+[^1] The Housing Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603. 
+
+[^X] NHG's Strategy only gives the affordable housing figures as habitable rooms and percentages, not as units.  The [Aylesbury Now](http://www.aylesburynow.london/regeneration/planning-information/plot-18) webpage for Plot 18 says that it has 23 social rented units, which means an average of 3,57 hbrms per dwelling; this average been used to calculate the rounded-up unit figures.
 
 [^2] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Glossary, pg 178
 

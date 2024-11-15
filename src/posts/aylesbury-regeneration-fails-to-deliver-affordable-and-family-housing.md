@@ -31,9 +31,9 @@ This justification though does not explain that Southwark Council is providing m
 
 Southwark Council [took over FDS 'A' and FDS 'B'](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/) in 2022, with great fanfare and is providing 581 council homes on these sites, at a cost to the council of over £200m.  NHG retain FDS 'C', where most of the housing will be free market, with 190 private homes units, 75 shared ownership homes and **just 56 social rented homes** [^4].
 
+![](img/22_ap_1063_design_access_statement_nhg_fds_hta-a_s03-s04_das_addendum.indd.pdf-adobe-acrobat-reader-64-bit-15_11_2024-12_39_14.png "Table showing housing on FDS 'C' (SO-3, SO-4), Design Addendum, 22/AP/1063")
 
 
-Note: NHG's Strategy only counts 357 social rented units and xx intermediate housing in its calculations for the FDS, which is correct according to the relevant amended planning permission.  However it is Southwark's evident intention to deliver all the afforddable housing as social rent giving the 581 figure
 
 ### Family housing promises forgotten
 

@@ -21,13 +21,17 @@ The Strategy also says that no houses have been built, despite a requirement tha
 
 NHG's planning permission requires that 50% of the housing should be affordable and that 75% of the affordable should be social rent.  The percentages are calculated from the number of habitable rooms (living room, bedroom, kitchen).  On this basis, 179 habitable rooms should be affordable and 134 of these should be social rent.
 
-In the event only 82 habitable rooms on Plot 18 are affordable.  All 82 are social rent, but this is still a fraction of the amount of both affordable and social rent required.
+In the event only 82 habitable rooms on Plot 18 are affordable.  All 82 are social rent, but this is still a fraction of the amount of both affordable and social rent that the planning permission requires.
+
+On a rough calculation this is a shortfall of about ot NHG's Strategy only gives the affordable housing figures as habitable rooms and percentages, not as units.  The Aylesbury Now webpage for Plot 18 says that it has 23 social rented units, which means on a rough calculation, 
 
 It equates 27 social rented homes, and seventeen fewer than the 44 required, if all were one-bed flats 
 
 in terms of units this would work out as about  60 affordable units, if they were one-bed flats, of which about 44 should be social rent.
 
 [NHG's Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) justifies these affordable housing shortfalls on the grounds that the First Development Site (FDS) has an *'overprovision'* of affordable housing and that taken together the two sites will have be 60.9% affordable housing.  The Strategy neglects to add that the great majority of the affordable housing on the FDS is being provided by Southwark Council, not NHG.  Southwark Council [took over FDS 'A' and FDS 'B' in 2022](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/), with great fanfare, and is providing 581 council homes at a cost of over £200m.  Under the deal NHG retained FDS 'C', which will have 190 free-market units, 75 shared ownership and **just 56 social rented homes** (CHECK; ref DAS 22/AP/1063).
+
+But the Strategy also notes that two-thirds of the FDS has passed to the ownership of Southwark Council (HDS 2.18).  Southwark are providing nearly all the social rented housing on the FDS.
 
 ### Family housing promises forgotten
 

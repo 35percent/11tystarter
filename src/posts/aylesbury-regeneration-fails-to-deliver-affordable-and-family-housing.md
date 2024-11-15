@@ -33,8 +33,6 @@ Southwark Council [took over FDS 'A' and FDS 'B'](https://www.35percent.org/post
 
 ![](img/22_ap_1063_design_access_statement_nhg_fds_hta-a_s03-s04_das_addendum.indd.pdf-adobe-acrobat-reader-64-bit-15_11_2024-12_39_14.png "Table showing housing on FDS 'C' (SO-3, SO-4), Design Addendum, 22/AP/1063")
 
-
-
 ### Family housing promises forgotten
 
 NHG's also comes up short for houses on Plot 18.  About a fifth of the new homes should be houses, which would be around 14 three-bed homes, whereas the number actually provided is zero
@@ -90,7 +88,7 @@ Finally, in the light of all the above, a big final question is whether anyone c
 
 [^1] The Housing Delivery Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603. 
 
-[^2] NHG's Strategy only gives the affordable housing figures as habitable rooms and percentages, not as units.  The [Aylesbury Now](http://www.aylesburynow.london/regeneration/planning-information/plot-18) webpage for Plot 18 says that it has 23 social rented units, which means an average of 3,57 hbrms per dwelling; this average been used to calculate the rounded-up unit figures.
+[^2] NHG's Strategy only gives the affordable housing figures as habitable rooms and percentages, not as units.  The [Aylesbury Now](http://www.aylesburynow.london/regeneration/planning-information/plot-18) webpage for Plot 18 says that it has 23 social rented units, which means an average of 3.57 hbrms per dwelling; this average been used to calculate the rounded-up unit figures.
 
 [^3] Housing Delivery Strategy 6 Sept 2023, 23/AP/2603, 2.18
 

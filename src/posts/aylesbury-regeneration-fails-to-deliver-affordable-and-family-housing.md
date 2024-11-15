@@ -5,7 +5,7 @@ date: 2024-09-20T10:39:31.724Z
 ---
 ![](img/20240921_144523-0-.jpg "Plot 18 nearing completion")
 
-A nearly-completed Aylesbury regeneration site has failed to deliver all the affordable and family housing that is required by its [planning permission](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=R95ATPKB00300&activeTab=summary).  Plot 18 will be just the third plot of the estate's regeneration to be completed since 1997 (after Site 1A and Site 7, delivered by L&Q housing association), with a fourth site, the First Development Site, also in its final stages.
+A nearly-completed Aylesbury regeneration site has failed to deliver all the affordable and family housing that is required by its amended planning permission.  Plot 18 will be just the third plot of the estate's regeneration to be completed since 1997 (after Site 1A and Site 7, delivered by L&Q housing association), with a fourth site, the First Development Site, also in its final stages.
 
 Plot 18 has been built by Notting Hill Genesis (NHG) and will provide [122 residential units, a medical centre, a library and a early years facility](http://www.aylesburynow.london/regeneration/planning-information/plot-18).  The plot's development entailed the demolition of 34 council and leasehold homes in 57-76 Northchurch and 300-313 Missenden.
 
@@ -37,7 +37,7 @@ Southwark Council [took over FDS 'A' and FDS 'B'](https://www.35percent.org/post
 
 ### Family housing promises forgotten
 
-NHG also comes up short for houses on Plot 18.  About a fifth of the new homes should be houses, which would be around 14 three-bed homes, whereas the number actually provided is....**zero.**
+NHG's also comes up short for houses on Plot 18.  About a fifth of the new homes should be houses, which would be around 14 three-bed homes, whereas the number actually provided is zero
 
 Houses are distinguished from other types of dwelling, such as flats, and are particularly valued as family homes.  The now discarded [Aylesbury Area Action Plan 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) defines them as a *'self contained residential dwelling. Houses
 can be detached, semi detached or terraced'* [^5].  The AAAP promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^6]. 

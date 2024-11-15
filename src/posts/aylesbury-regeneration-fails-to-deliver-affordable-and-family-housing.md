@@ -11,9 +11,9 @@ Plot 18 has been built by Notting Hill Genesis (NHG) and will provide [122 resid
 
 Notting Hill Genesis (NHG) confirm the affordable and family housing shortfalls in a proposed **Housing Delivery Strategy**, submitted to Southwark Council for its approval in September 2023.   
 
-The Strategy reveals that less than half of the required affordable housing promised for Plot 18 has been built, saying that only 22.9% (measured by habitable room) has been provided, against a requirement of 50%.  Referring to Plot 18 as Development Stage 2A, the Strategy says that it *'will provide 358 Habitable Rooms, of which 82 Habitable Rooms (22.9%) will be Affordable Housing'* and that *'this does not meet the requirement to provide a minimum of  50% of Habitable Rooms as Affordable Housing'* [^1].
+The Strategy reveals that less than half of the required affordable housing promised for Plot 18 has been built, saying that only 22.9% (measured by habitable room) have been provided, against a requirement of 50%.  Referring to Plot 18 as Development Stage 2A, the Strategy says that it *'will provide 358 Habitable Rooms, of which 82 Habitable Rooms (22.9%) will be Affordable Housing'* and that *'this does not meet the requirement to provide a minimum of  50% of Habitable Rooms as Affordable Housing'* [^1].
 
-The Strategy also says that no houses have been built, despite a requirement that 20% of the new homes should be in that form.   NHG have asked Southwark to agree to defer the delivery of some of the family homes until the later stages of the regeneration
+The Strategy also says that no houses have been built, despite a requirement that 20% of the new homes should be in that form.   It proposes that the delivery of these is deferred until the later stages of the regeneration.
 
 ![](img/23_ap_2603-housing_delivery_strategy.-3727685.pdf-adobe-acrobat-reader-64-bit-09_10_2024-15_37_41.png "NHG's Housing Delivery Strategy Sept 2023")
 

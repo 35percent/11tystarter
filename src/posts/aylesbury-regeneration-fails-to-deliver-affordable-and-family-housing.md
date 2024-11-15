@@ -19,11 +19,11 @@ The Strategy also says that no houses have been built, despite a requirement tha
 
 ### Plot 18's lost social rented and shared ownership homes
 
-NHG's planning permission requires that 50% of the housing should be affordable and that 75% of the affordable should be social rent.  The percentages are calculated from the number of habitable rooms (living room, bedroom, kitchen).  On this basis, 179 hbrms should be affordable and 134 of these should be social rent; 
+NHG's planning permission requires that 50% of the housing should be affordable and that 75% of the affordable should be social rent.  The percentages are calculated from the number of habitable rooms (living room, bedroom, kitchen).  On this basis, 179 habitable rooms should be affordable and 134 of these should be social rent.
 
-The 82 habitable rooms that have been delivered are all social rent less than half the affordable housing required.
+In the event only 82 habitable rooms on Plot 18 are affordable.  All 82 are social rent, but this is still a fraction of the amount of both affordable and social rent required.
 
-  It equates 27 social rented homes, and seventeen fewer than the 44 required, if all were one-bed flats 
+It equates 27 social rented homes, and seventeen fewer than the 44 required, if all were one-bed flats 
 
 in terms of units this would work out as about  60 affordable units, if they were one-bed flats, of which about 44 should be social rent.
 

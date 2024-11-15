@@ -17,7 +17,7 @@ The Strategy also says that no houses have been built, despite a requirement tha
 
 ![](img/23_ap_2603-housing_delivery_strategy.-3727685.pdf-adobe-acrobat-reader-64-bit-09_10_2024-15_37_41.png "NHG's Housing Delivery Strategy Sept 2023")
 
-### Plot 18's lost social rented and shared ownership homes
+### Plot 18's lost affordable and social rented homes
 
 NHG's planning permission requires that 50% of the housing should be affordable and that 75% of the affordable should be social rent.  The percentages are calculated from the number of habitable rooms (living room, bedroom, kitchen).  On this basis, 179 habitable rooms should be affordable and 134 of these should be social rent.
 

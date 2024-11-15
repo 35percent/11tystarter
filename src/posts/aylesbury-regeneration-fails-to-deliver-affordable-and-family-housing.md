@@ -7,11 +7,11 @@ date: 2024-09-20T10:39:31.724Z
 
 A nearly-completed Aylesbury regeneration site has failed to deliver all the affordable and family housing that is required by its [planning permission](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=R95ATPKB00300&activeTab=summary).  Plot 18 will be just the third plot of the estate's regeneration to be completed since 1997 (after Site 1A and Site 7, delivered by L&Q housing association), with a fourth site, the First Development Site, also in its final stages.
 
-Plot 18 has been built by Notting Hill Genesis (NHG) AND will provide [122 residential units, a medical centre, a library and a early years facility](http://www.aylesburynow.london/regeneration/planning-information/plot-18).  The plot's development entailed the demolition of 34 council and leasehold homes in 57-76 Northchurch and 300-313 Missenden.
+Plot 18 has been built by Notting Hill Genesis (NHG) and will provide [122 residential units, a medical centre, a library and a early years facility](http://www.aylesburynow.london/regeneration/planning-information/plot-18).  The plot's development entailed the demolition of 34 council and leasehold homes in 57-76 Northchurch and 300-313 Missenden.
 
 Notting Hill Genesis (NHG) confirm the affordable and family housing shortfalls in a proposed **Housing Delivery Strategy**, submitted to Southwark Council for its approval in September 2023.   
 
-The Strategy reveals that less than half of the required affordable housing promised for Plot 18 has been built, saying  The Strategy says that while 50% of the housing should be affordable, only 22.9% (measured by habitable room) has been provided.  The Strategy refers to Plot 18 as Development Stage 2A and says that it *'will provide 358 Habitable Rooms, of which 82 Habitable Rooms (22.9%) will be Affordable Housing'* and *'this does not meet the requirement to provide a minimum of  50% of Habitable Rooms as Affordable Housing'* [^1].
+The Strategy reveals that less than half of the required affordable housing promised for Plot 18 has been built, saying that only 22.9% (measured by habitable room) has been provided, against a requirement of 50%.  Referring to Plot 18 as Development Stage 2A, the Strategy says that it *'will provide 358 Habitable Rooms, of which 82 Habitable Rooms (22.9%) will be Affordable Housing'* and that *'this does not meet the requirement to provide a minimum of  50% of Habitable Rooms as Affordable Housing'* [^1].
 
 The Strategy also says that no houses have been built, despite a requirement that 20% of the new homes should be in that form.   NHG have asked Southwark to agree to defer the delivery of some of the family homes until the later stages of the regeneration
 
@@ -76,7 +76,7 @@ Southwark should consider that;
 
 Finally, in the light of all the above, a big final question is whether anyone can have any confidence at all that NHG and Southwark Council are capable between them of delivering the Aylesbury regeneration, as promised. 
 
-[^ ] The Housing Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603
+[^ ] The Housing Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603.  
 
 [^2] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Glossary, pg 178
 

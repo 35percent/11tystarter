@@ -13,3 +13,17 @@ It looks as if we can only look forward to piecemeal development, without the in
 If NHG cannot deliver the regeneration promised under the AAAP it should be taken from them
 
 #### Why did NHG and Southwark fight the High Court case? Protect the validity of teh OPP - <https://moderngov.southwark.gov.uk/mgAi.aspx?ID=63880>
+
+#### NHG's record - number of social rented units delivered by NHG
+
+The updated Phase application has a long explanation of what has been built by so far which reveals how little social rented housing NHG has provided.
+
+The figures provided in two tables of the completed phases omits to say who actually provided the social rented homes.
+
+The figures for the FDS also omit to say it is in three parts, FDS A, B & C and that NHG are only responsible for FDC C.
+
+When this information is added the 'scorecard' looks like this;
+
+FDS C - 56, Plot 18 - 23; total 79 - table of social rent delivered to date  L&Q 148 ; Southwark - 581; NHG - 79
+
+FDS C - 56, Plot 18 - 23; Phase 2B - 173; total 252

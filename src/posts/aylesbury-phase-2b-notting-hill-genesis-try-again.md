@@ -61,17 +61,11 @@ It must be noted though, that *'unviable'* aso does not mean unprofitable, just 
 
 The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing has been paid for the land.  NHG are also in receipt of £23.78m from the Mayor's Affordable Housing Fund, which lays down the  \[LINK] - expand; conditions
 
-#### NHG's poor record
-
-NHG has had the Outline Planning Permission for remainder of the Aylesbury regeneration for over nine years, since 2015, and has yet to complete a single site. Plot 18 is almost finished, but while it includes a very welcome new library and health facility, it is relatively small in terms of housing, having just 122 new homes. 
-
-NHG also had planning permission for the First Development Site, also now almost finished, but most of this was taken over by Southwark Council in 2018 \[to be completed in 2025? CHECK;LINK].  Both Plot 18 and the FDS come several years after the fully completed sites Site 1a \[DATE] and Site 7 \[DATE], both built by L&Q.
-
 ![](img/22_ap_2226-design_and_access_statement__part_1_.-3521527.pdf-adobe-acrobat-reader-64-bit-09_11_2024-15_51_51.png)
 
 #### NHG's record - number of social rented units delivered by NHG
 
-The updated application has a long explanation of what has been built by so far, largely by others; reveals how little social rented housing NHG has provided.
+The updated Phase application has a long explanation of what has been built by so far, largely by others; reveals how little social rented housing NHG has provided.
 
 The figures provided in two tables of the completed phases omits to say who actually provided the social rented homes.
 
@@ -89,7 +83,11 @@ They only refer to the High Court case that quashed an attempt to amend the OPP 
 
 Boards -  <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 
-#### Why did NHG and Southwark fight the High Court case? Protect the validity of teh OPP - <https://moderngov.southwark.gov.uk/mgAi.aspx?ID=63880>
+#### NHG's poor record
+
+NHG has had the Outline Planning Permission for remainder of the Aylesbury regeneration since 2015, but after nine years has yet to complete a single site. Plot 18 is almost finished, but while it includes a very welcome new library and health facility, it is relatively small in terms of housing, having just 122 new homes. 
+
+NHG also had planning permission for the First Development Site, also now almost finished, but most of this was taken over by Southwark Council in 2018 \[to be completed in 2025? CHECK;LINK].  Both Plot 18 and the FDS come several years after the fully completed sites Site 1a \[DATE] and Site 7 \[DATE], both built by L&Q.
 
 #### Five reasons not to give Phase 2b planning permission
 

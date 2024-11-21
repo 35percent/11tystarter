@@ -65,7 +65,7 @@ The viability assessment also sets the benchmark land value at £0, *'based on t
 
 #### NHG's record - number of social rented units delivered by NHG
 
-The updated Phase application has a long explanation of what has been built by so far, largely by others; reveals how little social rented housing NHG has provided.
+The updated Phase application has a long explanation of what has been built by so far which reveals how little social rented housing NHG has provided.
 
 The figures provided in two tables of the completed phases omits to say who actually provided the social rented homes.
 
@@ -76,6 +76,8 @@ When this information is added the 'scorecard' looks like this;
 FDS C - 56, Plot 18 - 23; total 79 - table of social rent delivered to date  L&Q 148 ; Southwark - 581; NHG - 79
 
 FDS C - 56, Plot 18 - 23; Phase 2B - 173; total 252
+
+![](img/table_providers_of_social_rented_homes_121124-word-21_11_2024-09_14_49.png)
 
 Leaving aside whether or not there will be more social rent floorspace - when the number of demolished homes is taken into account, after ten years and assuming that Phase 2B will get built (more 172 not yet built) we will have still have 75 fewer social rented homes from NHG than we have already (327 minus 252 = 75)
 

@@ -28,4 +28,12 @@ FDS C - 56, Plot 18 - 23; total 79 - table of social rent delivered to date  L&Q
 
 FDS C - 56, Plot 18 - 23; Phase 2B - 173; total 252
 
-![](img/table_providers_of_social_rented_homes_121124-word-21_11_2024-09_25_58.png)
+![](img/table_providers_of_social_rented_homes_121124-word-21_11_2024-09_25_58.png "Table of social rent providers on the Aylesbury regeneration")
+
+
+
+Leaving aside whether or not there will be more social rent floorspace - when the number of demolished homes is taken into account, after ten years and assuming that Phase 2B will get built (more 172 not yet built) we will have still have 75 fewer social rented homes from NHG than we have already (327 minus 252 = 75)
+
+They only refer to the High Court case that quashed an attempt to amend the OPP in passing
+
+Boards -  <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>

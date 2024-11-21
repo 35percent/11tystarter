@@ -59,7 +59,7 @@ It must be noted though, that *'unviable'* aso does not mean unprofitable, just 
 
 #### £0 for the land
 
-The viability assessment also notes that the benchmark landvalue is set at £0, *'based on the development agreement between NHG and LB Southwark'* which indicates that nothing has been paid for the land.  NHG are also in receipt of £23.78m from the Mayor's Affordable Housing Fund, which lays down the  \[LINK] - expand; conditions
+The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing has been paid for the land.  NHG are also in receipt of £23.78m from the Mayor's Affordable Housing Fund, which lays down the  \[LINK] - expand; conditions
 
 #### What about the future phases?
 

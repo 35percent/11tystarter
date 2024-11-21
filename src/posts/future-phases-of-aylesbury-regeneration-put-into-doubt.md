@@ -27,3 +27,5 @@ When this information is added the 'scorecard' looks like this;
 FDS C - 56, Plot 18 - 23; total 79 - table of social rent delivered to date  L&Q 148 ; Southwark - 581; NHG - 79
 
 FDS C - 56, Plot 18 - 23; Phase 2B - 173; total 252
+
+![](img/table_providers_of_social_rented_homes_121124-word-21_11_2024-09_25_58.png)

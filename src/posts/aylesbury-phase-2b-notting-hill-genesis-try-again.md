@@ -7,7 +7,7 @@ Notting Hill Genesis (NHG) have updated their [planning application for Phase 2B
 
 There will also be either one or two additional floors on six of the eleven buildings. All the blocks are between five and ten storeys, with one tower of 26 storeys, which remains the same height [^1].
 
-The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022 and approved by Southwark's planning committee in January 2023.  NHG say that the updated application was necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
+The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022 and approved by Southwark's planning committee in January 2023, but not concluded by a legal agreement.  NHG say that the updated application was necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
 
 ![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-16_32_16.png)
 
@@ -61,17 +61,21 @@ It must be noted though, that *'unviable'* aso does not mean unprofitable, just 
 
 The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing has been paid for the land.  NHG are also in receipt of £23.78m from the Mayor's Affordable Housing Fund, which lays down the  \[LINK] - expand; conditions
 
-#### What about the future phases?
+#### NHG's poor record
 
-NHG's record is poor.  NHG has had the OPP for the remainder of the Aylesbury regeneration for over nine years, since 2015, and has yet to complete a single site. Plot 18 is almost finished, but while it includes a very welcome new library and health facility it is relatively small in terms of housing, having just 122 new homes. 
+NHG has had the Outline Planning Permission for remainder of the Aylesbury regeneration for over nine years, since 2015, and has yet to complete a single site. Plot 18 is almost finished, but while it includes a very welcome new library and health facility, it is relatively small in terms of housing, having just 122 new homes. 
 
 NHG also had planning permission for the First Development Site, also now almost finished, but most of this was taken over by Southwark Council in 2018 \[to be completed in 2025? CHECK;LINK].  Both Plot 18 and the FDS come several years after the fully completed sites Site 1a \[DATE] and Site 7 \[DATE], both built by L&Q.
 
 ![](img/22_ap_2226-design_and_access_statement__part_1_.-3521527.pdf-adobe-acrobat-reader-64-bit-09_11_2024-15_51_51.png)
 
-NHG have abandoned the OPP for Phase 2B for reasons that will apply to all the remaining phases 2C, 3, and 4 - ie that they cannot be build within the OPP's masterplan's timescale and they cannot reprovide the lost affordable housing floorspace.
 
-NHG and Southwark Council have also abandoned the attempt to protect the validity of the OPP for future phases.  NHG's proposal to change the OPP's wording, with this aim (and with Southwark's support) was quashed in the High Court, leaving the OPP legally vulnerable 
+
+#### What about the future phases?
+
+NHG have abandoned the Outline Permission for Phase 2B for reasons that will equally apply to all the remaining phases 2C, 3, and 4 - ie that they cannot be build within the OPP's masterplan's timescale and they cannot reprovide the lost affordable housing floorspace \[REF].
+
+NHG also appears to have abandoned any attempt to protect the legal validity of the Outline Permission.  This was one of the aims behind NHG's proposal, supported by Southwark, to change the Outline Permission's wording.  A legal challenge  was quashed in the High Court, leaving the OPP legally vulnerable.  NHG and Southwark Council have also abandoned the attempt to protect the validity of the OPP for future phases.
 
 Quote from Southwark Law Centre '*I have deep concerns about the legal consequences of this development going ahead, in light of the Hillside case (as confirmed by Dennis). My understanding is that, if this application were granted and development began pursuant to it, it would render any further development under the OPP (on other Phases) unlawful. In other words, it would stop all future development across the Aylesbury, and would require a whole new masterplan permission to be sought. I am concerned that the Council have not fully recognised this, or there is an ulterior consideration that is being kept secret…*
 

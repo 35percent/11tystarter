@@ -11,3 +11,5 @@ Quote from Southwark Law Centre *'I have deep concerns about the legal consequen
 
 It looks as if we can only look forward to piecemeal development, without the integrity promised by the AAAP, fo as long as NHG are in control of the regeneration. It is clear that NHG will not be delivering the regeneration as promised to residents and the local community, as described in the AAAP, and as 
 If NHG cannot deliver the regeneration promised under the AAAP it should be taken from them
+
+#### Why did NHG and Southwark fight the High Court case? Protect the validity of teh OPP - <https://moderngov.southwark.gov.uk/mgAi.aspx?ID=63880>

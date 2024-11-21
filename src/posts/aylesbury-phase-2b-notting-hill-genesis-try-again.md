@@ -43,7 +43,7 @@ There will also be no houses on Phase 2B, although the number of maisonettes wil
 
 ![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png)
 
-This is a significant departure from the original Aylesbury plans.  The now discarded Aylesbury Area Action Plan 2010 (AAAP), which emphasised the benefits of houses as a type of family home.  The AAAP defines a house as a *'self contained residential dwelling. Houses can be detached, semi detached or terraced'* [^6] and promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^7].  
+This is a significant departure from the original Aylesbury plans.  The now discarded Aylesbury Area Action Plan 2010 (AAAP), emphasised the benefits of houses as a type of family home.  The AAAP defines a house as a *'self contained residential dwelling. Houses can be detached, semi detached or terraced'* [^6] and promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^7].  
 
 The AAAP notes that *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and *'Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^8].
 

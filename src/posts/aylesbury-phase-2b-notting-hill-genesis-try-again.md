@@ -3,7 +3,7 @@ title: Aylesbury Phase 2B - Notting Hill Genesis try again
 description: Second attempt to make progress on stalled Aylesbury regeneration
 date: 2024-11-09T11:12:27.174Z
 ---
-Notting Hill Genesis (NHG) have updated their [planning application for Phase 2B](https://planning.southwark.gov.uk/online-applications/simpleSearchResults.do?action=firstPage) of the Aylesbury regeneration.  The new proposal increases the number of homes from 617 to 640, with an increase in the number of social rented homes from 163 to 173 and of intermediate part-buy/part-let homes from 82 to 89.  The number of private homes has been increased to 378 from 369.
+Notting Hill Genesis (NHG) have updated their [planning application for Phase 2B](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300) of the Aylesbury regeneration.  The new proposal increases the number of homes from 617 to 640, with an increase in the number of social rented homes from 163 to 173 and of intermediate part-buy/part-let homes from 82 to 89.  The number of private homes has been increased to 378 from 369.
 
 There will also be either one or two additional floors on six of the eleven buildings. All the blocks are between five and ten storeys, with one tower of 26 storeys, which remains the same height [^1].
 
@@ -79,7 +79,7 @@ On the face of it a proposal for 640 new homes, with relatively generous proport
 * A planning approval for the Phase 2b standalone application throws the future of the remainder of a Aylesbury  regeneration into doubt. 
 * Both the AAAP and OPP have been abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration;
 
-[^1] Planning Statement Addendum 22/AP/2226, Oct 2024 - [](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300)find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
+[^1] Planning Statement Addendum, Oct 2024, ref number 22/AP/2226.  This can be found via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
 [^2] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 31
 

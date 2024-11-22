@@ -57,11 +57,9 @@ The assessment makes a cautious caveat that should both sales values and costs i
 
 #### The Mayor mends NHG's profit
 
-The updated viability assessment has been submitted to take account of the physical changes to the scheme, such as the second staircases.  A comparison with the original assessment shows that NHG's profit level appears to have fallen from 12.27% (GDV £244.44m), to 5.5% (GDV of £258.76m) - in cash terms from £29.94m to £13.51m, a drop of £16.43m.
+The updated viability assessment has been submitted to take account of the physical changes to the scheme, such as the second staircases.  A comparison with the original assessment shows that NHG's profit level appears to have fallen from 12.27% (GDV £244.44m), to 5.5% (GDV of £258.76m) - in cash terms falling from £29.94m to £13.51m, a drop of £16.43m.
 
-
-
-
+The viability assessments also show, though, that the Mayor's GLA Affordable Housing Grant has increased from £28.79m to £42.51m - an increase of £13.72m, leaving the net drop at £2.71m.
 
 
 
@@ -85,7 +83,7 @@ L&Q have provided 148 homes on the Early Phases.  Southwark has pledged to deliv
 
 On the face of it a proposal for 640 new homes, with relatively generous proportions of affordabe and social rented housing looks attractive. But the there are at least four reasons why planning permission should not be given; 
 
-* NHG has only delivered 79 social rented homes in the ten years since they got the OPP; less than the number knocked down.
+* NHG has only delivered 79 social rented homes in the nine years since they got the Outline Planning PermissionP; less than the number knocked down.
 * NHG is not providing any houses on the 'new' Aylesbury, despite their attested benefits for families and the promises made to residents
 * Both the AAAP and OPP have been abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration;
 

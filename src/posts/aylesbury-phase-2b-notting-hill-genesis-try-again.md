@@ -69,9 +69,9 @@ NHG has had the Outline Planning Permission for remainder of the Aylesbury regen
 
 NHG also had planning permission for the First Development Site (FDS), also now almost finished, but most of this was taken over by Southwark Council in 2018 \[to be completed in 2025? CHECK;LINK].  Both Plot 18 and the FDS come several years after the fully completed sites Site 1a \[DATE] and Site 7 \[DATE], both built by L&Q.
 
-A NHG Housing Delivery Strategy has details of the amount of social rented housing each stage of the regeneration will provide.  From this we can see that most of the social housing so far has been provided by L&Q and Southwark Council - L&Q providing 148 homes, Southwark 501 homes (to be council homes) - with NHG only contributing 79 homes.
+A NHG Housing Delivery Strategy September 2023 has details of the amount of social rented housing each stage of the regeneration will provide.  From this we can see that most of the social housing so far has been provided by L&Q and Southwark Council - L&Q providing 148 homes, Southwark 501 homes (to be council homes) - with NHG only contributing 79 homes.
 
-![](img/table_providers_of_social_rented_homes_121124-word-21_11_2024-09_25_58.png "35% Campaign table of providers of social rented housing on Aylesbury.  Source of figures ")
+![](img/table_providers_of_social_rented_homes_121124-word-21_11_2024-09_25_58.png "35% Campaign table of providers of social rented housing on Aylesbury.  Figures from Housing Delivery Strategy Sept 2023.")
 
 #### Five reasons not to give Phase 2b planning permission
 

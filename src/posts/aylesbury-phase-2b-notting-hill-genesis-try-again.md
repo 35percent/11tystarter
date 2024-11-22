@@ -51,9 +51,11 @@ The AAAP notes that *'Increasing the proportion of homes suitable for families w
 
 The updated proposal is larger than the original in response to updated fire regulations which require changes, such as extra staircases in four of the blocks, which reduce the amount of residential floorspace.  Extra floors have been added to compensate, taking the total number of new homes to 640.
 
-NHG say that this is *'to ensure the scheme viably delivers the required affordable homes'* [^9].  The viability assessment for the scheme concludes the opposite, saying *'our appraisals demonstrated this scheme to be unviable generating a deficit of c. £6.69m.....'.*  
+NHG say that this is *'to ensure the scheme viably delivers the required affordable homes'* [^9].  An updated viability assessment for the scheme concludes the opposite, saying *'the appraisals generate a viability deficit of c. £24.16m'.*  It continues, saying that *'if the deficit were to be absorbed by the Applicant's target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This is the Gross Development Value on the combined worth of the private and affordable housing and commercial premises.  In cash terms this means a profit of £10.49m (5.5% on a GDV of £200.9m).
 
-It must be noted though, that *'unviable'* aso does not mean unprofitable, just less profitable.  NHG will not be making a much as they would like, but they will not be making a loss.  The assessment says that if the deficit is absorbed into profits it *'reduces the lower than typical target thresholds for schemes of this size and also below any of the thresholds adopted / accepted for other estate regeneration schemes across London'.*  In other words, while NHG want a *'typical'* profit (15% of Gross Development Value), it will only get 12.7% GDV or, put in cash terms, a profit of £31.04m, instead of £36.7m.  
+The assessment makes a cautious caveat that should both sales values and costs improve by around 5%, then the scheme would be viable, which means it could generate a much higher profit of 14.55% of GDV.
+
+
 
 ![](img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png)
 

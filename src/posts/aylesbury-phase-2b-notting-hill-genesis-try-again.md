@@ -47,7 +47,7 @@ This is a significant departure from the original Aylesbury plans.  The now disc
 
 The AAAP notes that *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and *'Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^8].
 
-#### £0 for the land, but not financially viable
+#### £0 for the land, but still not financially viable
 
 The updated proposal is larger than the original in response to updated fire regulations which require changes, such as extra staircases in four of the blocks, which reduce the amount of residential floorspace.  Extra floors have been added to compensate, taking the total number of new homes to 640.
 
@@ -55,9 +55,13 @@ NHG say that this is *'to ensure the scheme viably delivers the required afforda
 
 The assessment makes a cautious caveat that should both sales values and costs improve by around 5%, then the scheme would become viable, which means it could generate a much higher profit of 14.55% of GDV.  The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing has been paid for the land.
 
-#### The Mayor saves NHG's profit
+#### The Mayor mends NHG's profit
 
-The updated viability assessment has been submitted to take account of the physical changes to the scheme, such as the second staircases.  A comparison with the original assessment shows that NHG's profit level appears to have fallen from 12.27% GDV to 5.5% GDV; in cash terms from £31.04m to a £10.49m, a drop of viability  updated to account for the physical changes  comparision with the original viability assessement, submitted in May 2022, which supported the scheme as approved by the planning committee  shows that the 
+The updated viability assessment has been submitted to take account of the physical changes to the scheme, such as the second staircases.  A comparison with the original assessment shows that NHG's profit level appears to have fallen from 12.27% (GDV £244.44m), to 5.5% (GDV of £258.76m) - in cash terms from £29.94m to £13.51m, a drop of £16.43m.
+
+
+
+
 
 
 

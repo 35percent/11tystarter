@@ -53,9 +53,7 @@ The updated proposal is larger than the original in response to updated fire reg
 
 NHG say that this is *'to ensure the scheme viably delivers the required affordable homes'* [^9].  An updated viability assessment for the scheme concludes the opposite, saying *'the appraisals generate a viability deficit of c. £24.16m'.*  It continues, saying that *'if the deficit were to be absorbed by the Applicant's target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This is the Gross Development Value on the combined worth of the private and affordable housing and commercial premises.  In cash terms this means a profit of £10.49m (5.5% on a GDV of £200.9m).
 
-The assessment makes a cautious caveat that should both sales values and costs improve by around 5%, then the scheme would be viable, which means it could generate a much higher profit of 14.55% of GDV.
-
-
+The assessment makes a cautious caveat that should both sales values and costs improve by around 5%, then the scheme would become viable, which means it could generate a much higher profit of 14.55% of GDV.
 
 ![](img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png)
 

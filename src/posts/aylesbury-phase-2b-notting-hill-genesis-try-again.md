@@ -65,7 +65,7 @@ The viability assessment also sets the benchmark land value at £0, *'based on t
 
 #### NHG's poor record
 
-NHG has had the Outline Planning Permission for remainder of the Aylesbury regeneration since 2015, but after nine years has yet to complete a single site. Plot 18 is almost finished, but while it includes a very welcome new library and health facility, it is relatively small in terms of housing, having just 122 new homes. 
+NHG has had the Outline Planning Permission for remainder of the Aylesbury regeneration since 2015, but after nine years has yet to fully complete a single site. Plot 18 is almost finished, but while it includes a very welcome new library and health facility, it is relatively small in terms of housing, having just 122 new homes. 
 
 NHG also had planning permission for the First Development Site (FDS), also now almost finished, but most of this was taken over by Southwark Council in 2018 \[to be completed in 2025? CHECK;LINK].  Both Plot 18 and the FDS come several years after the fully completed sites Site 1a \[DATE] and Site 7 \[DATE], both built by L&Q.
 

@@ -71,12 +71,11 @@ NHG also had planning permission for the First Development Site, also now almost
 
 #### Five reasons not to give Phase 2b planning permission
 
-On the face of it a proposal for 640 new homes, with relatively generous proportions of affordabe and social rented housing looks attractive. But the there are at least five reasons why planning permission should not be given; 
+On the face of it a proposal for 640 new homes, with relatively generous proportions of affordabe and social rented housing looks attractive. But the there are at least four reasons why planning permission should not be given; 
 
-* NHG has only delivered 79 social rented homes in the ten years since they got the OPP; less than the number knocked down....
+* NHG has only delivered 79 social rented homes in the ten years since they got the OPP; less than the number knocked down.
 * NHG is looking to make £31.04m profit on Phase 2b, while getting the land for nothing, barely increasing family housing and reducing the number of social rented homes
 * NHG is not providing any houses on the 'new' Aylesbury, despite their attested benefits for families and the promises made to residents
-* A planning approval for the Phase 2b standalone application throws the future of the remainder of a Aylesbury  regeneration into doubt. 
 * Both the AAAP and OPP have been abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration;
 
 [^1] Planning Statement Addendum, Oct 2024, ref number 22/AP/2226.  This can be found via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>

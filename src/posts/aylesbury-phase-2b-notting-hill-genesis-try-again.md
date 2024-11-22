@@ -47,19 +47,27 @@ This is a significant departure from the original Aylesbury plans.  The now disc
 
 The AAAP notes that *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and *'Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^8].
 
-#### Not financially viable, but still profitable
+#### £0 for the land, but not financially viable
 
 The updated proposal is larger than the original in response to updated fire regulations which require changes, such as extra staircases in four of the blocks, which reduce the amount of residential floorspace.  Extra floors have been added to compensate, taking the total number of new homes to 640.
 
-NHG say that this is *'to ensure the scheme viably delivers the required affordable homes'* [^9].  An updated viability assessment for the scheme concludes the opposite, saying *'the appraisals generate a viability deficit of c. £24.16m'.*  It continues, saying that *'if the deficit were to be absorbed by the Applicant's target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This is the Gross Development Value on the combined worth of the private and affordable housing and commercial premises.  In cash terms this means a profit of £10.49m (5.5% on a GDV of £200.9m).
+NHG say that this is *'to ensure the scheme viably delivers the required affordable homes'* [^9].  An updated viability assessment for the scheme concludes the opposite, saying *'the appraisals generate a viability deficit of c. £24.16m'.*  It continues, saying that *'if the deficit were to be absorbed by the Applicant's target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This is the Gross Development Value on the combined worth of the private and affordable housing and commercial premises.  In cash terms this means a profit of £12.76m (5.5% on a GDV of £258.76m).  
 
-The assessment makes a cautious caveat that should both sales values and costs improve by around 5%, then the scheme would become viable, which means it could generate a much higher profit of 14.55% of GDV.
+The assessment makes a cautious caveat that should both sales values and costs improve by around 5%, then the scheme would become viable, which means it could generate a much higher profit of 14.55% of GDV.  The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing has been paid for the land.
+
+#### The Mayor saves NHG's profit
+
+The updated viability assessment has been submitted to take account of the physical changes to the scheme, such as the second staircases.  A comparison with the original assessment shows that NHG's profit level appears to have fallen from 12.27% GDV to 5.5% GDV; in cash terms from £31.04m to a £10.49m, a drop of viability  updated to account for the physical changes  comparision with the original viability assessement, submitted in May 2022, which supported the scheme as approved by the planning committee  shows that the 
+
+
 
 ![](img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png)
 
-#### £0 for the land
+#### £0 for the land and 
 
-The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing has been paid for the land.  NHG are also in receipt of £23.78m from the Mayor's Affordable Housing Fund, which lays down the  \[LINK] - expand; conditions
+The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing has been paid for the land.  
+
+NHG are also in receipt of £42.51m from the Mayor's Affordable Housing Fund.  \[LINK] - expand; conditions
 
 ![](img/22_ap_2226-design_and_access_statement__part_1_.-3521527.pdf-adobe-acrobat-reader-64-bit-09_11_2024-15_51_51.png)
 

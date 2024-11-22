@@ -51,7 +51,7 @@ The AAAP notes that *'Increasing the proportion of homes suitable for families w
 
 The updated proposal is larger than the original in response to updated fire regulations which require changes, such as extra staircases in four of the blocks, which reduce the amount of residential floorspace.  Extra floors have been added to compensate, taking the total number of new homes to 640.
 
-NHG say that this is *'to ensure the scheme viably delivers the required affordable homes'* \[REF].  The viability assessment for the scheme concludes the opposite, saying *'our appraisals demonstrated this scheme to be unviable generating a deficit of c. £6.69m.....'.*  
+NHG say that this is *'to ensure the scheme viably delivers the required affordable homes'* [^9].  The viability assessment for the scheme concludes the opposite, saying *'our appraisals demonstrated this scheme to be unviable generating a deficit of c. £6.69m.....'.*  
 
 It must be noted though, that *'unviable'* aso does not mean unprofitable, just less profitable.  NHG will not be making a much as they would like, but they will not be making a loss.  The assessment says that if the deficit is absorbed into profits it *'reduces the lower than typical target thresholds for schemes of this size and also below any of the thresholds adopted / accepted for other estate regeneration schemes across London'.*  In other words, while NHG want a *'typical'* profit (15% of Gross Development Value), it will only get 12.7% GDV or, put in cash terms, a profit of £31.04m, instead of £36.7m.  
 
@@ -69,7 +69,7 @@ NHG has had the Outline Planning Permission for remainder of the Aylesbury regen
 
 NHG also had planning permission for the First Development Site (FDS), also now almost finished, but most of this was taken over by [Southwark Council in 2018](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/).  Both Plot 18 and the FDS come several years after the fully completed sites Site 1a and Site 7, both built by L&Q.
 
-A NHG Housing Delivery Strategy September 2023 has details of the amount of social rented housing each stage of the regeneration will provide.  From this we can see that most of the social housing so far has been provided by L&Q and Southwark Council.  
+NHG's Planning Statement Addendum for Phase 2B has details of the amount of social rented housing each stage of the regeneration will provide.  From this we can see that most of the social housing so far has been provided by L&Q and Southwark Council.  
 
 L&Q have provided 148 homes on the Early Phases.  Southwark has pledged to deliver 581 council homes on the FDS; this equals all the housing (private, intermediate and social) on FDS sites A & B, acquired in 2018.  This is not noted in the Strategy, which just gives the figure of 301 social rented units.  Nonetheless this far outstrips NHG's contribution, which is is just **79 social rented homes** - twenty three on Plot 18, 56 on FDS C.
 
@@ -90,7 +90,7 @@ On the face of it a proposal for 640 new homes, with relatively generous proport
 
 [^3] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 23
 
-[^4] Planning Statement Addendum 22/AP/226, Oct 2024, 6.35, 6.36 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
+[^4] Planning Statement Addendum, Oct 2024, 6.35, 6.36, 22/AP/226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
 [^5] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf)  para 128.  A habitable room is one that is used for living, sleeping, eating or cooking (not a bathroom).  The figures used to calculate the average number of habitable rooms for social housing on the whole estate come from the [Officer's report 14/AP/3844, 23 April 2015](https://moderngov.southwark.gov.uk/documents/s53361/Report.pdf), para 89.
 
@@ -99,3 +99,5 @@ On the face of it a proposal for 640 new homes, with relatively generous proport
 [^7] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Foreword pg 3; The vision and plan objectives 1.6.4
 
 [^8] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.3, 3.5.4
+
+[^9] Planning Statement Addendum, Oct 2024, 3.9, 22/AP/226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9

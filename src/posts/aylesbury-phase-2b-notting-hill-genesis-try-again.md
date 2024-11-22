@@ -71,7 +71,7 @@ NHG also had planning permission for the First Development Site (FDS), also now 
 
 A NHG Housing Delivery Strategy September 2023 has details of the amount of social rented housing each stage of the regeneration will provide.  From this we can see that most of the social housing so far has been provided by L&Q and Southwark Council - L&Q providing 148 homes, Southwark 501 homes (to be council homes) - with NHG only contributing 79 homes.
 
-![](img/table_providers_of_social_rented_homes_121124-word-21_11_2024-09_25_58.png "35% Campaign table of providers of social rented housing on Aylesbury.  Figures from Housing Delivery Strategy Sept 2023.")
+![](img/table_providers_of_social_rented_homes_121124-word-21_11_2024-09_25_58.png "35% Campaign table of providers of social rented housing on Aylesbury.")
 
 #### Five reasons not to give Phase 2b planning permission
 

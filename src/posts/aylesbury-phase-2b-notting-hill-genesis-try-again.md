@@ -67,12 +67,6 @@ The updated viability assessment has been submitted to take account of the physi
 
 ![](img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png)
 
-#### £0 for the land and 
-
-The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing has been paid for the land.  
-
-NHG are also in receipt of £42.51m from the Mayor's Affordable Housing Fund.  \[LINK] - expand; conditions
-
 ![](img/22_ap_2226-design_and_access_statement__part_1_.-3521527.pdf-adobe-acrobat-reader-64-bit-09_11_2024-15_51_51.png)
 
 #### NHG's poor record - 79 social rented homes in nine years
@@ -87,12 +81,11 @@ L&Q have provided 148 homes on the Early Phases.  Southwark has pledged to deliv
 
 ![](img/table_providers_of_social_rented_homes_121124-word-21_11_2024-09_25_58.png "35% Campaign table of providers of social rented housing on Aylesbury.")
 
-#### Five reasons not to give Phase 2b planning permission
+#### Three reasons not to give Phase 2b planning permission
 
 On the face of it a proposal for 640 new homes, with relatively generous proportions of affordabe and social rented housing looks attractive. But the there are at least four reasons why planning permission should not be given; 
 
 * NHG has only delivered 79 social rented homes in the ten years since they got the OPP; less than the number knocked down.
-* NHG is looking to make £31.04m profit on Phase 2b, while getting the land for nothing, barely increasing family housing and reducing the number of social rented homes
 * NHG is not providing any houses on the 'new' Aylesbury, despite their attested benefits for families and the promises made to residents
 * Both the AAAP and OPP have been abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration;
 

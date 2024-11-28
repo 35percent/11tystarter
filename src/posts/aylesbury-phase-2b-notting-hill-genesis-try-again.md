@@ -55,7 +55,7 @@ NHG has had the Outline Planning Permission for remainder of the Aylesbury regen
 
 NHG also had planning permission for the First Development Site (FDS), also now almost finished, but most of this was taken over by [Southwark Council in 2018](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/).  Both Plot 18 and the FDS come several years after the fully completed sites Site 1a and Site 7, both built by L&Q.
 
-NHG's Planning Statement Addendum for Phase 2B has details of the amount of social rented housing each stage of the regeneration will provide.  From this we can see that most of the social housing so far has been provided by L&Q and Southwark Council.  
+NHG's Planning Statement Addendum for Phase 2B has details of the amount of social rented housing each stage of the regeneration will provide.  From this and from a FDS planning document, we can see that most of the social housing so far has been provided by L&Q and Southwark Council.  
 
 L&Q have provided 148 homes on the Early Phases.  Southwark has pledged to deliver 581 council homes on the FDS; this equals all the housing (private, intermediate and social-rented) on FDS sites A & B, acquired in 2018.  This is not noted in the Strategy, which just gives the figure of 301 social rented units.  Nonetheless this far outstrips NHG's contribution, which is just **79 social rented homes** - twenty-three on Plot 18, 56 on FDS C.
 

@@ -7,7 +7,7 @@ Notting Hill Genesis (NHG) have updated their [planning application for Phase 2B
 
 There will also be an additional floor on seven of the eleven buildings. All the blocks are between five and ten storeys, with one tower of 26 storeys, which remains the same height [^1].
 
-The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022.  This was approved by Southwark Council's planning committee in January 2023, but not concluded by a legal agreement, after it became entangled in a High Court action last year.  This saw NHG's attempt to change its Outline Planning Permission for redeveloping the remainder of the estate quashed. 
+The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022.  This was approved by Southwark Council's planning committee in January 2023, but not concluded by a legal agreement, after it became entangled in a High Court action last year.  NHG's attempt to change its Outline Planning Permission for redeveloping the remainder of the estate. 
 
 NHG say now that a updated application is necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
 

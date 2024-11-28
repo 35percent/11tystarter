@@ -7,7 +7,9 @@ Notting Hill Genesis (NHG) have updated their [planning application for Phase 2B
 
 There will also be an additional floor on seven of the eleven buildings. All the blocks are between five and ten storeys, with one tower of 26 storeys, which remains the same height [^1].
 
-The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022.  This was approved by Southwark's planning committee in January 2023, but not concluded by a legal agreement.  NHG say that the updated application was necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
+The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022.  This was approved by Southwark Council's planning committee in January 2023, but not concluded by a legal agreement, after it became entangled in a High Court action last year.  This saw NHG's attempt to change its Outline Planning Permission for redeveloping the remainder of the estate quashed. 
+
+NHG say now that a updated application is necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
 
 ![](img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png "Updated Aylesbury Phase 2B scheme")
 
@@ -17,7 +19,7 @@ Phase 2B entails the demolition of 241-471 Wendover, Padbury, Winslow and Ravens
 
 #### NHG abandons the OPP
 
-The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP), which NHG already holds for the Phase 2b, Phase 2c, Phase 3 and Phase 4, which together make up the rest of the regeneration.
+The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP), which NHG already holds for the Phase 2b, Phase 2c, Phase 3 and Phase 4, which together make up the rest of the regeneration.  
 
 NHG says that it is submitting a standalone application because it cannot complete the scheme within the OPP masterplan timescale.  NHG also say that the OPP will not allow the development to meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace [^3].
 
@@ -55,8 +57,8 @@ On the face of it a proposal for 640 new homes, with relatively generous proport
 
 * There will be a net loss of social rented housing, at a time [when the housing waiting list stands at over 17,500 households](https://moderngov.southwark.gov.uk/documents/s121500/Appendix%201%20Affordable%20Housing%20SPD.pdf)
 * Notting Hill Genesis proposals fail to meet Southwark's minimum requirements for larger, family homes 
-* Southwark Council promised that nearly a quarter of the new homes on the Aylesbury would be houses, becuase they are good for families and that is what residents wanted - NHG are proposing **zero houses** for Phase 2B.
-* First the Aylesbury Area Action Plan was discarded and now the Outline Planning Permission are being abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration
+* Southwark Council promised that nearly a quarter of the new homes on the Aylesbury would be houses, because they are good for families and that is what residents wanted - NHG are proposing **zero houses** for Phase 2B.
+* The [Aylesbury Area Action Plan was discarded](https://www.35percent.org/posts/2021-05-04-southwark-rips-up-aylesbury-objectives/) in 2021 and now the Outline Planning Permission is being abandoned.  Southwark and NHG no longer have any coherent plan for the remainder of the regeneration and approving the same 'standalone 
 
 it must be possible for Notting Hill Genesis 
 

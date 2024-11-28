@@ -21,6 +21,8 @@ The application also remains a 'standalone' or 'drop-in' application, outside th
 
 NHG says that it is submitting a standalone application because it cannot complete the scheme within the OPP masterplan timescale.  NHG also say that the OPP will not allow the development to meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace [^3].
 
+![](img/22_ap_2226-design_and_access_statement__part_1_.-3521527.pdf-adobe-acrobat-reader-64-bit-09_11_2024-15_51_51.png)
+
 #### More or less social rented housing?
 
 NHG claim that, unlike the Outline Planning Permission, the 'stand-alone' application will increase the amount of social rent and affordable floorspace, despite the loss of 154 social rent units.  NHG say that this because more of the new homes will be bigger family-sized units.  
@@ -48,8 +50,6 @@ This is a significant departure from the original Aylesbury plans.  The now disc
 The AAAP notes that *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and *'Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^9].
 
 ![](img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png)
-
-![](img/22_ap_2226-design_and_access_statement__part_1_.-3521527.pdf-adobe-acrobat-reader-64-bit-09_11_2024-15_51_51.png)
 
 #### NHG's poor record - 79 social rented homes in nine years
 

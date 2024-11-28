@@ -65,7 +65,7 @@ L&Q have provided 148 homes on the Early Phases.  Southwark has pledged to deliv
 
 #### Three reasons not to give Phase 2b planning permission
 
-On the face of it a proposal for 640 new homes, with relatively generous proportions of affordabe and social rented housing looks attractive. But the there are at least three reasons why planning permission should not be given; 
+On the face of it a proposal for 640 new homes, with relatively generous proportions of affordable and social rented housing looks attractive. But there are at least three reasons why planning permission should not be given; 
 
 * NHG has only delivered 79 social rented homes in the nine years since they got the Outline Planning Permission; less than the number knocked down.
 * NHG is not providing any houses on the 'new' Aylesbury, despite their attested benefits for families and the promises made to residents

@@ -49,11 +49,12 @@ This is a significant departure from the original Aylesbury plans.  The now disc
 
 The AAAP notes that *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and *'Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^10].
 
-#### Three reasons not to give Phase 2b planning permission
+#### Four reasons not to give Phase 2b planning permission
 
 On the face of it a proposal for 640 new homes, with relatively generous proportions of affordable and social rented housing looks attractive. But there are at least three reasons why planning permission should not be given; 
 
 * There will be a net loss of social rented housing 
+* There will not be enough family housing
 * No houses on the 'new' Aylesbury, despite their attested benefits for families and the promises made to residents
 * Both the AAAP and the Outline Planning Permission have been abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration
 

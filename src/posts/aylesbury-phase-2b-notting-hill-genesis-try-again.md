@@ -15,13 +15,13 @@ NHG say now that a updated Phase 2B application is necessary because of new fire
 
 #### Over 150 social rented homes will be lost
 
-Phase 2B entails the demolition of 241-471 Wendover, Padbury, Winslow and Ravensbourne, with the loss of 373 homes, of which 327 remain council housing, giving a net loss of 154 social rented homes, if NHG's proposals are approved [^2].
+The redevelopment of Phase 2B entails the demolition of 241-471 Wendover, Padbury, Winslow and Ravensbourne, with the loss of 373 homes, of which 327 remain council housing, giving a net loss of 154 social rented homes, if NHG's proposals are approved [^2].
 
 #### NHG abandons the OPP
 
-The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP), which NHG already holds for the Phase 2b, Phase 2c, Phase 3 and Phase 4, which together make up the rest of the regeneration.  
+The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP).  NHG already holds this permission for Phase 2b, Phase 2c, Phase 3 and Phase 4. 
 
-NHG says that it is submitting a standalone application because it cannot complete the scheme within the OPP masterplan timescale.  NHG also say that the OPP will not allow the development to meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace [^3].
+NHG says that it is submitting a 'standalone' application because it cannot complete the scheme within the OPP masterplan timescale.  NHG also say that the OPP will not allow the development to meet the Mayor's policy requirement, that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace [^3].
 
 ![](img/22_ap_2226-design_and_access_statement__part_1_.-3521527.pdf-adobe-acrobat-reader-64-bit-09_11_2024-15_51_51.png "Aylesbury regeneration development phases")
 

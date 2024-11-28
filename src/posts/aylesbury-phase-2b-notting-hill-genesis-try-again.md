@@ -19,7 +19,7 @@ The redevelopment of Phase 2B entails the demolition of 241-471 Wendover, Padbur
 
 #### NHG abandons the OPP
 
-The application also remains a 'standalone' or 'drop-in' application, outside the parameters of the Outline Planning Permission (OPP).  NHG already holds this permission for Phase 2b, Phase 2c, Phase 3 and Phase 4. 
+The application also remains 'drop-in' or 'standalone' application, outside the parameters of the Outline Planning Permission (OPP).  NHG already holds this permission for Phase 2b, Phase 2c, Phase 3 and Phase 4. 
 
 NHG says that it is submitting a 'standalone' application because it cannot complete the scheme within the OPP masterplan timescale.  NHG also say that the OPP will not allow the development to meet the Mayor's policy requirement, that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace [^3].
 
@@ -27,7 +27,7 @@ NHG says that it is submitting a 'standalone' application because it cannot comp
 
 #### More or less social rented housing?
 
-NHG claim that the updated 'stand-alone' application improves the amount of social rented housing, when measured by habitable room and floorspace, over both the Outline Planning Permission and the scheme approved by the planning committee in January 2023.  This is despite the loss of 154 social rent units, measured against what will be demolished; NHG concedes this loss, but say *'due to the larger number of family units (of 3+ beds), the number of habitable rooms has increased'* [^4]. 
+NHG claim that the updated 'standalone' application improves the amount of social rented housing, when measured by habitable room and floorspace, over both the Outline Planning Permission and the scheme approved by the planning committee in January 2023.  This is despite the loss of 154 social rent units, measured against what will be demolished; NHG concedes this loss, but say *'due to the larger number of family units (of 3+ beds), the number of habitable rooms has increased'* [^4]. 
 
 However, the amount of family-housing proposed by NHG fails to meet Southwark's policy requirements, on at least three measures;
 

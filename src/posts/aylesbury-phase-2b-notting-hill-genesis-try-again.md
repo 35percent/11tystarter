@@ -53,7 +53,7 @@ The AAAP notes that *'Increasing the proportion of homes suitable for families w
 
 #### Four reasons not to give Phase 2b planning permission
 
-On the face of it a proposal for 640 new homes, with relatively generous proportions of affordable and social rented housing is attractive. But there are at least three reasons why planning permission should not be given; 
+On the face of it a proposal for 640 new homes, with relatively generous proportions of affordable and social rented housing is attractive. But there are at least four reasons why planning permission should not be given; 
 
 * There will be a net loss of social rented housing, at a time [when the housing waiting list stands at over 17,500 households](https://moderngov.southwark.gov.uk/documents/s121500/Appendix%201%20Affordable%20Housing%20SPD.pdf)
 * Notting Hill Genesis proposals fail to meet Southwark's minimum requirements for larger, family homes 

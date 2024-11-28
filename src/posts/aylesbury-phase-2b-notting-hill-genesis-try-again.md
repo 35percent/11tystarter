@@ -65,8 +65,8 @@ L&Q have provided 148 homes on the Early Phases.  Southwark has pledged to deliv
 
 On the face of it a proposal for 640 new homes, with relatively generous proportions of affordable and social rented housing looks attractive. But there are at least three reasons why planning permission should not be given; 
 
-* NHG has only delivered 79 social rented homes in the nine years since they got the Outline Planning Permission
-* NHG is not providing any houses on the 'new' Aylesbury, despite their attested benefits for families and the promises made to residents
+* There will be a net loss of social rented housing 
+* No houses on the 'new' Aylesbury, despite their attested benefits for families and the promises made to residents
 * Both the AAAP and the Outline Planning Permission have been abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration
 
 [^1] Planning Statement Addendum, Oct 2024, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>; Public consultation June 2024, exhibition board 9 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
@@ -88,7 +88,3 @@ On the face of it a proposal for 640 new homes, with relatively generous proport
 [^9] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Foreword pg 3; The vision and plan objectives 1.6.4
 
 [^10] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Types of Home, 3.5.3, 3.5.4
-
-[^11] Aylesbury Now <http://www.aylesburynow.london/regeneration/planning-information/plot-18>
-
-[^12] Aylesbury s106 Agreement (FDS & Outline Development),14/AP/3843, 14/AP/3844, Second Deed of Variation, 17 April 2023, Third Deed of Variation, 17 April 2023

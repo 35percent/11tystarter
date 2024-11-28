@@ -5,7 +5,7 @@ date: 2024-11-09T11:12:27.174Z
 ---
 Notting Hill Genesis (NHG) have updated their [planning application for Phase 2B](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300) of the Aylesbury regeneration.  The new proposal increases the number of homes from 617 to 640, with an increase in the number of social rented homes from 163 to 173 and of intermediate part-buy/part-let homes from 82 to 89.  The number of private homes has been increased to 378 from 369.
 
-There will also be either one or two additional floors on six of the eleven buildings. All the blocks are between five and ten storeys, with one tower of 26 storeys, which remains the same height [^1].
+There will also be an additional floor on seven of the eleven buildings. All the blocks are between five and ten storeys, with one tower of 26 storeys, which remains the same height [^1].
 
 The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022.  This was approved by Southwark's planning committee in January 2023, but not concluded by a legal agreement.  NHG say that the updated application was necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
 

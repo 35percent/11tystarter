@@ -39,19 +39,19 @@ NHG also claim that the number of social rented habitable rooms will increase ov
 
 #### No houses
 
-There will also be no houses on Phase 2B, although the number of maisonettes will be greater than that required by policy (20% against 17%) \[REF - DAS Pt 1; PS].
+There will also be no houses on Phase 2B, although the number of maisonettes will be greater than that required by policy (20% against 17%) [^6].
 
-![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png)
+![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "From Aylesbury Estate Regeneration Phase 2B Planning Application Design and Access Statement May 2022")
 
-This is a significant departure from the original Aylesbury plans.  The now discarded Aylesbury Area Action Plan 2010 (AAAP), emphasised the benefits of houses as a type of family home.  The AAAP defines a house as a *'self contained residential dwelling. Houses can be detached, semi detached or terraced'* [^6] and promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^7].  
+This is a significant departure from the original Aylesbury plans.  The now discarded Aylesbury Area Action Plan 2010 (AAAP), emphasised the benefits of houses as a type of family home.  The AAAP defines a house as a *'self contained residential dwelling. Houses can be detached, semi detached or terraced'* [^7] and promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^8].  
 
-The AAAP notes that *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and *'Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^8].
+The AAAP notes that *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and *'Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^9].
 
 #### £0 for the land, but still not financially viable
 
 The updated proposal is larger than the original in response to updated fire regulations which require changes, such as extra staircases in four of the blocks, which reduce the amount of residential floorspace.  Extra floors have been added to compensate, taking the total number of new homes to 640.
 
-NHG say that this is *'to ensure the scheme viably delivers the required affordable homes'* [^9].  An updated viability assessment for the scheme concludes the opposite, saying *'the appraisals generate a viability deficit of c. £24.16m'.*  It continues, saying that *'if the deficit were to be absorbed by the Applicant's target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This is the Gross Development Value on the combined worth of the private and affordable housing and commercial premises.  In cash terms, this means that, even though the scheme is deemed unviable, it will make a profit of £13.51m (5.5% on a GDV of £258.76m).  
+NHG say that this is *'to ensure the scheme viably delivers the required affordable homes'* [^10].  An updated viability assessment for the scheme concludes the opposite, saying *'the appraisals generate a viability deficit of c. £24.16m'.*  It continues, saying that *'if the deficit were to be absorbed by the Applicant's target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This is the Gross Development Value on the combined worth of the private and affordable housing and commercial premises.  In cash terms, this means that, even though the scheme is deemed unviable, it will make a profit of £13.51m (5.5% on a GDV of £258.76m).  
 
 The assessment makes a cautious caveat that should both sales values and costs improve by around 5%, then the scheme would become viable, which means it could generate a much higher profit of 14.55% of GDV.  The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing has been paid for the land.
 
@@ -95,10 +95,12 @@ On the face of it a proposal for 640 new homes, with relatively generous proport
 
 [^5] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf)  para 128.  A habitable room is one that is used for living, sleeping, eating or cooking (not a bathroom).  The figures used to calculate the average number of habitable rooms for social housing on the whole estate come from the [Officer's report 14/AP/3844, 23 April 2015](https://moderngov.southwark.gov.uk/documents/s53361/Report.pdf), para 89.
 
-[^6] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Glossary, pg 178
+[^6] Planning Application Design and Access Statement, May 2022, ref number.  Thsi can be found via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
-[^7] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Foreword pg 3; The vision and plan objectives 1.6.4
+[^7] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Glossary, pg 178
 
-[^8] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.3, 3.5.4
+[^8] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Foreword pg 3; The vision and plan objectives 1.6.4
 
-[^9] Planning Statement Addendum, Oct 2024, 3.9, 22/AP/226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9
+[^9] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.3, 3.5.4
+
+[^10] Planning Statement Addendum, Oct 2024, 3.9, 22/AP/226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9

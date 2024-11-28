@@ -49,8 +49,6 @@ This is a significant departure from the original Aylesbury plans.  The now disc
 
 The AAAP notes that *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and *'Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^9].
 
-![](img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png)
-
 #### NHG's poor record - 79 social rented homes in nine years
 
 NHG has had the Outline Planning Permission for remainder of the Aylesbury regeneration since 2015, but after nine years has yet to fully complete a single site. Plot 18 is almost finished, but while it includes a very welcome new library and health facility, it is relatively small in terms of housing, having just 122 new homes. 

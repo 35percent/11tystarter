@@ -25,7 +25,10 @@ NHG says that it is submitting a standalone application because it cannot comple
 
 #### More or less social rented housing?
 
-NHG claim that the updated 'stand-alone' application improves the amount of social rented housing, when measured by habitable room and floorspace, over both the Outline Planning Permission and the scheme approved by the planning committee in January 2023.  This is despite the loss of 154 social rent units, measured against what will be demolished.  NHG say that this because more of the new homes will be bigger family-sized units.  
+NHG claim that the updated 'stand-alone' application improves the amount of social rented housing, when measured by habitable room and floorspace, over both the Outline Planning Permission and the scheme approved by the planning committee in January 2023.  This is despite the loss of 154 social rent units, measured against what will be demolished; NHG concedes this loss, but say that  that there will be a loss of in say that this because more of the new homes will be bigger family-sized units. 
+
+7.19 While the quantity of units is reduced in comparison with the existing, 'due to the larger number of family
+units (of 3+ beds), the number of habitable rooms has increased' [^X]. 
 
 However, the amount of family-housing proposed by NHG fails to meet Southwark's policy requirements, on at least three measures;
 
@@ -74,6 +77,8 @@ On the face of it a proposal for 640 new homes, with relatively generous proport
 [^2] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 31; Existing Site Plan - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
 [^3] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 23
+
+[^X] Planning Statement Addendum, Oct 2024, Section 7, Affordable Housing Provision, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
 [^4] Planning Statement Addendum, Oct 2024, 6.35, 6.36, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 

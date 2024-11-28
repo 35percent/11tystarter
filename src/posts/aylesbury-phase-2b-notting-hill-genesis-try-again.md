@@ -58,9 +58,7 @@ On the face of it a proposal for 640 new homes, with relatively generous proport
 * There will be a net loss of social rented housing, at a time [when the housing waiting list stands at over 17,500 households](https://moderngov.southwark.gov.uk/documents/s121500/Appendix%201%20Affordable%20Housing%20SPD.pdf)
 * Notting Hill Genesis proposals fail to meet Southwark's minimum requirements for larger, family homes 
 * Southwark Council promised that nearly a quarter of the new homes on the Aylesbury would be houses, because they are good for families and that is what residents wanted - NHG are proposing **zero houses** for Phase 2B.
-* The [Aylesbury Area Action Plan was discarded](https://www.35percent.org/posts/2021-05-04-southwark-rips-up-aylesbury-objectives/) in 2021 and now the Outline Planning Permission is being abandoned.  Southwark and NHG no longer have any coherent plan for the remainder of the regeneration and approving the same 'standalone 
-
-it must be possible for Notting Hill Genesis 
+* The [Aylesbury Area Action Plan was discarded](https://www.35percent.org/posts/2021-05-04-southwark-rips-up-aylesbury-objectives/) in 2021 and now the Outline Planning Permission is being abandoned for Phase 2B.  Without these, Southwark and NHG no longer have any coherent plan for the remainder of the regeneration.  Approving the same 'standalone' application that has already occassioned a successful legal challange puts the future of the regeneration, under the OPP, into futher doubt. 
 
 [^1] Planning Statement Addendum, Oct 2024, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>; Public consultation June 2024, exhibition board 9 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 

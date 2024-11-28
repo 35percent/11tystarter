@@ -51,12 +51,14 @@ The AAAP notes that *'Increasing the proportion of homes suitable for families w
 
 #### Four reasons not to give Phase 2b planning permission
 
-On the face of it a proposal for 640 new homes, with relatively generous proportions of affordable and social rented housing looks attractive. But there are at least three reasons why planning permission should not be given; 
+On the face of it a proposal for 640 new homes, with relatively generous proportions of affordable and social rented housing is attractive. But there are at least three reasons why planning permission should not be given; 
 
-* There will be a net loss of social rented housing 
-* There will not be enough family housing
-* No houses on the 'new' Aylesbury, despite their attested benefits for families and the promises made to residents
-* Both the AAAP and the Outline Planning Permission have been abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration
+* There will be a net loss of social rented housing, at a time [when the housing waiting list stands at over 17,500 households](https://moderngov.southwark.gov.uk/documents/s121500/Appendix%201%20Affordable%20Housing%20SPD.pdf)
+* Notting Hill Genesis proposals fail to meet Southwark's minimum requirements for larger, family homes 
+* Southwark Council promised that nearly a quarter of the new homes on the Aylesbury would be houses, becuase they are good for families and that is what residents wanted - NHG are proposing **zero houses** for Phase 2B.
+* First the Aylesbury Area Action Plan was discarded and now the Outline Planning Permission are being abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration
+
+it must be possible for Notting Hill Genesis 
 
 [^1] Planning Statement Addendum, Oct 2024, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>; Public consultation June 2024, exhibition board 9 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 

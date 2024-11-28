@@ -7,7 +7,7 @@ Notting Hill Genesis (NHG) have updated their [planning application for Phase 2B
 
 There will also be either one or two additional floors on six of the eleven buildings. All the blocks are between five and ten storeys, with one tower of 26 storeys, which remains the same height [^1].
 
-The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022 and approved by Southwark's planning committee in January 2023, but not concluded by a legal agreement.  NHG say that the updated application was necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
+The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022.  This was approved by Southwark's planning committee in January 2023, but not concluded by a legal agreement.  NHG say that the updated application was necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
 
 ![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-16_32_16.png)
 
@@ -60,8 +60,6 @@ The assessment makes a cautious caveat that should both sales values and costs i
 The updated viability assessment has been submitted to take account of the physical changes to the scheme, such as the second staircases.  A comparison with the original assessment shows that NHG's profit level appears to have fallen from 12.27% (GDV £244.44m), to 5.5% (GDV of £258.76m) - in cash terms falling from £29.94m to £13.51m, a drop of £16.43m.
 
 The viability assessments also show, though, that the Mayor's GLA Affordable Housing Grant has increased from £28.79m to £42.51m - an increase of £13.72m, leaving the net drop at £2.71m.
-
-
 
 ![](img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png)
 

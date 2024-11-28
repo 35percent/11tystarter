@@ -15,3 +15,5 @@ NHG also had planning permission for the First Development Site (FDS), also now 
 NHG's Planning Statement Addendum for Phase 2B has details of the amount of social rented housing each stage of the regeneration will provide.  From this and from changes to the s106 agreement between Southwark and NHG for the the FDS, we can see that most of the social housing so far has been provided by L&Q and Southwark Council [^12].  
 
 L&Q have provided 148 homes on the Early Phases.  Southwark has pledged to deliver 581 council homes on the FDS; this equals all the housing (private, intermediate and social-rented) on FDS sites A & B, acquired in 2018.  This is not noted in the Strategy, which just gives the figure of 301 social rented units.  Nonetheless this far outstrips NHG's contribution, which is just **79 social rented homes** - twenty-three on Plot 18, 56 on FDS C.
+
+[^12] Aylesbury s106 Agreement (FDS & Outline Development),14/AP/3843, 14/AP/3844, Second Deed of Variation, 17 April 2023, Third Deed of Variation, 17 April 2023

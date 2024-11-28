@@ -71,7 +71,7 @@ On the face of it a proposal for 640 new homes, with relatively generous proport
 
 [^1] Planning Statement Addendum, Oct 2024, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>; Public consultation June 2024, exhibition board 9 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 
-[^2] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 31
+[^2] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 31; Existing Site Plan - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
 [^3] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 23
 

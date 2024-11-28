@@ -9,7 +9,7 @@ There will also be either one or two additional floors on six of the eleven buil
 
 The updated application retains the same reference number, 22/AP/2226, as the original application, made in June 2022.  This was approved by Southwark's planning committee in January 2023, but not concluded by a legal agreement.  NHG say that the updated application was necessary because of new fire safety requirements, including the need to add second staircases to four of the blocks.
 
-![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-16_32_16.png)
+![](img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png "Updated Aylesbury Phase 2B scheme")
 
 #### Over 150 social rented homes will be lost
 
@@ -21,7 +21,7 @@ The application also remains a 'standalone' or 'drop-in' application, outside th
 
 NHG says that it is submitting a standalone application because it cannot complete the scheme within the OPP masterplan timescale.  NHG also say that the OPP will not allow the development to meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace [^3].
 
-![](img/22_ap_2226-design_and_access_statement__part_1_.-3521527.pdf-adobe-acrobat-reader-64-bit-09_11_2024-15_51_51.png)
+![](img/22_ap_2226-design_and_access_statement__part_1_.-3521527.pdf-adobe-acrobat-reader-64-bit-09_11_2024-15_51_51.png "Aylesbury regeneration development phases")
 
 #### More or less social rented housing?
 
@@ -43,7 +43,7 @@ NHG also claim that the number of social rented habitable rooms will increase ov
 
 There will also be no houses on Phase 2B, although the number of maisonettes will be greater than that required by policy (20% against 17%) [^6].
 
-![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "From Aylesbury Estate Regeneration Phase 2B Planning Application Design and Access Statement May 2022")
+![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "From Aylesbury Phase 2B Planning Application Design and Access Statement May 2022")
 
 This is a significant departure from the original Aylesbury plans.  The now discarded Aylesbury Area Action Plan 2010 (AAAP), emphasised the benefits of houses as a type of family home.  The AAAP defines a house as a *'self contained residential dwelling. Houses can be detached, semi detached or terraced'* [^7] and promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^8].  
 
@@ -71,17 +71,17 @@ On the face of it a proposal for 640 new homes, with relatively generous proport
 * NHG is not providing any houses on the 'new' Aylesbury, despite their attested benefits for families and the promises made to residents
 * Both the AAAP and the Outline Planning Permission have been abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration;
 
-[^1] Planning Statement Addendum, Oct 2024, ref number 22/AP/2226.  This can be found via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
+[^1] Planning Statement Addendum, Oct 2024, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
 [^2] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 31
 
 [^3] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) para 23
 
-[^4] Planning Statement Addendum, Oct 2024, 6.35, 6.36, 22/AP/226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
+[^4] Planning Statement Addendum, Oct 2024, 6.35, 6.36, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
 [^5] [Officer's report 22/AP/2226, 17 Jan 2023](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf)  para 128.  A habitable room is one that is used for living, sleeping, eating or cooking (not a bathroom).  The figures used to calculate the average number of habitable rooms for social housing on the whole estate come from the [Officer's report 14/AP/3844, 23 April 2015](https://moderngov.southwark.gov.uk/documents/s53361/Report.pdf), para 89.
 
-[^6] Planning Application Design and Access Statement, May 2022, ref number.  Thsi can be found via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
+[^6] Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
 [^7] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Glossary, pg 178
 

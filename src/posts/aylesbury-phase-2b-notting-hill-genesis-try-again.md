@@ -37,7 +37,7 @@ One measure is met - a minimum of 7% 4-bed homes is required and 7.66% is propos
 
 There is no ready information about the number of 2 bed/3 person and 2 bed/4 person homes, nor if there will be any studio flats (a maximum of 3% are allowed as private housing [^5].
 
-While NHG claim that the number of social rented habitable rooms will increase overall, they do not give a baseline figure for what already exists, against which to measure this claim.  The [January 2023 planning committee report](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) says that there will be an uplift of 254 habitable rooms, but calculates this on an implausibly low figure of 484 habitable rooms for the existing 327 council homes.  This would only be an average of 1.48 hb rm per dwelling, when the average for social housing across the whole estate is 3.06 hb rm per dwelling [^6]. 
+Also, while NHG claim that the number of social rented habitable rooms will increase overall, they do not give a baseline figure for what already exists, against which to measure this claim.  The [January 2023 planning committee report](https://moderngov.southwark.gov.uk/documents/s111174/Report%20-%20Aylesbury%20Phase%202B.pdf) says that there will be an uplift of 254 habitable rooms, but calculates this on an implausibly low figure of 484 habitable rooms for the existing 327 council homes.  This would only be an average of 1.48 hb rm per dwelling, when the average for social housing across the whole estate is 3.06 hb rm per dwelling [^6]. 
 
 #### No houses
 

@@ -21,7 +21,7 @@ The redevelopment of Phase 2B entails the demolition of 241-471 Wendover, Padbur
 
 The application also remains 'drop-in' or 'standalone' application, outside the parameters of the Outline Planning Permission (OPP).  NHG already holds this permission for Phase 2b, Phase 2c, Phase 3 and Phase 4. 
 
-NHG says that it is submitting a 'standalone' application because it cannot complete the scheme within the OPP masterplan timescale.  NHG also say that the OPP will not allow the development to meet the Mayor's policy requirement, that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace [^3].
+NHG says that it is submitting a 'standalone' application because it cannot complete the scheme within the OPP masterplan timescale.  NHG also say that the OPP will not allow the development to meet the Mayor's policy requirement that demolished affordable housing must be replaced by an equivalent amount of affordable housing floorspace [^3].
 
 ![](img/22_ap_2226-design_and_access_statement__part_1_.-3521527.pdf-adobe-acrobat-reader-64-bit-09_11_2024-15_51_51.png "Aylesbury regeneration development phases")
 

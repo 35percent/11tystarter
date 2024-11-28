@@ -23,7 +23,7 @@ NHG says that it is submitting a standalone application because it cannot comple
 
 #### More or less social rented housing?
 
-NHG claim that, unlike the OPP, the 'stand-alone' application will increase the amount of social rent and affordable floorspace, despite the loss of 154 social rent units.  NHG say that this because more of the new homes will be bigger family-sized units.  
+NHG claim that, unlike the Outline Planning Permission, the 'stand-alone' application will increase the amount of social rent and affordable floorspace, despite the loss of 154 social rent units.  NHG say that this because more of the new homes will be bigger family-sized units.  
 
 However, the amount of family-housing proposed by NHG fails to meet Southwark's policy requirements, on at least three measures;
 

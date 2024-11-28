@@ -57,7 +57,7 @@ NHG also had planning permission for the First Development Site (FDS), also now 
 
 NHG's Planning Statement Addendum for Phase 2B has details of the amount of social rented housing each stage of the regeneration will provide.  From this we can see that most of the social housing so far has been provided by L&Q and Southwark Council.  
 
-L&Q have provided 148 homes on the Early Phases.  Southwark has pledged to deliver 581 council homes on the FDS; this equals all the housing (private, intermediate and social) on FDS sites A & B, acquired in 2018.  This is not noted in the Strategy, which just gives the figure of 301 social rented units.  Nonetheless this far outstrips NHG's contribution, which is is just **79 social rented homes** - twenty three on Plot 18, 56 on FDS C.
+L&Q have provided 148 homes on the Early Phases.  Southwark has pledged to deliver 581 council homes on the FDS; this equals all the housing (private, intermediate and social) on FDS sites A & B, acquired in 2018.  This is not noted in the Strategy, which just gives the figure of 301 social rented units.  Nonetheless this far outstrips NHG's contribution, which is is just **79 social rented homes** - twenty-three on Plot 18, 56 on FDS C.
 
 ![](img/table_providers_of_social_rented_homes_121124-word-21_11_2024-09_25_58.png "35% Campaign table of providers of social rented housing on Aylesbury.")
 
@@ -67,7 +67,7 @@ On the face of it a proposal for 640 new homes, with relatively generous proport
 
 * NHG has only delivered 79 social rented homes in the nine years since they got the Outline Planning Permission
 * NHG is not providing any houses on the 'new' Aylesbury, despite their attested benefits for families and the promises made to residents
-* Both the AAAP and the Outline Planning Permission have been abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration;
+* Both the AAAP and the Outline Planning Permission have been abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration
 
 [^1] Planning Statement Addendum, Oct 2024, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 

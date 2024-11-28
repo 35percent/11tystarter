@@ -51,7 +51,7 @@ The AAAP notes that *'Increasing the proportion of homes suitable for families w
 
 #### NHG's poor record - 79 social rented homes in nine years
 
-NHG has had the Outline Planning Permission for remainder of the Aylesbury regeneration since 2015, but after nine years has yet to fully complete a single site. Plot 18 is almost finished, but while it includes a very welcome new library and health facility, it is relatively small in terms of housing, having just 122 new homes. 
+NHG has had the Outline Planning Permission for remainder of the Aylesbury regeneration since 2015, but after nine years has yet to fully complete a single site. Plot 18 is almost finished, but while it includes a very welcome new library, health and early years facilities, it is relatively small in terms of housing, having just 122 new homes [^11]
 
 NHG also had planning permission for the First Development Site (FDS), also now almost finished, but most of this was taken over by [Southwark Council in 2018](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/).  Both Plot 18 and the FDS come several years after the fully completed sites Site 1a and Site 7, both built by L&Q.
 
@@ -88,3 +88,5 @@ On the face of it a proposal for 640 new homes, with relatively generous proport
 [^9] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Foreword pg 3; The vision and plan objectives 1.6.4
 
 [^10] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Types of Home, 3.5.3, 3.5.4
+
+[^11] Aylesbury Now <http://www.aylesburynow.london/regeneration/planning-information/plot-18>

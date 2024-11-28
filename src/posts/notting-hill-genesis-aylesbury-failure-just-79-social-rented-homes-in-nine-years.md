@@ -16,4 +16,6 @@ NHG's Planning Statement Addendum for Phase 2B has details of the amount of soci
 
 L&Q have provided 148 homes on the Early Phases.  Southwark has pledged to deliver 581 council homes on the FDS; this equals all the housing (private, intermediate and social-rented) on FDS sites A & B, acquired in 2018.  This is not noted in the Strategy, which just gives the figure of 301 social rented units.  Nonetheless this far outstrips NHG's contribution, which is just **79 social rented homes** - twenty-three on Plot 18, 56 on FDS C.
 
+![](img/table_providers_of_social_rented_homes_121124-word-28_11_2024-14_27_04.png)
+
 [^1] Aylesbury s106 Agreement (FDS & Outline Development),14/AP/3843, 14/AP/3844, Second Deed of Variation, 17 April 2023, Third Deed of Variation, 17 April 2023

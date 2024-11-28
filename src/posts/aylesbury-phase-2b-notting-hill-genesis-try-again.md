@@ -25,7 +25,7 @@ NHG says that it is submitting a standalone application because it cannot comple
 
 #### More or less social rented housing?
 
-NHG claim that, unlike the Outline Planning Permission, the 'stand-alone' application will increase the amount of social rent and affordable floorspace, despite the loss of 154 social rent units.  NHG say that this because more of the new homes will be bigger family-sized units.  
+NHG claim that the updated 'stand-alone' application improves the amount of social rented housing, when measured by habitable room and floorspace, over both the Outline Planning Permission and the scheme approved by the planning committee in January 2023.  This is despite the loss of 154 social rent units, measured against what will be demolished.  NHG say that this because more of the new homes will be bigger family-sized units.  
 
 However, the amount of family-housing proposed by NHG fails to meet Southwark's policy requirements, on at least three measures;
 

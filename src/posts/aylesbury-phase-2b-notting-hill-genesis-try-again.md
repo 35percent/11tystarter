@@ -43,7 +43,7 @@ Also, while NHG claim that the number of social rented habitable rooms will incr
 
 There will also be no houses on Phase 2B, although the number of maisonettes will be greater than that required by policy (20% against 17%) [^7].
 
-![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "From Aylesbury Phase 2B Planning Application Design and Access Statement May 2022")
+![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "From Phase 2B Planning Application Design and Access Statement May 2022")
 
 This is a significant departure from the original Aylesbury plans.  The now discarded Aylesbury Area Action Plan 2010 (AAAP), emphasised the benefits of houses as a type of family home.  The AAAP defines a house as a *'self contained residential dwelling. Houses can be detached, semi detached or terraced'* [^8] and promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^9].  
 

@@ -91,4 +91,4 @@ On the face of it a proposal for 640 new homes, with relatively generous proport
 
 [^11] Aylesbury Now <http://www.aylesburynow.london/regeneration/planning-information/plot-18>
 
-[^12] Second Deed of Variation, 17 April 2023, Third Deed of Variation, 17 April 2023
+[^12] Aylesbury s106 Agreement (FDS & Outline Development),14/AP/3843, 14/AP/3844, Second Deed of Variation, 17 April 2023, Third Deed of Variation, 17 April 2023

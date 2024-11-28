@@ -13,7 +13,7 @@ The updated application retains the same reference number, 22/AP/2226, as the or
 
 #### Over 150 social rented homes will be lost
 
-Phase 2B entails the demolition of 171- 241 Wendover, Padbury, Winslow and Ravensbourne, with the loss of 373 homes, of which 327 remain council housing, giving a net loss of 154 social rented homes, if NHG's proposals are approved [^2].
+Phase 2B entails the demolition of 241-471 Wendover, Padbury, Winslow and Ravensbourne, with the loss of 373 homes, of which 327 remain council housing, giving a net loss of 154 social rented homes, if NHG's proposals are approved [^2].
 
 #### NHG abandons the OPP
 

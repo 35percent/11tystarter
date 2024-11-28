@@ -67,9 +67,9 @@ L&Q have provided 148 homes on the Early Phases.  Southwark has pledged to deliv
 
 On the face of it a proposal for 640 new homes, with relatively generous proportions of affordable and social rented housing looks attractive. But there are at least three reasons why planning permission should not be given; 
 
-* NHG has only delivered 79 social rented homes in the nine years since they got the Outline Planning Permission; less than the number knocked down.
+* NHG has only delivered 79 social rented homes in the nine years since they got the Outline Planning Permission
 * NHG is not providing any houses on the 'new' Aylesbury, despite their attested benefits for families and the promises made to residents
-* Both the AAAP and OPP have been abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration;
+* Both the AAAP and the Outline Planning Permission have been abandoned, so NHG no longer has any coherent plan for the remainder of the regeneration;
 
 [^1] Planning Statement Addendum, Oct 2024, ref number 22/AP/2226.  This can be found via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 

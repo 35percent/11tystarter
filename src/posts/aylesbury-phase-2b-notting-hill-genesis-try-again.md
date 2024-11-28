@@ -49,18 +49,6 @@ This is a significant departure from the original Aylesbury plans.  The now disc
 
 The AAAP notes that *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and *'Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^10].
 
-#### NHG's poor record - 79 social rented homes in nine years
-
-NHG has had the Outline Planning Permission for remainder of the Aylesbury regeneration since 2015, but after nine years has yet to fully complete a single site. Plot 18 is almost finished, but while it includes a very welcome new library, health and early years facilities, it is relatively small in terms of housing, having just 122 new homes [^11]
-
-NHG also had planning permission for the First Development Site (FDS), also now almost finished, but most of this was taken over by [Southwark Council in 2018](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/).  Both Plot 18 and the FDS come several years after the fully completed sites Site 1a and Site 7, both built by L&Q.
-
-NHG's Planning Statement Addendum for Phase 2B has details of the amount of social rented housing each stage of the regeneration will provide.  From this and from changes to the s106 agreement between Southwark and NHG for the the FDS, we can see that most of the social housing so far has been provided by L&Q and Southwark Council [^12].  
-
-L&Q have provided 148 homes on the Early Phases.  Southwark has pledged to deliver 581 council homes on the FDS; this equals all the housing (private, intermediate and social-rented) on FDS sites A & B, acquired in 2018.  This is not noted in the Strategy, which just gives the figure of 301 social rented units.  Nonetheless this far outstrips NHG's contribution, which is just **79 social rented homes** - twenty-three on Plot 18, 56 on FDS C.
-
-![](img/table_providers_of_social_rented_homes_121124-word-28_11_2024-13_38_47.png "35% Campaign table of providers of social rented housing on Aylesbury.")
-
 #### Three reasons not to give Phase 2b planning permission
 
 On the face of it a proposal for 640 new homes, with relatively generous proportions of affordable and social rented housing looks attractive. But there are at least three reasons why planning permission should not be given; 

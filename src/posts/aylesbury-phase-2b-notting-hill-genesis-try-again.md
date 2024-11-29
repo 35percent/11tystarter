@@ -14,9 +14,9 @@ NHG say now that an updated Phase 2B application is necessary because of new fir
 
 ![](https://35percent.org/img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png "Updated Aylesbury Phase 2B scheme")
 
-#### Over 150 social rented homes will be lost
+#### 184 social rented homes will be lost
 
-The redevelopment of Phase 2B entails the demolition of 241-471 Wendover, Padbury, Winslow and Ravensbourne, with the loss of 373 homes, of which 327 remain council housing, giving a net loss of 154 social rented homes, if NHG's proposals are approved [^2].
+The redevelopment of Phase 2B entails the demolition of 241-471 Wendover, Padbury, Winslow and Ravensbourne, with the loss of 373 homes, of which 327 remain council housing, giving a net loss of 154 social rented homes, if NHG's proposals are approved [^2]. This rises to 184 once we include the 30 maisonettes already demolished on the Foxcote block. 
 
 #### NHG abandons the OPP
 

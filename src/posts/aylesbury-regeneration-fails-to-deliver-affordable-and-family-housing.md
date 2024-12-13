@@ -66,7 +66,11 @@ NHG also claims that because more than 50% affordable housing has been provided 
 
 In the event NHG has maintained the level of affordable housing at 50% in its [updated its application](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) for Phase 2B, about half of Stage 2B/C, in line with it's outline planning permission. 
 
-But the Phase 2B application is a standalone or drop-in application, outside of the outline planning permission which NHG has held since 2015.  If this standalone application is approved, then there is a danger that the outline permission, which covers Phases 3 and 4 of the regeneration, and includes the 50% affordable housing requirement, could be invalidated.  This was a key reason in the decision of the High Court to quash NHG's attempt yo change the wording of the outline permission. 
+But the Phase 2B application is a standalone or drop-in application, outside of the outline planning permission which NHG has held since 2015.  If this standalone application is approved, then there is a danger that the outline permission, which covers Phases 3 and 4 of the regeneration, and includes the 50% affordable housing requirement, could be invalidated.  This was a key reason in the decision of the High Court to quash NHG's attempt yo change the wording of the outline permission.
+
+So, while there may be 50% affordable housing on Phase 2B, keeping it at this level for future phases will depend upon new planning applications, outside the outline permission.  
+
+Aside from this, NHG is depending upon Southwark's 'overprovision' on the FDS to achieve 50% affordable housing overall 
 
 This means that the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf)  justifying Plot 18's shortfalls on Plot 18, and the possibility of making these up, may not apply to Phase 2B, because the Strategy relates only to the outline permission[^11]. 
 

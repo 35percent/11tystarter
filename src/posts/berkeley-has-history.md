@@ -7,9 +7,11 @@ date: 2024-12-13T13:18:13.603Z
 
 <https://moderngov.southwark.gov.uk/mgAi.aspx?ID=3663>
 
-07-AP-1262  - not online
+07/AP/1262  - not online
 
 13/AP/0369 - <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?previousCaseType=Property&keyVal=ZZZV1IKBWR200&previousCaseNumber=PP11F100DT00I&previousCaseUprn=200003410709&activeTab=summary&previousKeyVal=PP11F100DT00J> - variation of social rent to affordable rent
+
+£125m loan for 3 schemes including Malt St, from Homes England (Construction Enquirer, c Feb 2024)
 
 22 May 2015
 

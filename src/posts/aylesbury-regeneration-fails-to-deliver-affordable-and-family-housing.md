@@ -58,13 +58,15 @@ The pattern of shortfalls is repeated for maisonettes/duplexes and larger 2-bed 
 
 Similarly, half of Plot 18's two-bed homes should be for four persons, giving 26 new two-bed/four-person homes, but instead there only 4 two-bed/four-person homes - a shortfall of twenty-two.  Again, NHG proposes making up the difference on the next Stage 2B/C, which would need to provide 205.4 two-bed/four-person homes.  
 
-### Will the shortfalls be made up?
+### Will the affordable housing shortfall be made up?
 
 It is clear that NHG has not provided both affordable and social rented housing and larger family-type housing on Plot 18.  NHG claims that it can do this under the terms of the s106 agreement with Southwark, covering the remainder of the Aylesbury regeneration and that the shortfall in the number of maisonettes/duplexes and two-bed/four person homes *'could'* be made up in future phases.
 
 In the case of affordable housing NHG also claims that because more than 50% affordable housing has been provided on the FDS (by Southwark, as council housing) then NHG can deliver less affordable housing on Stage 2B/C.  
 
-NHG has now  [updated its application](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) for the Aylesbury's next phase, Phase 2B.  It has proposed 50% affordable housing, in line with the not the reduced amount of 41.1% proposed in the Strategy for Stage 2B/2C.  Finally, NHG have proposed 179 two-bed/four-person homes for Phase 2B, [^9] which is 26.4 units short of the 205.4 needed over Stage 2B/C to make up for those lost on Plot 18 [^10] .  
+NHG has now  [updated its application](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) for the Aylesbury's next phase, Phase 2B.  It has proposed 50% affordable housing, in line with the not the reduced amount of 41.1% proposed in the Strategy for Stage 2B/2C.  Finally, NHG have proposed 179 two-bed/four-person homes for Phase 2B, [^9] which is 26.4 units short of the 205.4 needed over Stage 2B/C to make up for those lost on Plot 18 [^10] .
+
+### Will larger family housing shortfalls be made up?  
 
 There will be no houses on Phase 2B, although the number of maisonettes will be greater than that required by policy (20% against 17%) [^X].
 

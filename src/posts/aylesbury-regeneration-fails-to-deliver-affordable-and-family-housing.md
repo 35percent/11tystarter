@@ -68,7 +68,7 @@ NHG has now  [updated its application](https://www.35percent.org/posts/aylesbury
 
 ### Will larger family housing shortfalls be made up?  
 
-NHG has also not provided enough larger family-type housing on Plot 18.
+NHG has also not provided enough larger family-type housing on Plot 18.   NHG claims that it can do this under the terms of the s106 agreement with Southwark, covering the remainder of the Aylesbury regeneration and that the shortfall in the number of maisonettes/duplexes and two-bed/four person homes *'could'* be made up in future phases.
 
 There will be no houses on Phase 2B, although the number of maisonettes will be greater than that required by policy (20% against 17%) [^X].
 

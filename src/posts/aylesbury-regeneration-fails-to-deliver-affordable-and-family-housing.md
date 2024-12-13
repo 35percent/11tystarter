@@ -25,6 +25,8 @@ In the event only 82 habitable rooms on Plot 18 are affordable.  All 82 are soci
 
 On a rough calculation this is a shortfall of about 27 affordable homes and 15 social rent, if each dwelling had just over three habitable rooms [^2].
 
+### NHG - just 56 social rented homes
+
 [NHG's Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) justifies Plot 18's affordable housing shortfalls on the grounds that another part of the regeneration, the First Development Site (FDS), has an *'overprovision'* of affordable housing and that, taken together, the FDS and Plot 18 will have 60.9% affordable housing.  
 
 This justification though does not explain that Southwark Council is providing most of the affordable housing, not NHG.  While NHG's Strategy notes that two thirds of the FDS passed into Southwark Council's ownership [^3], it neglects to add that this also means most of the *'overprovision'* is coming from Southwark's [Council House Building Programme](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) 

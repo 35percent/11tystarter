@@ -23,7 +23,7 @@ NHG's planning permission requires that 50% of the housing should be affordable 
 
 In the event only 82 habitable rooms on Plot 18 are affordable.  All 82 are social rent, but this is still a fraction of the amount of both affordable and social rent that the planning permission requires.
 
-On a rough calculation this is a shortfall of about 27 affordable homes and 15 social rent, if each dwelling had just over three habitable rooms [^2].
+On a rough calculation this is a shortfall of about 27 affordable homes of which would be 15 social rent, if each dwelling had just over three habitable rooms [^2].
 
 ### NHG - just 56 social rented homes
 

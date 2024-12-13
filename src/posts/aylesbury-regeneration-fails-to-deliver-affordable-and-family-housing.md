@@ -19,7 +19,7 @@ The Strategy also says that no houses have been built, despite a requirement tha
 
 ### Plot 18's lost affordable and social rented homes
 
-NHG's planning permission requires that 50% of the housing should be affordable and that 75% of the affordable should be social rent.  The percentages are calculated from the number of habitable rooms (living room, bedroom, kitchen).  On this basis, 179 habitable rooms should be affordable and 134 of these should be social rent.
+NHG's outline planning permission requires that 50% of the housing should be affordable and that 75% of the affordable should be social rent.  The percentages are calculated from the number of habitable rooms (living room, bedroom, kitchen).  On this basis, 179 habitable rooms should be affordable and 134 of these should be social rent.
 
 In the event only 82 habitable rooms on Plot 18 are affordable.  All 82 are social rent, but this is still a fraction of the amount of both affordable and social rent that the planning permission requires.
 
@@ -64,7 +64,7 @@ It is clear that NHG has not provided both affordable and social rented housing 
 
 In the case of affordable housing NHG also claims that because more than 50% affordable housing has been provided on the FDS (by Southwark, as council housing) then NHG can deliver less affordable housing on Stage 2B/C.  
 
-NHG has now  [updated its application](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) for the Aylesbury's next phase, Phase 2B.  It has proposed 50% affordable housing, not the reduced amount of 41.1% proposed in the Strategy for Stage 2B/2C, but it is not clear that this will be enough to make up what has been lost on Plot 18.  Finally, NHG have proposed 179 two-bed/four-person homes for Phase 2B, [^9] which is 26.4 units short of the 205.4 needed over Stage 2B/C to make up for those lost on Plot 18 [^10] .  
+NHG has now  [updated its application](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) for the Aylesbury's next phase, Phase 2B.  It has proposed 50% affordable housing, in line with the not the reduced amount of 41.1% proposed in the Strategy for Stage 2B/2C.  Finally, NHG have proposed 179 two-bed/four-person homes for Phase 2B, [^9] which is 26.4 units short of the 205.4 needed over Stage 2B/C to make up for those lost on Plot 18 [^10] .  
 
 There will be no houses on Phase 2B, although the number of maisonettes will be greater than that required by policy (20% against 17%) [^X].
 

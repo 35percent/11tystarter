@@ -62,15 +62,17 @@ Similarly, half of Plot 18's two-bed homes should be for four persons, giving 26
 
 It is clear that NHG has not provided both affordable and social rented housing on Plot 18.  NHG claims that it can do this under the terms of the s106 agreement with Southwark, covering the remainder of the Aylesbury regeneration.
 
-NHG also claims that because more than 50% affordable housing has been provided on the FDS (by Southwark, as council housing) then NHG can deliver less affordable housing on Stage 2B/C.  
+NHG also claims that because more than 50% affordable housing has been provided on the FDS (by Southwark, as council housing) then NHG can deliver less affordable housing on Stage 2B/C (41.1% instead of 50%).  
 
-NHG has now  [updated its application](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) for the Aylesbury's next phase, Phase 2B.  It has proposed 50% affordable housing, in line with the not the reduced amount of 41.1% proposed in the Strategy for Stage 2B/2C.  Finally, NHG have proposed 179 two-bed/four-person homes for Phase 2B, [^9] which is 26.4 units short of the 205.4 needed over Stage 2B/C to make up for those lost on Plot 18 [^10] .
+In the event NHG has maintained the level of affordable housing at 50% in its [updated its application](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) for Phase 2B, about half of Stage 2B/C, in line with it's outline planning permission.   
 
 ### Will larger family housing shortfalls be made up?  
 
 NHG has also not provided enough larger family-type housing on Plot 18.   NHG claims that it can do this under the terms of the s106 agreement with Southwark, covering the remainder of the Aylesbury regeneration and that the shortfall in the number of maisonettes/duplexes and two-bed/four person homes *'could'* be made up in future phases.
 
 There will be no houses on Phase 2B, although the number of maisonettes will be greater than that required by policy (20% against 17%) [^X].
+
+ Finally, NHG have proposed 179 two-bed/four-person homes for Phase 2B, [^9] which is 26.4 units short of the 205.4 needed over Stage 2B/C to make up for those lost on Plot 18 [^10] .
 
 There is also only the vaguest acknowledgement of future phases, which are to be completed by *'2030 and beyond'.*
 

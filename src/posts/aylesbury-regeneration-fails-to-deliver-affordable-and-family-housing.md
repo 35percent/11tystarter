@@ -94,18 +94,18 @@ Although the NHG Strategy  has been with Southwark Council for over a year, it h
 
 NHG also wants to reduce the amount of affordable housing it provides, because Southwark has *'overprovided'* affordable housing on the FDS.  It is obvious that if it does this, then Southwark Council will have effectively subsidised NHG's affordable housing contribution, through its £200m purchase of FDS 'A' and 'B'.
 
-Southwark has questions to answer; 
+Southwark should also consider that;
+
+* NHG's record of housing delivery is poor.  It has held an outline planning permission since 2015, and has only completed the 122 homes on Plot 18 so far, of which only 22.9% are affordable.
+* Southwark Council had to take over FDS 'A' and 'B' itself, at a cost of over £200m.  NHG retains FDS 'C', which will provide just **56 social rent units**, 75 shared-ownership and 190 private homes [^12].
+* NHG and Southwark Council both [fell foul of a High Court ruling](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/) related to NHG's last Aylesbury planning application, for Phase 2B.  This 'standalone' or 'drop-in' application was for a denser development than would have been allowed under the outline permission NHG already held.  Notwithstanding this failure, NHG is persisiting with the same 'drop-in' application for Phase 2B.
+* NHG's commitment to actually delivering any future phases is a vague reference to '2030 and beyond'[^13].  Applications for Stage 2B/C, Stage 3 and Stage 4 under their outline permission must be submitted by Aug 2033 [^14].
+
+We think this leaves Southwark with several questions to answer; 
 
 * will it approve the NHG's housing delivery strategy and agree with them in deferring delivery of the affordable and family housing to future phases?
 * will it allow NHG to take advantage of the council housing Southwark is providing on the FDS, to reducing its own affordable housing contribution, after underdelivering on Plot 18?
 * in the light of NHG persisting with a 'standalone' application, is NHG willing and capable of delivering the Aylesbury regeneration as it has been promised?
-
-Southwark should consider that;
-
-* NHG's record of housing delivery is poor.  It has held an outline planning permission since 2015, and has only completed the 122 homes on Plot 18, of which only 22.9% are affordable.
-* Southwark Council had to take over FDS 'A' and 'B' itself, at a cost of over £200m.  NHG retains FDS 'C', which will provide just **56 social rent units**, 75 shared-ownership and 190 private homes [^12].
-* NHG and Southwark Council both [fell foul of a High Court ruling](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/) related to NHG's last Aylesbury planning application, for Phase 2B.  This 'standalone' or 'drop-in' application was for a denser development than would have been allowed under the outline permission NHG already held.  Notwithstanding this failure, NHG is persisiting with the same 'drop-in' application for Phase 2B.
-* NHG's commitment to actually delivering any future phases is a vague reference to '2030 and beyond'[^13].  Applications for Stage 2B/C, Stage 3 and Stage 4 under their outline permission must be submitted by Aug 2033 [^14].
 
 [^1] The Housing Delivery Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603.  
 

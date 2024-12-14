@@ -21,7 +21,7 @@ The Strategy also says that no houses have been built, despite a requirement tha
 
 NHG's outline planning permission requires that 50% of the housing should be affordable and that 75% of the affordable should be social rent.  The percentages are calculated from the number of habitable rooms (living room, bedroom, kitchen).  On this basis, 179 habitable rooms should be affordable and 134 of these should be social rent.
 
-In the event only 82 habitable rooms on Plot 18 are affordable.  All 82 are social rent, but this is still a fraction of the amount of both affordable and social rent that the planning permission requires.
+In the event only 82 habitable rooms on Plot 18 are affordable.  All 82 are social rent, but this is still short of the amount of both affordable and social rent that the planning permission requires.
 
 On a rough calculation this is a shortfall of about 27 affordable homes of which would be 15 social rent, if each dwelling had just over three habitable rooms [^2].
 
@@ -74,7 +74,7 @@ Aside from this, NHG is depending upon Southwark's 'overprovision' on the FDS to
 
 This means that the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf)  justifying Plot 18's shortfalls on Plot 18, and the possibility of making these up, may not apply to Phase 2B, because the Strategy relates only to the outline permission[^11]. 
 
-### Will larger family housing shortfalls be made up?  
+### Will larger family housing shortfalls be made up?
 
 NHG has also not provided enough larger family-type housing on Plot 18.   NHG claims that it can do this under the terms of the s106 agreement with Southwark, covering the remainder of the Aylesbury regeneration and that the shortfall in the number of maisonettes/duplexes and two-bed/four person homes *'could'* be made up in future phases.
 

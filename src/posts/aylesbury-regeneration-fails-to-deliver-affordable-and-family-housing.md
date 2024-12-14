@@ -64,11 +64,11 @@ It is clear that NHG has not provided enough affordable and social rented housin
 
 NHG also claims that because more than 50% affordable housing has been provided on the FDS (by Southwark, as council housing) then NHG can deliver less affordable housing on Stage 2B/C (41.1% instead of 50%).  
 
-In the event NHG has maintained the level of affordable housing at 50% in its [updated its application](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) for Phase 2B, part of Stage 2B/C, in line with it's outline planning permission. 
+In the event NHG has maintained the level of affordable housing at 50% in its [updated its application](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) for Phase 2B, part of Stage 2B/C, in line with it's outline planning permission. But this does not make 
 
 But the Phase 2B application is a standalone or drop-in application, outside of the outline planning permission.  If this standalone application is approved, then there is a danger that the outline permission, which covers Phases 3 and 4 of the regeneration, and includes the 50% affordable housing requirement, could be invalidated.  This was a key reason in the decision of the High Court to quash NHG's attempt yo change the wording of the outline permission.
 
-So, while there may be 50% affordable housing on Phase 2B, keeping it at this level for future phases will depend upon new planning applications, outside the outline permission.  
+So, while there may be 50% affordable housing on Phase 2B, keeping it at this level for future phases could depend upon new planning applications, setting aside the outline permission.  
 
 Aside from this, NHG is depending upon Southwark's 'overprovision' on the FDS to achieve 50% affordable housing overall 
 
@@ -106,7 +106,7 @@ Southwark should consider that;
 
 Finally, in the light of all the above, a big final question is whether anyone can have any confidence at all that NHG and Southwark Council are capable between them of delivering the Aylesbury regeneration, as promised. 
 
-[^1] The Housing Delivery Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603. 
+[^1] The Housing Delivery Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603.  Plot 18 is also referred to as Stage 2A.
 
 [^2] NHG's Strategy only gives the affordable housing figures as habitable rooms and percentages, not as units.  The [Aylesbury Now](http://www.aylesburynow.london/regeneration/planning-information/plot-18) webpage for Plot 18 says that it has 23 social rented units; with 82 habitable rooms, this gives an average of 3.57 hbrms per dwelling; this average been used to calculate the rounded-up unit figures.
 

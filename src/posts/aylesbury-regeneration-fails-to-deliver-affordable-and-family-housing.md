@@ -76,7 +76,9 @@ So, while there may be 50% affordable housing on Phase 2B, keeping it at this le
 
 As well as not providing enough affordable housing on Pot 18, NHG has also not provided enough larger family-type housing.  Again, NHG says that it can do this under the terms of the s106 agreement and that the shortfall in the number of maisonettes/duplexes and two-bed/four person homes *'could'* be made up in future phases.
 
-There will be no houses on Phase 2B, although the number of maisonettes will be greater than that required by policy (20% against 17%) [^X].
+But we can see that there will be no houses on Phase 2B either, although the number of maisonettes will be greater than that required by policy (20% against 17%) [^X].
+
+![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "Planning document showing 'no houses' on Phase 2B")
 
  Finally, NHG have proposed 179 two-bed/four-person homes for Phase 2B, [^9] which is 26.4 units short of the 205.4 needed over Stage 2B/C to make up for those lost on Plot 18 [^10] .
 

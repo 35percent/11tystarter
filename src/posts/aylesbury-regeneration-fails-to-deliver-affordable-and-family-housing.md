@@ -106,7 +106,7 @@ Southwark should consider that;
 
 Finally, in the light of all the above, a big final question is whether anyone can have any confidence at all that NHG and Southwark Council are capable between them of delivering the Aylesbury regeneration, as promised. 
 
-[^1] The Housing Delivery Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603.  Plot 18 is also referred to as Stage 2A.
+[^1] The Housing Delivery Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603.  
 
 [^2] NHG's Strategy only gives the affordable housing figures as habitable rooms and percentages, not as units.  The [Aylesbury Now](http://www.aylesburynow.london/regeneration/planning-information/plot-18) webpage for Plot 18 says that it has 23 social rented units; with 82 habitable rooms, this gives an average of 3.57 hbrms per dwelling; this average been used to calculate the rounded-up unit figures.
 

@@ -86,7 +86,7 @@ The amount of family-housing proposed for Phase 2B also fails to meet Southwark'
 
 One measure is met - a minimum of 7% 4-bed homes is required and 7.66% is proposed[^9] 
 
-![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "Planning document showing 'no houses' on Phase 2B")
+![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "NHG Planning document showing 'no houses' on Phase 2B")
 
 ### What we say
 
@@ -105,8 +105,7 @@ Southwark should consider that;
 * Southwark Council had to take over FDS 'A' and 'B' itself, at a cost of over £200m.  NHG retains FDS 'C', which will provide just **56 social rent units**, 75 shared-ownership and 190 private homes [^12].
 * NHG and Southwark Council both [fell foul of a High Court ruling](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/) related to NHG's last Aylesbury planning application, for Phase 2B.  This 'standalone' or 'drop-in' application was for a denser development than would have been allowed under the outline permission NHG already held.  Notwithstanding this failure, NHG is persisiting with the same 'drop-in' application for Phase 2B.
 * NHG's commitment to actually delivering any future phases is a vague reference to '2030 and beyond'[^13].  Applications for Stage 2B/C, Stage 3 and Stage 4 under their outline permission must be submitted by Aug 2033 [^14].
-
-Finally, in the light of all the above, a final question is whether anyone can have any confidence at all that NHG and Southwark Council are capable between them of delivering the Aylesbury regeneration, as promised. 
+* Finally, in the light of all the above, is NHG willing and capable of delivering the Aylesbury regeneration as it has been promised?
 
 [^1] The Housing Delivery Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603.  
 

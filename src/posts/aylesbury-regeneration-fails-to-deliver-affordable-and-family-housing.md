@@ -88,18 +88,16 @@ One measure is met - a minimum of 7% 4-bed homes is required and 7.66% is propos
 
 ![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "Planning document showing 'no houses' on Phase 2B")
 
- 
-
 ### What we say
 
-Although the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf)  has been with Southwark Council for over a year, [Southwark have not yet approved it](https://planning.southwark.gov.uk/online-applications/simpleSearchResults.do?action=firstPage).  Southwark's approval is needed before NHG can get any of the necessary further planning permissions, under the outline planning permission that they already have, to complete the Aylesbury's regeneration.  In their Strategy, NHG proposes taking advantage of clauses in the legal s106 agreement to deliver the family housing at later stages of the development. 
+Although the NHG Strategy  has been with Southwark Council for over a year, it has not yet been approved. This approval is needed before NHG can get any of the necessary further planning permissions, under their outline planning permission, to complete the Aylesbury's regeneration.  In their Strategy, NHG proposes taking advantage of clauses in the legal s106 agreement to deliver the family housing at later stages of the development. 
 
 NHG also wants to reduce the amount of affordable housing it provides, because Southwark has *'overprovided'* affordable housing on the FDS.  It is obvious that if it does this, then Southwark Council will have effectively subsidised NHG's affordable housing contribution, through its £200m purchase of FDS 'A' and 'B'.
 
 Southwark has at least two questions to answer; 
 
 * will it approve the NHG's housing delivery strategy and agree with them in deferring delivery of the affordable and family housing to future phases?
-* will it approve NHG reducing the affordable housing on Plot 18 (Stage 2A) and Stage 2B/C, below the 50% requirement?
+* will it allow NHG to take advantage of the council housing Southwark is providing on the FDS, to reducing its own affordable housing contribution, after underdelivering on Plot 18?
 
 Southwark should consider that;
 

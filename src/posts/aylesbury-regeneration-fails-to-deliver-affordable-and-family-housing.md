@@ -86,10 +86,6 @@ The amount of family-housing proposed for Phase 2B also fails to meet Southwark'
 
 One measure is met - a minimum of 7% 4-bed homes is required and 7.66% is proposed[^9] 
 
-which is 26.4 units short of the 205.4 needed over Stage 2B/C to make up for those lost on Plot 18 [^10] .
-
-There is also only the vaguest acknowledgement of future phases, which are to be completed by *'2030 and beyond'.*
-
 NHG will also making their planning application for Phase 2B as a 'standalone' or 'drop-in' application, outside of the outline planning permission for the regeneration of the whole estate, which they have held since 2015.  This means that the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf)  justifying Plot 18's shortfalls on Plot 18, and the possibility of making these up, may not apply to Phase 2B, because the Strategy relates only to the outline permission[^11].
 
 ![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "Planning document showing 'no houses' on Phase 2B")

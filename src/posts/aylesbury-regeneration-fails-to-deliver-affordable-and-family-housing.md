@@ -25,6 +25,8 @@ In the event only 82 habitable rooms on Plot 18 are affordable.  All 82 are soci
 
 On a rough calculation this is a shortfall of about 27 affordable homes of which would be 15 social rent, if each dwelling had just over three habitable rooms [^2].
 
+![](img/23_ap_2603-housing_delivery_strategy_fig_2_affordable-_housing_3727685.pdf_highlight_14_12_2024-11_32_29.png "Housing Delivery Strategy showing 22.9% affordable housing on Plot 18")
+
 ### NHG - just 56 social rented homes
 
 [NHG's Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) justifies Plot 18's affordable housing shortfalls on the grounds that another part of the regeneration, the First Development Site (FDS), has an *'overprovision'* of affordable housing and that, taken together, the FDS and Plot 18 will have 60.9% affordable housing.  

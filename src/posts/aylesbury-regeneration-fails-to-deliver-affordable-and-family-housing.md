@@ -86,8 +86,6 @@ The amount of family-housing proposed for Phase 2B also fails to meet Southwark'
 
 One measure is met - a minimum of 7% 4-bed homes is required and 7.66% is proposed[^9] 
 
-NHG will also making their planning application for Phase 2B as a 'standalone' or 'drop-in' application, outside of the outline planning permission for the regeneration of the whole estate, which they have held since 2015.  This means that the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf)  justifying Plot 18's shortfalls on Plot 18, and the possibility of making these up, may not apply to Phase 2B, because the Strategy relates only to the outline permission[^11].
-
 ![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "Planning document showing 'no houses' on Phase 2B")
 
  
@@ -129,8 +127,6 @@ Finally, in the light of all the above, a big final question is whether anyone c
 [^8] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.1
 
 [^9] [](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf)Planning Statement Addendum, Oct 2024, 6.35, 6.36, 22/AP/2226 - 6.56% x 3 bed, 7.66%x 4bed, and 1.72% x 5 bed. Find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
-
-[^10] Aylesbury Phase 2 Update June 2024 Display Boards 1, 8 9 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 
 [^X]   Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via [https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300](< Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>)
 

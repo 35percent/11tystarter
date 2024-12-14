@@ -101,12 +101,12 @@ Southwark has at least two questions to answer;
 
 Southwark should consider that;
 
-* NHG's record of housing delivery is poor.  It has held an outline planning permission for nearly ten years, since 2015, and has only completed the 122 homes on Plot 18, of which **only xx are social rented**, (CHECK s73 variation) with no shared ownership units, under half of the total affordable housing required.
+* NHG's record of housing delivery is poor.  It has held an outline planning permission since 2015, and has only completed the 122 homes on Plot 18, of which only 22.9% are affordable.
 * Southwark Council had to take over FDS 'A' and 'B' itself, at a cost of over £200m.  NHG retains FDS 'C', which will provide just **56 social rent units**, 75 shared-ownership and 190 private homes [^12].
-* NHG and Southwark Council both [fell foul of a High Court ruling](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/) related to NHG's last Aylesbury planning application, for Phase 2B.  This 'standalone' or 'drop-in' application was for a denser development than would have been allowed under the outline permission NHG already held.  Notwithstanding this failure, NHG have [begun consulting](http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626) on another, very similar 'drop-in' Phase 2B scheme.
+* NHG and Southwark Council both [fell foul of a High Court ruling](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/) related to NHG's last Aylesbury planning application, for Phase 2B.  This 'standalone' or 'drop-in' application was for a denser development than would have been allowed under the outline permission NHG already held.  Notwithstanding this failure, NHG is persisiting with the same 'drop-in' application for Phase 2B.
 * NHG's commitment to actually delivering any future phases is a vague reference to '2030 and beyond'[^13].  Applications for Stage 2B/C, Stage 3 and Stage 4 under their outline permission must be submitted by Aug 2033 [^14].
 
-Finally, in the light of all the above, a big final question is whether anyone can have any confidence at all that NHG and Southwark Council are capable between them of delivering the Aylesbury regeneration, as promised. 
+Finally, in the light of all the above, a final question is whether anyone can have any confidence at all that NHG and Southwark Council are capable between them of delivering the Aylesbury regeneration, as promised. 
 
 [^1] The Housing Delivery Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603.  
 

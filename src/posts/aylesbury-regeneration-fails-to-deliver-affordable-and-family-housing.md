@@ -37,7 +37,7 @@ Southwark Council [took over FDS 'A' and FDS 'B'](https://www.35percent.org/post
 
 ### Family housing promises forgotten
 
-NHG's also comes up short for houses on Plot 18.  About a fifth of the new homes should be houses, which would be around 23 homes, whereas the number built is zero.
+NHG's also comes up short for houses on Plot 18.  About a fifth of the new homes should be houses, which would be around 23 three-bed homes, whereas the number built is zero.
 
 Houses are distinguished from other types of dwelling, such as flats, and are particularly valued as family homes.  The now [discarded Aylesbury Area Action Plan 2010](https://www.35percent.org/posts/2021-05-04-southwark-rips-up-aylesbury-objectives/#:~:text=The%20Aylesbury%20Area%20Action%20Plan,the%20involvement%20of%20affected%20residents.) defines them as a *'self contained residential dwelling. Houses
 can be detached, semi detached or terraced'* [^5].  The AAAP promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^6]. 

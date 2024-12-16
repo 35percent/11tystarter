@@ -84,7 +84,7 @@ The amount of family-housing proposed for Phase 2B also fails to meet Southwark'
 
 One measure is met - a minimum of 7% 4-bed homes is required and 7.66% is proposed[^13] 
 
-![NHG Planning document showing 'no houses' on Phase 2B](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "NHG Planning document showing 'no houses' on Phase 2B")
+![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "NHG Planning document showing 'no houses' on Phase 2B")
 
 ### What we say
 

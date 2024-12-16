@@ -54,7 +54,7 @@ NHG justify supplying no houses on Plot 18 by referring to the s106 agreement be
 
 The pattern of shortfalls is repeated for maisonettes/duplexes and larger 2-bed homes.  The AAAP 2010 notes their role as family housing  *'At a borough wide level there is a need for a mix of dwellings, particularly those capable of accommodating families. The proportion of maisonettes and houses will help meet this need'* [^8].
 
-[NHG's Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) reports that while 17% of dwellings should be maisonettes/duplexes, there are none on Plot 18.  The Strategy then goes on to propose *'the necessary amendments within future Development Stages (namely Development Stage 2B/C) to ensure that the Minimum Maisonettes / Duplexes Requirement is met'* but without actually promising that this is going to happen.
+NHG's Strategy reports that while 17% of dwellings should be maisonettes/duplexes, there are none on Plot 18.  The Strategy then goes on to propose *'the necessary amendments within future Development Stages (namely Development Stage 2B/C) to ensure that the Minimum Maisonettes / Duplexes Requirement is met'* but without actually promising that this is going to happen.
 
 Similarly, half of Plot 18's two-bed homes should be for four persons, giving 26 new two-bed/four-person homes, but instead there only 4 two-bed/four-person homes - a shortfall of twenty-two.  Again, NHG proposes making up the difference on the next Stage 2B/C, which would need to provide 205.4 two-bed/four-person homes.  
 

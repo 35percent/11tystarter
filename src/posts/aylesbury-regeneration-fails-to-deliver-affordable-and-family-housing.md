@@ -82,7 +82,7 @@ The amount of family-housing proposed for Phase 2B also fails to meet Southwark'
 * A minimum of 20% family homes with 3+ beds is required; only 15.94% is proposed.
 * A minimum of 3% 5-bed homes is required; only 1.72% is proposed.
 
-One measure is met - a minimum of 7% 4-bed homes is required and 7.66% is proposed[^9] 
+One measure is met - a minimum of 7% 4-bed homes is required and 7.66% is proposed[^11] 
 
 ![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "NHG Planning document showing 'no houses' on Phase 2B")
 
@@ -123,11 +123,9 @@ We think this leaves Southwark with several questions to answer;
 
 [^9] This is NHG's second attempt at a 'drop-in' application for Phase 2B, after the High Court judgement.  See our blogpost ['What next after High Court overturns Aylesbury planning decision?'](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/)
 
-[^9] [](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf)Planning Statement Addendum, Oct 2024, 6.35, 6.36, 22/AP/2226 - 6.56% x 3 bed, 7.66%x 4bed, and 1.72% x 5 bed. Find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
-
 [^10]   Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via [https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300](< Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>)
 
-[^11] 
+[^11] Planning Statement Addendum, Oct 2024, 6.35, 6.36, 22/AP/2226 - 6.56% x 3 bed, 7.66%x 4bed, and 1.72% x 5 bed. Find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
 [^13] Aylesbury Phase 2 Update June 2024 Display Board 3 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 

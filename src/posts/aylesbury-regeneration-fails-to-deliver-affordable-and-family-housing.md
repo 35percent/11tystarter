@@ -68,7 +68,7 @@ In the event NHG has maintained the level of affordable housing at 50% in its [u
 
 Further, the Phase 2B application is a 'standalone' or 'drop-in' application, outside of the outline planning permission.  If this 'standalone' application is approved, then there is a danger that the outline permission, which also covers Phases 3 and 4 of the regeneration, and includes the 50% affordable housing requirement, could be invalidated.  This was a key issue in the High Court decision to quash NHG's attempt to change the wording of the outline permission.
 
-So, while there may be 50% affordable housing on Phase 2B, keeping it at this level for future phases could depend upon new planning applications, with the outline permission effectively set aside [^11]. 
+So, while there may be 50% affordable housing on Phase 2B, keeping it at this level for future phases could depend upon new planning applications, with the outline permission effectively set aside [^9]. 
 
 ### Will larger family housing shortfalls be made up?
 
@@ -121,11 +121,13 @@ We think this leaves Southwark with several questions to answer;
 
 [^8] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.1
 
+[^9] This is NHG's second attempt at a 'drop-in' application for Phase 2B, after the High Court judgement.  See our blogpost ['What next after High Court overturns Aylesbury planning decision?'](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/)
+
 [^9] [](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf)Planning Statement Addendum, Oct 2024, 6.35, 6.36, 22/AP/2226 - 6.56% x 3 bed, 7.66%x 4bed, and 1.72% x 5 bed. Find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
 [^10]   Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via [https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300](< Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>)
 
-[^11] This is NHG's second attempt at a 'drop-in' application for Phase 2B, after the High Court judgement.  See our blogpost ['What next after High Court overturns Aylesbury planning decision?'](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/)
+[^11] 
 
 [^13] Aylesbury Phase 2 Update June 2024 Display Board 3 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 

@@ -42,7 +42,7 @@ NHG's also comes up short for houses on Plot 18.  About a fifth of the new homes
 Houses are distinguished from other types of dwelling, such as flats, and are particularly valued as family homes.  The now [discarded Aylesbury Area Action Plan 2010](https://www.35percent.org/posts/2021-05-04-southwark-rips-up-aylesbury-objectives/#:~:text=The%20Aylesbury%20Area%20Action%20Plan,the%20involvement%20of%20affected%20residents.) defines them as a *'self contained residential dwelling. Houses
 can be detached, semi detached or terraced'* [^5].  The AAAP promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^6]. 
 
-The AAAP 2010 notes that  *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and '*Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^7].
+The [AAAP 2010](https://www.southwark.gov.uk/sites/default/files/2024-10/Aylesbury%20AAP%202010.pdf) notes that  *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and '*Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^7].
 
 ![](img/fig_5_housing_delivery_strategy_23ap2603.png "Housing Delivery Stategy showing showing zero houses on Plot 18")
 
@@ -115,7 +115,7 @@ We think this leaves Southwark with several questions to answer;
 
 [^5] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Glossary, pg 178
 
-[^6] Foreword pg 3; The vision and plan objectives 1.6.4
+[^6] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Foreword pg 3; The vision and plan objectives 1.6.4
 
 [^7] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.3, 3.5.4
 

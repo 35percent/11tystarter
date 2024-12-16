@@ -46,7 +46,7 @@ The [AAAP 2010](https://www.southwark.gov.uk/sites/default/files/2024-10/Aylesbu
 
 ![](img/fig_5_housing_delivery_strategy_23ap2603.png "Housing Delivery Stategy showing showing zero houses on Plot 18")
 
-Despite these well-attested benefits the number of houses required in the regeneration is now 19.7% of total dwellings (by habitable rooms), according to the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf), not the 23% given in the AAAP 2010.  19.7% amounts to 70.5 habitable rooms on Plot 18, which is about 14 three-bed houses, but the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) candidly states *'As shown in Figure 5 Development Stage 2A does not provide any ‘Houses’*.
+Despite these well-attested benefits, the number of houses required in the regeneration is now 19.7% of total dwellings (by habitable rooms), according to the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf), not the 23% given in the AAAP 2010.  19.7% amounts to 70.5 habitable rooms on Plot 18, which is about 14 three-bed houses, but the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) candidly states *'As shown in Figure 5 Development Stage 2A does not provide any ‘Houses’*.
 
 NHG justify supplying no houses on Plot 18 by referring to the s106 agreement between themselves and Southwark, which allows them to spread the 19.7% of houses across the whole development.  They go on to say that the shortfall *'could be achieved through the increased provision of 'Houses' within future phases'*, without actually stating that this is what they will do.
 
@@ -105,7 +105,7 @@ We think this leaves Southwark with several questions to answer;
 * will it allow NHG to take advantage of the council housing Southwark is providing on the FDS, to reducing its own affordable housing contribution, after underdelivering on Plot 18?
 * in the light of NHG persisting with a 'standalone' application, is NHG willing and capable of delivering the Aylesbury regeneration as it has been promised?
 
-[^1] The Housing Delivery Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603.  
+[^1] The Housing Delivery Strategy, 6 Sept 2023, can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603.  
 
 [^2] NHG's Strategy only gives the affordable housing figures as habitable rooms and percentages, not as units.  The [Aylesbury Now](http://www.aylesburynow.london/regeneration/planning-information/plot-18) webpage for Plot 18 says that it has 23 social rented units; with 82 habitable rooms, this gives an average of 3.57 hb rms per dwelling; this average been used to calculate the rounded-up unit figures.
 

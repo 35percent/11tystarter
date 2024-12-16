@@ -68,7 +68,7 @@ In the event NHG has maintained the level of affordable housing at 50% in its [u
 
 Further, the Phase 2B application is a 'standalone' or 'drop-in' application, outside of the outline planning permission.  If this 'standalone' application is approved, then there is a danger that the outline permission, which also covers Phases 3 and 4 of the regeneration, and includes the 50% affordable housing requirement, could be invalidated.  This was a key issue in the High Court decision to quash NHG's attempt to change the wording of the outline permission.
 
-So, while there may be 50% affordable housing on Phase 2B, keeping it at this level for future phases could depend upon new planning applications, with the outline permission effectvely set aside [^11]. 
+So, while there may be 50% affordable housing on Phase 2B, keeping it at this level for future phases could depend upon new planning applications, with the outline permission effectively set aside [^11]. 
 
 ### Will larger family housing shortfalls be made up?
 

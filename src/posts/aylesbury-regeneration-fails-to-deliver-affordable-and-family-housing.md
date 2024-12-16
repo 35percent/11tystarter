@@ -21,7 +21,7 @@ The Strategy also says that no houses have been built, despite a requirement tha
 
 NHG's outline planning permission requires that 50% of the housing should be affordable and that 75% of the affordable should be social rent.  The percentages are calculated from the number of habitable rooms (living room, bedroom, kitchen).  On this basis, Plot 18 should have179 habitable rooms that are affordable and 134 of these should be social rent.
 
-NHG’s acknowledge that there are only 82 affordable habitable rooms, all social rented but still leaving shortfalls of 97 hb rms of affordable and 52 hb rms of social rented housing.  In terms of dwellings, on a rough calculation,  this leaves a shortfall of about 27 affordable homes, of which 15 would be social rent, if each dwelling averaged just over three habitable rooms [^2].
+NHG’s acknowledge that there are only 82 affordable habitable rooms, all social rented, but still leaving shortfalls of 97 hb rms of affordable and 52 hb rms of social rented housing.  In terms of dwellings, on a rough calculation,  this is a loss of about 27 affordable homes, of which 15 would be social rent, if each dwelling averaged just over three habitable rooms [^2].
 
 ![](img/23_ap_2603-housing_delivery_strategy_fig_2_affordable-_housing_3727685.pdf_highlight_14_12_2024-11_32_29.png "Housing Delivery Strategy showing 22.9% affordable housing on Plot 18")
 

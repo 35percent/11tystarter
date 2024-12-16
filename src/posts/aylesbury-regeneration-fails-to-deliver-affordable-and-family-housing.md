@@ -96,7 +96,7 @@ Southwark should also consider that;
 
 * NHG's record of housing delivery is poor.  It has held an outline planning permission since 2015, and has only completed the 122 homes on Plot 18 so far, of which only 22.9% are affordable.
 * Southwark Council had to take over FDS 'A' and 'B' itself, at a cost of over £200m.  NHG retains FDS 'C', which will provide just **56 social rent units**, 75 shared-ownership and 190 private homes [^12].
-* NHG and Southwark Council both [fell foul of a High Court ruling](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/) related to NHG's last Aylesbury planning application, for Phase 2B.  This 'standalone' or 'drop-in' application was for a denser development than would have been allowed under the outline permission NHG already held.  Notwithstanding this failure, NHG is persisting with the same 'drop-in' application for Phase 2B.
+* NHG and Southwark Council both [fell foul of a High Court ruling](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/) related to NHG's last Aylesbury planning application, for Phase 2B.  This 'standalone' or 'drop-in' application was for a denser development than would have been allowed under the outline permission NHG already held.  Notwithstanding this failure, NHG is persisting with the same 'standalone' application for Phase 2B.
 * NHG's commitment to delivering the future phases of the Aylesbury regeneration is a vague reference to '2030 and beyond'[^13].  Applications for Stage 2B/C, Stage 3 and Stage 4 under their outline permission must be submitted by Aug 2033 [^14].
 
 We think this leaves Southwark with several questions to answer; 
@@ -126,8 +126,6 @@ We think this leaves Southwark with several questions to answer;
 [^10]   Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via [https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300](< Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>)
 
 [^11] This is NHG's second attempt at a 'drop-in' application for Phase 2B, after the High Court judgement.  See our blogpost ['What next after High Court overturns Aylesbury planning decision?'](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/)
-
-[^12] Design and Access Statement, 22/AP/1063, 2.1 FDS Summary Schedule, Proposed Amendments, Sub-plots SO-3, SO-4
 
 [^13] Aylesbury Phase 2 Update June 2024 Display Board 3 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 

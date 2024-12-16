@@ -97,7 +97,7 @@ Southwark should also consider that;
 * NHG's record of housing delivery is poor.  It has held an outline planning permission since 2015, and has only completed the 122 homes on Plot 18 so far, of which only 22.9% are affordable.
 * Southwark Council had to take over FDS 'A' and 'B' itself, at a cost of over £200m.  NHG retains FDS 'C', which will provide just **56 social rent units**, 75 shared-ownership and 190 private homes.
 * NHG and Southwark Council both [fell foul of a High Court ruling](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/) related to NHG's last Aylesbury planning application, for Phase 2B.  This 'standalone' or 'drop-in' application was for a denser development than would have been allowed under the outline permission NHG already held.  Notwithstanding this failure, NHG is persisting with the same 'standalone' application for Phase 2B.
-* NHG's commitment to delivering the future phases of the Aylesbury regeneration is a vague reference to '2030 and beyond'[^13].  Applications for Stage 2B/C, Stage 3 and Stage 4 under their outline permission must be submitted by Aug 2033 [^14].
+* NHG's commitment to delivering the future phases of the Aylesbury regeneration is a vague reference to '2030 and beyond'[^12].  Applications for Stage 2B/C, Stage 3 and Stage 4 under their outline permission must be submitted by Aug 2033 [^13].
 
 We think this leaves Southwark with several questions to answer; 
 
@@ -127,7 +127,7 @@ We think this leaves Southwark with several questions to answer;
 
 [^11] Planning Statement Addendum, Oct 2024, 6.35, 6.36, 22/AP/2226 - 6.56% x 3 bed, 7.66%x 4bed, and 1.72% x 5 bed. Find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
-[^13] Aylesbury Phase 2 Update June 2024 Display Board 3 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
+[^12] Aylesbury Phase 2 Update June 2024 Display Board 3 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 
-[^14] para 73 [](https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023_RDENNIS-v-LBC_NHG_-17-01-2024_final.pdf)Aysen Dennis -v- London Borough of Southwark, Neutral Citation Number: \[2024] EWHC 57 (Admin)
+[^13] para 73 [](https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023_RDENNIS-v-LBC_NHG_-17-01-2024_final.pdf)Aysen Dennis -v- London Borough of Southwark, Neutral Citation Number: \[2024] EWHC 57 (Admin)
 AC-2023-LON-001410, 17 January 2024  [https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023*RDENNIS-v-LBC_NHG*-17-01-2024_final.pdf](https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023_RDENNIS-v-LBC_NHG_-17-01-2024_final.pdf)

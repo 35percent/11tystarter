@@ -74,7 +74,7 @@ So, while there may be 50% affordable housing on Phase 2B, keeping it at this le
 
 As well as not providing enough affordable housing on Pot 18, NHG has also not provided enough larger family-type housing.  Again, NHG says that it can do this under the terms of the s106 agreement and that the shortfall in the number of maisonettes/duplexes and two-bed/four person homes *'could'* be made up in future phases.
 
-But we can see from the updated Phase 2B application that this phase will have no houses either (though the number of maisonettes will be greater than that required by policy - 20% against 17%) [^10].
+But we can see from the [updated Phase 2B application](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) that this phase will have no houses either (though the number of maisonettes will be greater than that required by policy - 20% against 17%) [^10].
 
 The amount of family-housing proposed for Phase 2B also fails to meet Southwark's policy requirements, on at least three measures;
 

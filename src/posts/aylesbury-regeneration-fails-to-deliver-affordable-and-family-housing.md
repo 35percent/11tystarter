@@ -60,7 +60,7 @@ Similarly, half of Plot 18's two-bed homes should be for four persons, giving 26
 
 ### Will the affordable housing shortfall be made up?
 
-It is clear that NHG has not provided enough affordable and social rented housing on Plot 18.  NHG claims that it can do this under the terms of the s106 agreement with Southwark, covering the remainder of the Aylesbury regeneration.
+NHG acknowledges that it has not provided enough affordable and social rented housing on Plot 18.  NHG claims that it can do this under the terms of the s106 agreement with Southwark, covering the remainder of the Aylesbury regeneration.
 
 NHG also claims that because more than 50% affordable housing has been provided on the FDS (by Southwark, as council housing) then NHG can deliver less affordable housing on Stage 2B/C (41.1% instead of 50%).  
 

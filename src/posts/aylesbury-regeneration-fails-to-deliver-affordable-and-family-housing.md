@@ -119,11 +119,11 @@ We think this leaves Southwark with several questions to answer;
 
 [^7] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.3, 3.5.4
 
-[^8] Housing Delivery Strategy 6 Sept 2023, 23/AP/2603, Section 4, Housing Delivery Assessment
+[^8] Housing Delivery Strategy 6 Sept 2023, 23/AP/2603, 4.7-4.10
 
 [^9] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.1
 
-[^10] Housing Delivery Strategy 6 Sept 2023, 23/AP/2603, Section 4, Housing Delivery Assessment
+[^10] Housing Delivery Strategy 6 Sept 2023, 23/AP/2603, 4.11-4.18
 
 [^11] This is NHG's second attempt at a 'drop-in' application for Phase 2B, after the High Court judgement.  See our blogpost ['What next after High Court overturns Aylesbury planning decision?'](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/)
 

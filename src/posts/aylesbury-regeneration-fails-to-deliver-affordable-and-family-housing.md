@@ -37,7 +37,7 @@ Southwark Council [took over FDS 'A' and FDS 'B'](https://www.35percent.org/post
 
 ### Family housing promises forgotten
 
-NHG's also comes up short for houses on Plot 18.  About a fifth of the new homes should be houses, which would be around 23 three-bed homes, whereas the number built is zero.
+NHG's also comes up short for houses on Plot 18.  About a fifth of the new homes should be houses, which would be around 14 three-bed homes, whereas the number built is zero.
 
 Houses are distinguished from other types of dwelling, such as flats, and are particularly valued as family homes.  The now [discarded Aylesbury Area Action Plan 2010](https://www.35percent.org/posts/2021-05-04-southwark-rips-up-aylesbury-objectives/#:~:text=The%20Aylesbury%20Area%20Action%20Plan,the%20involvement%20of%20affected%20residents.) defines them as a *'self contained residential dwelling. Houses
 can be detached, semi detached or terraced'* [^5].  The AAAP promised that nearly a quarter of the new homes would be houses, saying *'We will respond, for example, to the needs of families...........23% of new homes will be houses with access to gardens'* [^6]. 
@@ -46,7 +46,7 @@ The [AAAP 2010](https://www.southwark.gov.uk/sites/default/files/2024-10/Aylesbu
 
 ![](img/fig_5_housing_delivery_strategy_23ap2603.png "Housing Delivery Stategy showing showing zero houses on Plot 18")
 
-Despite these well-attested benefits, the number of houses required in the regeneration is now 19.7% of total dwellings (by habitable rooms), according to the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf), not the 23% given in the AAAP 2010.  19.7% amounts to 70.5 habitable rooms on Plot 18, which is about 14 three-bed houses, but the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) candidly states *'As shown in Figure 5 Development Stage 2A does not provide any ‘Houses’*.
+Despite these well-attested benefits, the number of houses required in the regeneration is now 19.7% of total dwellings (by habitable rooms), according to the NHG Strategy, not the 23% given in the AAAP 2010.  19.7% amounts to 70.5 habitable rooms on Plot 18, which is about 14 three-bed houses, but the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) candidly states *'As shown in Figure 5 Development Stage 2A does not provide any ‘Houses’*.
 
 NHG justify supplying no houses on Plot 18 by referring to the s106 agreement between themselves and Southwark, which allows them to spread the 19.7% of houses across the whole development.  They go on to say that the shortfall *'could be achieved through the increased provision of 'Houses' within future phases'*, without actually stating that this is what they will do.
 

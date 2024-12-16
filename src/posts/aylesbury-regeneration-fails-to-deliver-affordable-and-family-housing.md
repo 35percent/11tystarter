@@ -48,15 +48,15 @@ The [AAAP 2010](https://www.southwark.gov.uk/sites/default/files/2024-10/Aylesbu
 
 Despite these well-attested benefits, the number of houses required in the regeneration is now 19.7% of total dwellings (by habitable rooms), according to the NHG Strategy, not the 23% given in the AAAP 2010.  19.7% amounts to 70.5 habitable rooms on Plot 18 (about 14 three-bed houses), but the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) candidly states *'As shown in Figure 5 Development Stage 2A does not provide any ‘Houses’*.
 
-NHG justify supplying no houses on Plot 18 by referring to the s106 agreement between themselves and Southwark, which allows them to spread the 19.7% of houses across the whole development.  They go on to say that the shortfall *'could be achieved through the increased provision of 'Houses' within future phases'*, without actually stating that this is what they will do.
+NHG justify supplying no houses on Plot 18 by referring to the s106 agreement between themselves and Southwark, which allows them to spread the 19.7% of houses across the whole development.  They go on to say that the shortfall *'could be achieved through the increased provision of 'Houses' within future phases'*, without actually stating that this is what they will do [^8].
 
 ### Maisonettes, Duplexes and bigger family homes all go missing...
 
-The pattern of shortfalls is repeated for maisonettes/duplexes and larger 2-bed homes.  The AAAP 2010 notes their role as family housing  *'At a borough wide level there is a need for a mix of dwellings, particularly those capable of accommodating families. The proportion of maisonettes and houses will help meet this need'* [^8].
+The pattern of shortfalls is repeated for maisonettes/duplexes and larger 2-bed homes.  The AAAP 2010 notes their role as family housing  *'At a borough wide level there is a need for a mix of dwellings, particularly those capable of accommodating families. The proportion of maisonettes and houses will help meet this need'* [^9].
 
 NHG's Strategy reports that while 17% of dwellings should be maisonettes/duplexes across the whole development, there are none on Plot 18.  The Strategy then goes on to propose *'the necessary amendments within future Development Stages (namely Development Stage 2B/C) to ensure that the Minimum Maisonettes / Duplexes Requirement is met'.*
 
-Similarly, half of Plot 18's two-bed homes should be for four persons, giving 26 new two-bed/four-person homes, but instead there only 4 two-bed/four-person homes - a shortfall of twenty-two.  Again, NHG proposes making up the difference on the next Stage 2B/C, which would need to provide 205.4 two-bed/four-person homes.  
+Similarly, half of Plot 18's two-bed homes should be for four persons, giving 26 new two-bed/four-person homes, but instead there only 4 two-bed/four-person homes - a shortfall of twenty-two.  Again, NHG proposes making up the difference on the next Stage 2B/C, which would need to provide 205.4 two-bed/four-person homes [^10].  
 
 ### Will the affordable housing shortfall be made up?
 
@@ -68,13 +68,13 @@ In the event NHG has maintained the level of affordable housing at 50% in its [u
 
 Further, the Phase 2B application is a 'standalone' or 'drop-in' application, outside of the outline planning permission.  If this 'standalone' application is approved, then there is a danger that the outline permission, which also covers Phases 3 and 4 of the regeneration, and includes the 50% affordable housing requirement, could be invalidated.  This was a key issue in the High Court decision to quash NHG's attempt to change the wording of the outline permission.
 
-So, while there may be 50% affordable housing on Phase 2B, keeping it at this level for future phases could depend upon new planning applications, with the outline permission effectively set aside [^9]. 
+So, while there may be 50% affordable housing on Phase 2B, keeping it at this level for future phases could depend upon new planning applications, with the outline permission effectively set aside [^11]. 
 
 ### Will larger family housing shortfalls be made up?
 
 As well as not providing enough affordable housing on Pot 18, NHG has also not provided enough larger family-type housing.  Again, NHG says that it can do this under the terms of the s106 agreement and that the shortfall in the number of maisonettes/duplexes and two-bed/four person homes *'could'* be made up in future phases.
 
-But we can see from the [updated Phase 2B application](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) that this phase will have no houses either (though the number of maisonettes will be greater than that required by policy - 20% against 17%) [^10].
+But we can see from the [updated Phase 2B application](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) that this phase will have no houses either (though the number of maisonettes will be greater than that required by policy - 20% against 17%) [^12].
 
 The amount of family-housing proposed for Phase 2B also fails to meet Southwark's policy requirements, on at least three measures;
 
@@ -82,7 +82,7 @@ The amount of family-housing proposed for Phase 2B also fails to meet Southwark'
 * A minimum of 20% family homes with 3+ beds is required; only 15.94% is proposed.
 * A minimum of 3% 5-bed homes is required; only 1.72% is proposed.
 
-One measure is met - a minimum of 7% 4-bed homes is required and 7.66% is proposed[^11] 
+One measure is met - a minimum of 7% 4-bed homes is required and 7.66% is proposed[^13] 
 
 ![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "NHG Planning document showing 'no houses' on Phase 2B")
 
@@ -97,7 +97,7 @@ Southwark should also consider that;
 * NHG's record of housing delivery is poor.  It has held an outline planning permission since 2015, and has only completed the 122 homes on Plot 18 so far, of which only 22.9% are affordable.
 * Southwark Council had to take over FDS 'A' and 'B' itself, at a cost of over £200m.  NHG retains FDS 'C', which will provide just **56 social rent units**, 75 shared-ownership and 190 private homes.
 * NHG and Southwark Council both [fell foul of a High Court ruling](https://www.pilc.org.uk/news/victory-in-the-high-court-aylesbury-estate/) related to NHG's last Aylesbury planning application, for Phase 2B.  This 'standalone' or 'drop-in' application was for a denser development than would have been allowed under the outline permission NHG already held.  Notwithstanding this failure, NHG is persisting with the same 'standalone' application for Phase 2B.
-* NHG's commitment to delivering the future phases of the Aylesbury regeneration is a vague reference to '2030 and beyond'[^12].  Applications for Stage 2B/C, Stage 3 and Stage 4 under their outline permission must be submitted by Aug 2033 [^13].
+* NHG's commitment to delivering the future phases of the Aylesbury regeneration is a vague reference to '2030 and beyond'[^14].  Applications for Stage 2B/C, Stage 3 and Stage 4 under their outline permission must be submitted by Aug 2033 [^15].
 
 We think this leaves Southwark with several questions to answer; 
 
@@ -119,13 +119,17 @@ We think this leaves Southwark with several questions to answer;
 
 [^7] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.3, 3.5.4
 
-[^8] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.1
+[^8] Housing Delivery Strategy 6 Sept 2023, 23/AP/2603, Section 4, Housing Delivery Assessment
 
-[^9] This is NHG's second attempt at a 'drop-in' application for Phase 2B, after the High Court judgement.  See our blogpost ['What next after High Court overturns Aylesbury planning decision?'](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/)
+[^9] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) 3.5.1
 
-[^10]   Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via [https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300](< Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>)
+[^10] Housing Delivery Strategy 6 Sept 2023, 23/AP/2603, Section 4, Housing Delivery Assessment
 
-[^11] Planning Statement Addendum, Oct 2024, 6.35, 6.36, 22/AP/2226 - 6.56% x 3 bed, 7.66%x 4bed, and 1.72% x 5 bed. Find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
+[^11] This is NHG's second attempt at a 'drop-in' application for Phase 2B, after the High Court judgement.  See our blogpost ['What next after High Court overturns Aylesbury planning decision?'](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/)
+
+[^12]   Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via [https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300](< Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>)
+
+[^13] Planning Statement Addendum, Oct 2024, 6.35, 6.36, 22/AP/2226 - 6.56% x 3 bed, 7.66%x 4bed, and 1.72% x 5 bed. Find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
 [^12] Aylesbury Phase 2 Update June 2024 Display Board 3 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 

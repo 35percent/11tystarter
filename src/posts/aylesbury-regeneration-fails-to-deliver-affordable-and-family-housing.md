@@ -131,7 +131,7 @@ We think this leaves Southwark with several questions to answer;
 
 [^13] Planning Statement Addendum, Oct 2024, 6.35, 6.36, 22/AP/2226 - 6.56% x 3 bed, 7.66%x 4bed, and 1.72% x 5 bed. Find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>
 
-[^12] Aylesbury Phase 2 Update June 2024 Display Board 3 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
+[^14] Aylesbury Phase 2 Update June 2024 Display Board 3 <http://www.aylesburynow.london/web/uploads/files/news_254_0.pdf?nocache=4626>
 
-[^13] para 73 [](https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023_RDENNIS-v-LBC_NHG_-17-01-2024_final.pdf)Aysen Dennis -v- London Borough of Southwark, Neutral Citation Number: \[2024] EWHC 57 (Admin)
+[^15] para 73 [](https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023_RDENNIS-v-LBC_NHG_-17-01-2024_final.pdf)Aysen Dennis -v- London Borough of Southwark, Neutral Citation Number: \[2024] EWHC 57 (Admin)
 AC-2023-LON-001410, 17 January 2024  [https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023*RDENNIS-v-LBC_NHG*-17-01-2024_final.pdf](https://www.judiciary.uk/wp-content/uploads/2024/01/CO16632023_RDENNIS-v-LBC_NHG_-17-01-2024_final.pdf)

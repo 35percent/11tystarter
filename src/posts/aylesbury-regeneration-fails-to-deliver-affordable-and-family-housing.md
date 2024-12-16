@@ -31,7 +31,7 @@ NHG's Strategy justifies Plot 18's affordable housing shortfalls on the grounds 
 
 This justification though does not say that Southwark Council is providing most of the affordable housing on the FDS, not NHG.  While NHG's Strategy notes that two thirds of the FDS passed into Southwark Council's ownership [^3], it neglects to add that this also means most of the *'overprovision'* is coming from Southwark's [Council House Building Programme](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) 
 
-Southwark Council [took over FDS 'A' and FDS 'B'](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/) in 2022, with great fanfare and is providing 581 council homes on these sites, at a cost to the council of over £200m.  NHG retain FDS 'C', where most of the housing will be free market, with 190 private homes units, 75 shared ownership homes, but **just 56 social rented homes** [^4].
+Southwark Council [took over FDS 'A' and FDS 'B'](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/) in 2020, with great fanfare and is providing 581 council homes on these sites, at a cost to the council of over £200m.  NHG retain FDS 'C', where most of the housing will be free market, with 190 private homes units, 75 shared ownership homes, but **just 56 social rented homes** [^4].
 
 ![](img/22_ap_1063_design_access_statement_nhg_fds_hta-a_s03-s04_das_addendum.indd.pdf-adobe-acrobat-reader-64-bit-15_11_2024-12_39_14.png "Table showing housing on FDS 'C' (SO-3, SO-4), Design Addendum, 22/AP/1063")
 

@@ -7,7 +7,7 @@ date: 2024-09-20T10:39:31.724Z
 
 A nearly-completed Aylesbury regeneration site has failed to deliver all the affordable and family housing that is required by its amended planning permission.  Plot 18 will be just the third plot of the estate's regeneration to be completed since 1997 (after Site 1A and Site 7, delivered by L&Q housing association), with a fourth site, the First Development Site, also in its final stages.
 
-Plot 18 has been built by Notting Hill Genesis (NHG) and will provide [122 residential units, a medical centre, a library and a early years facility](http://www.aylesburynow.london/regeneration/planning-information/plot-18).  The plot's development entailed the demolition of 34 council and leasehold homes in 57-76 Northchurch and 300-313 Missenden.
+Plot 18 has been built by Notting Hill Genesis (NHG) and will provide [122 residential units, a medical centre, a library and an early years facility](http://www.aylesburynow.london/regeneration/planning-information/plot-18).  The plot's development entailed the demolition of 34 council and leasehold homes in 57-76 Northchurch and 300-313 Missenden.
 
 Notting Hill Genesis (NHG) confirm the affordable and family housing shortfalls in a proposed **Housing Delivery Strategy**, submitted to Southwark Council for its approval in September 2023.   
 

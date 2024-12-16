@@ -107,7 +107,7 @@ We think this leaves Southwark with several questions to answer;
 
 [^1] The Housing Delivery Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603.  
 
-[^2] NHG's Strategy only gives the affordable housing figures as habitable rooms and percentages, not as units.  The [Aylesbury Now](http://www.aylesburynow.london/regeneration/planning-information/plot-18) webpage for Plot 18 says that it has 23 social rented units; with 82 habitable rooms, this gives an average of 3.57 hbrms per dwelling; this average been used to calculate the rounded-up unit figures.
+[^2] NHG's Strategy only gives the affordable housing figures as habitable rooms and percentages, not as units.  The [Aylesbury Now](http://www.aylesburynow.london/regeneration/planning-information/plot-18) webpage for Plot 18 says that it has 23 social rented units; with 82 habitable rooms, this gives an average of 3.57 hb rms per dwelling; this average been used to calculate the rounded-up unit figures.
 
 [^3] Housing Delivery Strategy 6 Sept 2023, 23/AP/2603, 2.18
 

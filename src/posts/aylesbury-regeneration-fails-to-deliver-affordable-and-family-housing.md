@@ -125,7 +125,7 @@ We think this leaves Southwark with several questions to answer;
 
 [^10]   Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via [https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300](< Planning Application Design and Access Statement, May 2022, 1.1 Executive Summary 22/AP/2226 - find via https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>)
 
-[^11] This is NHG's second attempt at a 'drop-in' application for Phase 2B; the first fell foul of a High Court judgement on a related change to the outline planning permission.  See our blogpost ['What next after High Court overturns Aylesbury planning decision?'](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/)
+[^11] This is NHG's second attempt at a 'drop-in' application for Phase 2B, after the High Court judgement.  See our blogpost ['What next after High Court overturns Aylesbury planning decision?'](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/)
 
 [^12] Design and Access Statement, 22/AP/1063, 2.1 FDS Summary Schedule, Proposed Amendments, Sub-plots SO-3, SO-4
 

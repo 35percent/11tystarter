@@ -111,7 +111,7 @@ We think this leaves Southwark with several questions to answer;
 
 [^3] Housing Delivery Strategy 6 Sept 2023, 23/AP/2603, 2.18
 
-[^4] Design and Access Statement, First Development Site Application, Design Addendum, s73 Amendments, 22/AP/1063.  Figures taken from plots SO-3 and SO-4, 2.1 FDS Summary Schedule, Proposed Amendments.  FDS C consists of plots SO-3, SO-4.
+[^4] Design and Access Statement, First Development Site Application, Design Addendum, s73 Amendments, 22/AP/1063.  Figures taken from 2.1 FDS Summary Schedule, Proposed Amendments, for plots SO-3, SO-4, which make up FDS 'C'.
 
 [^5] [AAAP 2010](https://www.southwark.gov.uk/assets/attach/1647/Aylesbury-AAP-2010.pdf) Glossary, pg 178
 

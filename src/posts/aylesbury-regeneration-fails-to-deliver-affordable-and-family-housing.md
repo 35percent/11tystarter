@@ -46,7 +46,7 @@ The [AAAP 2010](https://www.southwark.gov.uk/sites/default/files/2024-10/Aylesbu
 
 ![](img/fig_5_housing_delivery_strategy_23ap2603.png "Housing Delivery Stategy showing showing zero houses on Plot 18")
 
-Despite these well-attested benefits, the number of houses required in the regeneration is now 19.7% of total dwellings (by habitable rooms), according to the NHG Strategy, not the 23% given in the AAAP 2010.  19.7% amounts to 70.5 habitable rooms on Plot 18, which is about 14 three-bed houses, but the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) candidly states *'As shown in Figure 5 Development Stage 2A does not provide any ‘Houses’*.
+Despite these well-attested benefits, the number of houses required in the regeneration is now 19.7% of total dwellings (by habitable rooms), according to the NHG Strategy, not the 23% given in the AAAP 2010.  19.7% amounts to 70.5 habitable rooms on Plot 18 (about 14 three-bed houses), but the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) candidly states *'As shown in Figure 5 Development Stage 2A does not provide any ‘Houses’*.
 
 NHG justify supplying no houses on Plot 18 by referring to the s106 agreement between themselves and Southwark, which allows them to spread the 19.7% of houses across the whole development.  They go on to say that the shortfall *'could be achieved through the increased provision of 'Houses' within future phases'*, without actually stating that this is what they will do.
 
@@ -54,7 +54,7 @@ NHG justify supplying no houses on Plot 18 by referring to the s106 agreement be
 
 The pattern of shortfalls is repeated for maisonettes/duplexes and larger 2-bed homes.  The AAAP 2010 notes their role as family housing  *'At a borough wide level there is a need for a mix of dwellings, particularly those capable of accommodating families. The proportion of maisonettes and houses will help meet this need'* [^8].
 
-NHG's Strategy reports that while 17% of dwellings should be maisonettes/duplexes, there are none on Plot 18.  The Strategy then goes on to propose *'the necessary amendments within future Development Stages (namely Development Stage 2B/C) to ensure that the Minimum Maisonettes / Duplexes Requirement is met'.*
+NHG's Strategy reports that while 17% of dwellings should be maisonettes/duplexes across the whole development, there are none on Plot 18.  The Strategy then goes on to propose *'the necessary amendments within future Development Stages (namely Development Stage 2B/C) to ensure that the Minimum Maisonettes / Duplexes Requirement is met'.*
 
 Similarly, half of Plot 18's two-bed homes should be for four persons, giving 26 new two-bed/four-person homes, but instead there only 4 two-bed/four-person homes - a shortfall of twenty-two.  Again, NHG proposes making up the difference on the next Stage 2B/C, which would need to provide 205.4 two-bed/four-person homes.  
 

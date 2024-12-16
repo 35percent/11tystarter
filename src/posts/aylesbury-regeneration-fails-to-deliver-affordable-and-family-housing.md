@@ -105,7 +105,7 @@ We think this leaves Southwark with several questions to answer;
 * will it allow NHG to take advantage of the council housing Southwark is providing on the FDS, to reducing its own affordable housing contribution, after underdelivering on Plot 18?
 * in the light of NHG persisting with a 'standalone' application, is NHG willing and capable of delivering the Aylesbury regeneration as it has been promised?
 
-[^1] The Housing Delivery Strategy, 6 Sept 2023, can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603.  
+[^1] The Housing Delivery Strategy, 6 Sept 2023, 4.5  The Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603.  
 
 [^2] NHG's Strategy only gives the affordable housing figures as habitable rooms and percentages, not as units.  The [Aylesbury Now](http://www.aylesburynow.london/regeneration/planning-information/plot-18) webpage for Plot 18 says that it has 23 social rented units; with 82 habitable rooms, this gives an average of 3.57 hb rms per dwelling; this average been used to calculate the rounded-up unit figures.
 

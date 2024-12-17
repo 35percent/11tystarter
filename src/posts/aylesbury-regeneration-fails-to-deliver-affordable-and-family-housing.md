@@ -1,9 +1,9 @@
 ---
 title: Aylesbury regeneration plot fails to deliver affordable housing and new houses
 description: "Plot 18 site falls short of minimum housing requirements "
-date: 2024-12-17T08:21:29.713Z
+date: 2024-12-17
+image: img/20240921_144523-0-.jpg
 ---
-![](img/20240921_144523-0-.jpg "Plot 18 nearing completion")
 
 A nearly-completed Aylesbury regeneration site has failed to deliver all the affordable and family housing that is required by its amended planning permission.  Plot 18 will be just the third plot of the estate's regeneration to be completed since 1997 (after Site 1A and Site 7, delivered by L&Q housing association), with a fourth site, the First Development Site, also in its final stages.
 
@@ -13,9 +13,9 @@ Notting Hill Genesis (NHG) confirm the affordable and family housing shortfalls 
 
 The Strategy reveals that less than half of the required affordable housing promised for Plot 18 has been built, saying that only 22.9% (measured by habitable room) have been provided, against a requirement of 50%.  Referring to Plot 18 as Development Stage 2A, the Strategy says that it *'will provide 358 Habitable Rooms, of which 82 Habitable Rooms (22.9%) will be Affordable Housing'* and that *'this does not meet the requirement to provide a minimum of  50% of Habitable Rooms as Affordable Housing'* [^1].
 
-The Strategy also says that no houses have been built, despite a requirement that 20% of the new homes should be in that form.   It proposes that the delivery of these is deferred until the later stages of the regeneration.
+The Strategy also says that no houses have been built, despite a requirement that 20% of the new homes should be in that form. It proposes that the delivery of these is deferred until the later stages of the regeneration.
 
-![](img/23_ap_2603-housing_delivery_strategy.-3727685.pdf-adobe-acrobat-reader-64-bit-09_10_2024-15_37_41.png "NHG's Housing Delivery Strategy Sept 2023")
+![](https://35percent.org/img/23_ap_2603-housing_delivery_strategy.-3727685.pdf-adobe-acrobat-reader-64-bit-09_10_2024-15_37_41.png "NHG's Housing Delivery Strategy Sept 2023")
 
 ### Plot 18's lost affordable and social rented homes
 
@@ -23,7 +23,7 @@ NHG's outline planning permission requires that 50% of the housing should be aff
 
 NHG’s acknowledge that there are only 82 affordable habitable rooms, all social rented, but still leaving shortfalls of 97 hb rms of affordable and 52 hb rms of social rented housing.  In terms of dwellings, on a rough calculation,  this is a loss of about 27 affordable homes, of which 15 would be social rent, if each dwelling averaged just over three habitable rooms [^2].
 
-![](img/23_ap_2603-housing_delivery_strategy_fig_2_affordable-_housing_3727685.pdf_highlight_14_12_2024-11_32_29.png "Housing Delivery Strategy showing 22.9% affordable housing on Plot 18")
+![](https://35percent.org/img/23_ap_2603-housing_delivery_strategy_fig_2_affordable-_housing_3727685.pdf_highlight_14_12_2024-11_32_29.png "Housing Delivery Strategy showing 22.9% affordable housing on Plot 18")
 
 ### NHG - just 56 social rented homes
 
@@ -33,7 +33,7 @@ This justification though does not say that Southwark Council is providing most 
 
 Southwark Council [took over FDS 'A' and FDS 'B'](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/) in 2020, with great fanfare and is providing 581 council homes on these sites, at a cost to the council of over £200m.  NHG retain FDS 'C', where most of the housing will be free market, with 190 private homes units, 75 shared ownership homes, but **just 56 social rented homes** [^4].
 
-![](img/22_ap_1063_design_access_statement_nhg_fds_hta-a_s03-s04_das_addendum.indd.pdf-adobe-acrobat-reader-64-bit-15_11_2024-12_39_14.png "Table showing housing on FDS 'C' (SO-3, SO-4), Design Addendum, 22/AP/1063")
+![](https://35percent.org/img/22_ap_1063_design_access_statement_nhg_fds_hta-a_s03-s04_das_addendum.indd.pdf-adobe-acrobat-reader-64-bit-15_11_2024-12_39_14.png "Table showing housing on FDS 'C' (SO-3, SO-4), Design Addendum, 22/AP/1063")
 
 ### Family housing promises forgotten
 
@@ -44,7 +44,7 @@ can be detached, semi detached or terraced'* [^5].  The AAAP promised that nearl
 
 The [AAAP 2010](https://www.southwark.gov.uk/sites/default/files/2024-10/Aylesbury%20AAP%202010.pdf) notes that  *'Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation'* and '*Providing a high proportion of houses will enable more households to have their own front doors which open onto the street and will also help minimise common parts. This will increase street level activity and will reduce many of the problems associated with higher density living. It also reduces the management costs for residents'* [^7].
 
-![](img/fig_5_housing_delivery_strategy_23ap2603.png "Housing Delivery Stategy showing showing zero houses on Plot 18")
+![](https://35percent.org/img/fig_5_housing_delivery_strategy_23ap2603.png "Housing Delivery Stategy showing showing zero houses on Plot 18")
 
 Despite these well-attested benefits, the number of houses required in the regeneration is now 19.7% of total dwellings (by habitable rooms), according to the NHG Strategy, not the 23% given in the AAAP 2010.  19.7% amounts to 70.5 habitable rooms on Plot 18 (about 14 three-bed houses), but the [NHG Strategy](https://planning.southwark.gov.uk/online-applications/files/0C27DCC26E24963CB2F1DF09827FD7A8/pdf/23_AP_2603-HOUSING_DELIVERY_STRATEGY.-3727685.pdf) candidly states *'As shown in Figure 5 Development Stage 2A does not provide any ‘Houses’*.
 
@@ -84,7 +84,7 @@ The amount of family-housing proposed for Phase 2B also fails to meet Southwark'
 
 One measure is met - a minimum of 7% 4-bed homes is required and 7.66% is proposed[^13] 
 
-![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "NHG Planning document showing 'no houses' on Phase 2B")
+![](https://35percent.org/img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-17_08_01.png "NHG Planning document showing 'no houses' on Phase 2B")
 
 ### What we say
 
@@ -104,6 +104,8 @@ We think this leaves Southwark with several questions to answer;
 * will it approve the NHG's housing delivery strategy and agree with them in deferring delivery of the affordable and family housing to future phases?
 * will it allow NHG to take advantage of the council housing Southwark is providing on the FDS, to reducing its own affordable housing contribution, after underdelivering on Plot 18?
 * in the light of NHG persisting with a 'standalone' application, is NHG willing and capable of delivering the Aylesbury regeneration as it has been promised?
+
+__Footnotes:__
 
 [^1] The Housing Delivery Strategy, 6 Sept 2023, 4.5  The Strategy can be found via [Southwark Council's planning register](https://planning.southwark.gov.uk/online-applications/) using ref 23/AP/2603.  
 

@@ -1,7 +1,7 @@
 ---
 title: Aylesbury regeneration plot fails to deliver affordable housing and new houses
 description: "Plot 18 site falls short of minimum housing requirements "
-date: 2024-09-20T10:39:31.724Z
+date: 2024-12-17T08:21:29.713Z
 ---
 ![](img/20240921_144523-0-.jpg "Plot 18 nearing completion")
 

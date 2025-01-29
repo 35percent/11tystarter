@@ -3,7 +3,11 @@ title: Aylesbury Phase 2B - profitable, but not viable
 description: New viability assessment shows £13.51m profit
 date: 2024-11-28T09:15:39.596Z
 ---
-Notting Hill Genesis' (NHG) [second attempt at getting full planning permission](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) for the Phase 2B of the Aylesbury regeneration stands to make a £13.51m profit.  This is according to an viability assessment submitted by NHG in support of an updated planning application
+Notting Hill Genesis' (NHG) [second attempt at getting full planning permission](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) for the Phase 2B of the Aylesbury regeneration stands to make a £13.51m profit.  This is according to an viability assessment submitted by NHG in support of their updated planning application.  NHG's first attempt was approved by Southwark's planning committee in January 2023,, but made no further progress, after getting entangled in a successful  High Court challenge by local resident and campaigner Aysen Dennis.
+
+NHG's updated application takes account of a new requirements for a second staircase in tall buildings and other new safety measures.  There will be an additional floor on seven of the eleven buildings, which will be between five and ten storeys, with one tower of 26 storeys.  The number of homes will increase from 614 to 640, with an increase in the number of social rented homes (163 to 173) and of intermediate part-buy/part-let homes (82 to 89). The number of private homes has been increased to 378 from 369.
+
+The assessment says that the scheme looks to make a 5.22% profit on 
 
 #### £0 for the land, but still not financially viable
 

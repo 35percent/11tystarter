@@ -1,9 +1,11 @@
 ---
-title: Aylesbury Phase 2B Financial Viability Assessments
-description: Mayor repairs Notting Hill Genesis profits
+title: Aylesbury Phase 2B - profitable, but not viable
+description: New viability assessment shows £13.51m profit
 date: 2024-11-28T09:15:39.596Z
 ---
 #### £0 for the land, but still not financially viable
+
+
 
 The updated proposal is larger than the original in response to updated fire regulations which require changes, such as extra staircases in four of the blocks, which reduce the amount of residential floorspace.  Extra floors have been added to compensate, taking the total number of new homes to 640.
 

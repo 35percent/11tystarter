@@ -19,16 +19,16 @@ The viability assessment also sets the benchmark land value at £0, *'based on t
 
 #### The Mayor mends NHG's profit
 
-The updated assessment replaces the original assessment for the first version of the scheme.  In this the profit level was much higher 12.27%, not 5.22%, giving an expected profit  £29.94m, instead of £13.51m - a drop of £16.43m [^X].
+The updated viability assessment replaces the original assessment for the first version of the scheme.  The original assessment gave a profit level of 12.27%, and an expected profit of £29.94m.  This is higher than the 5.22% and £13.51 in the revised assessment, and so looks like a drop in profit for NHG of £16.43m [^X].
 
+However, this loss is made up to a large extent by an increase in the money that NHG are getting from the Mayor to build affordable housing on Phase 2B.  This is rising from £28.79m to £42.51m, helping to reduce the drop in profit to £2.71m [^X].
 
-
-that NHG's profit level appears to have fallen from 12.27% (GDV £244.44m), to 5.5% (GDV of £258.76m) - in cash terms falling from £29.94m to £13.51m, a drop of £16.43m.
-
-The viability assessments also show, though, that the Mayor's GLA Affordable Housing Grant has increased from £28.79m to £42.51m - an increase of £13.72m, leaving the net drop at £2.71m.
+though are receiving a GLA affordable housing grant from the Mayor for Phase 2B.  This was originally to be £The viability assessments also show, though, that the Mayor's GLA Affordable Housing Grant has increased from £28.79m to £42.51m - an increase of £13.72m, leaving the net drop at £2.71m.
 
 [^1] NHG say that the changes are *'to ensure the scheme viably delivers the required affordable homes' -* Planning Statement Addendum, Oct 2024, 3.9, 22/AP/226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9
 
 [^X] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, September 2024. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/226, and then under the 'Documents' tab.
 
 [^X] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, May 2022. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/226, and then under the 'Documents' tab.  The original profit is 12.27% x £244.44m GDV = £29.94m; the updated profit is 5.22% x £258.76m GDV = £13.51m.
+
+[^X] The GLA AH (Affordable Housing Grant). See Table 1.1 in both the original and revised financial viability assessments.

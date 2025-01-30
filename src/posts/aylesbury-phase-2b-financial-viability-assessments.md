@@ -9,9 +9,7 @@ NHG's updated application takes account of a new requirements for a second stair
 
 #### £0 for the land, but still not financially viable
 
-While the updated redevelopment should make at least £13.51m profit, NHG say that it is still not viable.
-
-NHG say that the changes are *'to ensure the scheme viably delivers the required affordable homes'* [^1].  But the  updated viability assessment for the scheme concludes the opposite, saying *'the appraisals generate a viability deficit of c. £24.16m'.*  It continues, saying that *'if the deficit were to be absorbed by the Applicant's target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This 'Gross Development Value' is the combined worth of the private and affordable housing and commercial premises and amounts to £258.76m.  So, even though the scheme is 'inviable', it is still expected to make a profit of £13.51m (5.22% of £258.76m).
+While the updated Phase 2B should make at least £13.51m profit, NHG say that it is still not viable, despite the extra floorspace, being added [^1].  The  updated viability assessment for the scheme concludes the opposite, saying *'the appraisals generate a viability deficit of c. £24.16m'.*  It continues, saying that *'if the deficit were to be absorbed by the Applicant's target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This 'Gross Development Value' is the combined worth of the private and affordable housing and commercial premises and amounts to £258.76m.  So, even though the scheme is 'inviable', it is still expected to make a profit of £13.51m (5.22% of £258.76m).
 
 The assessment describes this profit as a 'viability deficit' and says *'This is lower than typical target thresholds for schemes of this size and also below any of the thresholds adopted / accepted for other estate regeneration
 schemes across London'*.
@@ -24,4 +22,4 @@ The updated viability assessment has been submitted to take account of the physi
 
 The viability assessments also show, though, that the Mayor's GLA Affordable Housing Grant has increased from £28.79m to £42.51m - an increase of £13.72m, leaving the net drop at £2.71m.
 
-[^1] Planning Statement Addendum, Oct 2024, 3.9, 22/AP/226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9
+[^1] NHG say that the changes are *'to ensure the scheme viably delivers the required affordable homes' -* Planning Statement Addendum, Oct 2024, 3.9, 22/AP/226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9

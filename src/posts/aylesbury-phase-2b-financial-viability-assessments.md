@@ -13,7 +13,7 @@ While the updated Phase 2B should make at least £13.51m profit, NHG say that it
 
 According to this line of thinking, NHG's assessment the £13.51m profit is described as a *'viability deficit'*; NHG says *'This is lower than typical target thresholds for schemes of this size and also below any of the thresholds adopted/ accepted for other estate regeneration schemes across London'*.
 
-The assessment makes the cautious caveat that should both sales values and costs improve by around 5%, then the scheme would become viable, which means it could generate a much higher profit of 14.55% of GDV.  
+The assessment makes the cautious caveat that should both sales values and costs improve by around 5%, then the scheme would become viable, which means it could generate a much higher profit of 14.55% of GDV and still provide the 50% affordable housing, required by the Southwark Plan 2022. 
 
 The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing has been paid for the land.  If NHG had to pay for the land then this would increase the *'viability deficit'* and reduce profit.
 

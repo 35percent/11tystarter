@@ -13,7 +13,7 @@ NHG's updated application takes account of new requirements for a second stairca
 
 While the updated Phase 2B should make at least £13.5m profit, NHG say that it is still not viable, despite gaining revenue from the extra floors [^1].  The  updated viability assessment for the scheme concludes *'the appraisals generate a viability deficit of c. £24.16m'.*  It goes on to say that *'if the deficit were to be absorbed by the Applicant's* \[NHG] *target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This 'Gross Development Value' is the combined worth of all the housing and commercial premises and amounts to £258.76m.  So, even though the scheme is *'unviable'*, it is still expected to make a profit of £13.5m (5.22% of £258.76m)[^X].
 
-According to this line of thinking, NHG's assessment the £13.5m profit is described as a *'viability deficit'*; NHG says *'This is lower than typical target thresholds for schemes of this size and also below any of the thresholds adopted/ accepted for other estate regeneration schemes across London'*.
+According to this line of thinking, while there is the £13.5m profit, there is still a *'viability deficit'*.  NHG says of the profit *'This is lower than typical target thresholds for schemes of this size and also below any of the thresholds adopted/ accepted for other estate regeneration schemes across London'*.
 
 The assessment makes the cautious caveat that should both sales values and costs improve by around 5%, then the scheme would become viable, which means it could generate a much higher profit of 14.55% of GDV and still provide the 50% affordable housing, as required by the Southwark Plan 2022. 
 

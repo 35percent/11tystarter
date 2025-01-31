@@ -13,7 +13,7 @@ NHG's updated application takes account of new requirements for a second stairca
 
 While the updated Phase 2B should make at least £13.5m profit, NHG say that it is still not viable, despite gaining revenue from the extra floors [^1].  The  updated viability assessment for the scheme concludes *'the appraisals generate a viability deficit of c. £24.16m'.*  It goes on to say that *'if the deficit were to be absorbed by the Applicant's* \[NHG] *target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This 'Gross Development Value' is the combined worth of all the housing and commercial premises and amounts to £258.76m.  So, even though the scheme is *'unviable'*, it is still expected to make a profit of £13.5m (5.22% of £258.76m)[^X].
 
-According to this line of thinking, while there is the £13.5m profit, there is still a *'viability deficit'*.  NHG says of the profit *'This is lower than typical target thresholds for schemes of this size and also below any of the thresholds adopted/ accepted for other estate regeneration schemes across London'*.
+According to this line of thinking, while there is the £13.5m profit, this is still a *'viability deficit'*.  NHG says of the profit *'This is lower than typical target thresholds for schemes of this size and also below any of the thresholds adopted/ accepted for other estate regeneration schemes across London'*.
 
 The assessment makes the cautious caveat that should both sales values and costs improve by around 5%, then the scheme would become viable, which means it could generate a much higher profit of 14.55% of GDV and still provide the 50% affordable housing, as required by the Southwark Plan 2022. 
 
@@ -27,7 +27,15 @@ Put another way, the average grant cost of the affordable housing has risen from
 
 ### The Mayor repairs NHG's bottom line?
 
-The extra affordable housing grant also makes for a healthier looking bottom line.  While the updated assessement shows a 5.22% profit on GDV, and a fall from the original assessment of a 12.27% profit, in cash terms the fall is reduced from £16.43m to £2.71m.
+The extra affordable housing grant also makes for a healthier looking bottom line.  While the updated assessement shows a 5.22% profit on GDV, and is a fall from the original assessment of a 12.27% profit (also said to be unviable by NHG), the fall would be much worse without the Mayor's contribution.
+
+In cash terms the fall in the profit rate has inceased the 'viability deficit' from around £6.69m to around £24.16m.  The increased Mayor's grant saves a further £13.72m from being added to this deficit.
+
+#### Viability is not the same as profitability
+
+It's important to remember that a viability deficit is not the same as a loss.  regardless of whe
+
+
 
 The original assessment gave a profit level of 12.27%, and an expected profit of £29.94m.  This is higher than the 5.22% and £13.5 in the revised assessment, and so looks like a drop in profit for NHG of £16.43m [^X].
 
@@ -44,3 +52,5 @@ though are receiving a GLA affordable housing grant from the Mayor for Phase 2B.
 [^X] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, May 2022. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/226, and then under the 'Documents' tab.  The original profit is 12.27% x £244.44m GDV = £29.94m; the updated profit is 5.22% x £258.76m GDV = £13.51m.
 
 [^X] The GLA AH (Affordable Housing Grant). See Table 1.1 in both the original and revised financial viability assessments.
+
+[^X]

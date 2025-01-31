@@ -17,7 +17,7 @@ According to this line of thinking, while there is the £13.5m profit, there is 
 
 The assessment makes the cautious caveat that should both sales values and costs improve by around 5%, then the scheme would become viable, which means it could generate a much higher profit of 14.55% of GDV and still provide the 50% affordable housing, as required by the Southwark Plan 2022. 
 
-The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing has been paid for the land.  If NHG had to pay for the land then this would increase the *'viability deficit'* and reduce profit.
+The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing will be paid for the land.  If NHG had to pay for the land then this would increase the *'viability deficit'* and reduce profit.
 
 #### The Mayor gives an extra £13.72m for 17 units
 

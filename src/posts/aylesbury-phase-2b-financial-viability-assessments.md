@@ -29,7 +29,7 @@ Put another way, the average grant for each unit of affordable housing has risen
 
 The extra affordable housing grant also makes for a healthier looking bottom line.  While the updated assessement shows a 5.22% profit on GDV, and is a fall from the original assessment of a 12.27% profit (also said to be unviable by NHG), the fall would be worse without the Mayor's contribution \[NOTE].
 
-In cash terms the fall in the profit rate has inceased the 'viability deficit' from around £6.69m to around £24.16m.  The increased Mayor's grant saves a further £13.72m from being added to this deficit.
+In cash terms, the fall in the profit rate has inceased the 'viability deficit' from around £6.69m to around £24.16m.  The increased Mayor's grant saves a further £13.72m from being added to this deficit.
 
 #### What we say 
 
@@ -37,9 +37,9 @@ It's important to remember that a viability deficit is not the same as a loss.  
 
 NHG want to make 14.55% (GDV), around £37.65m, on the updated plans for Phase 2B, but say they are only going to make 5.22%, around £13.5m, leaving them with a 'viability deficit' of around £24.16m.  This is still a profit though, of £13.5m.
 
-NHG are also benefitting from an increase to their affordable housing grant, which has arisen by £13.72m, but with a relatively small increase in affordable housing, of seventeen 17 units (10 social rent, 7 shared ownership).  NHG are also getting the land for free.  
+NHG are also benefitting from an increase to their affordable housing grant, which has risen by £13.72m, but with only a small increase in affordable housing, of seventeen 17 units (10 social rent, 7 shared ownership).  NHG are also getting the land for free.  
 
-This does not look like a bad deal for NHG.  Beyond 
+This does not look like a bad deal for NHG.  A question also naturally arises as to what eactly the Mayor's affordable housing grant is being spent on, when the rate of grant per unit rises so steeply (by over 40%), while a comparison of the original and updated viability assessments show that total build costs for the scheme have risen by much less -16%.  It's hard not to suspect that the increase has a much to do with maintaining 'viability' as it does with securing more affordable housing.
 
 [^1] NHG say that the changes are *'to ensure the scheme viably delivers the required affordable homes' -* Planning Statement Addendum, Oct 2024, 3.9, 22/AP/226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9
 

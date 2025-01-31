@@ -23,7 +23,7 @@ The viability assessment also sets the benchmark land value at £0, *'based on t
 
 The updated assessment also shows that the Mayor is giving NHG an extra £13.72m in affordable housing grant, raising it to £42.51m from £28.79m.  The number of affordable units is also rising, but only by 17 units, which makes the cost of each additional unit £807,058 [^X].
 
-Put another way, the average grant cost of the affordable housing has risen from £115.39k per home to £162.25k per home.
+Put another way, the average grant for each unit of affordable housing has risen from £115.39k per home to £162.25k per home, which is about a third of the total build cost for an affordable home \[NOTE £325,280,540 divided by 640= £508.25k av cost per unit; x 262 affordable units = £133.162m; divided by £42.51m = 3.13]
 
 ### The Mayor repairs NHG's bottom line?
 
@@ -39,7 +39,7 @@ NHG want to make 14.55% (GDV), around £37.65m, on the updated plans for Phase 2
 
 NHG are also benefitting from an increase to their affordable housing grant, which has arisen by £13.72m, but with a relatively small increase in affordable housing, of seventeen 17 units (10 social rent, 7 shared ownership).  NHG are also getting the land for free.  
 
-
+This does not look like a bad deal for NHG.  Beyond 
 
 [^1] NHG say that the changes are *'to ensure the scheme viably delivers the required affordable homes' -* Planning Statement Addendum, Oct 2024, 3.9, 22/AP/226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9
 

@@ -17,7 +17,7 @@ The assessment makes the cautious caveat that should both sales values and costs
 
 The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing has been paid for the land.  If NHG had to pay for the land then this would increase the *'viability deficit'* and reduce profit.
 
-#### The Mayor mends NHG's bottom line
+#### The Mayor gives an extra £13.72m
 
 The updated viability assessment replaces the original assessment for the first version of the scheme.  The original assessment gave a profit level of 12.27%, and an expected profit of £29.94m.  This is higher than the 5.22% and £13.5 in the revised assessment, and so looks like a drop in profit for NHG of £16.43m [^X].
 

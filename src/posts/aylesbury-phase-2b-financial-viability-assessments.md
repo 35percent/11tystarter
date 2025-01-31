@@ -25,7 +25,11 @@ The updated assessment also shows that the Mayor is giving NHG an extra £13.72m
 
 Put another way, the average grant cost of the affordable housing has risen from £115.39k per home to £162.25k per home.
 
-The updated viability assessment replaces the original assessment for the first version of the scheme.  The original assessment gave a profit level of 12.27%, and an expected profit of £29.94m.  This is higher than the 5.22% and £13.5 in the revised assessment, and so looks like a drop in profit for NHG of £16.43m [^X].
+### The Mayor repairs NHG's bottom line?
+
+The extra affordable housing grant also makes for a healthier looking bottom line.  While the updated assessement shows a 5.22% profit on GDV, and a fall from the original assessment of a 12.27% profit, in cash terms the fall is reduced from £16.43m to £2.71m.
+
+The original assessment gave a profit level of 12.27%, and an expected profit of £29.94m.  This is higher than the 5.22% and £13.5 in the revised assessment, and so looks like a drop in profit for NHG of £16.43m [^X].
 
 However, this loss is made up to a large extent by an increase in the money that NHG are getting from the Mayor to build affordable housing on Phase 2B.  This is rising from £28.79m to £42.51m, helping to reduce the drop in profit to £2.71m [^X].
 

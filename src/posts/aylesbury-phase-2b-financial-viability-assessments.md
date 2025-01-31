@@ -11,7 +11,7 @@ NHG's updated application takes account of new requirements for a second stairca
 
 #### £0 for the land, but still not financially viable
 
-While the updated Phase 2B should make at least £13.5m profit, NHG say that it is still not viable, despite gaining revenue from the extra floors [^1].  The  updated viability assessment for the scheme concludes *'the appraisals generate a viability deficit of c. £24.16m'.*  It goes on to say that *'if the deficit were to be absorbed by the Applicant's* \[NHG] *target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This 'Gross Development Value' is the combined worth of all the housing and commercial premises and amounts to £258.76m.  So, even though the scheme is *'unviable'*, it is still expected to make a profit of £13.5m (5.22% of £258.76m)[^X].
+While the updated Phase 2B should make at least £13.5m profit, NHG say that it is still not viable, despite gaining revenue from the extra floors [^1].  The  updated viability assessment for the scheme concludes *'the appraisals generate a viability deficit of c. £24.16m'.*  It goes on to say that *'if the deficit were to be absorbed by the Applicant's* \[NHG] *target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This 'Gross Development Value' is the combined worth of all the housing and commercial premises and amounts to £258.76m.  So, even though the scheme is *'unviable'*, it is still expected to make a profit of around £13.5m (5.22% of £258.76m)[^X].
 
 According to this line of thinking, while there is the £13.5m profit, this is still a *'viability deficit'*.  NHG says of the profit *'This is lower than typical target thresholds for schemes of this size and also below any of the thresholds adopted/ accepted for other estate regeneration schemes across London'*.
 
@@ -27,21 +27,19 @@ Put another way, the average grant cost of the affordable housing has risen from
 
 ### The Mayor repairs NHG's bottom line?
 
-The extra affordable housing grant also makes for a healthier looking bottom line.  While the updated assessement shows a 5.22% profit on GDV, and is a fall from the original assessment of a 12.27% profit (also said to be unviable by NHG), the fall would be much worse without the Mayor's contribution.
+The extra affordable housing grant also makes for a healthier looking bottom line.  While the updated assessement shows a 5.22% profit on GDV, and is a fall from the original assessment of a 12.27% profit (also said to be unviable by NHG), the fall would be worse without the Mayor's contribution \[NOTE].
 
 In cash terms the fall in the profit rate has inceased the 'viability deficit' from around £6.69m to around £24.16m.  The increased Mayor's grant saves a further £13.72m from being added to this deficit.
 
-#### Viability is not the same as profitability
+#### What we say 
 
-It's important to remember that a viability deficit is not the same as a loss.  regardless of whe
+It's important to remember that a viability deficit is not the same as a loss.  It is simply the difference between what a developer wants to make and what they say they will make.
+
+NHG want to make 14.55% (GDV), around £37.65m, on the updated plans for Phase 2B, but say they are only going to make 5.22%, around £13.5m, leaving them with a 'viability deficit' of around £24.16m.  This is still a profit though, of £13.5m.
+
+NHG are also benefitting from an increase to their affordable housing grant, which has arisen by £13.72m, but with a relatively small increase in affordable housing, of seventeen 17 units (10 social rent, 7 shared ownership).  NHG are also getting the land for free.  
 
 
-
-The original assessment gave a profit level of 12.27%, and an expected profit of £29.94m.  This is higher than the 5.22% and £13.5 in the revised assessment, and so looks like a drop in profit for NHG of £16.43m [^X].
-
-However, this loss is made up to a large extent by an increase in the money that NHG are getting from the Mayor to build affordable housing on Phase 2B.  This is rising from £28.79m to £42.51m, helping to reduce the drop in profit to £2.71m [^X].
-
-though are receiving a GLA affordable housing grant from the Mayor for Phase 2B.  This was originally to be £The viability assessments also show, though, that the Mayor's GLA Affordable Housing Grant has increased from £28.79m to £42.51m - an increase of £13.72m, leaving the net drop at £2.71m.
 
 [^1] NHG say that the changes are *'to ensure the scheme viably delivers the required affordable homes' -* Planning Statement Addendum, Oct 2024, 3.9, 22/AP/226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9
 

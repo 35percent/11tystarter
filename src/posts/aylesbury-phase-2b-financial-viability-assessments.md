@@ -21,13 +21,13 @@ The viability assessment also sets the benchmark land value at £0, *'based on t
 
 #### The Mayor gives an extra £13.72m for 17 units
 
-The updated assessment also shows that the Mayor is giving NHG an extra £13.72m in affordable housing grant, raising it to £42.51m from £28.79m.  The number of affordable units is also rising, but only by 17 units, which means a nominal grant for each additional unit of £807,058 [^X].
+The updated assessment also shows that the Mayor is giving NHG an extra £13.72m in affordable housing grant, raising it to £42.51m from £28.79m.  The number of affordable units is also rising, but only by 17 units, which means a nominal grant for each additional unit of £807,058 [^4].
 
 Put another way, the average grant for each unit of affordable housing has risen from £115.39k per home to £162.25k per home, which is about a third of the total build cost for an affordable home \[NOTE £325,280,540 divided by 640= £508.25k av cost per unit; x 262 affordable units = £133.162m; divided by £42.51m = 3.13]
 
 ### The Mayor repairs NHG's bottom line?
 
-The extra affordable housing grant also makes for a healthier looking bottom line.  While the updated assessement shows a 5.22% profit on GDV, and is a fall from the original assessment of a 12.27% profit (also said to be unviable by NHG), the fall would be worse without the Mayor's contribution [^4].
+The extra affordable housing grant also makes for a healthier looking bottom line.  While the updated assessement shows a 5.22% profit on GDV, and is a fall from the original assessment of a 12.27% profit (also said to be unviable by NHG), the fall would be worse without the Mayor's contribution [^6].
 
 In cash terms, the fall in the profit rate for the updated scheme has inceased the 'viability deficit' from around £6.69m to around £24.16m.  The increased Mayor's grant saves a further £13.72m from being added to this deficit.
 
@@ -49,11 +49,11 @@ A question also naturally arises as to what eactly the Mayor's affordable housin
 
 [^3] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES13, ES10, 10 September 2024. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.
 
-[^X] See entries for 'GLA AH Grant' in Table 1.1 in the respective financial viability assessments of May 2022 and Sept 2024.
+[^4] See entries for 'GLA AH Grant' in Table 1.1 in the respective financial viability assessments of May 2022 and Sept 2024.
 
 [^X] The grant for the original proposal was £28.27m for 245 affordable homes - an average cost of £115.39k per home.  The grant for the updated proposal is £42.51m for 262 affordable homes - an average cost of £162.25k per home.  
 
-[^4] For the 12.27% GDV profit see the Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES 9, May 2022. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, and then under the 'Documents' tab.  By calculation, the original profit is 12.27% x £244.44m GDV = £29.94m; the updated profit is 5.22% x £258.76m GDV = £13.5m.  See also the the Appraisal Summary, pg. 143, 144
+[^6] For the 12.27% GDV profit see the Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES 9, May 2022. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, and then under the 'Documents' tab.  By calculation, the original profit is 12.27% x £244.44m GDV = £29.94m; the updated profit is 5.22% x £258.76m GDV = £13.5m.  See also the the Appraisal Summary, pg. 143, 144
 
 [^X] 
 

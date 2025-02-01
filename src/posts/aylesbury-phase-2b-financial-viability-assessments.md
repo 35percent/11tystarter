@@ -29,11 +29,11 @@ Put another way, the average grant for each unit of affordable housing has risen
 
 The extra affordable housing grant also makes for a healthier looking bottom line.  While the updated assessement shows a 5.22% profit on GDV, and is a fall from the original assessment of a 12.27% profit (also said to be unviable by NHG), the fall would be worse without the Mayor's contribution \[NOTE].
 
-In cash terms, the fall in the profit rate has inceased the 'viability deficit' from around £6.69m to around £24.16m.  The increased Mayor's grant saves a further £13.72m from being added to this deficit.
+In cash terms, the fall in the profit rate for the updated scheme has inceased the 'viability deficit' from around £6.69m to around £24.16m.  The increased Mayor's grant saves a further £13.72m from being added to this deficit.
 
 #### What we say
 
-It's important to remember that a viability deficit is not the same as a loss.  It is simply the difference between what a developer wants to make and what they say they will make.
+It's important to remember that a viability deficit is not the same as a loss.  A viability deficit is simply the difference between what a developer wants to make and what they say they will make.
 
 NHG want to make 14.55% (GDV), around £37.65m, on the updated plans for Phase 2B, but say they are only going to make 5.22%, around £13.5m, leaving them with a 'viability deficit' of around £24.16m.  This is still a profit though, of £13.5m.
 

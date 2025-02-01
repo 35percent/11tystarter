@@ -35,7 +35,7 @@ In cash terms, the fall in the profit rate for the updated scheme has inceased t
 
 It's important to remember that a viability deficit is not the same as a loss.  A viability deficit is simply the difference between what a developer wants to make and what they say they will make.
 
-NHG want to make 14.55% (GDV), around £37.65m, on the updated plans for Phase 2B, but say they are only going to make 5.22%, around £13.5m, leaving them with a 'viability deficit' of around £24.16m.  This is still a profit though, of £13.5m and small changes in sales values could significantly improve this. 
+NHG want to make 14.55% (GDV), around £37.65m, on the updated plans for Phase 2B, but say they are only going to make 5.22%, around £13.5m, leaving them with a 'viability deficit' of around £24.16m.  This is still a profit though, of £13.5m, and small changes in sales values could significantly improve this. 
 
 NHG are also benefitting from an increase to their affordable housing grant, which has risen by £13.72m, but with only a small increase in affordable housing, of seventeen 17 units (10 social rent, 7 shared ownership).  NHG are also getting the land for free. 
 

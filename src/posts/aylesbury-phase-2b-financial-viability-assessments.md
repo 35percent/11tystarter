@@ -49,9 +49,13 @@ A question also naturally arises as to what eactly the Mayor's affordable housin
 
 [^3] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES13, ES10, 10 September 2024. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.
 
-\[4] For the 12.27% GDV profit see the Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES 9, May 2022. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, and then under the 'Documents' tab.  By calculation, the original profit is 12.27% x £244.44m GDV = £29.94m; the updated profit is 5.22% x £258.76m GDV = £13.5m.  See also the the Appraisal Summary, pg. 143, 144
+[^X] See entries for 'GLA AH Grant' in Table 1.1 in the respective financial viability assessments of May 2022 and Sept 2024.
 
-[^X] The grant for the original proposal was £28.27m for 245 affordable homes - an average cost of £115.39k per home.  The grant for the updated proposal is £42.51m for 262 affordable homes - an average cost of £162.25k per home.  See entries for 'GLA AH Grant' in Table 1.1 in the respective finanicial viability assessments of May 2022 and Sept 2024. 
+[^X] The grant for the original proposal was £28.27m for 245 affordable homes - an average cost of £115.39k per home.  The grant for the updated proposal is £42.51m for 262 affordable homes - an average cost of £162.25k per home.  
+
+[^4] For the 12.27% GDV profit see the Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES 9, May 2022. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, and then under the 'Documents' tab.  By calculation, the original profit is 12.27% x £244.44m GDV = £29.94m; the updated profit is 5.22% x £258.76m GDV = £13.5m.  See also the the Appraisal Summary, pg. 143, 144
+
+[^X] 
 
 [^X] 
 

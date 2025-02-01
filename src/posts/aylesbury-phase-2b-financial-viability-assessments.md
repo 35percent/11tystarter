@@ -51,7 +51,7 @@ This does not look like a bad deal for NHG.
 
 A question also naturally arises as to what eactly the Mayor's affordable housing grant is being spent on, when the rate of grant per unit rises so steeply (by over 40%), while a comparison of the original and updated viability assessments show that total build costs for the scheme have risen by much less -16%.  It's hard not to suspect that the increase has a much to do with maintaining 'viability' as it does with securing more affordable housing.
 
-
+##### Footnotes:
 
 [^1] Despite this NHG say that the extra floors are *'to ensure the scheme viably delivers the required affordable homes' -* Planning Statement Addendum, Oct 2024, 3.9, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9
 

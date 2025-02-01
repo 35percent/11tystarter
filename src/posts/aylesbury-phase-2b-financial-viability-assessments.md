@@ -23,6 +23,8 @@ The assessment makes the cautious caveat that should both sales values and costs
 
 The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing will be paid for the land.  If NHG had to pay for the land then this would increase the *'viability deficit'* and reduce profit [^3].
 
+![](img/image_excerpt_financial_viability_assessment_sept_2024.png)
+
 ### The Mayor gives an extra £13.72m for 17 units
 
 The updated assessment also shows that the Mayor is giving NHG an extra £13.72m in affordable housing grant, raising it to £42.51m from £28.79m.  The number of affordable units is also rising, but only by 17 units, which means a nominal grant for each additional unit of £807,058 [^4].

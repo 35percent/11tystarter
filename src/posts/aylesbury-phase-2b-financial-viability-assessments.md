@@ -11,7 +11,7 @@ NHG's updated application takes account of new requirements for a second stairca
 
 #### £0 for the land, but still not financially viable
 
-While the updated Phase 2B should make at least £13.5m profit, NHG say that it is still not viable, despite gaining revenue from the extra floors [^1].  The  updated viability assessment for the scheme concludes *'the appraisals generate a viability deficit of c. £24.16m'.*  It goes on to say that *'if the deficit were to be absorbed by the Applicant's* \[NHG] *target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This 'Gross Development Value' is the combined worth of all the housing and commercial premises and amounts to £258.76m.  So, even though the scheme is *'unviable'*, it is still expected to make a profit of around £13.5m (5.22% of £258.76m)[^X].
+While the updated Phase 2B should make at least £13.5m profit, NHG say that it is still not viable, despite gaining revenue from the extra floors [^1].  The  updated viability assessment for the scheme concludes *'the appraisals generate a viability deficit of c. £24.16m'.*  It goes on to say that *'if the deficit were to be absorbed by the Applicant's* \[NHG] *target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This 'Gross Development Value' is the combined worth of all the housing and commercial premises and amounts to £258.76m.  So, even though the scheme is *'unviable'*, it is still expected to make a profit of around £13.5m (5.22% of £258.76m)[^2].
 
 According to this line of thinking, while there is the £13.5m profit, this is still a *'viability deficit'*.  NHG says of the profit that *'This is lower than typical target thresholds for schemes of this size and also below any of the thresholds adopted/ accepted for other estate regeneration schemes across London'*.
 
@@ -43,13 +43,13 @@ This does not look like a bad deal for NHG.
 
 A question also naturally arises as to what eactly the Mayor's affordable housing grant is being spent on, when the rate of grant per unit rises so steeply (by over 40%), while a comparison of the original and updated viability assessments show that total build costs for the scheme have risen by much less -16%.  It's hard not to suspect that the increase has a much to do with maintaining 'viability' as it does with securing more affordable housing.
 
-[^1] Despite this NHG say that the extra floors are *'to ensure the scheme viably delivers the required affordable homes' -* Planning Statement Addendum, Oct 2024, 3.9, 22/AP/226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9
+[^1] Despite this NHG say that the extra floors are *'to ensure the scheme viably delivers the required affordable homes' -* Planning Statement Addendum, Oct 2024, 3.9, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9
 
-[^X] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, September 2024. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/226, and then under the 'Documents' tab.
+[^2] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES10, ES11, 10 September 2024. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.
 
 [^X] The grant for the original proposal was £28.27m for 245 affordable homes - an average cost of £115.39k per home.  The grant for the updated proposal is £42.51m for 262 affordable homes - an average cost of £162.25k per home.  See entries for 'GLA AH Grant' in Table 1.1 in the respective finanicial viability assessments of May 2022 and Sept 2024. 
 
-[^X] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, May 2022. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/226, and then under the 'Documents' tab.  The original profit is 12.27% x £244.44m GDV = £29.94m; the updated profit is 5.22% x £258.76m GDV = £13.51m.
+[^X] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, May 2022. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, and then under the 'Documents' tab.  The original profit is 12.27% x £244.44m GDV = £29.94m; the updated profit is 5.22% x £258.76m GDV = £13.51m.
 
 [^X] The GLA AH (Affordable Housing Grant). See Table 1.1 in both the original and revised financial viability assessments.
 

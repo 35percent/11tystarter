@@ -5,7 +5,7 @@ date: 2024-11-28T09:15:39.596Z
 ---
 ![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-16_32_16.png)
 
-#### New viability assessment shows £13.5m profit
+### New viability assessment shows £13.5m profit
 
 Notting Hill Genesis' (NHG) [second attempt at getting full planning permission](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) for the Phase 2B of the Aylesbury regeneration stands to make a £13.5m profit.  This is according to a new viability assessment submitted by NHG in support of their updated planning application.  NHG's first attempt was approved by Southwark's planning committee in January 2023, but made no further progress, after getting entangled in a [successful High Court challenge](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/) by local resident and campaigner Aysen Dennis.
 
@@ -13,7 +13,7 @@ NHG's updated application takes account of new requirements for a second stairca
 
 ![](img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png)
 
-#### £0 for the land, but still not financially viable
+### £0 for the land, but still not financially viable
 
 While the updated Phase 2B should make at least £13.5m profit, NHG say that it is still not viable, despite gaining revenue from the extra floors [^1].  The  updated viability assessment for the scheme concludes *'the appraisals generate a viability deficit of c. £24.16m'.*  It goes on to say that *'if the deficit were to be absorbed by the Applicant's* \[NHG] *target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This 'Gross Development Value' is the combined worth of all the housing and commercial premises and amounts to £258.76m.  So, even though the scheme is *'unviable'*, it is still expected to make a profit of around £13.5m (5.22% of £258.76m).
 
@@ -23,7 +23,7 @@ The assessment makes the cautious caveat that should both sales values and costs
 
 The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing will be paid for the land.  If NHG had to pay for the land then this would increase the *'viability deficit'* and reduce profit [^3].
 
-#### The Mayor gives an extra £13.72m for 17 units
+### The Mayor gives an extra £13.72m for 17 units
 
 The updated assessment also shows that the Mayor is giving NHG an extra £13.72m in affordable housing grant, raising it to £42.51m from £28.79m.  The number of affordable units is also rising, but only by 17 units, which means a nominal grant for each additional unit of £807,058 [^4].
 
@@ -37,7 +37,7 @@ The extra affordable housing grant also makes for a healthier looking bottom lin
 
 In cash terms, the fall in the profit rate for the updated scheme has inceased the 'viability deficit' from around £6.69m to around £24.16m.  The increased Mayor's grant saves a further £13.72m from being added to this deficit.
 
-#### What we say
+### What we say
 
 It's important to remember that a viability deficit is not the same as a loss.  A viability deficit is simply the difference between what a developer wants to make and what they say they will make.
 

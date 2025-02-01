@@ -37,7 +37,7 @@ Put another way, the average grant for each unit of affordable housing has risen
 
 The extra affordable housing grant also makes for a healthier looking bottom line.  While the updated assessment shows a 5.22% profit on GDV, and is a fall from the original assessment of a 12.27% profit (also said to be unviable by NHG), the fall would be worse without the Mayor's contribution [^6].
 
-In cash terms, the fall in the profit rate for the updated scheme has inceased the 'viability deficit' from around £6.69m to around £24.16m.  The increased Mayor's grant saves a further £13.72m from being added to this deficit.
+In cash terms, the fall in the profit rate for the updated scheme has increased the 'viability deficit' from around £6.69m to around £24.16m.  The increased Mayor's grant saves a further £13.72m from being added to this deficit.
 
 ### What we say
 

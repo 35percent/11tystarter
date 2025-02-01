@@ -23,7 +23,7 @@ The viability assessment also sets the benchmark land value at £0, *'based on t
 
 The updated assessment also shows that the Mayor is giving NHG an extra £13.72m in affordable housing grant, raising it to £42.51m from £28.79m.  The number of affordable units is also rising, but only by 17 units, which means a nominal grant for each additional unit of £807,058 [^4].
 
-Put another way, the average grant for each unit of affordable housing has risen from £115.39k per home to £162.25k per home, which is about a third of the total build cost for an affordable home \[NOTE £325,280,540 divided by 640= £508.25k av cost per unit; x 262 affordable units = £133.162m; divided by £42.51m = 3.13]
+Put another way, the average grant for each unit of affordable housing has risen from £115.39k per home to £162.25k per home, which is about a third of the total build cost for an affordable home [^5]
 
 ### The Mayor repairs NHG's bottom line?
 
@@ -45,13 +45,13 @@ A question also naturally arises as to what eactly the Mayor's affordable housin
 
 [^1] Despite this NHG say that the extra floors are *'to ensure the scheme viably delivers the required affordable homes' -* Planning Statement Addendum, Oct 2024, 3.9, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9
 
-[^2] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES10, ES11, 10 September 2024. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.   See also the Appraisal Summary, pg 137, 138.
+[^2] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES10, ES11, 10 September 2024. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.   See also the Appraisal Summary, pg 136, 137, 138.
 
 [^3] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES13, ES10, 10 September 2024. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.
 
 [^4] See entries for 'GLA AH Grant' in Table 1.1 in the respective financial viability assessments of May 2022 and Sept 2024.
 
-[^X] The grant for the original proposal was £28.27m for 245 affordable homes - an average cost of £115.39k per home.  The grant for the updated proposal is £42.51m for 262 affordable homes - an average cost of £162.25k per home.  
+[^5] The grant for the original proposal was £28.27m for 245 affordable homes - an average cost of £115.39k per home.  The grant for the updated proposal is £42.51m for 262 affordable homes - an average cost of £162.25k per home.   By calculation, using averages, the Mayor's grant is about a third of the cost of the affordable housing - £325,280,540 (total cost) divided by 640= £508.25k av cost per unit; x 262 affordable units = £133.162m; divided by £42.51m = 3.13.  See the Appraisal Summary, Financial Viability Assessment, Sept 2024, pg 137 for total cost figure. 
 
 [^6] For the 12.27% GDV profit see the Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES 9, May 2022. This can be found via the [Southwark Plannning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, and then under the 'Documents' tab.  By calculation, the original profit is 12.27% x £244.44m GDV = £29.94m; the updated profit is 5.22% x £258.76m GDV = £13.5m.  See also the the Appraisal Summary, pg. 143, 144
 

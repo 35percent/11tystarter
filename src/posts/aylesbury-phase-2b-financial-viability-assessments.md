@@ -23,7 +23,9 @@ The viability assessment also sets the benchmark land value at £0, *'based on t
 
 The updated assessment also shows that the Mayor is giving NHG an extra £13.72m in affordable housing grant, raising it to £42.51m from £28.79m.  The number of affordable units is also rising, but only by 17 units, which means a nominal grant for each additional unit of £807,058 [^4].
 
-Put another way, the average grant for each unit of affordable housing has risen from £115.39k per home to £162.25k per home, which is about a third of the total build cost for an affordable home [^5]
+Put another way, the average grant for each unit of affordable housing has risen from £115.39k per home to £162.25k per home, which is about a third of the total build cost for an affordable home [^5].
+
+![](img/image_financial_viability_assessments_gla_ah_grants_310125.png)
 
 ### The Mayor repairs NHG's bottom line?
 

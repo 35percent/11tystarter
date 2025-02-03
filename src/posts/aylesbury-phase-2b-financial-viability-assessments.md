@@ -37,7 +37,7 @@ Put another way, the average grant for each unit of affordable housing has risen
 
 The extra affordable housing grant also makes for a healthier looking bottom line.  While the updated assessment shows a 5.22% profit on GDV, and is a fall from the original assessment of a 12.27% profit (also said to be unviable by NHG), the fall would be worse without the Mayor's contribution [^7].
 
-In cash terms, the fall in the profit rate for the updated scheme has increased the 'viability deficit' from around £6.69m to around £24.16m.  The increased Mayor's grant saves a further £13.72m from being added to this deficit.
+In cash terms, the fall in the profit rate for the updated scheme has increased the 'viability deficit' from around £6.69m to around £24.16m.  The increased Mayor's grant saves a further £13.72m from being added to this deficit [^8].
 
 ### What we say
 
@@ -66,3 +66,5 @@ A question also naturally arises as to what exactly the Mayor's affordable housi
 [^6] The grant for the original proposal was £28.79m for 245 affordable homes - an average cost of £117.49k per home.  The grant for the updated proposal is £42.51m for 262 affordable homes - an average cost of £162.25k per home.   By calculation, using averages, the Mayor's grant is worth about a third of the cost of the affordable housing - £325,280,540 (total cost) divided by 640= £508.25k av cost per unit; x 262 affordable units = £133.162m; divided by £42.51m = 3.13.  See the Appraisal Summary, Financial Viability Assessment, Sept 2024, pg 137 for total cost figure. 
 
 [^7] For the 12.27% GDV profit see the Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES 9, May 2022. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, and then under the 'Documents' tab.  By calculation, the original profit is 12.27% x £244.44m GDV = £29.98m; the updated profit is 5.22% x £258.76m GDV = £13.5m.  See also the Appraisal Summary, pg. 143, 144
+
+[^8] For the £6.69m viability deficit see the Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES 8, May 2022

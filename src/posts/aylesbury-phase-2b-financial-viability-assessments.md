@@ -27,7 +27,7 @@ The viability assessment also excludes inflation and sets the benchmark land val
 
 ### The Mayor gives an £13.72m for extra 17 units
 
-The updated assessment also shows that the Mayor is giving NHG an extra £13.72m in affordable housing grant, raising it to £42.51m from £28.79m.  The number of affordable units is also rising, but only by 17 units, which means a nominal grant for each additional unit of £807,058 [^5].
+The updated assessment also shows that the Mayor is giving NHG an extra £13.72m in affordable housing grant, raising it to £42.51m from £28.79m.  The number of affordable units is also rising, but only by 17 units, which means a nominal grant for each additional unit of £807,358 [^5].
 
 Put another way, the average grant for each unit of affordable housing has risen from £115.39k per home to £162.25k per home, which is about a third of the total build cost for an affordable home [^6].
 
@@ -63,6 +63,6 @@ A question also naturally arises as to what exactly the Mayor's affordable housi
 
 [^5] Figures for GLA grant and affordable housing taken from Financial Viability Assessments of May 2022 and Sept 2024.
 
-[^6] The grant for the original proposal was £28.27m for 245 affordable homes - an average cost of £115.39k per home.  The grant for the updated proposal is £42.51m for 262 affordable homes - an average cost of £162.25k per home.   By calculation, using averages, the Mayor's grant is about a third of the cost of the affordable housing - £325,280,540 (total cost) divided by 640= £508.25k av cost per unit; x 262 affordable units = £133.162m; divided by £42.51m = 3.13.  See the Appraisal Summary, Financial Viability Assessment, Sept 2024, pg 137 for total cost figure. 
+[^6] The grant for the original proposal was £28.79m for 245 affordable homes - an average cost of £115.39k per home.  The grant for the updated proposal is £42.51m for 262 affordable homes - an average cost of £162.25k per home.   By calculation, using averages, the Mayor's grant is about a third of the cost of the affordable housing - £325,280,540 (total cost) divided by 640= £508.25k av cost per unit; x 262 affordable units = £133.162m; divided by £42.51m = 3.13.  See the Appraisal Summary, Financial Viability Assessment, Sept 2024, pg 137 for total cost figure. 
 
 [^7] For the 12.27% GDV profit see the Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES 9, May 2022. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, and then under the 'Documents' tab.  By calculation, the original profit is 12.27% x £244.44m GDV = £29.94m; the updated profit is 5.22% x £258.76m GDV = £13.5m.  See also the Appraisal Summary, pg. 143, 144

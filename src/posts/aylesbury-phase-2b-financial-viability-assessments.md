@@ -21,7 +21,7 @@ According to this line of thinking, while there is the £13.5m profit, this is s
 
 The assessment makes the cautious caveat that should both sales values and costs improve by around 5%, then the scheme would become viable, which means it could generate a much higher profit of 14.55% of GDV and still provide the 50% affordable housing, as required by the Southwark Plan 2022. 
 
-The viability assessment also sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing will be paid for the land.  If NHG had to pay for the land then this would increase the *'viability deficit'* and reduce profit [^4].
+The viability assessment also excludes inflation and sets the benchmark land value at £0, *'based on the development agreement between NHG and LB Southwark'*, which indicates that nothing will be paid for the land.  If NHG had to pay for the land then this would increase the *'viability deficit'* and reduce profit [^4].
 
 ![](img/image_excerpt_financial_viability_assessment_sept_2024.png)
 
@@ -57,9 +57,9 @@ A question also naturally arises as to what exactly the Mayor's affordable housi
 
 [^2] Despite this NHG say that the extra floors are *'to ensure the scheme viably delivers the required affordable homes' -* Planning Statement Addendum, Sept 2024, 3.9, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9
 
-[^3] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES10, ES11, 10 September 2024. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.   See also the Appraisal Summary, pg 136, 137, 138.  A £37.66m profit on the private and affordable housing, plus commercial profit, is listed as 'Additional Costs', generating a loss of £24.165m; moving the £37.66m from the cost column turns this into a £13.495m profit.
+[^3] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES10, ES11, Sept 2024. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.   See also the Appraisal Summary, pg 136, 137, 138.  A £37.66m profit on the private and affordable housing, plus commercial profit, is listed as 'Additional Costs', generating a loss of £24.165m; moving the £37.66m from the cost column turns this into a £13.495m profit.
 
-[^4] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES13, ES10, 10 September 2024. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.
+[^4] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES12, ES13, Sept 2024. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.
 
 [^5] See entries for 'GLA AH Grant' in Table 1.1 in the respective financial viability assessments of May 2022 and Sept 2024.
 

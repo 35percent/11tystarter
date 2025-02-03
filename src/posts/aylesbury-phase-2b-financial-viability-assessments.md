@@ -49,7 +49,7 @@ NHG are also benefitting from an increase to their affordable housing grant, whi
 
 This does not look like a bad deal for NHG.  
 
-A question also naturally arises as to what exactly the Mayor's affordable housing grant is being spent on, when the rate of grant per unit rises so steeply (by over 40%), while a comparison of the original and updated viability assessments show that total build costs for the scheme have risen by much less -16%.  It's hard not to suspect that the increase has a much to do with maintaining 'viability' as it does with securing more affordable housing.
+A question also naturally arises as to what exactly the Mayor's affordable housing grant is being spent on, when the rate of grant per unit rises so steeply (by over 40%), while a comparison of the original and updated viability assessments show that total development costs for the scheme have risen by much less -16%.  It's hard not to suspect that the increase has a much to do with maintaining 'viability' as it does with securing more affordable housing [^9].
 
 ##### Footnotes:
 
@@ -65,6 +65,8 @@ A question also naturally arises as to what exactly the Mayor's affordable housi
 
 [^6] The grant for the original proposal was £28.79m for 245 affordable homes - an average cost of £117.49k per home.  The grant for the updated proposal is £42.51m for 262 affordable homes - an average cost of £162.25k per home.   By calculation, using averages, the Mayor's grant is worth about a third of the cost of the affordable housing - £325,280,540 (total cost) divided by 640= £508.25k av cost per unit; x 262 affordable units = £133.162m; divided by £42.51m = 3.13.  See the Appraisal Summary, Financial Viability Assessment, Sept 2024, pg 137 for total cost figure. 
 
-[^7] For the 12.27% GDV profit see the Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES 9, May 2022. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, and then under the 'Documents' tab.  By calculation, the original profit is 12.27% x £244.44m GDV = £29.98m; the updated profit is 5.22% x £258.76m GDV = £13.5m.  See also the Appraisal Summary, pg. 143, 144
+[^7] For the 12.27% GDV profit see the Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES 9, May 2022. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, and then under the 'Documents' tab.  By calculation, the original profit is 12.27% x £244.44m GDV = £29.98m; the updated profit is 5.22% x £258.76m GDV = £13.5m.  See also the Appraisal Summary, pg. 143, 144.
 
-[^8] For the £6.69m viability deficit see the Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES 8, May 2022
+[^8] For the £6.69m viability deficit see the Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES 8, May 2022.
+
+[^9] Total costs have risen from £279,815,369 to £325,280,540, between May 2022 and Sept 2024 - a difference of £45,465,171, a 16.29% rise.  Figures for Total Costs from Appraisal Summaries,  Financial Viability Assessments, May 2022 and Sept 2024,

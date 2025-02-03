@@ -69,4 +69,4 @@ A question also naturally arises as to what exactly the Mayor's affordable housi
 
 [^8] For the £6.69m viability deficit see the Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES 8, May 2022.
 
-[^9] Total costs have risen from £279,815,369 to £325,280,540, between May 2022 and Sept 2024 - a difference of £45,465,171, a 16.29% rise.  Figures for Total Costs from Appraisal Summaries,  Financial Viability Assessments, May 2022 and Sept 2024,
+[^9] Total costs have risen from £279,815,369 to £325,280,540, between May 2022 and Sept 2024 - a difference of £45,465,171, a 16.29% rise.  Figures for Total Costs from Appraisal Summaries,  Financial Viability Assessments, May 2022 and Sept 2024.

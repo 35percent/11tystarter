@@ -55,7 +55,7 @@ A question also naturally arises as to what exactly the Mayor's affordable housi
 
 [^1] Despite this NHG say that the extra floors are *'to ensure the scheme viably delivers the required affordable homes' -* Planning Statement Addendum, Oct 2024, 3.9, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9
 
-[^2] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES10, ES11, 10 September 2024. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.   See also the Appraisal Summary, pg 136, 137, 138.
+[^2] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES10, ES11, 10 September 2024. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.   See also the Appraisal Summary, pg 136, 137, 138.  A £37.66m profit on the private and affordble housing, plus commercial profit, is listed as 'Additional Costs', generating a loss of £24.165m; moving the £37.66m from the cost column turns this into a £13.495m profit.
 
 [^3] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES13, ES10, 10 September 2024. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.
 

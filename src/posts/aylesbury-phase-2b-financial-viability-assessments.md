@@ -25,7 +25,7 @@ The viability assessment also excludes inflation and sets the benchmark land val
 
 ![](img/image_excerpt_financial_viability_assessment_sept_2024.png)
 
-### The Mayor gives an extra £13.72m for 17 units
+### The Mayor gives an £13.72m for extra 17 units
 
 The updated assessment also shows that the Mayor is giving NHG an extra £13.72m in affordable housing grant, raising it to £42.51m from £28.79m.  The number of affordable units is also rising, but only by 17 units, which means a nominal grant for each additional unit of £807,058 [^5].
 
@@ -61,7 +61,7 @@ A question also naturally arises as to what exactly the Mayor's affordable housi
 
 [^4] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES12, ES13, Sept 2024. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.
 
-[^5] See entries for 'GLA AH Grant' in Table 1.1 in the respective financial viability assessments of May 2022 and Sept 2024.
+[^5] Figures for GLA grant and affordable housing taken from Financial Viability Assessments of May 2022 and Sept 2024.
 
 [^6] The grant for the original proposal was £28.27m for 245 affordable homes - an average cost of £115.39k per home.  The grant for the updated proposal is £42.51m for 262 affordable homes - an average cost of £162.25k per home.   By calculation, using averages, the Mayor's grant is about a third of the cost of the affordable housing - £325,280,540 (total cost) divided by 640= £508.25k av cost per unit; x 262 affordable units = £133.162m; divided by £42.51m = 3.13.  See the Appraisal Summary, Financial Viability Assessment, Sept 2024, pg 137 for total cost figure. 
 

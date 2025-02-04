@@ -39,7 +39,7 @@ The extra affordable housing grant also makes for a healthier looking bottom lin
 
 In cash terms, the fall in the profit rate for the updated scheme has increased the 'viability deficit' from around £6.69m to around £24.16m.  The increased Mayor's grant saves a further £13.72m from being added to this deficit [^8].
 
-### What we say
+### What we say - what's the grant being spent on?
 
 It is important to remember that a viability deficit is not the same as a loss.  A viability deficit is simply the difference between what a developer wants to make and what they say they will make.
 
@@ -57,7 +57,7 @@ A question also naturally arises as to what exactly the Mayor's affordable housi
 
 [^2] Despite this NHG say that the extra floors are *'to ensure the scheme viably delivers the required affordable homes' -* Planning Statement Addendum, Sept 2024, 3.9, 22/AP/2226 - find via <https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=RDU2YJKB00300>3.9
 
-[^3] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES10, ES11, Sept 2024. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.   See also the Appraisal Summary, pg 136, 137, 138.  A £37.66m profit on the private and affordable housing, plus commercial profit, is listed as 'Additional Costs', generating a loss of £24.165m; moving the £37.66m from the cost column turns this into a £13.495m profit.
+[^3] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES10, ES11, Sept 2024. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.   See also the Appraisal Summary, pg 136, 137, 138.  A £37.66m profit on the private and affordable housing, plus commercial profit, is listed as 'Additional Costs', generating a loss of £24.165m; taking out the £37.66m from the cost column turns this into a £13.495m profit.
 
 [^4] Financial Viability Assessment, Phase 2B, Aylesbury Estate Regeneration, ES12, Table 1.1, ES13, Sept 2024. This can be found via the [Southwark Planning Register](https://planning.southwark.gov.uk/online-applications/), using ref 22/AP/2226, under the 'Documents' tab.
 

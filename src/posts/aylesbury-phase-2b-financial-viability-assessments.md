@@ -7,17 +7,17 @@ image: img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-a
 
 ### New viability assessment shows £13.5m profit
 
-Notting Hill Genesis' (NHG) stands to make a £13.5m profit from its [second attempt at getting planning permission](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) for the next phase (2B) of the Aylesbury regeneration.  This is according to a new viability assessment submitted by NHG in support of their updated planning application.  NHG's first attempt was approved by Southwark's planning committee in January 2024, but made no further progress, after getting entangled in a [successful High Court challenge](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/) by local resident and campaigner Aysen Dennis.
+[Notting Hill Genesis](https://nhg.org.uk) (NHG) stands to make a £13.5m profit from its [second attempt at getting planning permission](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/) for the next phase (2B) of the Aylesbury regeneration.  This is according to a new viability assessment submitted by NHG in support of their updated planning application.  NHG's first attempt was approved by Southwark's planning committee in January 2024, but made no further progress, after getting entangled in a [successful High Court challenge](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/) by Aylesbury resident and campaigner Aysen Dennis.
 
-NHG's updated application takes account of new requirements for a second staircase in tall buildings and other safety measures.  Extra floors have been added to compensate for lost residential floorspace in seven of the eleven buildings, which will be between five and ten storeys, with one tower of 26 storeys.  The number of homes will increase from 614 to 640, with an increase in the number of social rented homes (163 to 173) and of intermediate part-buy/part-let homes (82 to 89). The number of private homes has been increased to 378 from 369 [^1]
+NHG's updated application takes account of new requirements for a second staircase in tall buildings and other safety measures.  Extra floors have been added to compensate for lost residential floorspace in seven of the eleven buildings, which will be between five and ten storeys, with one tower of 26 storeys.  The number of homes will increase from 614 to 640, with an increase in the number of social rented homes (from 163 to 173) and of intermediate part-buy/part-let homes (from 82 to 89). The number of private homes has been increased to 378 from 369 [^1]
 
 ![](https://35percent.org/img/exhibition_boards_150624.pdf-adobe-acrobat-reader-64-bit-11_11_2024-09_52_45.png)
 
 ### £0 for the land, but still not financially viable
 
-While the updated Phase 2B should make at least £13.5m profit, NHG say that it is still not viable, despite gaining revenue from the extra floors.  The  updated viability assessment for the scheme concludes *'the appraisals generate a viability deficit of c. £24.16m'.*  It goes on to say that *'if the deficit were to be absorbed by the Applicant's* \[NHG] *target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This 'Gross Development Value' is the combined worth of all the housing and commercial premises and amounts to £258.71m.  So, even though the scheme is *'unviable'*, it is still expected to make a profit of around £13.5m (5.22% of £258.76m) [^2].
+While the updated Phase 2B should make NHG at least £13.5m profit, NHG says that it is still not viable, despite gaining revenue from the extra floors.  The  updated viability assessment for the scheme concludes *'the appraisals generate a viability deficit of c. £24.16m'.*  It goes on to say that *'if the deficit were to be absorbed by the Applicant's* \[NHG] *target return, the equivalent profit would equate to 5.22% on GDV (blended)'*.  This 'Gross Development Value' is the combined worth of all the housing and commercial premises and amounts to £258.71m.  So, even though the scheme is *'unviable'*, it is still expected to make a profit of around £13.5m (5.22% of £258.76m) [^2].
 
-According to this line of thinking, while there is the £13.5m profit, this is still a *'viability deficit'*.  NHG says of the profit that *'This is lower than typical target thresholds for schemes of this size and also below any of the thresholds adopted/ accepted for other estate regeneration schemes across London'* [^3].
+According to this line of thinking, while there is the £13.5m profit, this is still a *'viability deficit'*.  NHG says of the profit that *'This is lower than typical target [profit] thresholds for schemes of this size and also below any of the thresholds adopted/ accepted for other estate regeneration schemes across London'* [^3].
 
 The assessment makes the cautious caveat that should both sales values and costs improve by around 5%, then the scheme would become viable, which means it could generate a much higher profit of 14.55% of GDV and still provide the 50% affordable housing, as required by the Southwark Plan 2022. 
 
@@ -25,7 +25,7 @@ The viability assessment also excludes inflation and sets the benchmark land val
 
 ![](https://35percent.org/img/image_excerpt_financial_viability_assessment_sept_2024.png)
 
-### The Mayor gives an £13.72m for extra 17 units
+### The Mayor gives £13.72m more in funding for just 17 additional homes
 
 The updated assessment also shows that the Mayor is giving NHG an extra £13.72m in affordable housing grant, raising it to £42.51m from £28.79m.  The number of affordable units is also rising, but only by 17 units, which means a nominal grant for each additional unit of £807,358 [^5].
 
@@ -41,15 +41,15 @@ In cash terms, the fall in the profit rate for the updated scheme has increased 
 
 ### What we say - what's the grant being spent on?
 
-It is important to remember that a viability deficit is not the same as a loss.  A viability deficit is simply the difference between what a developer wants to make and what they say they will make.
+It is important to remember that a viability deficit is not the same as a loss.  A viability deficit is simply the difference between the profit a developer wants to make and what the viability assessment estimates they will make.
 
-NHG want to make 14.55% (GDV), around £37.65m, on the updated plans for Phase 2B, but say they are only going to make 5.22%, around £13.5m, leaving them with a 'viability deficit' of around £24.16m.  This is still a profit though, of £13.5m, and small changes in sales values could significantly improve this. 
+NHG want to make 14.55% profit on the total scheme value, which equates to around £37.65m on this phase, but say they are only going to make 5.22% (around £13.5m) leaving them with a _'viability deficit'_ of around £24.16m.  This is still a profit though (of £13.5m) and it acknowledges that small increases in sales values could significantly improve this. 
 
 NHG are also benefitting from an increase to their affordable housing grant, which has risen by £13.72m, but with only a small increase in affordable housing, of seventeen 17 units (10 social rent, 7 shared ownership).  NHG are also getting the land for free. 
 
 This does not look like a bad deal for NHG.  
 
-A question also naturally arises as to what exactly the Mayor's affordable housing grant is being spent on, when the rate of grant per unit rises so steeply (by nearly 40%), while a comparison of the original and updated viability assessments show that total development costs for the scheme have risen by much less -16%.  It's hard not to suspect that the increase has a much to do with maintaining 'viability' as it does with securing more affordable housing [^9].
+A question also naturally arises as to what exactly the Mayor's affordable housing grant is being spent on, when the rate of grant per unit rises so steeply (by nearly 40%), while a comparison of the original and updated viability assessments show that total development costs for the scheme have risen by much less (16%).  It's hard not to suspect that the increase has much to do with maintaining _'viability'_ as it does with securing more affordable housing [^9].
 
 __Footnotes:__
 

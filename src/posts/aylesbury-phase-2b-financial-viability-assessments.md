@@ -1,7 +1,7 @@
 ---
 title: Aylesbury Phase 2B - profitable, but not viable
 description: New viability assessment shows £13.5m profit
-date: 2024-11-28T09:15:39.596Z
+date: 2025-02-05T18:01:45.905Z
 ---
 ![](img/22_ap_2226-design_and_access_statement__part_15_.-3521594.pdf-adobe-acrobat-reader-64-bit-09_11_2024-16_32_16.png)
 

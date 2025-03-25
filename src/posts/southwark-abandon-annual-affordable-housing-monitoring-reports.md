@@ -26,4 +26,7 @@ Clicking on the pie chart brings up a table of the developments of one of the re
 
 Superficially it all looks good, but on closer examination it becomes clear that the ‘survey results’ do not tell us what we need to know, which is whether or not we are getting the affordable housing we should be getting - the whole purpose of an audit.
 
-![](img/monitoring_audit_webpages_landing_page_-22032025_15_06_28.png)
+![](img/monitoring_audit_webpages_landing_page_-22032025_15_06_28.png "Total Registered Provider audit returns")
+
+Starting on the landing page, one problem is immediately apparent; the figures for the three categories of affordable housing (social rent, intermediate, affordable) do not add up to the total number of homes.  They total 20,374, while the figure for ‘Homes’ is given as 23,546 – a difference of over 3,000 homes .
+Moving onto individual providers and taking Southern Housing as an example, we can see that the same problem is repeated; the total number of homes provided is given as 3,580, whereas the total for the three categories is 2,995 – a difference of 585 homes.

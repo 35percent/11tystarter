@@ -47,13 +47,9 @@ Checking another big registered provider, London & Quadrant (L&Q), also throws u
 
 ![](img/monitoring_audit_webpage_l-q_25_03_2025-10_20_06_250325.png "L&Q's returns")
 
+L&Q is the affordable housing provider for the completed phases of the Aylesbury regeneration, Site 7, by East St and Phase 1a, on the opposite of the estate, alongside Albany Rd.  A click on application ref 12/AP/2332 shows five entries for Phase 1a, with totals of bedrooms.
 
-
-
-
-
-
-L&Q is the affordable housing provider for the completed phases of the Aylesbury regeneration, Site 7, by East St and Phase 1a, on the opposite of the estate, alongside Albany Rd.  A click on application ref 12/AP/2332 shows that 
+![](img/monitoring_audit_webpage_l-q_-aylesbury_12ap233_25_03_2025-10_45_40.png "Entries for 12/AP/2332, Phase 1a Aylesbury")
 
 #### What should we be getting?
 

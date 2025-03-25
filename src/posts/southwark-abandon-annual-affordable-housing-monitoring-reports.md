@@ -43,7 +43,7 @@ The s106 agreement for the development tells us that the scheme was originally t
 
 #### Looking further - another provider
 
-Checking another big registered provider, London & Quadrant (L&Q), also throws up some confusing data.   A click on the pie chart, opening L&Q developments shows that while their total number of homes is 4001, the combined total of social rent, intermediate and affordable only amounts to 3,454 - a difference of nearly 547 homes. 
+Checking another big registered provider, London & Quadrant (L&Q), also throws up some confusing data.   A click on the pie chart, opening L&Q developments shows that while their total number of homes is 4,001, the combined total of social rent, intermediate and affordable only amounts to 3,454 - a difference of 547 homes. 
 
 ![](img/monitoring_audit_webpage_l-q_25_03_2025-10_20_06_250325.png "L&Q's returns")
 
@@ -57,15 +57,11 @@ This gives rents, inclusive of service charge of of £1,138; £1,066; £661 and 
 
 Moving onto page 2 of the entry, brings up the s106 data held- this shows a series of blanks, which presumably means nothing is held. This page also shows a different number of total units, 23 homes, not  twenty-four, and 19 intermediate, not twenty.
 
-![](img/monitoring_audit_l-q_aylesbury_12ap332_first_entry_s106_25_03_2025-11_49_19.png)
+![](img/monitoring_audit_l-q_aylesbury_12ap332_first_entry_s106_25_03_2025-11_49_19.png "S106 data for 12/AP/2332, first entry")
 
 In short, while we can search the data and surmise that there are four social rent units, this is not confirmed by the audit, which leaves the figure for 'Social Rented' blank, has no figures for bedroom size, and contradictory information about both the total number of units and the number of intermediate units.
 
 Further than this, there are no entries for the s106 affordable housing data, so Southwark appears not to hold any information aginst which it can ensure that the correct amount of affordable housing has been delivered.  This also means that Southwark does not have the means of enforcing delivery should it wish to - without the s106 agreement, Southwark would have little or no evidence for a legal claim. 
-
-
-
-![](img/monitoring_audit_webpage_l-q_-aylesbury_12ap233_25_03_2025-10_45_40.png "Entries for 12/AP/2332, Phase 1a Aylesbury")
 
 #### What should we be getting?
 

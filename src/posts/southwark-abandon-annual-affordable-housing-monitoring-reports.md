@@ -53,7 +53,7 @@ The figures for the five categories of affordable housing show similar large dif
 
 
 
-![](img/monitoring_audit_webpages_pg_2_22032025_16_22_49.png)
+![](img/monitoring_audit_webpages_pg_2_22032025_16_22_49.png "Total homes provided measured against number promised by s106 agreements")
 
 #### What we think
 

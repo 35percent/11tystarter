@@ -97,6 +97,10 @@ Southwark’s own record of s106 information is also incomplete – previous blo
 
 Whatever the explanation, Southwark should not just rest on the Ombudsman’s decision ‘in our favour’ to deflect any criticism of the audit, when it is so clearly not achieving its purpose.  The second Ombudman’s decision was only concerned with the processs of the audit, not the outcomes. It is also worth noting that Southwark gave the Ombudsman an undertaking that there would be an annual audit, which it only partial fulfilled and is now abandoning, leaving us further from a proper audit process than we were in 2016.
 
+Something more about Obmbudman's decision
+
+Refer to Joe Penny's PILC report
+
 
 END
 

@@ -53,7 +53,7 @@ The figures for the five categories of affordable housing show similar large dif
 
 
 
-
+![](img/monitoring_audit_webpages_pg_2_22032025_16_22_49.png)
 
 ^1   These were the figures on the 22 Mar 2025; they may have since been varied.
 

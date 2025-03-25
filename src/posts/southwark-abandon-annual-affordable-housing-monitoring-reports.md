@@ -25,3 +25,5 @@ Clicking on the pie chart brings up a table of the developments of one of the re
 #### Taking a closer look 
 
 Superficially it all looks good, but on closer examination it becomes clear that the ‘survey results’ do not tell us what we need to know, which is whether or not we are getting the affordable housing we should be getting - the whole purpose of an audit.
+
+![](img/monitoring_audit_webpages_landing_page_-22032025_15_06_28.png)

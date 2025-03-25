@@ -35,7 +35,7 @@ Moving onto individual providers and taking Southern Housing as an example, we c
 
 ![](img/monitorin_audit_webpages_southern_housing_22032025_15_22_54.png "Southen Housing's returns")
 
-
+Clicking at random one of Southern’s schemes, 03/AP/1044, shows a similar problem; the figures only add up to 54 when the total is 80.  Checking the data table shows that the remaining thirteen homes are let at London Affordable Rents, an intermediate rent, but this does not appear in the figures displayed.
 
 
 

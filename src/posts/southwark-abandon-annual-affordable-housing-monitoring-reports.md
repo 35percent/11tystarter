@@ -55,6 +55,21 @@ The figures for the five categories of affordable housing show similar large dif
 
 ![](img/monitoring_audit_webpages_pg_2_22032025_16_22_49.png)
 
+#### What we think
+
+It is very difficult to make sense of what Southwark claim is their audit of the amount of affordable housing that RPs are providing to the borough, as explained on their [Housing delivery page](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title).
+
+
+Southwark say that ‘The annual audit starts in March and covers the previous financial year’, but the data published on the website obviously does not come from the single year and can only be the cumulative numbers of many years – Southwark do not say what those years are.
+
+
+Southwark also say ‘Results are published as soon as a response is received from a registered provider and the data has been validated by council officers. This means the results will update throughout the audit period’.  Assuming the audit period began in March 2024, are we seeing the returns for Mar 2024 to Mar 2025?  Again, Southwark does not say.  If, on the other hand, Southwark are continuing to get returns and simply adding data as it is received, it just turns the ‘audit’ into a data dump.
+Further, the validation is obviously hopeless – none of the figures match and apart from the occasional note there is no evidence any action has been taken to explain obvious discrepancies ; Southwark is ultimately simply trusting that the information it is receiving is accurate.
+
+
+
+
+
 ^1   These were the figures on the 22 Mar 2025; they may have since been varied.
 
 ^2   The s106, dated 9 Jan 2006, can be found via Southwark’s planning register, using ref 03/AP/1044 in the search box.  It is also noteworthy that while Southerb Housing are letting units at London Affordable Rent, LAR is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category on 2009).

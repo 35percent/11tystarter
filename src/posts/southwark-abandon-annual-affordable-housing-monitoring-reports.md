@@ -51,6 +51,10 @@ Again, none of the figures remotely add up.  The data provided by the registered
 
 The figures for the five categories of affordable housing show similar large differences (for affordable rent, total affordable homes, intermediate homes, social rented homes and other affordable homes).  The difference for social housing is particularly striking; the RP provided data shows that they have provided 14,239 social rented homes, while the s106 agreements only require that they provide 1,833 – a difference of 12,406 homes, which if it is to be believed means that 
 
+
+
+
+
 ^1   These were the figures on the 22 Mar 2025; they may have since been varied.
 
 ^2   The s106, dated 9 Jan 2006, can be found via Southwark’s planning register, using ref 03/AP/1044 in the search box.  It is also noteworthy that while Southerb Housing are letting units at London Affordable Rent, LAR is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category on 2009).

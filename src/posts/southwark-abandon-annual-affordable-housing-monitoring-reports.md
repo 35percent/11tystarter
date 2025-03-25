@@ -30,7 +30,6 @@ Superficially it all looks good, but on closer examination it becomes clear that
 
 Starting on the landing page, one problem is immediately apparent; the figures for the three categories of affordable housing (social rent, intermediate, affordable) do not add up to the total number of homes.  They total 20,374, while the figure for ‘Homes’ is given as 23,546 – a difference of over 3,000 homes .^1
 
-
 Moving onto individual providers and taking Southern Housing as an example, we can see that the same problem is repeated; the total number of homes provided is given as 3,580, whereas the total for the three categories is 2,995 – a difference of 585 homes.
 
 ![](img/monitorin_audit_webpages_southern_housing_22032025_15_22_54.png "Southen Housing's returns")

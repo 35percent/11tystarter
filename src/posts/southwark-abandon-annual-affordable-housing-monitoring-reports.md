@@ -61,7 +61,7 @@ Moving onto page 2 of the entry, brings up the s106 data held- this shows a seri
 
 In short, while we can search the data and surmise that there are four social rent units, this is not confirmed by the audit, which leaves the figure for 'Social Rented' blank, has no figures for bedroom size, and contradictory information about both the total number of units and the number of intermediate units.
 
-Further than this, there are no entries for the s106 affordable housing data, so Southwark appears not to hold any information aginst which it can ensure that the correct amount of affordable housing has been delivered.  This also means that Southwark does not have the means of enforcing delivery should it wish to - without the s106 agreement, Southwark would have little or no evidence for a legal claim. 
+Further than this, there are no entries for the s106 affordable housing data, so Southwark appears not to hold any information aginst which it can ensure that the correct amount of affordable housing has been delivered.  This also means that Southwark does not have the means of enforcing delivery should it wish to - without the s106 agreement Southwark would have little or no evidence for a legal claim. 
 
 #### What should we be getting?
 

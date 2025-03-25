@@ -92,7 +92,7 @@ END
 
 
 
-^1   These were the figures on the 22 Mar 2025; they may have since been varied.
+^1   All screen shots of audit pages are from dates between 22 Mar and 25 Mar 2025; they may have since been varied.
 
 ^2   The s106, dated 9 Jan 2006, can be found via Southwark’s planning register, using ref 03/AP/1044 in the search box.  It is also noteworthy that while Southerb Housing are letting units at London Affordable Rent, LAR is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category on 2009).
 

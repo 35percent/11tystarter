@@ -15,3 +15,9 @@ Since then a second Ombudsman’s report has given Southwark a clean bill of hea
 
 
 In response to inquiries by the Southwark Law Centre , Southwark claim that the are no longer needed because they now have [a webpage](https://app.powerbi.com/view?r=eyJrIjoiNzJhYTg1ZDYtNzcxZC00MDQzLThlMDUtNTkyNDk2MTBkMzkyIiwidCI6ImY3YWRjZjA2LTk1OGYtNDRjNC1iYzFjLTMzOWVkZDkwOTAzZCIsImMiOjh9&pageName=591e92e31d05964600da) that does the job.
+
+#### Southwark’s Housing delivery webpages
+
+Southwark Council’s [Housing delivery ](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title)webpage has the [‘latest registered provider survey results’](https://app.powerbi.com/view?r=eyJrIjoiNzJhYTg1ZDYtNzcxZC00MDQzLThlMDUtNTkyNDk2MTBkMzkyIiwidCI6ImY3YWRjZjA2LTk1OGYtNDRjNC1iYzFjLTMzOWVkZDkwOTAzZCIsImMiOjh9&pageName=591e92e31d05964600da) which have replaced the annual audit.  The survey results are displayed using tables, a pie chart and an interactive map. 
+
+Clicking on the pie chart brings up a table of the developments of one of the registered providers who provide affordable housing in Southwark. A further click on one of the listed developments brings up a circle on the interactive map. Hover over the circle and a label giving the postcode and number of homes in the development appears; right click on the label and then on the ‘Show data point as a table’ option leads to a table giving the development’s details.

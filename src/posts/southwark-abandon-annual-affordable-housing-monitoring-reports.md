@@ -41,6 +41,18 @@ The s106 agreement for the development tells us that the scheme was originally t
 
 ![](img/monitoring_audit_webpages_-pelican_house_03ap1044_22032025_15_31_04.png "03/AP/1044 returns")
 
+
+
+#### What should we be getting?
+
+A further problem is that the figures for what has been delivered do not match the figures for what should be delivered.  What should be delivered is determined by the legal s106 agreements that developers sign with the councils and appear on page 2 of the webpages. ^3
+
+Again, none of the figures remotely add up.  The data provided by the registered provider (RP) shows that 23,546 have been provided, whereas the number of homes that the s106 agreements say should be provided is 14,592 – a difference of 8,954 homes.
+
+The figures for the five categories of affordable housing show similar large differences (for affordable rent, total affordable homes, intermediate homes, social rented homes and other affordable homes).  The difference for social housing is particularly striking; the RP provided data shows that they have provided 14,239 social rented homes, while the s106 agreements only require that they provide 1,833 – a difference of 12,406 homes, which if it is to be believed means that 
+
 ^1   These were the figures on the 22 Mar 2025; they may have since been varied.
 
 ^2   The s106, dated 9 Jan 2006, can be found via Southwark’s planning register, using ref 03/AP/1044 in the search box.  It is also noteworthy that while Southerb Housing are letting units at London Affordable Rent, LAR is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category on 2009).
+
+^3   Click on < 1 of 3  > at bottom of webpage, to change pages.

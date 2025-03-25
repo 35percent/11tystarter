@@ -37,6 +37,8 @@ Moving onto individual providers and taking Southern Housing as an example, we c
 
 Clicking at random one of Southern’s schemes, 03/AP/1044, shows a similar problem; the figures only add up to 54 when the total is 80.  Checking the data table shows that the remaining thirteen homes are let at London Affordable Rents, an intermediate rent, but this does not appear in the figures displayed.
 
-
+The s106 agreement for the development tells us that the scheme was originally to have 31 affordable homes, out of 82 total units, so it appears there has been a welcome increase of 49 affordable housing units that has not been captured. ^2 
 
 ^1   These were the figures on the 22 Mar 2025; they may have since been varied.
+
+^2   The s106, dated 9 Jan 2006, can be found via Southwark’s planning register, using ref 03/AP/1044 in the search box.  It is also noteworthy that while Southerb Housing are letting units at London Affordable Rent, LAR is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category on 2009).

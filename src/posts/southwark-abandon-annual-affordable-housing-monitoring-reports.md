@@ -41,7 +41,19 @@ The s106 agreement for the development tells us that the scheme was originally t
 
 ![](img/monitoring_audit_webpages_-pelican_house_03ap1044_22032025_15_31_04.png "03/AP/1044 returns")
 
+#### Looking further - another provider
 
+Checking another big registered provider, London & Quadrant (L&Q), also throws up some confusing data.   A click opening the L&Q developments shows that while their total number of homes is 4001, the combined total of social rent, intermediate and affordable only amounts to 3,454 - a difference of nearly 547 homes. 
+
+![](img/monitoring_audit_webpage_l-q_25_03_2025-10_20_06_250325.png "L&Q's returns")
+
+
+
+
+
+
+
+L&Q is the affordable housing provider for the completed phases of the Aylesbury regeneration, Site 7, by East St and Phase 1a, on the opposite of the estate, alongside Albany Rd.  A click on application ref 12/AP/2332 shows that 
 
 #### What should we be getting?
 

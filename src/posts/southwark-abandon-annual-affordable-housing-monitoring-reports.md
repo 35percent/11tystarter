@@ -43,7 +43,7 @@ The s106 agreement for the development tells us that the scheme was originally t
 
 #### Looking further - another provider
 
-Checking another big registered provider, London & Quadrant (L&Q), also throws up some confusing data.   A click opening the L&Q developments shows that while their total number of homes is 4001, the combined total of social rent, intermediate and affordable only amounts to 3,454 - a difference of nearly 547 homes. 
+Checking another big registered provider, London & Quadrant (L&Q), also throws up some confusing data.   A click on the pie chart, opening L&Q developments shows that while their total number of homes is 4001, the combined total of social rent, intermediate and affordable only amounts to 3,454 - a difference of nearly 547 homes. 
 
 ![](img/monitoring_audit_webpage_l-q_25_03_2025-10_20_06_250325.png "L&Q's returns")
 

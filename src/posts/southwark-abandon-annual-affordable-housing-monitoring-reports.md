@@ -47,7 +47,23 @@ Checking another big registered provider, London & Quadrant (L&Q), also throws u
 
 ![](img/monitoring_audit_webpage_l-q_25_03_2025-10_20_06_250325.png "L&Q's returns")
 
-L&Q is the affordable housing provider for the completed phases of the Aylesbury regeneration, Site 7, by East St and Phase 1a, on the opposite of the estate, alongside Albany Rd.  A click on application ref 12/AP/2332 shows five entries for Phase 1a, with totals of bedrooms.
+L&Q is the affordable housing provider for the completed phases of the Aylesbury regeneration, Site 7, by East St and Phase 1a, on the opposite of the estate, alongside Albany Rd.  A click on application ref 12/AP/2332 shows five entries for Phase 1a, with total number of bedrooms for each entry. A further click on the first entry, (totalling 47 bedrooms) shows 24 homes, 20 'Intermediate', 0 for 'Affordable' and a '(Blank)'  for 'Social Rented'. 
+
+![](img/monitoring_audit_l-q_aylesbury_12ap2332_first_entry_-25_03_2025-11_37_05.png "L&Q return for 12/AP/2332, first entry")
+
+A right click brings up data table option.  The table shows all twenty four flats listed as 'social rent', but also shows twenty of them as 'intermediate' (a different twenty flats are shown in a third column as 'leasehold').  The four flats omitted from the 'leaseholder' list have monthly rents, rounded to the pound, of £712 (flat 7), £641 (flat 9), £235 (flat 8) and £748 (flat 11).  The service is the same for each flat, £426, rounded to the pound.  
+
+This gives rents, inclusive of service charge of of £1,138; £1,066; £661 and £1,174.  However the audit does not give any data on how many bedrooms each individual flat has, so it is impossible to tell whether or not these are proper social rents (add note about what is a social rent and council rent figures) (note - Click on < 1 of 3  > at bottom of webpage, to change pages).
+
+Moving onto page 2 of the entry, brings up the s106 data held- this shows a series of blanks, which presumably means nothing is held. This page also shows a different number of total units, 23 homes, not  twenty-four, and 19 intermediate, not twenty.
+
+![](img/monitoring_audit_l-q_aylesbury_12ap332_first_entry_s106_25_03_2025-11_49_19.png)
+
+In short, while we can search the data and surmise that there are four social rent units, this is not confirmed by the audit, which leaves the figure for 'Social Rented' blank, has no figures for bedroom size, and contradictory information about both the total number of units and the number of intermediate units.
+
+Further than this, there are no entries for the s106 affordable housing data, so Southwark appears not to hold any information aginst which it can ensure that the correct amount of affordable housing has been delivered.  This also means that Southwark does not have the means of enforcing delivery should it wish to - without the s106 agreement, Southwark would have little or no evidence for a legal claim. 
+
+
 
 ![](img/monitoring_audit_webpage_l-q_-aylesbury_12ap233_25_03_2025-10_45_40.png "Entries for 12/AP/2332, Phase 1a Aylesbury")
 

@@ -33,7 +33,7 @@ Starting on the landing page, one problem is immediately apparent; the figures f
 
 Moving onto individual providers and taking Southern Housing as an example, we can see that the same problem is repeated; the total number of homes provided is given as 3,580, whereas the total for the three categories is 2,995 – a difference of 585 homes.
 
-
+![](img/monitorin_audit_webpages_southern_housing_22032025_15_22_54.png "Southen Housing's returns")
 
 
 

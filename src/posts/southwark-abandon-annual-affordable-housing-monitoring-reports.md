@@ -61,7 +61,7 @@ In short, while we can search the data and surmise that there are four social re
 
 Further than this, there are no entries for the s106 affordable housing data, so Southwark appears not to hold any information against which it can ensure that the correct amount of affordable housing has been delivered.  This also means that Southwark does not have the means of enforcing delivery should it wish to - without the s106 agreement Southwark would have little or no evidence for a legal claim. 
 
-#### What should we be getting?
+#### The totals don't add up
 
 The second page of the audit also shows that it is not just figure for isolated developments that don't add up - neither do the total figures for what are getting against what we should be getting.  What should be delivered is determined by the legal s106 agreements that developers sign with the councils.  The s106 data provided by the registered provider (RP) shows that 23,546 have been provided, whereas the number of homes that the s106 agreements say should be provided is 14,592 – a difference of 8,954 homes. ^3
 
@@ -71,9 +71,13 @@ The figures for the five categories of affordable housing show similar large dif
 
 #### What we think
 
-It is very difficult to make sense of what Southwark claim is their audit of the amount of affordable housing that RPs are providing to the borough, as explained on their [Housing delivery page](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title).
+It is very difficult to make sense of what Southwark claim is their audit of the amount of affordable housing that RPs are providing to the borough, as explained on their [Housing delivery page](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title).  While we can see how much affordable housing has been provided, we cannot see wether it matches what has been promised.
 
-Southwark say that ‘The annual audit starts in March and covers the previous financial year’, but the data published on the website obviously does not come from the single year and can only be the cumulative numbers of many years – Southwark do not say what those years are.
+Southwark say that it's purpose is *'To find out how many affordable homes are in Southwark (excluding our own)'.*  This is important information and the necessary baseline for any audit, but Southwark also wants to ensure that registered providers deliver promised affordable housing, saying * 'Affordable housing is monitored to make sure it is built and managed as we agreed with developers and housing associations'.*  This can only be done if it receives accurate and this cannot be done*,* if   
+
+*Southwark is muddling up the two different aims*
+
+Southwark say that *‘The annual audit starts in March and covers the previous financial year’*, but the data published on the website obviously does not come from the single year and can only be the cumulative numbers of many years – Southwark do not say what those years are.
 
 Southwark also say *‘Results are published as soon as a response is received from a registered provider and the data has been validated by council officers. This means the results will update throughout the audit period’*.  Assuming the audit period began in March 2024, are we seeing the returns for Mar 2024 to Mar 2025?  Again, Southwark does not say.  If, on the other hand, Southwark are continuing to get returns and simply adding data as it is received, it just turns the ‘audit’ into a data dump.
 

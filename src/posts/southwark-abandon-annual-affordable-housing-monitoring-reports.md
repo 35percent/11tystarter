@@ -9,7 +9,7 @@ Only two audits have been conducted since that date in 2016 and 2022. This contr
 
 The development of a proper online tool that could replace the need for monitoring (cost £xxx) was also abandoned. 
 
-Since then a second Ombudsman’s report has given Southwark a clean bill of health.
+Since then a [second Ombudsman’s report](https://www.lgo.org.uk/decisions/planning/other/21-009-646) has given Southwark a clean bill of health.
 
 In response to inquiries by the Southwark Law Centre , Southwark claim that the are no longer needed because they now have [a webpage](https://app.powerbi.com/view?r=eyJrIjoiNzJhYTg1ZDYtNzcxZC00MDQzLThlMDUtNTkyNDk2MTBkMzkyIiwidCI6ImY3YWRjZjA2LTk1OGYtNDRjNC1iYzFjLTMzOWVkZDkwOTAzZCIsImMiOjh9&pageName=591e92e31d05964600da) that does the job.
 
@@ -61,7 +61,7 @@ In short, while we can search the data and surmise that there are four social re
 
 Further than this, there are no entries for the s106 affordable housing data, so Southwark appears not to hold any information against which it can ensure that the correct amount of affordable housing has been delivered.  This also means that Southwark does not have the means of enforcing delivery should it wish to - without the s106 agreement Southwark would have little or no evidence for a legal claim. 
 
-#### The totals don't add up
+#### The figures don't add up
 
 The second page of the audit also shows that it is not just figure for isolated developments that don't add up - neither do the total figures for what are getting against what we should be getting.  What should be delivered is determined by the legal s106 agreements that developers sign with the councils.  The s106 data provided by the registered provider (RP) shows that 23,546 have been provided, whereas the number of homes that the s106 agreements say should be provided is 14,592 – a difference of 8,954 homes. ^3
 
@@ -77,6 +77,10 @@ Southwark say that the purpose of the audit is *'To find out how many affordable
 
 But Southwark also wants to ensure that registered providers deliver promised affordable housing, saying * 'Affordable housing is monitored to make sure it is built and managed as we agreed with developers and housing associations'.*  This cannot be done if Southwark allows the figures for delivery simply to accumulate, on a rolling basis, without any attempt to reconcile them againgst what has been agreed. 
 
+An accurate audit also depends upon receiving accurate information from the registered providers, and having an up to date s106 agreement against which to measure that accuracy.  
+
+Ultimately Southwark is simply trusting in the reliability of the registered providers.
+
 Southwark say that *‘The annual audit starts in March and covers the previous financial year’*, but the data published on the website obviously does not come from the single year and can only be the cumulative numbers of many years – Southwark do not say what those years are.
 
 Southwark also say *‘Results are published as soon as a response is received from a registered provider and the data has been validated by council officers. This means the results will update throughout the audit period’*.  Assuming the audit period began in March 2024, are we seeing the returns for Mar 2024 to Mar 2025?  Again, Southwark does not say.  If, on the other hand, Southwark are continuing to get returns and simply adding data as it is received, it just turns the ‘audit’ into a data dump.
@@ -87,7 +91,7 @@ One explanation for these discrepancies is that the RPs are returning data on th
 
 Southwark’s own record of s106 information is also incomplete – previous blog
 
-Whatever the explanation, Southwark should not just rest on the Ombudsman’s decision ‘in our favour’ to deflect any criticism of the audit, when it is so clearly not achieving its purpose.  The second Ombudman’s decision was only concerned with the processs of the audit, not the outcomes. It is also worth noting that Southwark gave the Ombudsman an undertaking that there would be an annual audit, which it only partial fulfilled and is now abandoning, leaving us further from a proper audit process than we were in 2016.
+Whatever the explanation, Southwark should not just rest on the Ombudsman’s decision ‘in our favour’ to deflect any criticism of the audit, when it is so clearly not achieving its purpose.  The [second Ombudman’s decision](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) was only concerned with the processs of the audit, not the outcomes. It is also worth noting that Southwark gave the Ombudsman an undertaking that there would be an annual audit, which it only partial fulfilled and is now abandoning, leaving us further from a proper audit process than we were in 2016.
 
 Something more about Obmbudman's decision
 

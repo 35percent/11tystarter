@@ -21,13 +21,17 @@ Clicking on the pie chart of registered providers brings up a table of their aff
 
 Superficially it all looks good, but on closer examination it becomes clear that the *‘survey results’* do not tell us what we need to know, which is whether or not we are getting the affordable housing we should be getting - the whole purpose of an audit.
 
+Starting on the landing page, one can see that the figures for the three categories of affordable housing (social rent, intermediate, affordable) do not add up to the number of homes.  It is also not clear what other type of housing could make up the difference, or whether the total for the three types of affordable should match the number given for ‘Home’.
+
+We accessed the page on two separate days, 22 March and 2 April.  On neither occasion did the total number of affordable homes equal the number for the three types of affordable housing - on 22 March they total 20,364 (not 23,546) and on 2 April they total 20,691 (not 21,245) a difference of 3,182 and 554 respectively.
+
 ![](img/monitoring_audit_webpages_landing_page_-22032025_15_06_28.png "Total Registered Provider audit returns")
 
 PLUS IMAGE 2 APRIL SCREENSHOT
 
-Starting on the landing page, one can see that the figures for the three categories of affordable housing (social rent, intermediate, affordable) do not add up to the number of homes.  It is also not clear what other type of housing could make up the difference, or whether the total for the three types of affordable should match the number given for ‘Home’.
+.
 
-We accessed the page on two separate days, 22 March and 2 April.  On neither occasion did the total number of affordable homes equal the number for the three types of affordable housing - on 22 March they total 20,364 (not 23,546) and on 2 April they total 20,691 (not 21,245) a difference of 3,182 and 554 respectively.
+
 
 On top of this, the total number of homes also appears to have fallen, from 23,546 to 21,245 homes, which is surprising, given that the audit is being continually updated by information about newly completed schemes. 
 The numbers of social rent and intermediate units also fell, while the affordable housing units rose, giving a net gain of 327 affordable homes of all kinds. 
@@ -82,7 +86,7 @@ It is very difficult to make sense of what Southwark claim is their audit of the
 
 Southwark say that the purpose of the audit is *'To find out how many affordable homes are in Southwark (excluding our own)'.*  This is important information and the necessary baseline for any audit.
 
-But Southwark also wants to ensure that registered providers deliver promised affordable housing, saying * 'Affordable housing is monitored to make sure it is built and managed as we agreed with developers and housing associations'.*  This cannot be done if Southwark allows the figures for delivery simply to accumulate, on a rolling basis, without any attempt to reconcile them againgst what has been agreed. 
+But Southwark also wants to ensure that registered providers deliver promised affordable housing, saying  *'Affordable housing is monitored to make sure it is built and managed as we agreed with developers and housing associations'.*  This cannot be done if Southwark allows the figures for delivery simply to accumulate, on a rolling basis, without any attempt to reconcile them againgst what has been agreed. 
 
 Southwark refers to *'an audit period'* and says *‘Results are published as soon as a response is received......and the data has been validated....This means the results will update throughout the audit period’,* but Southwark does not say what the audit period is; nor does it provide any explanation of, for example, the huge difference between the social rent s106 figure and the much bigger registered provider figure.  Our Southern Housing example appears to show an uncaptured gain of 49 affordable homes, but it can't be assumed that over twelve thousand social rent units can be explained by similar missing data. 
 

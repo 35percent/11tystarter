@@ -25,13 +25,7 @@ Starting on the landing page, one can see that the figures for the three categor
 
 We accessed the page on two separate days, 22 March and 2 April.  On neither occasion did the total number of affordable homes equal the number for the three types of affordable housing - on 22 March they total 20,364 (not 23,546) and on 2 April they total 20,691 (not 21,245) a difference of 3,182 and 554 respectively.
 
-![](img/monitoring_audit_webpages_landing_page_-22032025_15_06_28.png "Total Registered Provider audit returns")
-
-PLUS IMAGE 2 APRIL SCREENSHOT
-
-.
-
-
+![](img/auidt_accessed_220325_020425.png "Screenshots of audit on 22 Mar 2025 and 2 April 2025")
 
 On top of this, the total number of homes also appears to have fallen, from 23,546 to 21,245 homes, which is surprising, given that the audit is being continually updated by information about newly completed schemes. 
 The numbers of social rent and intermediate units also fell, while the affordable housing units rose, giving a net gain of 327 affordable homes of all kinds. 

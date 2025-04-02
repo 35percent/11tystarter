@@ -65,7 +65,7 @@ Further than this, there are no entries for the s106 affordable housing data, so
 
 The second page of the audit also shows that it is not just figure for isolated developments that don't add up - neither do the total figures for what are getting against what we should be getting.  What should be delivered is determined by the legal s106 agreements that developers sign with the councils.  The s106 data provided by the registered provider (RP) shows that 23,546 have been provided, whereas the number of homes that the s106 agreements say should be provided is 14,592 – a difference of 8,954 homes. ^3
 
-The figures for the five categories of affordable housing show similar large differences (for affordable rent, total affordable homes, intermediate homes, social rented homes and other affordable homes).  The difference for social housing is particularly striking; the RP provided data shows that they have provided 14,239 social rented homes, while the s106 agreements only require that they provide 1,833 – a difference of 12,406 homes, which if it is to be believed means that 
+The figures for the five categories of affordable housing show similar large differences (for affordable rent, total affordable homes, intermediate homes, social rented homes and other affordable homes).  The difference for social housing is particularly striking; the RP provided data shows that they have provided 14,239 social rented homes, while the s106 agreements only require that they provide 1,833 – a difference of 12,406 homes.
 
 ![](img/monitoring_audit_webpages_pg_2_22032025_16_22_49.png "Total homes provided measured against number promised by s106 agreements")
 
@@ -77,9 +77,9 @@ Southwark say that the purpose of the audit is *'To find out how many affordable
 
 But Southwark also wants to ensure that registered providers deliver promised affordable housing, saying * 'Affordable housing is monitored to make sure it is built and managed as we agreed with developers and housing associations'.*  This cannot be done if Southwark allows the figures for delivery simply to accumulate, on a rolling basis, without any attempt to reconcile them againgst what has been agreed. 
 
-An accurate audit also depends upon receiving accurate information from the registered providers, and having an up to date s106 agreement against which to measure that accuracy.  
+Southwark refers to *'an audit period',* but does not say what that audit period is*;* instead it appears to have opted for a rolling audit, *with ‘Results are published as soon as a response is received from a registered provider and the data has been validated....This means the results will update throughout the audit period’*.
 
-Ultimately Southwark is simply trusting in the reliability of the registered providers.
+An accurate audit also depends upon receiving accurate information from the registered providers, and having an up to date s106 agreement against which to measure this.  Our L&Q example shows that rent infomation is incomplete (see also [this blogpost](https://www.35percent.org/posts/southwarks-new-developments-that-fail-to-deliver-social-rent/)) and that necessary s106 information is absent; without this kind of information Southwark is simply trusting in the reliability of the registered providers.
 
 Southwark say that *‘The annual audit starts in March and covers the previous financial year’*, but the data published on the website obviously does not come from the single year and can only be the cumulative numbers of many years – Southwark do not say what those years are.
 

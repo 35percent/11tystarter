@@ -71,11 +71,11 @@ The figures for the five categories of affordable housing show similar large dif
 
 #### What we think
 
-It is very difficult to make sense of what Southwark claim is their audit of the amount of affordable housing that RPs are providing to the borough, as explained on their [Housing delivery page](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title).  While we can see how much affordable housing has been provided, we cannot see wether it matches what has been promised.
+It is very difficult to make sense of what Southwark claim is their audit of the amount of affordable housing that RPs are providing to the borough, as explained on their [Housing delivery page](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title).  While we can see how much affordable housing may have been provided, we cannot see immediately wether or not it always matches what has been promised.  Our blog details just two examples which show that there are cases where it does not. (^4 Note of other examples?)
 
-Southwark say that it's purpose is *'To find out how many affordable homes are in Southwark (excluding our own)'.*  This is important information and the necessary baseline for any audit, but Southwark also wants to ensure that registered providers deliver promised affordable housing, saying * 'Affordable housing is monitored to make sure it is built and managed as we agreed with developers and housing associations'.*  This can only be done if it receives accurate and this cannot be done*,* if   
+Southwark say that the purpose of the audit is *'To find out how many affordable homes are in Southwark (excluding our own)'.*  This is important information and the necessary baseline for any audit,
 
-*Southwark is muddling up the two different aims*
+But Southwark also wants to ensure that registered providers deliver promised affordable housing, saying * 'Affordable housing is monitored to make sure it is built and managed as we agreed with developers and housing associations'.*  This cannot be done if Southwark allows the figures for delivery simply to accumulate, on a rolling basis, without any attempt to reconcile them againgst what has been agreed. 
 
 Southwark say that *‘The annual audit starts in March and covers the previous financial year’*, but the data published on the website obviously does not come from the single year and can only be the cumulative numbers of many years – Southwark do not say what those years are.
 

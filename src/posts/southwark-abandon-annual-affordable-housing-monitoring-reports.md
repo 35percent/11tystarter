@@ -3,16 +3,13 @@ title: Southwark abandon annual affordable housing monitoring reports
 description: Southwark give up attempt to conduct annual monitoring reports
 date: 2025-03-25T09:27:39.636Z
 ---
-Southwark Council has abandoned the annual reviews of affordable housing monitoring that they promised to conduct in response to a critical Ombudsman’s report in 2016.  (LINK back to blogpost)
-
+Southwark Council appear to have abandoned the annual reviews of affordable housing monitoring that they promised to conduct in response to a critical Ombudsman’s report in 2016.  (LINK back to blogpost)
 
 Only two audits have been conducted since that date in 2016 and 2022. This contrary to what is stated on Southwark’s [Housing delivery](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title) webpage, which says that they have conducted annually since 2016.
 
 The development of a proper online tool that could replace the need for monitoring (cost £xxx) was also abandoned. 
 
-
 Since then a second Ombudsman’s report has given Southwark a clean bill of health.
-
 
 In response to inquiries by the Southwark Law Centre , Southwark claim that the are no longer needed because they now have [a webpage](https://app.powerbi.com/view?r=eyJrIjoiNzJhYTg1ZDYtNzcxZC00MDQzLThlMDUtNTkyNDk2MTBkMzkyIiwidCI6ImY3YWRjZjA2LTk1OGYtNDRjNC1iYzFjLTMzOWVkZDkwOTAzZCIsImMiOjh9&pageName=591e92e31d05964600da) that does the job.
 
@@ -22,7 +19,7 @@ Southwark Council’s [Housing delivery ](https://www.southwark.gov.uk/planning-
 
 Clicking on the pie chart brings up a table of the developments of one of the registered providers who provide affordable housing in Southwark. A further click on one of the listed developments brings up a circle on the interactive map. Hover over the circle and a label giving the postcode and number of homes in the development appears; right click on the label and then on the ‘Show data point as a table’ option leads to a table giving the development’s details. 
 
-#### Taking a closer look 
+#### Taking a closer look
 
 Superficially it all looks good, but on closer examination it becomes clear that the ‘survey results’ do not tell us what we need to know, which is whether or not we are getting the affordable housing we should be getting - the whole purpose of an audit.
 
@@ -72,20 +69,15 @@ Again, none of the figures remotely add up.  The data provided by the registered
 
 The figures for the five categories of affordable housing show similar large differences (for affordable rent, total affordable homes, intermediate homes, social rented homes and other affordable homes).  The difference for social housing is particularly striking; the RP provided data shows that they have provided 14,239 social rented homes, while the s106 agreements only require that they provide 1,833 – a difference of 12,406 homes, which if it is to be believed means that 
 
-
-
 ![](img/monitoring_audit_webpages_pg_2_22032025_16_22_49.png "Total homes provided measured against number promised by s106 agreements")
 
 #### What we think
 
 It is very difficult to make sense of what Southwark claim is their audit of the amount of affordable housing that RPs are providing to the borough, as explained on their [Housing delivery page](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title).
 
-
 Southwark say that ‘The annual audit starts in March and covers the previous financial year’, but the data published on the website obviously does not come from the single year and can only be the cumulative numbers of many years – Southwark do not say what those years are.
 
-
 Southwark also say *‘Results are published as soon as a response is received from a registered provider and the data has been validated by council officers. This means the results will update throughout the audit period’*.  Assuming the audit period began in March 2024, are we seeing the returns for Mar 2024 to Mar 2025?  Again, Southwark does not say.  If, on the other hand, Southwark are continuing to get returns and simply adding data as it is received, it just turns the ‘audit’ into a data dump.
-
 
 Further, the validation is obviously hopeless – none of the figures match and apart from the occasional note there is no evidence any action has been taken to explain obvious discrepancies ; Southwark is ultimately simply trusting that the information it is receiving is accurate.
 
@@ -93,17 +85,13 @@ One explanation for these discrepancies is that the RPs are returning data on th
 
 Southwark’s own record of s106 information is also incomplete – previous blog
 
-
 Whatever the explanation, Southwark should not just rest on the Ombudsman’s decision ‘in our favour’ to deflect any criticism of the audit, when it is so clearly not achieving its purpose.  The second Ombudman’s decision was only concerned with the processs of the audit, not the outcomes. It is also worth noting that Southwark gave the Ombudsman an undertaking that there would be an annual audit, which it only partial fulfilled and is now abandoning, leaving us further from a proper audit process than we were in 2016.
 
 Something more about Obmbudman's decision
 
 Refer to Joe Penny's PILC report
 
-
 END
-
-
 
 ^1   All screen shots of audit pages are from dates between 22 Mar and 25 Mar 2025; they may have since been varied.
 

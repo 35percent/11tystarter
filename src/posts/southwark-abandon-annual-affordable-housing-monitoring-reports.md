@@ -63,9 +63,7 @@ Further than this, there are no entries for the s106 affordable housing data, so
 
 #### What should we be getting?
 
-The second page of the audit also shows that it is not just figure for isolated developments that don't add up - neither do the total figures for what are getting against what we should be getting.  What should be delivered is determined by the legal s106 agreements that developers sign with the councils and appear on page 2 of the webpages. ^3
-
-Again, none of the figures add up.  The data provided by the registered provider (RP) shows that 23,546 have been provided, whereas the number of homes that the s106 agreements say should be provided is 14,592 – a difference of 8,954 homes.
+The second page of the audit also shows that it is not just figure for isolated developments that don't add up - neither do the total figures for what are getting against what we should be getting.  What should be delivered is determined by the legal s106 agreements that developers sign with the councils ^3.  The s106 data provided by the registered provider (RP) shows that 23,546 have been provided, whereas the number of homes that the s106 agreements say should be provided is 14,592 – a difference of 8,954 homes.
 
 The figures for the five categories of affordable housing show similar large differences (for affordable rent, total affordable homes, intermediate homes, social rented homes and other affordable homes).  The difference for social housing is particularly striking; the RP provided data shows that they have provided 14,239 social rented homes, while the s106 agreements only require that they provide 1,833 – a difference of 12,406 homes, which if it is to be believed means that 
 

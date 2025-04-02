@@ -83,16 +83,6 @@ It may be that the registered providers have provided data for their entire soci
 
 An accurate audit also depends upon receiving accurate information from the registered providers, and having an up to date s106 agreement against which to measure this.  Our L&Q example shows that rent infomation is incomplete (see also [this blogpost](https://www.35percent.org/posts/southwarks-new-developments-that-fail-to-deliver-social-rent/)) and that necessary s106 information is absent; without this kind of information Southwark is simply trusting in the reliability of the registered providers.
 
-Southwark say that *‘The annual audit starts in March and covers the previous financial year’*, but the data published on the website obviously does not come from the single year and can only be the cumulative numbers of many years – Southwark do not say what those years are.  the validation is also questionable in the light of our examples in this and previous blogs
-
-Southwark also say *‘Results are published as soon as a response is received from a registered provider and the data has been validated by council officers. This means the results will update throughout the audit period’*.  Assuming the audit period began in March 2024, are we seeing the returns for Mar 2024 to Mar 2025?  Again, Southwark does not say.  If, on the other hand, Southwark are continuing to get returns and simply adding data as it is received, it just turns the ‘audit’ into a data dump.
-
-Further, the validation is obviously hopeless – none of the figures match and apart from the occasional note there is no evidence any action has been taken to explain obvious discrepancies ; Southwark is ultimately simply trusting that the information it is receiving is accurate.
-
-One explanation for these discrepancies is that the RPs are returning data on their entire housing stock in the borough, not just that covered by the s106 agreements they have with Southwark.  if this is the case it renders the exercise useless as a way of ensuring that RPs are providing the homes that they should be on new developments.  We also cannot discount the possibility that some of the returns are untruthful.
-
-Southwark’s own record of s106 information is also incomplete – previous blog
-
 Whatever the explanation, Southwark should not just rest on the Ombudsman’s decision ‘in our favour’ to deflect any criticism of the audit, when it is so clearly not achieving its purpose.  The [second Ombudman’s decision](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) was only concerned with the processs of the audit, not the outcomes. It is also worth noting that Southwark gave the Ombudsman an undertaking that there would be an annual audit, which it only partial fulfilled and is now abandoning, leaving us further from a proper audit process than we were in 2016.
 
 Something more about Obmbudman's decision

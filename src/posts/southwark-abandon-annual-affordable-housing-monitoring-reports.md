@@ -13,9 +13,9 @@ In response to inquiries by the Southwark Law Centre, Southwark claim that the a
 
 #### Southwark’s Housing delivery webpages
 
-Southwark Council’s [Housing delivery ](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title)webpage has the [‘latest registered provider survey results’](https://app.powerbi.com/view?r=eyJrIjoiNzJhYTg1ZDYtNzcxZC00MDQzLThlMDUtNTkyNDk2MTBkMzkyIiwidCI6ImY3YWRjZjA2LTk1OGYtNDRjNC1iYzFjLTMzOWVkZDkwOTAzZCIsImMiOjh9&pageName=591e92e31d05964600da) which have replaced the annual audit.  The survey results are displayed using tables, a pie chart and an interactive map. 
+Southwark Council’s [Housing delivery ](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title)webpage has the *[‘latest registered provider survey results’](https://app.powerbi.com/view?r=eyJrIjoiNzJhYTg1ZDYtNzcxZC00MDQzLThlMDUtNTkyNDk2MTBkMzkyIiwidCI6ImY3YWRjZjA2LTk1OGYtNDRjNC1iYzFjLTMzOWVkZDkwOTAzZCIsImMiOjh9&pageName=591e92e31d05964600da)* which have replaced the annual audit.  The survey results are displayed using tables, a pie chart and an interactive map. 
 
-Clicking on the pie chart brings of registered providers brings up a table of their affordable housing developments. A further click on one of the listed developments brings up a circle on the interactive map. Hover over the circle and a label giving the postcode and number of homes in the development appears; right click on the label and then on the ‘Show data point as a table’ option leads to a table giving the development’s details. 
+Clicking on the pie chart of registered providers brings up a table of their affordable housing developments. A further click on one of the listed developments brings up a circle on the interactive map. Hover over the circle and a label giving the postcode and number of homes in the development appears; right click on the label and then on the ‘Show data point as a table’ option leads to a table giving the development’s details. 
 
 #### Taking a closer look
 
@@ -31,9 +31,9 @@ Moving onto individual providers and taking Southern Housing as an example, we c
 
 Clicking at random one of Southern’s schemes, 03/AP/1044, shows a similar problem; the figures only add up to 54 when the total is 80.  
 
-Checking the data table shows that the missing 26 units are shared-ownership and that the thirteen ‘Affordable’ homes are let at London Affordable Rents; this does not appear in the figures displayed.  London Affordable Rent is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category in 2006, the date of the s106 agreement which secured the affordable housing.
+Checking the data table shows that the missing 26 units are shared-ownership and that the thirteen ‘Affordable’ homes are let at London Affordable Rents; this does not appear in the figures displayed.  London Affordable Rent is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category in 2006, the date of the s106 agreement which secured the affordable housing. [^2]
 
-The s106 agreement for the development tells us that the scheme was originally to have 31 affordable homes, out of 82 total units, so, notwithstanding the LAR units, it appears there has been a welcome increase of 49 affordable housing units, but that has not been captured. ^2 
+The s106 agreement for the development tells us that the scheme was originally to have 31 affordable homes, out of 82 total units, so, notwithstanding the LAR units, it appears there has been a welcome increase of 49 affordable housing units, but that has not been captured. [^3]
 
 ![](img/monitoring_audit_webpages_-pelican_house_03ap1044_22032025_15_31_04.png "03/AP/1044 returns")
 
@@ -61,7 +61,7 @@ Further than this, there are no entries for the s106 affordable housing data, so
 
 #### The figures don't add up
 
-The second page of the audit also shows that it is not just figure for isolated developments that don't add up - neither do the total figures for what are getting against what we should be getting.  What should be delivered is determined by the legal s106 agreements that developers sign with the councils.  The s106 data provided by the registered provider (RP) shows that 23,546 have been provided, whereas the number of homes that the s106 agreements say should be provided is 14,592 – a difference of 8,954 homes. ^3
+The second page of the audit also shows that it is not just figure for isolated developments that don't add up - neither do the total figures for what are getting against what we should be getting.  What should be delivered is determined by the legal s106 agreements that developers sign with the councils.  The s106 data provided by the registered provider (RP) shows that 23,546 have been provided, whereas the number of homes that the s106 agreements say should be provided is 14,592 – a difference of 8,954 homes. [^4]
 
 The figures for the five categories of affordable housing show similar large differences (for affordable rent, total affordable homes, intermediate homes, social rented homes and other affordable homes).  The difference for social housing is particularly striking; the RP provided data shows that they have provided 14,239 social rented homes, while the s106 agreements only require that they provide 1,833 – a difference of 12,406 homes.
 
@@ -83,8 +83,10 @@ An accurate audit also depends upon receiving accurate information from the regi
 
 Whatever the explanation, Southwark should not just rest on the Ombudsman’s decision ‘in our favour’ to deflect any criticism of the audit, when it is so clearly not achieving its purpose.  The [second Ombudman’s decision](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) was only concerned with the processs of the audit, not the outcomes. It is also worth noting that Southwark gave the Ombudsman an undertaking that there would be an annual audit, which it only partial fulfilled and now looks to be abandoning, leaving us further from a proper audit process than we were in 2016.
 
-^1   All screen shots of audit pages are from dates between 22 Mar and 25 Mar 2025; they may have since been varied.
+[^1]  All screen shots of audit pages are from dates between 22 Mar and 25 Mar 2025; they may have since been varied.
 
-^2   The s106, dated 9 Jan 2006, can be found via Southwark’s planning register, using ref 03/AP/1044 in the search box.  It is also noteworthy that while Southerb Housing are letting units at London Affordable Rent, LAR is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category on 2009).
+[^2]  Southwark Plan 2022, P1 Social rented and intermediate housing, Fact box, Social housing and intermediate housing, pg 112
 
-^3   Click on < 1 of 3  > at bottom of webpage, to change pages.
+[^3]   The s106, dated 9 Jan 2006, can be found via Southwark’s planning register, using ref 03/AP/1044 in the search box.  It is also noteworthy that while Southerb Housing are letting units at London Affordable Rent, LAR is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category on 2009).
+
+[^4]   Click on < 1 of 3  > at bottom of webpage, to change pages.

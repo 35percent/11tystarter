@@ -41,15 +41,15 @@ The s106 agreement for the development tells us that the scheme was originally t
 
 #### Looking further - another provider
 
-Checking another big registered provider, London & Quadrant (L&Q), also throws up some confusing data.   A click on the pie chart, opening L&Q developments shows that while their total number of homes is 4,001, the combined total of social rent, intermediate and affordable only amounts to 3,454 - a difference of 547 homes. 
+Checking out another big registered provider, London & Quadrant (L&Q), also throws up some confusing data.   A click on the pie chart, opening L&Q developments shows that while their total number of homes is 4,001, the combined total of social rent, intermediate and affordable only amounts to 3,454 - a difference of 547 homes. 
 
 ![](img/monitoring_audit_webpage_l-q_25_03_2025-10_20_06_250325.png "L&Q's returns")
 
-L&Q is the affordable housing provider for the completed phases of the Aylesbury regeneration, Site 7, by East St and Phase 1a, on the opposite of the estate, alongside Albany Rd.  A click on application ref 12/AP/2332 shows five entries for Phase 1a, with total number of bedrooms for each entry. A further click on the first entry, (totalling 47 bedrooms) shows 24 homes, 20 'Intermediate', 0 for 'Affordable' and a '(Blank)'  for 'Social Rented'. 
+L&Q is the affordable housing provider for the completed phases of the Aylesbury regeneration, Site 7, East St and Phase 1a, Albany Rd.  A click on application ref 12/AP/2332 shows five entries for Phase 1a, with total number of bedrooms for each entry. A further click on the first entry, (totalling 47 bedrooms) shows 24 homes, 20 'Intermediate', 0 for 'Affordable' and a '(Blank)'  for 'Social Rented'. 
 
 ![](img/monitoring_audit_l-q_aylesbury_12ap2332_first_entry_-25_03_2025-11_37_05.png "L&Q return for 12/AP/2332, first entry")
 
-A right click brings up data table option.  The table shows all twenty four flats listed as 'social rent', but also shows twenty of them as 'intermediate' (a different twenty flats are shown in a third column as 'leasehold').  The four flats omitted from the 'leaseholder' list have monthly rents, rounded to the pound, of £712 (flat 7), £641 (flat 9), £235 (flat 8) and £748 (flat 11).  The service is the same for each flat, £426, rounded to the pound.  
+A right click brings up a data table option.  The table shows all twenty four flats listed as 'social rent', but also shows twenty of them as 'intermediate' (a different twenty flats are shown in a third column as 'leasehold').  The four flats omitted from the 'leaseholder' list have monthly rents, rounded to the pound, of £712 (flat 7), £641 (flat 9), £235 (flat 8) and £748 (flat 11).  The service is the same for each flat, £426, rounded to the pound.  
 
 This gives rents, inclusive of service charge of of £1,138; £1,066; £661 and £1,174.  However the audit does not give any data on how many bedrooms each individual flat has, so it is impossible to tell whether or not these are proper social rents (add note about what is a social rent and council rent figures) (note - Click on < 1 of 3  > at bottom of webpage, to change pages).
 
@@ -59,13 +59,13 @@ Moving onto page 2 of the entry, brings up the s106 data held- this shows a seri
 
 In short, while we can search the data and surmise that there are four social rent units, this is not confirmed by the audit, which leaves the figure for 'Social Rented' blank, has no figures for bedroom size, and contradictory information about both the total number of units and the number of intermediate units.
 
-Further than this, there are no entries for the s106 affordable housing data, so Southwark appears not to hold any information aginst which it can ensure that the correct amount of affordable housing has been delivered.  This also means that Southwark does not have the means of enforcing delivery should it wish to - without the s106 agreement Southwark would have little or no evidence for a legal claim. 
+Further than this, there are no entries for the s106 affordable housing data, so Southwark appears not to hold any information against which it can ensure that the correct amount of affordable housing has been delivered.  This also means that Southwark does not have the means of enforcing delivery should it wish to - without the s106 agreement Southwark would have little or no evidence for a legal claim. 
 
 #### What should we be getting?
 
-A further problem is that the figures for what has been delivered do not match the figures for what should be delivered.  What should be delivered is determined by the legal s106 agreements that developers sign with the councils and appear on page 2 of the webpages. ^3
+The second page of the audit also shows that it is not just figure for isolated developments that don't add up - neither do the total figures for what are getting against what we should be getting.  What should be delivered is determined by the legal s106 agreements that developers sign with the councils and appear on page 2 of the webpages. ^3
 
-Again, none of the figures remotely add up.  The data provided by the registered provider (RP) shows that 23,546 have been provided, whereas the number of homes that the s106 agreements say should be provided is 14,592 – a difference of 8,954 homes.
+Again, none of the figures add up.  The data provided by the registered provider (RP) shows that 23,546 have been provided, whereas the number of homes that the s106 agreements say should be provided is 14,592 – a difference of 8,954 homes.
 
 The figures for the five categories of affordable housing show similar large differences (for affordable rent, total affordable homes, intermediate homes, social rented homes and other affordable homes).  The difference for social housing is particularly striking; the RP provided data shows that they have provided 14,239 social rented homes, while the s106 agreements only require that they provide 1,833 – a difference of 12,406 homes, which if it is to be believed means that 
 

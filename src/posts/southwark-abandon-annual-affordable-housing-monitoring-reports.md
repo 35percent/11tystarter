@@ -41,7 +41,7 @@ On 25 March adding the three affordable housing categories together gives a sum 
 
 ![](img/monitoring_audit_accessed_25_mar_2_apr_160425.png "Southen Housing's returns")
 
-Clicking at random one of Southern’s schemes, 03/AP/1044, shows a similar problem; the figures only add up to 54 when the total is 80.  
+Clicking at random one of Southern’s schemes, 03/AP/1044, shows a similar problem; the figures only add up to 54 when the total is 80, leaving 26 homes uncategorised.  
 
 Checking the data table shows that the missing 26 units are shared-ownership and that the thirteen ‘Affordable’ homes are let at London Affordable Rents; this does not appear in the figures displayed.  London Affordable Rent is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category in 2006, the date of the s106 agreement which secured the affordable housing. [^2]
 

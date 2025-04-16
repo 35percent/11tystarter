@@ -71,9 +71,7 @@ The figures for the five categories of affordable housing show similar large dif
 
 #### What we think
 
-It is very difficult to make sense of Southwark's audit of the amount of affordable housing registered providers are delivering, as explained on their [Housing delivery page](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title).  
-
-Southwark say that the purpose of the audit is *'To find out how many affordable homes are in Southwark (excluding our own)'.*  This is important information and the necessary baseline for any audit.
+It is very difficult to make sense of Southwark's audit of the amount of affordable housing registered providers are delivering, as explained on their [Housing delivery page](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title).  Southwark say that the purpose of the audit is *'To find out how many affordable homes are in Southwark (excluding our own)'.*  This is important information and the necessary baseline for any audit.
 
 But Southwark also wants to ensure that registered providers deliver promised affordable housing, saying  *'Affordable housing is monitored to make sure it is built and managed as we agreed with developers and housing associations'.*  This cannot be done if Southwark allows the figures for delivery simply to accumulate, on a rolling basis, without any attempt to reconcile them againgst what has been agreed. 
 
@@ -81,7 +79,7 @@ Southwark refers to *'an audit period'* and says *‘Results are published as so
 
 It may be that the registered providers have given data for their entire affordable and social rent stock, but if that is the case Southwark cannot say for certain that it includes new s106 homes; these would need to be filterred out and there is no indication that this has been done.
 
-An accurate audit also depends upon receiving accurate information from the registered providers, and having an up to date s106 agreement against which to measure this.  Our L&Q example shows that rent infomation is incomplete (see also [this blogpost](https://www.35percent.org/posts/southwarks-new-developments-that-fail-to-deliver-social-rent/)) and that necessary s106 information is absent; without this kind of information Southwark is simply trusting in the reliability of the registered providers.  
+ Also, the audit relies on getting accurate information from registered providers and too often this does not happen.  The Council also does not always have an up-to-date s106 agreement for each development against which to measure the registered provider returns and without this kind of information Southwark is simply trusting in the reliability of the registered providers. 
 
 Whatever the explanation, Southwark should not just rest on an Ombudsman’s decision ‘in our favour’ to deflect any criticism of the audit, when it is so clearly not achieving its purpose.  The [second Ombudman’s decision](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) was only concerned with the processs of the audit, not the outcomes. It is also worth remembering that Southwark had previously gave the Ombudsman an undertaking that there would be an annual audit, which it only partial fulfilled and now looks to be abandoning, leaving us further from a proper audit process than we were in 2016.
 

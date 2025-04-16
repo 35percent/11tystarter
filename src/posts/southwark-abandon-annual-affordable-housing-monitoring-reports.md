@@ -51,11 +51,11 @@ The s106 agreement for the development tells us that the scheme was originally t
 
 #### Looking further - another provider
 
-Checking out another big registered provider, London & Quadrant (L&Q), also throws up the same problem - an apparant fall in total homes from 4,001 on 25 March  to 3228 on 2 April.   
+Checking out another big registered provider, London & Quadrant (L&Q), also throws up the same problem - an apparant fall in total homes from 4,001 on 25 March  to 3,228 on 2 April.   
 
 The figures of 25 March for the three types of affordable housing also do not add up to the total, only amounting to 3,454, leaving 547 homes uncategorised.  On 2 April the combined figure is 3,075, leaving 153 homes uncategorised.
 
-![](img/monitoring_audit_webpage_l-q_25_03_2025-10_20_06_250325.png "L&Q's returns")
+![](img/monitoring_audit_l_and_q_25_mar_2_april_image_made_160425.png "L&Q's returns")
 
 L&Q is the affordable housing provider for the completed phases of the Aylesbury regeneration, Site 7, East St and Phase 1a, Albany Rd.  A click on application ref 12/AP/2332 shows five entries for Phase 1a, with total number of bedrooms for each entry. A further click on the first entry, (totalling 47 bedrooms) shows 24 homes, 20 'Intermediate', 0 for 'Affordable' and a '(Blank)'  for 'Social Rented'. 
 

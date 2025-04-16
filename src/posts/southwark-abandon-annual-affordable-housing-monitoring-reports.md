@@ -15,13 +15,13 @@ In response to inquiries by the Southwark Law Centre, Southwark claim that the a
 
 Southwark Council’s [Housing delivery ](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title)webpage has the *[‘latest registered provider survey results’](https://app.powerbi.com/view?r=eyJrIjoiNzJhYTg1ZDYtNzcxZC00MDQzLThlMDUtNTkyNDk2MTBkMzkyIiwidCI6ImY3YWRjZjA2LTk1OGYtNDRjNC1iYzFjLTMzOWVkZDkwOTAzZCIsImMiOjh9&pageName=591e92e31d05964600da)* which have replaced the annual audit.  The survey results are displayed using tables, a pie chart and an interactive map. 
 
-Clicking on the pie chart of registered providers brings up a table of their affordable housing developments. A further click on one of the listed developments brings up a circle on the interactive map. Hover over the circle and a label giving the postcode and number of homes in the development appears; right click on the label and then left click on the ‘Show data point as a table’ option leads to a table giving the development’s details. 
+Clicking on the pie chart of registered providers brings up a table of their affordable housing developments. A further click on one of the listed developments brings up a circle on the interactive map. Hover over the circle and a label giving the postcode and number of homes in the development appears; right click on the label and then left click on the *‘Show data point as a table’* option leads to a table giving the development’s details. 
 
 #### Taking a closer look
 
 Superficially it all looks good, but on closer examination it becomes clear that the *‘survey results’* do not tell us what we need to know, which is whether or not we are getting the affordable housing we should be getting - the whole purpose of an audit.
 
-Starting on the landing page, one can see that the figures for the three categories of affordable housing (social rent, intermediate, affordable) do not add up to the number of homes.  It is also not clear what other type of housing could make up the difference, or whether the total for the three types of affordable should match the number given for ‘Home’.
+Starting on the landing page, it's immediately clear that the figures for the three categories of affordable housing (social rent, intermediate, affordable) do not add up to the number of total homes. 
 
 We accessed the page on two separate days, 22 March and 2 April.  On neither occasion did the total number of affordable homes equal the number for the three types of affordable housing - on 22 March they total 20,364 (not 23,546) and on 2 April they total 20,691 (not 21,245) a difference of 3,182 and 554 respectively.
 

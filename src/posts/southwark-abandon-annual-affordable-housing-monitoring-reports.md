@@ -71,7 +71,7 @@ The figures for the five categories of affordable housing show similar large dif
 
 #### What we think
 
-It is very difficult to make sense of what Southwark claim is their audit of the amount of affordable housing that RPs are providing to the borough, as explained on their [Housing delivery page](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title).  While we can see how much affordable housing may have been provided, we cannot see immediately wether or not it always matches what has been promised.  Our blog details just two examples which show that there are cases where it does not. (^5 Note of other examples?)
+It is very difficult to make sense of Southwark's audit of the amount of affordable housing registered providers are delivering, as explained on their [Housing delivery page](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title).  
 
 Southwark say that the purpose of the audit is *'To find out how many affordable homes are in Southwark (excluding our own)'.*  This is important information and the necessary baseline for any audit.
 
@@ -84,6 +84,8 @@ It may be that the registered providers have given data for their entire afforda
 An accurate audit also depends upon receiving accurate information from the registered providers, and having an up to date s106 agreement against which to measure this.  Our L&Q example shows that rent infomation is incomplete (see also [this blogpost](https://www.35percent.org/posts/southwarks-new-developments-that-fail-to-deliver-social-rent/)) and that necessary s106 information is absent; without this kind of information Southwark is simply trusting in the reliability of the registered providers.  
 
 Whatever the explanation, Southwark should not just rest on an Ombudsman’s decision ‘in our favour’ to deflect any criticism of the audit, when it is so clearly not achieving its purpose.  The [second Ombudman’s decision](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) was only concerned with the processs of the audit, not the outcomes. It is also worth remembering that Southwark had previously gave the Ombudsman an undertaking that there would be an annual audit, which it only partial fulfilled and now looks to be abandoning, leaving us further from a proper audit process than we were in 2016.
+
+While we can see how much affordable housing may have been provided, we cannot see immediately whether or not it always matches what has been promised. 
 
 [^1]  
 

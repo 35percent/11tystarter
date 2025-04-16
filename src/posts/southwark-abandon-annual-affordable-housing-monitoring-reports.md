@@ -65,7 +65,7 @@ The second page of the audit has the most critical information – this shows wh
 
 What should be delivered is determined by all the legal s106 agreements that developers sign with the Council.  The s106 data provided by the registered provider shows that 21,245 have been provided, whereas the number of homes that the s106 agreements say should be provided is 8,333 – a difference of 11,912 homes. [^4]
 
-The figures for the five categories of affordable housing show similar large differences (for affordable rent, total affordable homes, intermediate homes, social rented homes and other affordable homes).  The difference for social housing is particularly striking; the registered provider provided data shows that they have provided 14,140 social rented homes, while the s106 agreements only require that they provide 2,176 – a massive difference of 11,964 homes, which, if it is to be believed means that private developers and their registered providers partners have delivered over six times more affordable housing than they were required to do.
+The figures for the five categories of affordable housing show similar large differences .  The difference for social housing is particularly striking; the registered provider provided data shows that they have provided 14,140 social rented homes, while the s106 agreements only require that they provide 2,176 – a massive difference of 11,964 homes which, if it is to be believed, means that private developers and their registered providers partners have delivered over six times more affordable housing than they were required to do.
 
 ![](img/monitoring_audit_pg_2_total_homes_against_s106_160425.png "Total homes provided measured against number promised by s106 agreements")
 

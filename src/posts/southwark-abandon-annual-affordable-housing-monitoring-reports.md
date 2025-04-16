@@ -5,9 +5,9 @@ date: 2025-03-25T09:27:39.636Z
 ---
 Southwark Council appear to have abandoned the annual audits of affordable housing monitoring that they promised to conduct in response to a critical [Ombudsman’s report in 2016](https://www.35percent.org/posts/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/).
 
-Only two audits have been conducted since that date in 2016 and 2022. This contrary to what is stated on Southwark’s [Housing delivery](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title) webpage, which says that they have conducted annually since 2021.  The development of a [proper online tool](https://www.dxw.com/case-studies/southwark-council-monitoring-their-affordable-housing/) that could replace the need for monitoring was [also abandoned](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/). 
+Only two audits have been conducted since that date, in 2016 and 2022. This contrary to what is stated on Southwark’s [Housing delivery](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title) webpage, which says that they have conducted annually since 2021.  The development of a [proper online tool](https://www.dxw.com/case-studies/southwark-council-monitoring-their-affordable-housing/) that could replace the need for monitoring was [also abandoned](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/). 
 
-Since the first decision, a [second Ombudsman’s report](https://www.lgo.org.uk/decisions/planning/other/21-009-646) has given Southwark a clean bill of health.
+Since the first decision, a [second Ombudsman’s report](https://www.lgo.org.uk/decisions/planning/other/21-009-646) has found no fault with Southwark's monitoring process. 
 
 In response to inquiries by the Southwark Law Centre, Southwark claim that the annual audits are no longer needed because they now have [a webpage](https://app.powerbi.com/view?r=eyJrIjoiNzJhYTg1ZDYtNzcxZC00MDQzLThlMDUtNTkyNDk2MTBkMzkyIiwidCI6ImY3YWRjZjA2LTk1OGYtNDRjNC1iYzFjLTMzOWVkZDkwOTAzZCIsImMiOjh9&pageName=591e92e31d05964600da) that does the job.
 

@@ -47,7 +47,7 @@ Checking the data table shows that the missing 26 units are shared-ownership and
 
 The s106 agreement for the development tells us that the scheme was originally to have 31 affordable homes, out of 82 total units, so, notwithstanding the LAR units, it appears there has been a welcome increase of 49 affordable housing units, but that has not been captured. [^3]
 
-![](img/monitoring_audit_webpages_-pelican_house_03ap1044_22032025_15_31_04.png "03/AP/1044 returns")
+![](img/monitoring_audit_southern_housing_03ap1044_accessed_020425_image_made_160425.png "03/AP/1044 returns")
 
 #### Looking further - another provider
 

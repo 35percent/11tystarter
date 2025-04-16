@@ -9,8 +9,6 @@ Only two audits have been conducted since that date, in 2016 and 2022. This cont
 
 Since the first decision, a [second Ombudsman’s report](https://www.lgo.org.uk/decisions/planning/other/21-009-646) has found no fault with Southwark's monitoring process. 
 
-In response to inquiries by the Southwark Law Centre, Southwark claim that the annual audits are no longer needed because they now have [a webpage](https://app.powerbi.com/view?r=eyJrIjoiNzJhYTg1ZDYtNzcxZC00MDQzLThlMDUtNTkyNDk2MTBkMzkyIiwidCI6ImY3YWRjZjA2LTk1OGYtNDRjNC1iYzFjLTMzOWVkZDkwOTAzZCIsImMiOjh9&pageName=591e92e31d05964600da) that does the job.
-
 #### Southwark’s Housing delivery webpages
 
 Southwark Council’s [Housing delivery ](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title)webpage has the *[‘latest registered provider survey results’](https://app.powerbi.com/view?r=eyJrIjoiNzJhYTg1ZDYtNzcxZC00MDQzLThlMDUtNTkyNDk2MTBkMzkyIiwidCI6ImY3YWRjZjA2LTk1OGYtNDRjNC1iYzFjLTMzOWVkZDkwOTAzZCIsImMiOjh9&pageName=591e92e31d05964600da)* which have replaced the annual audit.  The survey results are displayed using tables, a pie chart and an interactive map. 
@@ -57,11 +55,9 @@ The figures of 25 March for the three types of affordable housing also do not ad
 
 ![](img/monitoring_audit_l_and_q_25_mar_2_april_image_made_160425.png "L&Q's returns")
 
-
-
 #### The figures don't add up
 
-The second page of the audit has the most critical information – this shows whether or not we are getting the affordable housing that has been promised by developers.  Again, as with the date for registered providers and for individual schemes, the figures do not add up. 
+The second page of the audit has the most critical information – this shows whether or not we are getting the affordable housing that has been promised by developers.  Again, as with the data for registered providers and for individual schemes, the figures do not add up. 
 
 What should be delivered is determined by all the legal s106 agreements that developers sign with the Council.  The s106 data provided by the registered provider shows that 21,245 have been provided, whereas the number of homes that the s106 agreements say should be provided is 8,333 – a difference of 11,912 homes. [^4]
 
@@ -73,7 +69,7 @@ The figures for the five categories of affordable housing show similar large dif
 
 It is very difficult to make sense of Southwark's audit of the amount of affordable housing registered providers are delivering, as explained on their [Housing delivery page](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title).  Southwark say that the purpose of the audit is *'To find out how many affordable homes are in Southwark (excluding our own)'.*  This is important information and the necessary baseline for any audit.
 
-But Southwark also wants to ensure that registered providers deliver promised affordable housing, saying  *'Affordable housing is monitored to make sure it is built and managed as we agreed with developers and housing associations'.*  This cannot be done if Southwark allows the figures for delivery simply to accumulate, on a rolling basis, without any attempt to reconcile them againgst what has been agreed. 
+But Southwark also wants to ensure that registered providers deliver promised affordable housing, saying  *'Affordable housing is monitored to make sure it is built and managed as we agreed with developers and housing associations'.*  This cannot be done if Southwark allows the figures for delivery simply to accumulate, on a rolling basis, without any attempt to reconcile them against what has been agreed. 
 
 Southwark refers to *'an audit period'* and says *‘Results are published as soon as a response is received......and the data has been validated....This means the results will update throughout the audit period’,* but Southwark does not say what the audit period is; nor does it provide any explanation of, for example, the huge difference between the social rent s106 figure and the much bigger registered provider figure.  Our Southern Housing example appears to show an uncaptured gain of 49 affordable homes, but it can't be assumed that over twelve thousand social rent units can be explained by similar missing data. 
 
@@ -83,7 +79,7 @@ It may be that the registered providers have given data for their entire afforda
 
 Whatever the explanation, Southwark should not just rest on a favourable Ombudsman’s decision to deflect any criticism of the audit, when it is so clearly not achieving its purpose.  The [second Ombudman’s decision](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) was only concerned with the process of the audit, not the outcomes.  Southwark had also previously given the Ombudsman an undertaking that there would be an annual audit, which it only partial fulfilled and now looks to be abandoning, leaving us further from a proper audit process than we were in 2016.
 
-[^1]  
+[^1]  Screen shots of audit pages are from 22, 25 March and 2, 16 April 2025.  
 
 [^2]  Southwark Plan 2022, P1 Social rented and intermediate housing, Fact box, Social housing and intermediate housing, pg 112
 

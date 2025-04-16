@@ -27,7 +27,8 @@ We accessed the page on two separate days, 22 March and 2 April.  On neither occ
 
 ![](img/auidt_accessed_220325_020425.png "Screenshots of audit on 22 Mar 2025 and 2 April 2025")
 
-On top of this, the total number of homes also appears to have fallen, from 23,546 to 21,245 homes, which is surprising, given that the audit is being continually updated by information about newly completed schemes. 
+On top of this, the total number of homes also appears to have fallen between those dates, from 23,546 to 21,245 homes - this is surprising, given that the audit is being continually updated by information about newly completed schemes. 
+
 The numbers of social rent and intermediate units also fell, while the affordable housing units rose, giving a net gain of 327 affordable homes of all kinds. 
 
 In short, it appears that over this time registered providers have collectively told Southwark that it has fewer homes, with fewer social rent and intermediate units, but more other affordable, while leaving over five hundred units uncategorised. [^1]

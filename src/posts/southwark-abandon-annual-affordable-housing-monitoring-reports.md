@@ -33,6 +33,8 @@ The numbers of social rent and intermediate units also fell, while the affordabl
 
 In short, it appears that over this time registered providers have collectively told Southwark that it has fewer homes, with fewer social rent and intermediate units, but more other affordable, while leaving over five hundred units uncategorised. [^1]
 
+#### Southern Housing's returns
+
 Moving onto individual providers and taking Southern Housing as an example, we can see that the same problem is repeated; the total number of homes provided is given as 3,580, whereas the total for the three categories is 2,995 – a difference of 585 homes.
 
 ![](img/monitorin_audit_webpages_southern_housing_22032025_15_22_54.png "Southen Housing's returns")

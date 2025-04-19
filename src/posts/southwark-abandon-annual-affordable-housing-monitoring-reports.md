@@ -31,7 +31,7 @@ On top of this, the total number of homes also appears to have fallen between th
 
 The numbers of social rent and intermediate units also fell, while the affordable housing units rose, giving a net gain of 327 affordable homes of all kinds. 
 
-In short, it appears that over this time registered providers have collectively told Southwark that it has fewer homes, with fewer social rent and intermediate units, but more other affordable, while leaving over five hundred units uncategorised.
+In short, it appears that over this time registered providers have collectively told Southwark that it has fewer homes, with fewer social rent and intermediate units, but more other affordable, while leaving over five hundred and fifty units uncategorised (on 2 April).
 
 #### Southern Housing's returns
 

@@ -43,8 +43,6 @@ On 22 March adding the three affordable housing categories together gives a sum 
 
 Clicking at random one of Southern’s schemes, 03/AP/1044, shows a similar problem; the figures only add up to 54 when the total is 80, leaving 26 homes uncategorised.  
 
-
-
 ![](img/monitoring_audit_southern_housing_03ap1044_accessed_020425_image_made_160425.png "03/AP/1044 returns")
 
 Checking the data table shows that the missing 26 units are shared-ownership and that the thirteen ‘Affordable’ homes are let at London Affordable Rents; this does not appear in the figures displayed.  London Affordable Rent is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category in 2006, the date of the s106 agreement which secured the affordable housing. [^2]
@@ -65,7 +63,7 @@ The figures of 25 March for the three types of affordable housing also do not ad
 
 The second page of the audit has the most critical information – this shows whether or not we are getting the affordable housing that has been promised by developers.  Again, as with the data for registered providers and for individual schemes, the figures do not add up. 
 
-What should be delivered is determined by all the legal s106 agreements that developers sign with the Council.  The s106 data provided by the registered provider shows that 21,245 have been provided, whereas the number of homes that the s106 agreements say should be provided is 8,333 – a difference of 11,912 homes. [^4]
+What should be delivered is determined by all the legal s106 agreements that developers sign with the Council.  The s106 data provided by the registered provider shows that 21,245 have been provided, whereas the number of homes that the s106 agreements say should be provided is 8,333 – a difference of 12,912 homes. [^4]
 
 The figures for the five categories of affordable housing show similar large differences .  The difference for social housing is particularly striking; the registered provider provided data shows that they have provided 14,140 social rented homes, while the s106 agreements only require that they provide 2,176 – a massive difference of 11,964 homes which, if it is to be believed, means that private developers and their registered providers partners have delivered over six times more affordable housing than they were required to do.
 

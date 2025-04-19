@@ -15,6 +15,8 @@ Southwark Council’s [Housing delivery ](https://www.southwark.gov.uk/planning-
 
 Clicking on the pie chart of registered providers brings up a table of their affordable housing developments. A further click on one of the listed developments brings up a circle on the interactive map. Hover over the circle and a label giving the postcode and number of homes in the development appears; right click on the label and then left click on the *‘Show data point as a table’* option leads to a table giving the development’s details. 
 
+![](img/audit_pg_1_190425.png)
+
 #### Taking a closer look
 
 Superficially it all looks good, but on closer examination it becomes clear that the *‘survey results’* do not tell us what we need to know, which is whether or not we are getting the affordable housing we should be getting - the whole purpose of an audit.

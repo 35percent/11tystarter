@@ -35,9 +35,9 @@ In short, it appears that over this time registered providers have collectively 
 
 #### Southern Housing's returns
 
-Moving onto individual providers and taking Southern Housing as an example, we can see that the same problem is repeated; on 25 March the total number of homes provided is given as 3,580, but has fallen to 3,404 by the 2 April.
+Moving onto individual providers and taking Southern Housing as an example, we can see that the same problem is repeated; on 22 March the total number of homes provided is given as 3,580, but has fallen to 3,404 by the 2 April.
 
-On 25 March adding the three affordable housing categories together gives a sum of 2,995, against a total of 3580 homes, leaving 585 homes uncategorised.  On the 2 April the respective figures are 2,869 against a total of 3404, leaving 535 uncategorised.
+On 22 March adding the three affordable housing categories together gives a sum of 2,995, against a total of 3580 homes, leaving 585 homes uncategorised.  On the 2 April the respective figures are 2,869 against a total of 3404, leaving 535 uncategorised.
 
 ![](img/monitoring_audit_southern_housing_22_mar_02_apr_2025_19042025.png "Southen Housing's returns")
 

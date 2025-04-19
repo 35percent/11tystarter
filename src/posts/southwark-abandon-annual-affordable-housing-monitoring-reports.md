@@ -23,7 +23,7 @@ Superficially it all looks good, but on closer examination it becomes clear that
 
 Starting on the landing page, it's immediately clear that the figures for the three categories of affordable housing (social rent, intermediate, affordable) do not add up to the number of total homes. 
 
-We accessed the page on two separate days, 22 March and 2 April.  On neither occasion did the total number of affordable homes equal the number for the three types of affordable housing - on 22 March they total 20,364 (not 23,546) and on 2 April they total 20,691 (not 21,245) a difference of 3,182 and 554 respectively.  [^1]
+We accessed the page on several separate days, including 22 March and 2 April.  On neither occasion did the total number of affordable homes equal the number for the three types of affordable housing - on 22 March they total 20,364 (not 23,546) and on 2 April they total 20,691 (not 21,245) a difference of 3,182 and 554 respectively.  [^1]
 
 ![](img/auidt_accessed_220325_020425.png "Screenshots of audit on 22 Mar 2025 and 2 April 2025")
 

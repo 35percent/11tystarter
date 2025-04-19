@@ -79,7 +79,7 @@ It may be that the registered providers have given data for their entire afforda
 
 Whatever the explanation, Southwark should not just rest on a favourable Ombudsman’s decision to deflect any criticism of the audit, when it is so clearly not achieving its purpose.  The [second Ombudman’s decision](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) was only concerned with the process of the audit, not the outcomes.  Southwark had also previously given the Ombudsman an undertaking that there would be an annual audit, which it only partial fulfilled and now looks to be abandoning, leaving us further from a proper audit process than we were in 2016.
 
-[^1]  Screen shots of audit pages are from 22, 25 March and 2, 16 April 2025.  
+[^1]  Screen shots of audit pages are from 22, 25 March and 2, 16 April 2025.  Figures vary overtime, as our blogpost explains.
 
 [^2]  Southwark Plan 2022, P1 Social rented and intermediate housing, Fact box, Social housing and intermediate housing, pg 112
 

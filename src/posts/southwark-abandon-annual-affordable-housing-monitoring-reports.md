@@ -87,7 +87,7 @@ Whatever the explanation, Southwark should not just rest on a favourable Ombudsm
 
 [^2] Southwark Plan 2022, P1 Social rented and intermediate housing, Fact box, Social housing and intermediate housing, pg 112
 
-[^3] The s106, dated 9 Jan 2006, can be found via Southwark’s planning register, using ref 03/AP/1044 in the search box.  
+[^3] The 49 extra homes are calculated by subtracting the thirty-one promised in the s106 the eighty homes from the 80 figure displayed on the audit page.  The s106, dated 9 Jan 2006, can be found via Southwark’s planning register, using ref 03/AP/1044 in the search box.  
 
 [^4] Click on < 1 of 3  > at bottom of webpage, to change pages.
 

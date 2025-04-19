@@ -71,7 +71,7 @@ The figures for the five categories of affordable housing show similar large dif
 
 #### What we think
 
-It is very difficult to make sense of Southwark's audit of the amount of affordable housing registered providers are delivering, as explained on their [Housing delivery page](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title).  Southwark say that the purpose of the audit is *'To find out how many affordable homes are in Southwark (excluding our own)'.*  This is important information and the necessary baseline for any audit.
+It is very difficult to make sense of Southwark's audit of the amount of affordable housing registered providers are delivering, as explained on their [Housing delivery](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1/amount#lgd-guides__title) pages.  Southwark say that the purpose of the audit is *'To find out how many affordable homes are in Southwark (excluding our own)'.*  This is important information and the necessary baseline for any audit.
 
 But Southwark also wants to ensure that registered providers deliver promised affordable housing, saying  *['Affordable housing is monitored to make sure it is built and managed as we agreed with developers and housing associations'.](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-policy-and-guidance/monitoring-1)*  This cannot be done if Southwark allows the figures for delivery simply to accumulate, on a rolling basis, without any attempt to reconcile them against what has been agreed. 
 

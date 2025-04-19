@@ -15,7 +15,7 @@ Southwark Council’s [Housing delivery ](https://www.southwark.gov.uk/planning-
 
 Clicking on the pie chart of registered providers brings up a table of their affordable housing developments. A further click on one of the listed developments brings up a circle on the interactive map. Hover over the circle and a label giving the postcode and number of homes in the development appears; right click on the label and then left click on the *‘Show data point as a table’* option leads to a table giving the development’s details. 
 
-![](img/audit_pg_1_190425.png)
+![](img/audit_pg_1_190425.png "Affordable homes audit accessed 19 April 2025")
 
 #### Taking a closer look
 

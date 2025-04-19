@@ -39,7 +39,7 @@ Moving onto individual providers and taking Southern Housing as an example, we c
 
 On 25 March adding the three affordable housing categories together gives a sum of 2,995, against a total of 3580 homes, leaving 585 homes uncategorised.  On the 2 April the respective figures are 2,869 against a total of 3404, leaving 535 uncategorised.
 
-![](img/monitoring_audit_accessed_25_mar_2_apr_160425.png "Southen Housing's returns")
+![](img/monitoring_audit_southern_housing_22_mar_02_apr_2025_19042025.png "Southen Housing's returns")
 
 Clicking at random one of Southern’s schemes, 03/AP/1044, shows a similar problem; the figures only add up to 54 when the total is 80, leaving 26 homes uncategorised.  
 

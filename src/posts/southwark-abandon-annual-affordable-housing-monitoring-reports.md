@@ -23,7 +23,7 @@ Superficially it all looks good, but on closer examination it becomes clear that
 
 Starting on the landing page, it's immediately clear that the figures for the three categories of affordable housing (social rent, intermediate, affordable) do not add up to the number of total homes. 
 
-We accessed the page on two separate days, 22 March and 2 April.  On neither occasion did the total number of affordable homes equal the number for the three types of affordable housing - on 22 March they total 20,364 (not 23,546) and on 2 April they total 20,691 (not 21,245) a difference of 3,182 and 554 respectively.
+We accessed the page on two separate days, 22 March and 2 April.  On neither occasion did the total number of affordable homes equal the number for the three types of affordable housing - on 22 March they total 20,364 (not 23,546) and on 2 April they total 20,691 (not 21,245) a difference of 3,182 and 554 respectively.  [^1]
 
 ![](img/auidt_accessed_220325_020425.png "Screenshots of audit on 22 Mar 2025 and 2 April 2025")
 
@@ -31,7 +31,7 @@ On top of this, the total number of homes also appears to have fallen between th
 
 The numbers of social rent and intermediate units also fell, while the affordable housing units rose, giving a net gain of 327 affordable homes of all kinds. 
 
-In short, it appears that over this time registered providers have collectively told Southwark that it has fewer homes, with fewer social rent and intermediate units, but more other affordable, while leaving over five hundred units uncategorised. [^1]
+In short, it appears that over this time registered providers have collectively told Southwark that it has fewer homes, with fewer social rent and intermediate units, but more other affordable, while leaving over five hundred units uncategorised.
 
 #### Southern Housing's returns
 
@@ -81,7 +81,7 @@ It may be that the registered providers have given data for their entire afforda
 
 Whatever the explanation, Southwark should not just rest on a favourable Ombudsman’s decision to deflect any criticism of the audit, when it is so clearly not achieving its purpose.  The [second Ombudman’s decision](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) was only concerned with the process of the audit, not the outcomes.  Southwark had also previously given the Ombudsman an undertaking that there would be an annual audit, which it only partial fulfilled and now looks to be abandoning, leaving us further from a proper audit process than we were in 2016.
 
-[^1] Screen shots of audit pages are from 22, 25 March and 2, 16 April 2025.  Figures vary overtime, as our blogpost explains.
+[^1] Screen shots of audit pages are from 22, 25 March and 2, 16, 19 April 2025.  Figures vary overtime, as our blogpost explains.
 
 [^2] Southwark Plan 2022, P1 Social rented and intermediate housing, Fact box, Social housing and intermediate housing, pg 112
 

@@ -43,11 +43,13 @@ On 22 March adding the three affordable housing categories together gives a sum 
 
 Clicking at random one of Southern’s schemes, 03/AP/1044, shows a similar problem; the figures only add up to 54 when the total is 80, leaving 26 homes uncategorised.  
 
+
+
+![](img/monitoring_audit_southern_housing_03ap1044_accessed_020425_image_made_160425.png "03/AP/1044 returns")
+
 Checking the data table shows that the missing 26 units are shared-ownership and that the thirteen ‘Affordable’ homes are let at London Affordable Rents; this does not appear in the figures displayed.  London Affordable Rent is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category in 2006, the date of the s106 agreement which secured the affordable housing. [^2]
 
 The s106 agreement for the development tells us that the scheme was originally to have 31 affordable homes, out of 82 total units, so, notwithstanding the LAR units, it appears there has been a welcome increase of 49 affordable housing units, but that has not been captured. [^3]
-
-![](img/monitoring_audit_southern_housing_03ap1044_accessed_020425_image_made_160425.png "03/AP/1044 returns")
 
 #### Looking further - another provider
 
@@ -85,7 +87,7 @@ Whatever the explanation, Southwark should not just rest on a favourable Ombudsm
 
 [^2] Southwark Plan 2022, P1 Social rented and intermediate housing, Fact box, Social housing and intermediate housing, pg 112
 
-[^3] The s106, dated 9 Jan 2006, can be found via Southwark’s planning register, using ref 03/AP/1044 in the search box.  It is also noteworthy that while Southern Housing are letting units at London Affordable Rent, LAR is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category on 2009).
+[^3] The s106, dated 9 Jan 2006, can be found via Southwark’s planning register, using ref 03/AP/1044 in the search box.
 
 [^4] Click on < 1 of 3  > at bottom of webpage, to change pages.
 

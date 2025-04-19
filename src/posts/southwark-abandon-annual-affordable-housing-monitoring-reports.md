@@ -51,6 +51,8 @@ Checking the data table shows that the missing 26 units are shared-ownership and
 
 The s106 agreement for the development tells us that the scheme was originally to have 31 affordable homes, out of 82 total units, so, notwithstanding the LAR units, it appears there has been a welcome increase of 49 affordable housing units, but that has not been captured. [^3]
 
+![](img/pelican_house_s106_13ap1044_090106_titled.png)
+
 #### Looking further - another provider
 
 Checking out another big registered provider, London & Quadrant (L&Q), also throws up the same problem - an apparant fall in total homes from 4,001 on 25 March  to 3,228 on 2 April.   

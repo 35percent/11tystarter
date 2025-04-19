@@ -73,16 +73,18 @@ But Southwark also wants to ensure that registered providers deliver promised af
 
 Southwark refers to *'an audit period'* and says *‘Results are published as soon as a response is received......and the data has been validated....This means the results will update throughout the audit period’,* but Southwark does not say what the audit period is; nor does it provide any explanation of, for example, the huge difference between the social rent s106 figure and the much bigger registered provider figure.  Our Southern Housing example appears to show an uncaptured gain of 49 affordable homes, but it can't be assumed that over twelve thousand social rent units can be explained by similar missing data. 
 
-It may be that the registered providers have given data for their entire affordable and social rent stock, but if that is the case Southwark cannot say for certain that it includes new s106 homes; these would need to be filterred out and there is no indication that this has been done.
+It may be that the registered providers have given data for their entire affordable and social rent stock (^5), but if that is the case Southwark cannot say for certain that it includes new s106 homes; these would need to be filterred out and there is no indication that this has been done. 
 
  Also, the audit relies on getting accurate information from registered providers and too often this does not happen.  The Council also does not always have an up-to-date s106 agreement for each development, and without this Southwark is simply trusting in the reliability of the registered providers. 
 
 Whatever the explanation, Southwark should not just rest on a favourable Ombudsman’s decision to deflect any criticism of the audit, when it is so clearly not achieving its purpose.  The [second Ombudman’s decision](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) was only concerned with the process of the audit, not the outcomes.  Southwark had also previously given the Ombudsman an undertaking that there would be an annual audit, which it only partial fulfilled and now looks to be abandoning, leaving us further from a proper audit process than we were in 2016.
 
-[^1]  Screen shots of audit pages are from 22, 25 March and 2, 16 April 2025.  Figures vary overtime, as our blogpost explains.
+[^1] Screen shots of audit pages are from 22, 25 March and 2, 16 April 2025.  Figures vary overtime, as our blogpost explains.
 
-[^2]  Southwark Plan 2022, P1 Social rented and intermediate housing, Fact box, Social housing and intermediate housing, pg 112
+[^2] Southwark Plan 2022, P1 Social rented and intermediate housing, Fact box, Social housing and intermediate housing, pg 112
 
-[^3]   The s106, dated 9 Jan 2006, can be found via Southwark’s planning register, using ref 03/AP/1044 in the search box.  It is also noteworthy that while Southern Housing are letting units at London Affordable Rent, LAR is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category on 2009).
+[^3] The s106, dated 9 Jan 2006, can be found via Southwark’s planning register, using ref 03/AP/1044 in the search box.  It is also noteworthy that while Southern Housing are letting units at London Affordable Rent, LAR is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category on 2009).
 
-[^4]   Click on < 1 of 3  > at bottom of webpage, to change pages.
+[^4] Click on < 1 of 3  > at bottom of webpage, to change pages.
+
+[^5] A note on page 3 refers to *'historic planning permissions'*, without defining them.  These *'historic'* schemes are listed in the audit, but generaly do not have S106 data .  The full note says *'S106 sourced data from audit - This is data sourced by the council from S106 agreements showing the affordable housing which is required to be provided at each development. S106 data is not available fro every development in the audit as council records do not generally cover historic planning permissions. As such, this data is a subset ot the overall affordable housing picture in the borough'.*

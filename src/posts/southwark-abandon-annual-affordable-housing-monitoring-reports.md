@@ -1,7 +1,8 @@
 ---
-title: Southwark abandon annual affordable housing monitoring reports
+title: Southwark abandons annual affordable housing monitoring reports
 description: Southwark give up attempt to conduct annual monitoring reports
-date: 2025-04-22T06:29:59.005Z
+date: 2025-04-22
+image: img/monitoring_audit_pg_2_total_homes_against_s106_160425.png
 ---
 Southwark Council appear to have abandoned the annual audits of affordable housing monitoring that they promised to conduct in response to a critical [Ombudsman’s report in 2016](https://www.35percent.org/posts/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/).
 
@@ -82,6 +83,9 @@ It may be that the registered providers have given data for their entire afforda
  Also, the audit relies on getting accurate information from registered providers and too often this does not happen.  The Council also does not always have an up-to-date s106 agreement for each development, and without this Southwark is simply trusting in the reliability of the registered providers. 
 
 Whatever the explanation, Southwark should not just rest on a favourable Ombudsman’s decision to deflect any criticism of the audit, when it is so clearly not achieving its purpose.  The [second Ombudman’s decision](https://www.35percent.org/posts/ombudsman-rejects-affordable-housing-complaint-against-southwark/) was only concerned with the process of the audit, not the outcomes.  Southwark had also previously given the Ombudsman an undertaking that there would be an annual audit, which it only partial fulfilled and now looks to be abandoning, leaving us not much further forward with a proper auditing process than we were in 2016.
+
+
+__Footnotes:__
 
 [^1] Screen shots of audit pages are from 22, 25 March and 2, 16, 19 April 2025.  Figures vary overtime, as our blogpost explains.
 

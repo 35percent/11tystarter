@@ -16,7 +16,7 @@ Southwark Council’s [Housing delivery ](https://www.southwark.gov.uk/planning-
 
 Clicking on the pie chart of registered providers brings up a table of their affordable housing developments. A further click on one of the listed developments brings up a circle on the interactive map. Hover over the circle and a label giving the postcode and number of homes in the development appears; right click on the label and then left click on the *‘Show data point as a table’* option leads to a table giving the development’s details. 
 
-![](img/audit_pg_1_190425.png "Affordable homes audit accessed 19 April 2025")
+![](https://35percent.org/img/audit_pg_1_190425.png "Affordable homes audit accessed 19 April 2025")
 
 #### Taking a closer look
 
@@ -26,7 +26,7 @@ Starting on the landing page, it's immediately clear that the figures for the th
 
 We accessed the page on several separate days, including 22 March and 2 April.  On neither occasion did the total number of affordable homes equal the number for the three types of affordable housing - on 22 March they total 20,364 (not 23,546) and on 2 April they total 20,691 (not 21,245) a difference of 3,182 and 554 respectively.  [^1]
 
-![](img/auidt_accessed_220325_020425.png "Screenshots of audit on 22 Mar 2025 and 2 April 2025")
+![](https://35percent.org/img/auidt_accessed_220325_020425.png "Screenshots of audit on 22 Mar 2025 and 2 April 2025")
 
 On top of this, the total number of homes also appears to have fallen between those dates, from 23,546 to 21,245 homes - this is surprising, given that the audit is being continually updated by information about newly completed schemes. 
 
@@ -40,17 +40,17 @@ Moving onto individual providers and taking Southern Housing as an example, we c
 
 On 22 March adding the three affordable housing categories together gives a sum of 2,995, against a total of 3580 homes, leaving 585 homes uncategorised.  On the 2 April the respective figures are 2,869 against a total of 3404, leaving 535 uncategorised.
 
-![](img/monitoring_audit_southern_housing_22_mar_02_apr_2025_19042025.png "Southen Housing's returns")
+![](https://35percent.org/img/monitoring_audit_southern_housing_22_mar_02_apr_2025_19042025.png "Southen Housing's returns")
 
 Clicking at random one of Southern’s schemes, 03/AP/1044, shows a similar problem; the figures only add up to 54 when the total is 80, leaving 26 homes uncategorised.  
 
-![](img/monitoring_audit_southern_housing_03ap1044_accessed_020425_image_made_160425.png "03/AP/1044 returns")
+![](https://35percent.org/img/monitoring_audit_southern_housing_03ap1044_accessed_020425_image_made_160425.png "03/AP/1044 returns")
 
 Checking the data table shows that the missing 26 units are shared-ownership and that the thirteen ‘Affordable’ homes are let at London Affordable Rents; this does not appear in the figures displayed.  London Affordable Rent is specifically excluded from the list of acceptable intermediate housing in the Southwark Plan 2022 and did not exist as an affordable housing category in 2006, the date of the s106 agreement which secured the affordable housing. [^2]
 
 The s106 agreement for the development tells us that the scheme was originally to have 31 affordable homes, out of 82 total units, so, notwithstanding the LAR units, it appears there has been a welcome increase of 49 affordable housing units, but that has not been captured. [^3]
 
-![](img/pelican_house_s106_13ap1044_090106_titled.png)
+![](https://35percent.org/img/pelican_house_s106_13ap1044_090106_titled.png)
 
 #### Looking further - another provider
 
@@ -58,7 +58,7 @@ Checking out another big registered provider, London & Quadrant (L&Q), also thro
 
 The figures of 25 March for the three types of affordable housing also do not add up to the total, only amounting to 3,454, leaving 547 homes uncategorised.  On 2 April the combined figure is 3,075, leaving 153 homes uncategorised.
 
-![](img/monitoring_audit_l_and_q_25_mar_2_april_image_made_160425.png "L&Q's returns")
+![](https://35percent.org/img/monitoring_audit_l_and_q_25_mar_2_april_image_made_160425.png "L&Q's returns")
 
 #### The figures don't add up
 
@@ -68,7 +68,7 @@ What should be delivered is determined by all the legal s106 agreements that dev
 
 The figures for the five categories of affordable housing show similar large differences .  The difference for social housing is particularly striking; the registered provider provided data shows that they have provided 14,140 social rented homes, while the s106 agreements only require that they provide 2,176 – a massive difference of 11,964 homes which, if it is to be believed, means that private developers and their registered providers partners have delivered over six times more affordable housing than they were required to do.
 
-![](img/monitoring_audit_pg_2_total_homes_against_s106_160425.png "Total homes provided measured against number promised by s106 agreements")
+![](https://35percent.org/img/monitoring_audit_pg_2_total_homes_against_s106_160425.png "Total homes provided measured against number promised by s106 agreements")
 
 #### What we think
 

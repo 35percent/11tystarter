@@ -1,7 +1,7 @@
 ---
 title: Southwark abandon annual affordable housing monitoring reports
 description: Southwark give up attempt to conduct annual monitoring reports
-date: 2025-03-25T09:27:39.636Z
+date: 2025-04-22T06:29:59.005Z
 ---
 Southwark Council appear to have abandoned the annual audits of affordable housing monitoring that they promised to conduct in response to a critical [Ombudsman’s report in 2016](https://www.35percent.org/posts/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/).
 

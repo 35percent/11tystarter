@@ -9,7 +9,7 @@ Southwark Council’s planning committee finally passed Notting Hill Genesis’ 
 
 The Phase 2B application was [first considered in January 2023](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=7308&Ver=4), when the committee resolved to approve, but a [successful legal challenge](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/) by local resident Aysen Dennis prevented the grant of a full permission.  Phase 2B  covers about half of the Aylesbury’s largest block, Wendover, and adjacent maisonette blocks, Padbury, Ravenstone,and Winslow.
 
-The committee considered an amended version of the scheme, which increased the total number of homes by twenty six units, to 640, and added one-storey to four buildings, with a maximum height of 26 storeys.  NHG stated that these changes were necessary because of  new building safety requirements, including a second staircase in tall buildings.  The [application remained a 'standalone'](https://www.35percent.org/posts/aylesbury-estate-legal-challenge-goes-to-the-high-court/) or 'drop-in' application, outside the Outline Planning Permission, which NHG already holds.  
+The committee considered an amended version of the scheme, which increased the total number of homes by twenty six units, to 640, and added one-storey to four buildings, with a maximum height of 26 storeys.  NHG stated that these changes were necessary because of  new building safety requirements, including a second staircase in tall buildings.  The [application remained a 'standalone'](https://www.35percent.org/posts/aylesbury-estate-legal-challenge-goes-to-the-high-court/) or 'drop-in' application, outside the Outline Planning Permission, for the all the remaining phases of the regeneration, which NHG already holds.  
 
 #### More or less social rented housing?
 
@@ -45,7 +45,7 @@ The question around the 'drop-in' nature of the application was picked up by the
 
 #### The Committee's decision
 
-........................
+The committee decided by 6 votes to one to approve the application.  Members noted the issues and objections that had been raised, but were persuaded to approve by the good design of the proposal and its contribution to wider affordable housing delivery.  The committee also thought that a new build would be more sutainable than a refurbishment; it was also reassured by the legal advice that the approved application would not compromise the Outline Planning Permission, covering the remaining phases.  The chair noted both that, while the application was not perfect,  the London Mayor supported it.   He added that had been impressed by all the presentations (particularly that of the ward councillors) and added that retrofitting buildings should be further explored, while taking into consideration both costs and the regeneration's object of delivering 2,249 social rented units.  
 
 #### What we say.....
 

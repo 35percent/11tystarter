@@ -19,6 +19,10 @@ This was challanged by objectors, Fight4Aylesbury.  The Southwark Law Centre als
 
 #### More or less sustainable?
 
-Fight4Aylesbury objectors challanged the sustainability of the proposed scheme. A request to make a presentation of an alternative refurbishment scheme was refused, because the committee can only consider schemes as presented by the applicant.  However the chair allowed some discussion of the relative merits of demolition verses refurbishment.  Objectors pointed to the carbon emissions entailed in demolishing the estate’s large concrete panelled buildings.  NHG contends that emissions will be reduced to levels beyond that required by building regulations. 
+Fight4Aylesbury objectors challanged the sustainability of the proposed scheme. A request to make a presentation of an [alternative refurbishment scheme](https://www.little-ships.org/locations/southwark/aylesbury-estate/), devised by the Community Interest Company, [Little Ships](https://www.little-ships.org/) was refused, on the grounds that the committee can only consider schemes as presented by the applicant.  However, the chair did allow some discussion of the relative merits of demolition verses refurbishment, including committe members questioning both objectors and NHG on the respective merits of demolition versus refurbishment.   Amongst other tings, objectors pointed to the carbon emissions entailed in demolishing the estate’s large concrete panelled buildings, while NHG contened that emissions will still be reduced to levels beyond that required by building regulations. 
+
+#### Ward councillors refuse to support NHG application
+
+Cllr Ketzia Harper, representing the local ward councillors, was fiercely critical of NHG and the slow progress of the regeneration under their stewardship.  She related to the committee deails of teh poor living conditions that this was creating for the residents still on the estateabout the very poor physcial condition of teh estate of the  
 
 \[x] There are 373 existing homes; the committee report gives two different figures for the number of existing social rent units 327 (para 35) and 316 (para 101).  The 316 figure has been used to calculate the loss of social rent, but whichever figure is used remainding homes will be leasehold.

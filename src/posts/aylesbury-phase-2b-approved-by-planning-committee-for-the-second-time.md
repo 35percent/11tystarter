@@ -29,7 +29,9 @@ IMAGE 3 - Little Ships
 
 #### Why so little family housing?
 
-Objectors and the SLC also drew the committee's attention to the low level of 3-bed plus family housing, which fell short of the Councils requirements - 
+Objectors and the SLC also drew the committee's attention to the low level of family housing, with just xxxx units and falling short of the Councils requirements for two-bed plus, three-bed plus and five-bed plus (four-bed plus was met).  The committee report noted this, but considered it acceptable because all the four and five bed homes would be for social rented housing.  It also approved of the higher number of one and two bed free-market homes, because these improved the viability of the scheme.  
+
+[The SLC rejected these arguments](https://planning.southwark.gov.uk/online-applications/files/7A2D6171119C937B95CB751E37AD25A8/pdf/22_AP_2226-OBJECTION-4068338.pdf), pointing out that the Aylesbury had been envisaged as a family-oriented regeneration and that the Southwark Plan 2022 had been drafted *'to ensure a particularly high amount of family homes on the Aylesbury estate';* further, the relevant policy was not subject to viability and therefore failing to provide the required family housing was a severe breach.   
 
 #### Ward councillors decline to support NHG application
 

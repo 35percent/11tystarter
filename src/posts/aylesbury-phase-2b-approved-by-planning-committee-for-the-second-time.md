@@ -27,6 +27,10 @@ Fight4Aylesbury objectors challanged the sustainability of the proposed scheme. 
 
 IMAGE 3 - Little Ships
 
+#### Why so little family housing?
+
+Objectors and the SLC also drew the committee's attention to the low level of 3-bed plus family housing, which fell short of the Councils requirements - 
+
 #### Ward councillors decline to support NHG application
 
 Cllr Ketzia Harper, representing the local ward councillors, was fiercely critical of NHG and the slow progress of the regeneration under their stewardship.  She related to the committee details of the Aylesbury's deteriorating physical condition. and the poor living conditions that this was creating for the residents still on the estate.  She forcefully rebuttted NHG's claim that it had delivered 1,000 new homes to date, pointing out that the stalled First Development Site had to be facilitated[ by the Council buying over half the stock](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/), and reiterated concerns about the height of the development and the replacement of the social rented housing. 

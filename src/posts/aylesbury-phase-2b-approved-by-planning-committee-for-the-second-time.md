@@ -49,19 +49,15 @@ The committee decided by 6 votes to one to approve the application.  Members not
 
 The chair, Cllr Livingstone, noted both that, while the application was not perfect, the London Mayor supported it.  He said that had been impressed by all the presentations (particularly that of the ward councillors) and added that retrofitting buildings should be further explored, while taking into consideration both costs and the regeneration's object of delivering 2,249 social rented units.  
 
-#### What we say.....
+#### What we say.....going nowhere, very slowly
 
 It was not surprising that the committee approved this application, having already done so once, in January 2023.  However, it was entirely uncurious as to why they had to consider the application a second time, having already approved it once, back in January 2023.  A question it could have asked, but did not, is why the entire phase ended up as the subject of a High Court case, which both Southwark and NHG lost, at no doubt great expense to both?
 
-A second unanswered question is why it was thought necessary to amend the Outline Planning Permission the last time this application was considered, but now the OPP can be left untouched?
+A second unanswered question is why it was thought necessary to change the description of the Outline Planning Permission the last time this application was considered, with what proved to be an unlawful amendment, but now the OPP can be left untouched?  The legal position now seems to be that no such change is necessary for the OPP to retain its validity.  The fact that the 'drop-in' application has been amended since January 2023 may be true, but is irrelevant to both these questions.
 
-The fact that the application has been amended since January 2023 has no bearing on this.
+More importantly, while the legal advice given to the committee is that the OPP remains valid, that is no guarantee in itself that the remaining phases will be built according to the OPP.  All the reasons that NHG have given for abandoning the OPP for Phase 2B apply equally, if not more so, to Phase 2C, 3 and 4.  
 
-NHG would have us believe that the application has to be outside of the Outline Planning Permission because of updated fire safety regulations, deliverability issues and the need to re-provide existing affordable floorspace.  
-
-re-provision of existing affordable floorspace
-
- returned because the of changed safety requirements, 'deliverability issues' the committee report refers to an increased affordable housing target.
+This, taken together [NHG's track record](https://www.35percent.org/posts/aylesbury-regeneration-fails-to-deliver-affordable-and-family-housing/) and local councillors' evident frustration with progress begins to make a case for now ending NHG's stewardship of the regeneration and looking much harder at the refurbishment alternative presented by Fight4Aylesbury.  
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Aylesbury Phase 2B  approved by planning committee for the second time
+title: Aylesbury Phase 2B approved by planning committee for the second time
 description: "Delayed phase of troubled regeneration passed by big vote "
 date: 2025-06-09T08:05:59.571Z
 ---

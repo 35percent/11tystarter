@@ -17,12 +17,8 @@ The committee was told that while there was a net loss of social rent units, the
 
 This was challanged by objectors, Fight4Aylesbury.  The Southwark Law Centre also said that the size of some of the existing dwellings and the average of habitable rooms per unit had been underestimated.  [SLC also queried](https://planning.southwark.gov.uk/online-applications/files/7A2D6171119C937B95CB751E37AD25A8/pdf/22_AP_2226-OBJECTION-4068338.pdf) the omission from existing floorspace of the homes of Foxcote, a maisonette block that was demolished in 2016.  In response the Council reduced its estimate of the 'uplift' of new affordable floorspace, but maintained that it still met the Mayor's requirements.  The Council also believed that omitting Foxcote from the calculations was correct, because it was demolished before the current application was submitted.
 
-
-
 #### More or less sustainable?
 
-Fight4Aylesbury objectors challanged the sustainability of the proposed scheme. A request to make a presentation of an alternative refurbishment scheme was refused, because the committee canonly consider schemes as presented by the applicant 
-
-
+Fight4Aylesbury objectors challanged the sustainability of the proposed scheme. A request to make a presentation of an alternative refurbishment scheme was refused, because the committee can only consider schemes as presented by the applicant.  However the chair allowed some discussion of the relative merits of demolition verses refurbishment.  Objectors pointed to the carbon emissions entailed in demolishing the estate’s large concrete panelled buildings.  NHG contends that emissions will be reduced to levels beyond that required by building regulations. 
 
 \[x] There are 373 existing homes; the committee report gives two different figures for the number of existing social rent units 327 (para 35) and 316 (para 101).  The 316 figure has been used to calculate the loss of social rent, but whichever figure is used remainding homes will be leasehold.

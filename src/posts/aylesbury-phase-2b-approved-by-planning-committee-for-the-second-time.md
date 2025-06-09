@@ -3,7 +3,7 @@ title: Aylesbury Phase 2B approved by planning committee for the second time
 description: "Delayed phase of troubled regeneration passed by big vote "
 date: 2025-06-09T08:05:59.571Z
 ---
-![](img/aylesbury_estate_block_from_burgess_park_-02-_wikipedia_crop.jpg)
+![](img/wendover_and_nhg_proposal_phase_2b_22ap2226.png)
 
 Southwark Council’s planning committee finally passed Notting Hill Genesis’ troubled planning application for the latest phase of the Aylesbury regeneration by 6 votes to one, at its 4 June meeting.  The resolution to approve will now have to be finalised by a completed legal s106 agreement, between Southwark and NHG.
 
@@ -42,6 +42,8 @@ Cllr Harper also spoke of worries about the knock-on effect of continuing with t
 #### Legal advice reassures committee
 
 The question around the 'drop-in' nature of the application was picked up by the Council's legal officer.  She advised that it was possible for there to be more than one planning permission for a given site and that this was only a problem if one made the other impossible to implement.  This was not the case for Phase 2B and the Outline Planning Permission would still remain valid, if the committee granted permission for the 'drop-in' application.
+
+![](img/southwark-council-planning-committee-major-applications-a-04-jun-25-youtube-google-chrome-09_06_2025-16_13_07.png)
 
 #### The Committee's decision
 

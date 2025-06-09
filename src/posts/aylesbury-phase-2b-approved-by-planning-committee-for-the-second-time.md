@@ -51,9 +51,17 @@ The chair, Cllr Livingstone, noted both that, while the application was not perf
 
 #### What we say.....
 
-It was not surprising that the committee approved this application, having already done so once, in January 2023.  However, it was entirely uncurious as to why they had to consider the application again.  A question it could have asked, but did not, is why the entire phase ended up as the subject of a High Court case, which both Southwark and NHG lost at no doubt great expense and with the delays that   case  explanation that they were presenting an amended application, becaue of safety regulation changes entirley .........................................................
+It was not surprising that the committee approved this application, having already done so once, in January 2023.  However, it was entirely uncurious as to why they had to consider the application a second time, having already approved it once, back in January 2023.  A question it could have asked, but did not, is why the entire phase ended up as the subject of a High Court case, which both Southwark and NHG lost, at no doubt great expense to both?
 
-NHG would have us believe it was because the of changed safety requirements and 'deliverability issues' the committee report refers to an increased affordable housing target.
+A second unanswered question is why it was thought necessary to amend the Outline Planning Permission the last time this application was considered, but now the OPP can be left untouched?
+
+The fact that the application has been amended since January 2023 has no bearing on this.
+
+NHG would have us believe that the application has to be outside of the Outline Planning Permission because of updated fire safety regulations, deliverability issues and the need to re-provide existing affordable floorspace.  
+
+re-provision of existing affordable floorspace
+
+ returned because the of changed safety requirements, 'deliverability issues' the committee report refers to an increased affordable housing target.
 
 
 

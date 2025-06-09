@@ -49,7 +49,7 @@ The committee decided by 6 votes to one to approve the application.  Members not
 
 The chair, Cllr Livingstone, noted both that, while the application was not perfect, the London Mayor supported it.  He said that had been impressed by all the presentations (particularly that of the ward councillors) and added that retrofitting buildings should be further explored, while taking into consideration both costs and the regeneration's object of delivering 2,249 social rented units.  
 
-#### What we say.....going nowhere, very slowly
+#### What we say.....
 
 It was not surprising that the committee approved this application, having already done so once, in January 2023.  However, it was entirely uncurious as to why they had to consider the application a second time, having already approved it once, back in January 2023.  A question it could have asked, but did not, is why the entire phase ended up as the subject of a High Court case, which both Southwark and NHG lost, at no doubt great expense to both?
 

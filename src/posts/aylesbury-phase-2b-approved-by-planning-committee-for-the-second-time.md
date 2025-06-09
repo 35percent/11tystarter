@@ -3,7 +3,7 @@ title: Aylesbury Phase 2B  approved by planning committee for the second time
 description: "Delayed phase of troubled regeneration passed by big vote "
 date: 2025-06-09T08:05:59.571Z
 ---
-IMAGE 1 - Wendover
+![](img/aylesbury_estate_block_from_burgess_park_-02-_wikipedia_crop.jpg)
 
 Southwark Council’s planning committee finally passed Notting Hill Genesis’ troubled planning application for the latest phase of the Aylesbury regeneration by 6 votes to one, at its 4 June meeting.  The resolution to approve will now have to be finalised by a completed legal s106 agreement, between Southwark and NHG.
 

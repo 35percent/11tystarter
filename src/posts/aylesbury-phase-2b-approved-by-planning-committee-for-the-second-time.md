@@ -41,6 +41,14 @@ Cllr Harper also spoke of worries about the knock-on effect of continuing with t
 
 The question around the 'drop-in' nature of the application was picked up by the Council's legal officer.  She advised that it was possible for there to be more than one planning permission for a given site and that this was only a problem if one made the other impossible to implement.  This was not the case for Phase 2B and the Outline Planning Permission would still remain valid, if the committee granted permission for the 'drop-in' application.
 
+#### The Committee's decision
+
+........................
+
+#### What we say.....
+
+.........................................................
+
 
 
 \[x] There are 373 existing homes; the committee report gives two different figures for the number of existing social rent units 327 (para 35) and 316 (para 101).  The 316 figure has been used to calculate the loss of social rent, but whichever figure is used remainding homes will be leasehold.

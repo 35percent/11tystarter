@@ -11,11 +11,11 @@ The committee considered an amended version of the scheme, which increased the t
 
 #### More or less social rented housing?
 
-Phase 2B will have 50% affordable housing, with three-quarters of this as social rent, so delivering 173 social rent, 89 intermediate and 378 private homes.  Despite this, here will nonetheless be a net loss of 143 social rented units, measured against the 316 council houses that are to be demolished \[x].   
+Phase 2B will have 50% affordable housing, three-quarters as social rent, so delivering 173 social rent, 89 intermediate and 378 private homes.  Despite this, there will still be a net loss of 143 social rented units, measured against the 316 council houses that are to be demolished \[x].   
 
-The committee was told that while there was a net loss of social rent units, there was an increase of social rented accommodation when measured by habitable room and floorspace and that this conformed to the London Mayor’s requirement that there be no shortfall in social rented housing.
+The committee was told that while there was a net loss of social rent units, there was an increase of social rented accommodation, when measured by habitable room and floorspace and that this conformed to the London Mayor’s requirement that there be no shortfall in social rented housing.
 
-This was challanged by objectors from Fight4Aylesbury and, in an objection letter, the Southwark Law Centre also said that the size of some of the existing dwellings and the average of habitable rooms per unit had been underestimated.  SLC also queried the omission from existing floorspace of the homes of Foxcote, a maisonette block that was demolished in 2016.  In response the Council reduced its estimate of the 'uplift' of new affordable floorspace, but maintained that it still met the Mayor's requirements.  The Council also believed that omitting Foxcote from the calculations was correct, because it was demolished before the current application was submitted.
+This was challanged by objectors, Fight4Aylesbury.  The Southwark Law Centre also said that the size of some of the existing dwellings and the average of habitable rooms per unit had been underestimated.  [SLC also queried](https://planning.southwark.gov.uk/online-applications/files/7A2D6171119C937B95CB751E37AD25A8/pdf/22_AP_2226-OBJECTION-4068338.pdf) the omission from existing floorspace of the homes of Foxcote, a maisonette block that was demolished in 2016.  In response the Council reduced its estimate of the 'uplift' of new affordable floorspace, but maintained that it still met the Mayor's requirements.  The Council also believed that omitting Foxcote from the calculations was correct, because it was demolished before the current application was submitted.
 
 
 

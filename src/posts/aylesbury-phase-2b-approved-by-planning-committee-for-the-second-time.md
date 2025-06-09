@@ -45,11 +45,15 @@ The question around the 'drop-in' nature of the application was picked up by the
 
 #### The Committee's decision
 
-The committee decided by 6 votes to one to approve the application.  Members noted the issues and objections that had been raised, but were persuaded to approve by the good design of the proposal and its contribution to wider affordable housing delivery.  The committee also thought that a new build would be more sutainable than a refurbishment; it was also reassured by the legal advice that the approved application would not compromise the Outline Planning Permission, covering the remaining phases.  The chair noted both that, while the application was not perfect,  the London Mayor supported it.   He added that had been impressed by all the presentations (particularly that of the ward councillors) and added that retrofitting buildings should be further explored, while taking into consideration both costs and the regeneration's object of delivering 2,249 social rented units.  
+The committee decided by 6 votes to one to approve the application.  Members noted the issues and objections that had been raised, but were persuaded to approve by the good design of the proposal and its contribution to wider affordable housing delivery.  The committee also thought that a new build would be more sutainable than a refurbishment; it was also reassured by the legal advice that the approved application would not compromise the Outline Planning Permission, covering the remaining phases.  The one dissenting councillor, Cllr Poopala broadly agreed with the objecors points, noting the shortall in family housing and so voted against.
+
+The chair, Cllr Livingstone, noted both that, while the application was not perfect, the London Mayor supported it.  He said that had been impressed by all the presentations (particularly that of the ward councillors) and added that retrofitting buildings should be further explored, while taking into consideration both costs and the regeneration's object of delivering 2,249 social rented units.  
 
 #### What we say.....
 
-.........................................................
+It was not surprising that the committee approved this application, having already done so once, in January 2023.  However, it was entirely uncurious as to why they had to consider the application again.  A question it could have asked, but did not, is why the entire phase ended up as the subject of a High Court case, which both Southwark and NHG lost at no doubt great expense and with the delays that   case  explanation that they were presenting an amended application, becaue of safety regulation changes entirley .........................................................
+
+NHG would have us believe it was because the of changed safety requirements and 'deliverability issues' the committee report refers to an increased affordable housing target.
 
 
 

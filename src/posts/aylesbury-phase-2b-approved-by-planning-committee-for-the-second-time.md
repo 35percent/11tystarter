@@ -19,7 +19,7 @@ The committee was told that while there was a net loss of social rent units, the
 
 This was challanged by objectors, Fight4Aylesbury.  The Southwark Law Centre also said that the size of some of the existing dwellings and the average of habitable rooms per unit had been underestimated.  [SLC also queried](https://planning.southwark.gov.uk/online-applications/files/7A2D6171119C937B95CB751E37AD25A8/pdf/22_AP_2226-OBJECTION-4068338.pdf) the omission from existing floorspace of the homes of Foxcote, a maisonette block that was demolished in 2016.  In response the Council reduced its estimate of the 'uplift' of new affordable floorspace, but maintained that it still met the Mayor's requirements.  The Council also believed that omitting Foxcote from the calculations was correct, because it was demolished before the current application was submitted.
 
-IMAGE 2 - Fight4Aylesbury
+![](img/fight4aylesbury.png)
 
 #### More or less sustainable?
 

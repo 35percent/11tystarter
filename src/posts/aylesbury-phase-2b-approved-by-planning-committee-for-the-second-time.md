@@ -23,15 +23,17 @@ This was challanged by objectors of [Fight4Aylesbury](https://www.instagram.com/
 
 #### More or less sustainable?
 
-Fight4Aylesbury objectors challanged the sustainability of the proposed scheme. A request to make a presentation of an [alternative refurbishment scheme](https://www.little-ships.org/locations/southwark/aylesbury-estate/), devised by the Community Interest Company, [Little Ships](https://www.little-ships.org/) was refused, on the grounds that the committee can only consider schemes as presented by the applicant.  However, the chair did allow some discussion of the relative merits of demolition verses refurbishment, including committe members questioning both objectors and NHG on the respective merits of demolition versus refurbishment.   Amongst other things, objectors pointed to the carbon emissions entailed in demolishing the estate’s large concrete panelled buildings, while NHG contended that emissions will still be reduced to levels beyond that required by building regulations. 
-
-IMAGE 3 - Little Ships
+Fight4Aylesbury objectors challenged the sustainability of the proposed scheme. A request to make a presentation of an [alternative refurbishment scheme](https://www.little-ships.org/locations/southwark/aylesbury-estate/), devised by the Community Interest Company, [Little Ships](https://www.little-ships.org/) was refused, on the grounds that the committee can only consider schemes as presented by the applicant.  However, the chair did allow some discussion of the relative merits of demolition verses refurbishment, including committe members questioning both objectors and NHG on the respective merits of demolition versus refurbishment.   Amongst other things, objectors pointed to the carbon emissions entailed in demolishing the estate’s large concrete panelled buildings, while NHG contended that emissions will still be reduced to levels beyond that required by building regulations. 
 
 #### Why so little family housing?
 
 Objectors and the SLC also drew the committee's attention to the low level of family housing, with just xxxx units and falling short of the Councils requirements for two-bed plus, three-bed plus and five-bed plus (four-bed plus was met).  The committee report noted this, but considered it acceptable because all the four and five bed homes would be for social rented housing.  It also approved of the higher number of one and two bed free-market homes, because these improved the viability of the scheme.  
 
-[The SLC rejected these arguments](https://planning.southwark.gov.uk/online-applications/files/7A2D6171119C937B95CB751E37AD25A8/pdf/22_AP_2226-OBJECTION-4068338.pdf), pointing out that the Aylesbury had been envisaged as a family-oriented regeneration and that the Southwark Plan 2022 had been drafted *'to ensure a particularly high amount of family homes on the Aylesbury estate';* further, the relevant policy was not subject to viability and therefore failing to provide the required family housing was a severe breach.   
+[The SLC rejected these arguments](https://planning.southwark.gov.uk/online-applications/files/7A2D6171119C937B95CB751E37AD25A8/pdf/22_AP_2226-OBJECTION-4068338.pdf), pointing out that the Aylesbury had been envisaged as a family-oriented regeneration and that the Southwark Plan 2022 had been drafted *'to ensure a particularly high amount of family homes on the Aylesbury estate';* further, the relevant policy was not subject to viability and therefore failing to provide the required family housing was a severe breach.  
+
+![](img/little_ship_proposal_for_wendover_june_2025.png)
+
+ 
 
 #### Ward councillors decline to support NHG application
 

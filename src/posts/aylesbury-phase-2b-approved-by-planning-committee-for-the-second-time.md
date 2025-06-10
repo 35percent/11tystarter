@@ -5,7 +5,7 @@ date: 2025-06-09T16:38:12.840Z
 ---
 ![](img/wendover_and_nhg_proposal_phase_2b_22ap2226.png)
 
-Southwark Council’s planning committee finally passed Notting Hill Genesis’ troubled planning application for the latest phase of the Aylesbury regeneration by 6 votes to one, at its 4 June meeting.  The resolution to approve will now have to be finalised by a completed legal s106 agreement, between Southwark and NHG [^1].
+Southwark Council’s planning committee finally passed Notting Hill Genesis’ troubled planning application for the latest phase of the Aylesbury regeneration by 6 votes to one, at [its 4 June meeting](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=649&MId=8165&Ver=4).  The resolution to approve will now have to be finalised by a completed legal s106 agreement, between Southwark and NHG [^1].
 
 The Phase 2B application was [first considered in January 2023](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=7308&Ver=4), when the committee resolved to approve, but a subsequent [successful legal challenge](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/) by local resident Aysen Dennis prevented the grant of a full permission.  Phase 2B  covers about half of the Aylesbury’s largest block, Wendover, and adjacent maisonette blocks, Padbury, Ravenstone and Winslow.
 

@@ -67,4 +67,34 @@ This, taken together [NHG's track record](https://www.35percent.org/posts/aylesb
 
 [^3] There are 373 existing homes; the committee report gives two different figures for the number of existing social rent units 327 (para 35) and 316 (para 101).  The 316 figure has been used to calculate the loss of social rent, but whichever figure is used, the remaining homes will be leasehold. 
 
-[^4] The number of family homes break down into -  42 three-bed (14 free-market; 28 social rent); 49 four-bed (all social rent); 11 five-bed (all social rent).  Eighty-eight of the homes will be social rent, fourteen free-market, none will be intermediate housing.
+[^4] The number of family homes break down into -  42 three-bed (14 free-market; 28 social rent); 49 four-bed (all social rent); 11 five-bed (all social rent).  Eighty-eight of the homes will be social rent, fourteen free-market, none will be intermediate housing.  
+
+See our most recent blogs on the Aylesbury;
+
+[Aylesbury Phase 2B - profitable, but not viable](https://www.35percent.org/posts/aylesbury-phase-2b-financial-viability-assessments/)
+
+[Aylesbury regeneration plot fails to deliver affordable housing and new houses](https://www.35percent.org/posts/aylesbury-regeneration-fails-to-deliver-affordable-and-family-housing/)
+
+[Aylesbury Phase 2B - Notting Hill Genesis try again](https://www.35percent.org/posts/aylesbury-phase-2b-notting-hill-genesis-try-again/)
+
+[What next after High Court overturns Aylesbury planning decision?](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/)
+
+[Aylesbury estate legal battle goes to the High Court](https://www.35percent.org/posts/aylesbury-estate-legal-challenge-goes-to-the-high-court/)
+
+[Aylesbury Update: cost of leaseholder buy-outs leaps](https://www.35percent.org/posts/2022-01-24-aylesbury-update-cost-of-leaseholder-buy-out-leaps/)
+
+[Southwark rips up Aylesbury Area Action Plan](https://www.35percent.org/posts/2021-05-04-southwark-rips-up-aylesbury-objectives/)
+
+[Aylesbury estate regeneration to have new council homes](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/)
+
+[Aylesbury CPO- what's really happened](https://www.35percent.org/posts/2017-05-08-aylesbury-cpo-what-has-really-happened/)
+
+[Aylesbury CPO appeal - a grounded defence](https://www.35percent.org/posts/2017-03-05-aylesbury-cpo-grounds-of-defence-lodged/)
+
+[Aylesbury: Southwark finally granted leave to appeal CPO decision.](https://www.35percent.org/posts/2017-01-30-aylesbury-southwark-receives-permission-to-challenge-cpo-decision/)
+
+[Aylesbury Crowdfunding kicks off to successful start](https://www.35percent.org/posts/2016-10-25-crowdfunding-successful-start/)
+
+[Victory for Aylesbury Leaseholders](https://www.35percent.org/posts/2016-09-18-aylesbury-compulsory-purchase-order-rejected/)
+
+[Aylesbury CPO Inquiry - Extra Time](https://www.35percent.org/posts/2015-05-16-aylesbury-cpo-inquiry-extra-time/)

@@ -7,7 +7,7 @@ date: 2025-06-09T16:38:12.840Z
 
 Southwark Council’s planning committee finally passed Notting Hill Genesis’ troubled planning application for the latest phase of the Aylesbury regeneration by 6 votes to one, at its 4 June meeting.  The resolution to approve will now have to be finalised by a completed legal s106 agreement, between Southwark and NHG.
 
-The Phase 2B application was [first considered in January 2023](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=7308&Ver=4), when the committee resolved to approve, but a [successful legal challenge](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/) by local resident Aysen Dennis prevented the grant of a full permission.  Phase 2B  covers about half of the Aylesbury’s largest block, Wendover, and adjacent maisonette blocks, Padbury, Ravenstone,and Winslow.
+The Phase 2B application was [first considered in January 2023](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=7308&Ver=4), when the committee resolved to approve, but a subsequent [successful legal challenge](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/) by local resident Aysen Dennis prevented the grant of a full permission.  Phase 2B  covers about half of the Aylesbury’s largest block, Wendover, and adjacent maisonette blocks, Padbury, Ravenstone,and Winslow.
 
 The committee considered an amended version of the scheme, which increased the total number of homes by twenty six units, to 640, and added one-storey to four buildings, with a maximum height of 26 storeys.  NHG stated that these changes were necessary because of  new building safety requirements, including a second staircase in tall buildings.  The [application remained a 'standalone'](https://www.35percent.org/posts/aylesbury-estate-legal-challenge-goes-to-the-high-court/) or 'drop-in' application, outside the Outline Planning Permission, for the all the remaining phases of the regeneration, which NHG already holds.  
 
@@ -32,8 +32,6 @@ Objectors and the SLC also drew the committee's attention to the low level of fa
 [The SLC rejected these arguments](https://planning.southwark.gov.uk/online-applications/files/7A2D6171119C937B95CB751E37AD25A8/pdf/22_AP_2226-OBJECTION-4068338.pdf), pointing out that the Aylesbury had been envisaged as a family-oriented regeneration and that the Southwark Plan 2022 had been drafted *'to ensure a particularly high amount of family homes on the Aylesbury estate';* further, the relevant policy was not subject to viability and therefore failing to provide the required family housing was a severe breach.  
 
 ![](img/little_ship_proposal_for_wendover_june_2025.png)
-
- 
 
 #### Ward councillors decline to support NHG application
 
@@ -62,7 +60,5 @@ A second unanswered question is why it was thought necessary to change the descr
 More importantly, while the legal advice given to the committee is that the OPP remains valid, that is no guarantee in itself that the remaining phases will be built according to the OPP.  All the reasons that NHG have given for abandoning the OPP for Phase 2B apply equally, if not more so, to Phase 2C, 3 and 4 and leaves the plans for these later phases entirely uncertain.
 
 This, taken together [NHG's track record](https://www.35percent.org/posts/aylesbury-regeneration-fails-to-deliver-affordable-and-family-housing/) and local councillors' evident frustration with progress, begins to make a case for now ending NHG's stewardship of the regeneration and looking much harder at the refurbishment alternative presented by Fight4Aylesbury.  While the committee voted through this application, its willingness to at least listen to this alternative is encouraging and should be pursued.
-
-
 
 \[x] There are 373 existing homes; the committee report gives two different figures for the number of existing social rent units 327 (para 35) and 316 (para 101).  The 316 figure has been used to calculate the loss of social rent, but whichever figure is used, the remaining homes will be leasehold.

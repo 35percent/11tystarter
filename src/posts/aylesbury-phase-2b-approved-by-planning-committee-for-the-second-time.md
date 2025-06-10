@@ -53,7 +53,7 @@ The chair, Cllr Livingstone, noted that while the application was not perfect, t
 
 #### What we say.....
 
-It was not surprising that the committee approved this application, having already done so once, in January 2023.  However, it was entirely uncurious as to why they had to consider the application a second time, having already approved it once, back in January 2023.  A question it could have asked, but did not, is why the entire phase ended up as the subject of a High Court case, which both Southwark and NHG lost, at no doubt great expense to both?
+It was not surprising that the committee approved this application, having already done so once.  However, it was entirely uncurious as to why they had to consider the application a second time, having already approved it in January 2023.  A question it could have asked, but did not, is why the entire phase ended up as the subject of a High Court case, which both Southwark and NHG lost, at no doubt great expense to both?
 
 A second unanswered question is why it was thought necessary to change the description of the Outline Planning Permission the last time this application was considered, with what proved to be an unlawful amendment, but now the OPP can be left untouched?  The legal position now seems to be that no such change is necessary for the OPP to retain its validity.  The fact that the 'drop-in' application has been amended since January 2023 may be true, but is irrelevant to both these questions.
 

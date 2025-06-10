@@ -109,5 +109,8 @@ See our most recent blogs on the Aylesbury;
 
 [Aylesbury estate - 42 more residents face Compulsory Purchase](https://www.35percent.org/posts/2014-06-30-aylesbury-estate-compulsory-purchase-order/)
 
-[Aylesbury leaseholder fights 'incestuous' valuations
-](https://www.35percent.org/posts/2014-05-30-aylesbury-leaseholder-fights-incestuous-valuation/)
+[Aylesbury leaseholder fights 'incestuous' valuations](https://www.35percent.org/posts/2014-05-30-aylesbury-leaseholder-fights-incestuous-valuation/)
+
+[](https://www.35percent.org/posts/2014-05-30-aylesbury-leaseholder-fights-incestuous-valuation/)[Another Aylesbury leaseholder goes to lands tribunal](https://www.35percent.org/posts/2014-05-24-aylesbury-leaseholders-at-upper-lands-tribunal/)
+
+[Southwark's rogue landlords - enforcement or endorsement?](https://www.35percent.org/posts/2014-05-16-southwark-gives-green-light-to-slum-landlords/)

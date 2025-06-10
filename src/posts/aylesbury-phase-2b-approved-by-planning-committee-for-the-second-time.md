@@ -5,7 +5,7 @@ date: 2025-06-09T16:38:12.840Z
 ---
 ![](img/wendover_and_nhg_proposal_phase_2b_22ap2226.png)
 
-Southwark Council’s planning committee finally passed Notting Hill Genesis’ troubled planning application for the latest phase of the Aylesbury regeneration by 6 votes to one, at its 4 June meeting.  The resolution to approve will now have to be finalised by a completed legal s106 agreement, between Southwark and NHG.
+Southwark Council’s planning committee finally passed Notting Hill Genesis’ troubled planning application for the latest phase of the Aylesbury regeneration by 6 votes to one, at its 4 June meeting.  The resolution to approve will now have to be finalised by a completed legal s106 agreement, between Southwark and NHG [^1].
 
 The Phase 2B application was [first considered in January 2023](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=7308&Ver=4), when the committee resolved to approve, but a subsequent [successful legal challenge](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/) by local resident Aysen Dennis prevented the grant of a full permission.  Phase 2B  covers about half of the Aylesbury’s largest block, Wendover, and adjacent maisonette blocks, Padbury, Ravenstone,and Winslow.
 
@@ -13,7 +13,7 @@ The committee considered an amended version of the scheme, which increased the t
 
 #### More or less social rented housing?
 
-Phase 2B will have 50% affordable housing, three-quarters as social rent, so will deliver 173 social rent, 89 intermediate and 378 private homes.  Despite this, there will still be a net loss of 143 social rented units, measured against the 316 council houses that are to be demolished [^1].   
+Phase 2B will have 50% affordable housing, three-quarters as social rent, so will deliver 173 social rent, 89 intermediate and 378 private homes.  Despite this, there will still be a net loss of 143 social rented units, measured against the 316 council houses that are to be demolished [^2].   
 
 The committee was told that while there was a net loss of social rent units, there was an increase of social rented accommodation, when measured by habitable room and floorspace and that this conformed to the London Mayor’s requirement that there be no shortfall in social rented housing.
 
@@ -27,7 +27,7 @@ Fight4Aylesbury objectors challenged the sustainability of the proposed scheme. 
 
 #### Why so little family housing?
 
-Objectors and the SLC also drew the committee's attention to the low level of family housing, with just 102 three+ bed units and falling short of the Councils requirements for two-bed plus, three-bed plus and five-bed plus (four-bed plus was met).  The [committee report](https://moderngov.southwark.gov.uk/documents/s127006/Report%20Aylesbury%20Estate%20Site%20Phase%202B%20-%20Land%20Bounded%20By%20Thurlow%20Street%20Albany%20Road%20Kinglake%20Stree.pdf) noted this, but considered it acceptable because all the four and five bed homes would be for social rented housing.  The report also approved of the higher number of one and two bed free-market homes, because these improved the viability of the scheme [^2].  
+Objectors and the SLC also drew the committee's attention to the low level of family housing, with just 102 three+ bed units and falling short of the Councils requirements for two-bed plus, three-bed plus and five-bed plus (four-bed plus was met).  The [committee report](https://moderngov.southwark.gov.uk/documents/s127006/Report%20Aylesbury%20Estate%20Site%20Phase%202B%20-%20Land%20Bounded%20By%20Thurlow%20Street%20Albany%20Road%20Kinglake%20Stree.pdf) noted this, but considered it acceptable because all the four and five bed homes would be for social rented housing.  The report also approved of the higher number of one and two bed free-market homes, because these improved the viability of the scheme [^3].  
 
 [The SLC rejected these arguments](https://planning.southwark.gov.uk/online-applications/files/7A2D6171119C937B95CB751E37AD25A8/pdf/22_AP_2226-OBJECTION-4068338.pdf), pointing out that the Aylesbury had been envisaged as a family-oriented regeneration and that the Southwark Plan 2022 had been drafted *'to ensure a particularly high amount of family homes on the Aylesbury estate';* further, the relevant policy was not subject to viability and therefore failing to provide the required family housing was a severe breach.  
 
@@ -61,4 +61,8 @@ More importantly, while the legal advice given to the committee is that the OPP 
 
 This, taken together [NHG's track record](https://www.35percent.org/posts/aylesbury-regeneration-fails-to-deliver-affordable-and-family-housing/) and local councillors' evident frustration with progress, begins to make a case for now ending NHG's stewardship of the regeneration and looking much harder at the refurbishment alternative presented by Fight4Aylesbury.  While the committee voted through this application, its willingness to at least listen to this alternative is encouraging and should be pursued.
 
-[^1] There are 373 existing homes; the committee report gives two different figures for the number of existing social rent units 327 (para 35) and 316 (para 101).  The 316 figure has been used to calculate the loss of social rent, but whichever figure is used, the remaining homes will be leasehold.
+[^1] The full application, including all planning documents, can be found via Southwark Council's [planning register](https://planning.southwark.gov.uk/online-applications/), by entering ref 22/AP/2226 into the search box.
+
+[^2] There are 373 existing homes; the committee report gives two different figures for the number of existing social rent units 327 (para 35) and 316 (para 101).  The 316 figure has been used to calculate the loss of social rent, but whichever figure is used, the remaining homes will be leasehold. 
+
+[^3] The number of family homes break down into -  42 three-bed (14 free-market; 28 social rent); 49 four-bed (all social rent); 11 five-bed (all social rent).  Eighty-eight of the homes will be social rent, fourteen free-market, none will be intermediate housing.

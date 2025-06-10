@@ -17,7 +17,7 @@ Phase 2B will have 50% affordable housing, three-quarters as social rent, so wil
 
 The committee was told that while there was a net loss of social rent units, there was an increase of social rented accommodation, when measured by habitable room and floorspace and that this conformed to the London Mayor’s requirement that there be no shortfall in social rented housing.
 
-This was challenged by objectors of [Fight4Aylesbury](https://www.instagram.com/fight4aylesbury/).  The [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) also objected, saying that the size of some of the existing dwellings and the average of habitable rooms per unit had been underestimated.  SLC also queried the omission from existing floorspace of the homes of Foxcote, a maisonette block that was demolished in 2016.  In response the Council reduced its estimate of the 'uplift' of new affordable floorspace, but maintained that it still met the Mayor's requirements.  The Council also believed that omitting Foxcote from the calculations was correct, because it was demolished before the current application was submitted.
+This was challenged by objectors of [Fight4Aylesbury](https://www.instagram.com/fight4aylesbury/).  The [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) also objected, saying that the size of some of the existing dwellings and the average of habitable rooms per unit had been underestimated.  SLC also queried the omission from existing floorspace of the homes of Foxcote, a maisonette block that was demolished in 2016.  In response the Council reduced its estimate of the 'uplift' of new affordable floorspace, but maintained that it still met the Mayor's requirements.  The Council also believed that omitting Foxcote from the calculations was correct, because it was demolished before the current application was submitted [^3].
 
 ![](img/fight4aylesbury.png)
 
@@ -27,7 +27,7 @@ Fight4Aylesbury objectors challenged the sustainability of the proposed scheme. 
 
 #### Why so little family housing?
 
-Objectors and the SLC also drew the committee's attention to the low level of family housing, with just 102 three+ bed units and falling short of the Councils requirements for two-bed plus, three-bed plus and five-bed plus (four-bed plus was met).  The [committee report](https://moderngov.southwark.gov.uk/documents/s127006/Report%20Aylesbury%20Estate%20Site%20Phase%202B%20-%20Land%20Bounded%20By%20Thurlow%20Street%20Albany%20Road%20Kinglake%20Stree.pdf) noted this, but considered it acceptable because all the four and five bed homes would be for social rented housing.  The report also approved of the higher number of one and two bed free-market homes, because these improved the viability of the scheme [^3].  
+Objectors and the SLC also drew the committee's attention to the low level of family housing, with just 102 three+ bed units and falling short of the Councils requirements for two-bed plus, three-bed plus and five-bed plus (four-bed plus was met).  The [committee report](https://moderngov.southwark.gov.uk/documents/s127006/Report%20Aylesbury%20Estate%20Site%20Phase%202B%20-%20Land%20Bounded%20By%20Thurlow%20Street%20Albany%20Road%20Kinglake%20Stree.pdf) noted this, but considered it acceptable because all the four and five bed homes would be for social rented housing.  The report also approved of the higher number of one and two bed free-market homes, because these improved the viability of the scheme [^4].  
 
 [The SLC rejected these arguments](https://planning.southwark.gov.uk/online-applications/files/7A2D6171119C937B95CB751E37AD25A8/pdf/22_AP_2226-OBJECTION-4068338.pdf), pointing out that the Aylesbury had been envisaged as a family-oriented regeneration and that the Southwark Plan 2022 had been drafted *'to ensure a particularly high amount of family homes on the Aylesbury estate';* further, the relevant policy was not subject to viability and therefore failing to provide the required family housing was a severe breach of the Southwark Plan.  
 
@@ -63,6 +63,8 @@ This, taken together [NHG's track record](https://www.35percent.org/posts/aylesb
 
 [^1] The full application, including all planning documents, can be found via Southwark Council's [planning register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning), clicking 'Use the planning register' button and entering ref 22/AP/2226 into the search box.
 
-[^2] There are 373 existing homes; the committee report gives two different figures for the number of existing social rent units 327 (para 35) and 316 (para 101).  The 316 figure has been used to calculate the loss of social rent, but whichever figure is used, the remaining homes will be leasehold. 
+[^2] The SLC objection letter can be found in planning application 22/AP/2226, under the documents tab, labelled 'Objection', dated 20 May 2025. 
 
-[^3] The number of family homes break down into -  42 three-bed (14 free-market; 28 social rent); 49 four-bed (all social rent); 11 five-bed (all social rent).  Eighty-eight of the homes will be social rent, fourteen free-market, none will be intermediate housing.
+[^3] There are 373 existing homes; the committee report gives two different figures for the number of existing social rent units 327 (para 35) and 316 (para 101).  The 316 figure has been used to calculate the loss of social rent, but whichever figure is used, the remaining homes will be leasehold. 
+
+[^4] The number of family homes break down into -  42 three-bed (14 free-market; 28 social rent); 49 four-bed (all social rent); 11 five-bed (all social rent).  Eighty-eight of the homes will be social rent, fourteen free-market, none will be intermediate housing.

@@ -47,9 +47,9 @@ The question around the 'drop-in' nature of the application was picked up by the
 
 #### The Committee's decision
 
-The committee decided by 6 votes to one to approve the application.  Members noted the issues and objections that had been raised, but were persuaded to approve by the good design of the proposal and its contribution to wider affordable housing delivery.  The committee also thought that a new build would be more sutainable than a refurbishment; it was also reassured by the legal advice that the approved application would not compromise the Outline Planning Permission, covering the remaining phases.  The one dissenting councillor, Cllr Poopala broadly agreed with the objecors points, noting the shortall in family housing and so voted against.
+The committee decided by 6 votes to one to approve the application.  Members noted the issues and objections that had been raised, but were persuaded to approve by the good design of the proposal and its contribution to wider affordable housing delivery.  The committee also thought that a new build would be more sutainable than a refurbishment; it was also reassured by the legal advice that the approved application would not compromise the Outline Planning Permission, covering the remaining phases.  The one dissenting councillor, Cllr Poopala, broadly agreed with the objectors points, noting in particular the shortall in family housing and so voted against.
 
-The chair, Cllr Livingstone, noted both that, while the application was not perfect, the London Mayor supported it.  He said that had been impressed by all the presentations (particularly that of the ward councillors) and added that retrofitting buildings should be further explored, while taking into consideration both costs and the regeneration's object of delivering 2,249 social rented units.  
+The chair, Cllr Livingstone, noted that while the application was not perfect, the London Mayor supported it.  He said that had been impressed by all the presentations (particularly that of the ward councillors) and added that retrofitting buildings should be further explored, while taking into consideration both costs and the regeneration's object of delivering 2,249 social rented units.  
 
 #### What we say.....
 

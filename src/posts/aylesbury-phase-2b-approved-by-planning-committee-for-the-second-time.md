@@ -2,8 +2,8 @@
 title: Aylesbury Phase 2B approved by planning committee for the second time
 description: "Delayed phase of troubled regeneration passed by big vote "
 date: 2025-06-09T16:38:12.840Z
+image: img/wendover_and_nhg_proposal_phase_2b_22ap2226.png
 ---
-![](img/wendover_and_nhg_proposal_phase_2b_22ap2226.png)
 
 Southwark Council’s planning committee finally passed Notting Hill Genesis’ troubled planning application for the latest phase of the Aylesbury regeneration by 6 votes to one, at [its 4 June meeting](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=649&MId=8165&Ver=4).  The resolution to approve will now have to be finalised by a completed legal s106 agreement, between Southwark and NHG [^1].
 
@@ -19,7 +19,7 @@ The committee was told that while there was a net loss of social rent units, the
 
 This was challenged by objectors of [Fight4Aylesbury](https://www.instagram.com/fight4aylesbury/).  The [Southwark Law Centre](https://www.southwarklawcentre.org.uk/) also objected, saying that the size of some of the existing dwellings and the average of habitable rooms per unit had been underestimated.  SLC also queried the omission from existing floorspace of the homes of Foxcote, a maisonette block that was demolished in 2016.  In response the Council reduced its estimate of the 'uplift' of new affordable floorspace, but maintained that it still met the Mayor's requirements.  The Council also believed that omitting Foxcote from the calculations was correct, because it was demolished before the current application was submitted [^3].
 
-![](img/fight4aylesbury.png)
+![](https://35percent.org/img/fight4aylesbury.png)
 
 #### More or less sustainable?
 
@@ -31,7 +31,7 @@ Objectors and the SLC also drew the committee's attention to the low level of fa
 
 The SLC objection rejected these arguments, pointing out that the Aylesbury had been envisaged as a family-oriented regeneration and that the Southwark Plan 2022 had been drafted *'to ensure a particularly high amount of family homes on the Aylesbury estate';* further, the relevant policy was not subject to viability and therefore failing to provide the required family housing was a severe breach of the Southwark Plan.  
 
-![](img/little_ship_proposal_for_wendover_june_2025.png)
+![](https://35percent.org/img/little_ship_proposal_for_wendover_june_2025.png)
 
 #### Ward councillors decline to support NHG application
 
@@ -43,7 +43,7 @@ Cllr Harper also spoke of worries about the knock-on effect of continuing with t
 
 The question around the 'drop-in' nature of the application was picked up by the Council's legal officer.  She advised that it was possible for there to be more than one planning permission for a given site and that this was only a problem if one made the other impossible to implement.  This was not the case for Phase 2B and the Outline Planning Permission would still remain valid, if the committee granted permission for the 'drop-in' application.
 
-![](img/southwark-council-planning-committee-major-applications-a-04-jun-25-youtube-google-chrome-09_06_2025-16_13_07.png)
+![](https://35percent.org/img/southwark-council-planning-committee-major-applications-a-04-jun-25-youtube-google-chrome-09_06_2025-16_13_07.png)
 
 #### The Committee's decision
 
@@ -60,6 +60,8 @@ A second unanswered question is why it was thought necessary to change the descr
 More importantly, while the legal advice given to the committee is that the OPP remains valid, this is no guarantee in itself that the remaining phases will be built according to the OPP.  All the reasons that NHG have given for abandoning the OPP for Phase 2B apply equally, if not more so, to Phase 2C, 3 and 4 and leaves the plans for these later phases entirely uncertain.
 
 This, taken together [NHG's track record](https://www.35percent.org/posts/aylesbury-regeneration-fails-to-deliver-affordable-and-family-housing/) and local councillors' evident frustration with progress, begins to make a case for now ending NHG's stewardship of the regeneration and looking much harder at the refurbishment alternative presented by Fight4Aylesbury.  While the committee voted through this application, its willingness to at least listen to this alternative is encouraging and should be pursued.
+
+__Footnotes:__
 
 [^1] The full application, including all planning documents, can be found via Southwark Council's [planning register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning), clicking 'Use the planning register' button and entering ref 22/AP/2226 into the search box.
 

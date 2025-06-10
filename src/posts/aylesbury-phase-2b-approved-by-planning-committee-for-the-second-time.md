@@ -69,7 +69,7 @@ This, taken together [NHG's track record](https://www.35percent.org/posts/aylesb
 
 [^4] The number of family homes break down into -  42 three-bed (14 free-market; 28 social rent); 49 four-bed (all social rent); 11 five-bed (all social rent).  Eighty-eight of the homes will be social rent, fourteen free-market, none will be intermediate housing.  
 
-See our most recent blogs on the Aylesbury;
+### Our previous blogposts about the Aylesbury estate
 
 [Aylesbury Phase 2B - profitable, but not viable](https://www.35percent.org/posts/aylesbury-phase-2b-financial-viability-assessments/)
 

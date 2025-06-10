@@ -9,11 +9,11 @@ Southwark Council’s planning committee finally passed Notting Hill Genesis’ 
 
 The Phase 2B application was [first considered in January 2023](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=7308&Ver=4), when the committee resolved to approve, but a subsequent [successful legal challenge](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/) by local resident Aysen Dennis prevented the grant of a full permission.  Phase 2B  covers about half of the Aylesbury’s largest block, Wendover, and adjacent maisonette blocks, Padbury, Ravenstone,and Winslow.
 
-The committee considered an amended version of the scheme, which increased the total number of homes by twenty six units, to 640, and added one-storey to four buildings, to a maximum height of 26 storeys.  NHG stated that these changes were necessary because of  new building safety requirements, including a second staircase in tall buildings.  The [application remained a 'standalone'](https://www.35percent.org/posts/aylesbury-estate-legal-challenge-goes-to-the-high-court/) or 'drop-in' application, outside the Outline Planning Permission, for the all the remaining phases of the regeneration, which NHG already holds.  
+The committee considered an amended version of the scheme, which increased the total number of homes by twenty six units, to 640, and added one-storey to four buildings, to a maximum height of 26 storeys.  NHG stated that these changes were necessary because of  new building safety requirements, including a second staircase in tall buildings.  The [application remained a 'standalone'](https://www.35percent.org/posts/aylesbury-estate-legal-challenge-goes-to-the-high-court/) or 'drop-in' application, outside the Outline Planning Permission, which NHG already holds for the all the remaining phases of the regeneration
 
 #### More or less social rented housing?
 
-Phase 2B will have 50% affordable housing, three-quarters as social rent, so delivering 173 social rent, 89 intermediate and 378 private homes.  Despite this, there will still be a net loss of 143 social rented units, measured against the 316 council houses that are to be demolished \[x].   
+Phase 2B will have 50% affordable housing, three-quarters as social rent, so will deliver 173 social rent, 89 intermediate and 378 private homes.  Despite this, there will still be a net loss of 143 social rented units, measured against the 316 council houses that are to be demolished \[x].   
 
 The committee was told that while there was a net loss of social rent units, there was an increase of social rented accommodation, when measured by habitable room and floorspace and that this conformed to the London Mayor’s requirement that there be no shortfall in social rented housing.
 

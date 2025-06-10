@@ -104,3 +104,10 @@ See our most recent blogs on the Aylesbury;
 [Aylesbury Applications Approved](https://www.35percent.org/posts/2015-04-26-aylesbury-applications-approved/)
 
 [Aylesbury redevelopment - decision day](https://www.35percent.org/posts/2015-04-18-aylesbury-planning-application-hearing/)
+
+[Aylesbury estate planning applications - 934 social rented homes to be lost](https://www.35percent.org/posts/2014-11-01-aylesbury-estate-planning-application/)
+
+[Aylesbury estate - 42 more residents face Compulsory Purchase](https://www.35percent.org/posts/2014-06-30-aylesbury-estate-compulsory-purchase-order/)
+
+[Aylesbury leaseholder fights 'incestuous' valuations
+](https://www.35percent.org/posts/2014-05-30-aylesbury-leaseholder-fights-incestuous-valuation/)

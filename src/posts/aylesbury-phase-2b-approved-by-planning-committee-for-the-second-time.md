@@ -98,3 +98,9 @@ See our most recent blogs on the Aylesbury;
 [Victory for Aylesbury Leaseholders](https://www.35percent.org/posts/2016-09-18-aylesbury-compulsory-purchase-order-rejected/)
 
 [Aylesbury CPO Inquiry - Extra Time](https://www.35percent.org/posts/2015-05-16-aylesbury-cpo-inquiry-extra-time/)
+
+[Aylesbury CPO Inquiry - Into the Lion's Den](https://www.35percent.org/posts/2015-05-02-aylesbury-estate-compulsory-purchase-order-public-inquiry/)
+
+[Aylesbury Applications Approved](https://www.35percent.org/posts/2015-04-26-aylesbury-applications-approved/)
+
+[Aylesbury redevelopment - decision day](https://www.35percent.org/posts/2015-04-18-aylesbury-planning-application-hearing/)

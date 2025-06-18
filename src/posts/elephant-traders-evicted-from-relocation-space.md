@@ -7,7 +7,7 @@ The [Southwark News has reported](https://southwarknews.co.uk/area/elephant-and-
 
 Around six traders have been told by the Arcade's operator, [Meanwhile Space](https://www.meanwhilespace.com/), that they will have to leave by the end of August.  Two traders established successful businesses in the Arcade, the [Black Cowboy Coffee](https://www.instagram.com/blackcowboycoffee/?hl=en) and [Lucy's Hair and Beauty](https://www.lucyhairandbeauty.com/) and will remain there, with Southwark Council as their new landlords.
 
-Traders who spoke to Southwark News said that lack of custom and low footfall has left them struggling to make a profit.  House of Trainers owner Al Hussein had been trading at the Elephant for 15 years.  He said people did not know that there were businesses in the Arcade and was critical of of Meanwhile Space for not providing better signage.  Meklit Tadese, of Meklit Fashion, said how shocked she was to have to leave the Arcade.
+Traders who spoke to Southwark News said that lack of custom and low footfall has left them struggling to make a profit.  House of Trainers owner Al Hussein had been trading at the Elephant for 15 years.  He said people did not know that there were businesses in the Arcade and was critical of Meanwhile Space for not providing better signage.  Meklit Tadese, of Meklit Fashion, said how shocked she was to have to leave the Arcade.
 
 Southwark News reports Southwark Council as saying that it supported Meanwhile Spaces's decision to end their lease for the Arcade.  Businesses had struggled and traders would be given an *'exit package'*. The Council planned to *'repurpose'* the space as a community centre.
 

@@ -25,7 +25,7 @@ While the Elephant Square site is at least visible, most of the shops in Elephan
 
 The traders themselves were well aware of the problems of their situation and repeatedly asked for improved signage and other changes, but to no avail, as our good friends Latin Elephant have noted in their comments to Southwark News.  Latin Elephant also noted the risk of low footfall in its [recent assessment of the impact](https://latinelephant.org/wp-content/uploads/2025/04/Relocation-Impact-Assessment-Current-State-of-Play-for-Elephant-Castle-Traders-by-Latin-Elephant.pdf) of the shopping centre traders' relocation.  
 
-No-one can say for certain that all the traders would have prospered if their request had been met , but given that they had already a track-record of trading in the area before they were relocated, they would at least have had a fighting-chance of success.     
+No-one can say for certain that all the traders would have prospered if their request had been met, but given that they had already a track-record of trading in the area before they were relocated, they would at least have had a fighting-chance of success.     
 
 Both Elephant Square and Elephant Arcade are two relocation sites that were secured by the local community and the [UptheElephant](https://x.com/uptheelephant_) campaign in the [battle against the shopping centre demolition](https://www.35percent.org/posts/2021-11-20-elephant-traders-without-new-premises-one-year-after-shopping-centre-closes/) [^2].  The traders who remain in Elephant Square are now hopeful that they will be [able to move to premises in the completed Town Centre](https://southwarknews.co.uk/area/elephant-and-castle/exclusive-castle-square-traders-leases-extended-as-town-centre-development-moves-forward/).   
 
@@ -33,4 +33,4 @@ Southwark Council and Get Living, the Square's landlords, must work with traders
 
 [](https://southwarknews.co.uk/area/elephant-and-castle/traders-evicted-from-elephant-and-castle-shopping-arcade-as-private-landlord-hands-back-control-of-struggling-retail-space-to-southwark-council/)[^1] The current business relocation policy, which came into effect in 2022, after the Elephant trader relocation can be found in the [Southwark Plan 2022](https://services.southwark.gov.uk/assets/attach/94325/Southwark-Plan-2022.pdf), policy P33.
 
-[^2] A third site is Ash Avenue, Elephant Park.  Independant traders also remain in the railway arches and the shopping parade beneath Drapers House.
+[^2] A third site is Ash Avenue, Elephant Park.  Independent traders also remain in the railway arches and the shopping parade beneath Drapers House.

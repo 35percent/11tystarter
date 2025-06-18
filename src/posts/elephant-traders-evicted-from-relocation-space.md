@@ -11,7 +11,7 @@ Traders who spoke to Southwark News said that lack of custom and low footfall ha
 
 Southwark News reports Southwark Council as saying that it supported Meanwhile Space's decision to end their lease for the Arcade.  Businesses had struggled and traders would be given an *'exit package'*. The Council planned to *'repurpose'* the space as a community centre.
 
-Local charity Latin Elephant advocates for all local independants traders in the area and was critical of the decision.  They said: *'Traders have been trying for almost 5 years to get Southwark Council and Meanwhile Space to improve conditions and encourage footfall at Elephant Arcade'.*
+Local charity Latin Elephant advocates for all local independent traders in the area and was critical of the decision.  They said: *'Traders have been trying for almost 5 years to get Southwark Council and Meanwhile Space to improve conditions and encourage footfall at Elephant Arcade'.*
 
 *'If traders’ legitimate concerns and suggestions had been listened to and acted on effectively, these businesses would have had a much greater chance at thriving in the challenging conditions of development and relocation'.*
 
@@ -21,7 +21,7 @@ Local charity Latin Elephant advocates for all local independants traders in the
 
 The loss of these traders marks a failure of Southwark Council's relocation policy for small businesses displaced by regeneration [^1].  The Elephant Arcade evictions also follow the [evictions of four traders from Elephant Square](https://southwarknews.co.uk/area/elephant-and-castle/exclusive-castle-square-traders-say-business-is-dead-as-four-are-evicted/), another relocation site, just over a year ago.  Both sets of traders cite the [same reasons for their struggles](https://www.mylondon.news/news/south-london-news/old-elephant-castle-traders-complain-25107268) to make a profit - low-footfall, difficult-to-find premises and lack of good signage .  
 
-While the Elephant Square site is at least visible, most of the shops in Elephant Arcade are tucked away out of sight of passing pedestrians, which was always going to make it difficult for them  to attract custom.  Both Southwark Council and Meanwhile Space should have recognised this and done much more to support those traders.  It's noteworthy that the two businesses that have successfully re-established themselves are not only an excellent cafe and hairdresser, but are also completely visible to anyone walking by on the street.
+While the Elephant Square site is at least visible, most of the shops in Elephant Arcade are tucked away out of sight of passing pedestrians, which was always going to make it difficult for them  to attract custom.  Both Southwark Council and Meanwhile Space should have recognised this and done much more to support those traders.  It is noteworthy that the two businesses that have successfully re-established themselves are not only an excellent cafe and hairdresser, but are also completely visible to anyone walking by on the street.
 
 The traders themselves were well aware of the problems of their situation and repeatedly asked for improved signage and other changes, but to no avail, as our good friends Latin Elephant have noted in their comments to Southwark News.  Latin Elephant also noted the risk of low footfall in its [recent assessment of the impact](https://latinelephant.org/wp-content/uploads/2025/04/Relocation-Impact-Assessment-Current-State-of-Play-for-Elephant-Castle-Traders-by-Latin-Elephant.pdf) of the shopping centre traders' relocation.  
 

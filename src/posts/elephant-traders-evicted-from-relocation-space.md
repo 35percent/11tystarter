@@ -9,7 +9,7 @@ Around six traders have been told by the Arcade's operator, [Meanwhile Space](ht
 
 Traders who spoke to Southwark News said that lack of custom and low footfall has left them struggling to make a profit.  House of Trainers owner Al Hussein had been trading at the Elephant for 15 years.  He said people did not know that there were businesses in the Arcade and was critical of Meanwhile Space for not providing better signage.  Meklit Tadese, of Meklit Fashion, said how shocked she was to have to leave the Arcade.
 
-Southwark News reports Southwark Council as saying that it supported Meanwhile Spaces's decision to end their lease for the Arcade.  Businesses had struggled and traders would be given an *'exit package'*. The Council planned to *'repurpose'* the space as a community centre.
+Southwark News reports Southwark Council as saying that it supported Meanwhile Space's decision to end their lease for the Arcade.  Businesses had struggled and traders would be given an *'exit package'*. The Council planned to *'repurpose'* the space as a community centre.
 
 Local charity Latin Elephant advocates for all local independants traders in the area and was critical of the decision.  They said: *'Traders have been trying for almost 5 years to get Southwark Council and Meanwhile Space to improve conditions and encourage footfall at Elephant Arcade'.*
 

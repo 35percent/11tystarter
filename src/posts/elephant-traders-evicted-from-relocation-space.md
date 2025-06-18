@@ -3,7 +3,9 @@ title: Elephant traders evicted from relocation space
 description: Small 'sruggling' traders told to leave Elephant Arcade
 date: 2025-06-16T09:48:45.515Z
 ---
-The Southwark News has reported that small traders at the Elephant Arcade are to be evicted.  The traders were relocated to the Arcade, a converted indoor carpark at the bottom of council block Perronet House, when they were displaced in 2020, by the demolition and redevelopment of the Elephant and Castle Shoppin Centre.
+The [Southwark News has reported](https://southwarknews.co.uk/area/elephant-and-castle/traders-evicted-from-elephant-and-castle-shopping-arcade-as-private-landlord-hands-back-control-of-struggling-retail-space-to-southwark-council/) that the small traders at the Elephant Arcade are to be evicted.  The traders were relocated to the Arcade, a converted indoor carpark at the bottom of council block Perronet House, when they were displaced in 2020, by the demolition and redevelopment of the Elephant and Castle Shoppin Centre.
+
+
 
 SN reports that Southwark Council says.....
 

@@ -5,13 +5,19 @@ date: 2025-06-16T09:48:45.515Z
 ---
 The [Southwark News has reported](https://southwarknews.co.uk/area/elephant-and-castle/traders-evicted-from-elephant-and-castle-shopping-arcade-as-private-landlord-hands-back-control-of-struggling-retail-space-to-southwark-council/) that the small traders at the Elephant Arcade are to be evicted.  The traders were relocated to the Arcade,  when they were displaced in 2020, by the demolition and redevelopment of the Elephant and Castle Shoppin Centre.  The Arcade is a converted indoor carpark at the bottom of council housing block, Perronet House. 
 
-Around six traders have been told by the Arcade's operator, [Meanwhile Space](https://www.meanwhilespace.com/), that they will have to leave by the end of August. 
+Around six traders have been told by the Arcade's operator, [Meanwhile Space](https://www.meanwhilespace.com/), that they will have to leave by the end of August.  Two traders, the [Black Cowboy Coffee](https://www.instagram.com/blackcowboycoffee/?hl=en) and [Lucy's Hair and Beauty](https://www.lucyhairandbeauty.com/), which have both established successful businesses in the Arcade, will remain, with Southwark Council as their new landlords.
 
-SN reports that Southwark Council says.....
+Traders who spoke to Southwark News said that lack of custom and low footfall has left them struggling to make a profit.  They said people did not know that there were businesses in the Arcade and were critical of of Meanwhile Space for not providing better signage.  
+
+Southwark News reports Southwark Council as saying that it supoported Meanwhile Spaces's
 
 Latin Elephant say.......
 
 ### What we say
+
+The lose of these traders mark a falure of Southwark Council's relocation policy [^x].  Anyone familiar with the Elephant will know that the bottom of Perronet House was far from an ideal relocation site and that it was always going to be difficult for shops to attract custom, when they are tucked away out of sight of passing pedestrians.  Both Southwark Council and Meanwhile Space should have recognised this and done much more to support the traders in the Elephant Arcade.  It's noteworthy that the two businesses that have successfully re-established themselves are not only an excellent cafe and hairdresser, but are also completely visible to anyone walking by on the street.
+
+The traders themselves were well aware of this and repeatedly asked for improved signage and other changes, but to no avail, as our good friends Latin Elephant noted.
 
 The closure of these businesses due to a lack of customers should can come as no surprise to Southwark Council or anyone else.  Latin Elephant noted the risk of low footfall in its recent assessment of the impact of the relocation of the businesses from the shopping centre, in Sept 2020.  This also relates the challenges of the Covid pandemic, adding to that of ‘re-building’ a customer base in out-of-the way sites.
 
@@ -26,7 +32,7 @@ The local community and housing campaigners fought hard to get some mitigating b
 Southwark’s policy has improved since then, but in practice how local businesses can be accommodated in new developments is still too much of an afterthought and leaves them pushed to the margins.  A test that something better can be done will be the treatment of the Mercato traders. The fears of Old Kent Rd businesses have been well-rehearsed ever since the Old Kent Rd Opportunity Area was announced. .  PLUSHLatin and all the other small traders were amn afterthought 
 One lesson that should be learned it that must stop pushing businesses we already have to the margins
 
-and the risk posed by relocation to hidden areas with low footfall.
+[
 
 <https://southwarknews.co.uk/area/elephant-and-castle/traders-evicted-from-elephant-and-castle-shopping-arcade-as-private-landlord-hands-back-control-of-struggling-retail-space-to-southwark-council/>
 

@@ -31,4 +31,6 @@ The Arcade is one of three relocation sites that were secured by the local commu
 
 Southwark Council and the Square's landlords (NB not Meanwhile Space) should now take note and work with the Elephant Square traders, to give their businesses the support they need to thrive.  
 
+make these evictions the last.....
+
 [](https://southwarknews.co.uk/area/elephant-and-castle/traders-evicted-from-elephant-and-castle-shopping-arcade-as-private-landlord-hands-back-control-of-struggling-retail-space-to-southwark-council/)[^1] The current policy, which came into effect in 2022, after the Elephant trader relocation can be found in the [Southwark Plan 2022](https://services.southwark.gov.uk/assets/attach/94325/Southwark-Plan-2022.pdf), policy P33.

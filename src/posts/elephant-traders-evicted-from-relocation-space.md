@@ -19,7 +19,7 @@ Local charity Latin Elephant advocates for all local independent traders in the 
 
 *'Southwark Council owes it to the traders they are in the process of displacing to support them in finding alternative affordable retail space in the area.'*
 
-![]()
+![](img/love_the_elephant.png)
 
 ### What we say...not the first evictions
 

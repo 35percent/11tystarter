@@ -19,6 +19,8 @@ Local charity Latin Elephant advocates for all local independent traders in the 
 
 *'Southwark Council owes it to the traders they are in the process of displacing to support them in finding alternative affordable retail space in the area.'*
 
+![]()
+
 ### What we say...not the first evictions
 
 The loss of these traders marks a failure of Southwark Council's relocation policy for small businesses displaced by regeneration [^1].  The Elephant Arcade evictions also follow the [evictions of four traders from Elephant Square](https://southwarknews.co.uk/area/elephant-and-castle/exclusive-castle-square-traders-say-business-is-dead-as-four-are-evicted/), another relocation site, just over a year ago.  Both sets of traders cite the [same reasons for their struggles](https://www.mylondon.news/news/south-london-news/old-elephant-castle-traders-complain-25107268) to make a profit - low-footfall, difficult-to-find premises and lack of good signage .  

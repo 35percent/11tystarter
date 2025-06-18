@@ -17,9 +17,9 @@ Local charity Latin Elephant advocates for all local independants traders in the
 
 *'Southwark Council owes it to the traders they are in the process of displacing to support them in finding alternative affordable retail space in the area.'*
 
-### *What we say*
+### What we say...not the first evictions
 
-The lose of these traders mark a failure of Southwark Council's relocation policy for small businesses displaced by development and regeneration[^x].  
+The Elephant Arcade evictions follow [evictions of four traders from Elephant Square](https://www.35percent.org/posts/2021-11-20-elephant-traders-without-new-premises-one-year-after-shopping-centre-closes/), another relocation site, just over a year ago.  Both sets of traders cite the same reasons for their struggles - low-footfall, difficult-to-find premises, lack of good signage.  The lose of all these traders mark a failure of Southwark Council's relocation policy for small businesses displaced by development and regeneration[^1].  
 
 Anyone familiar with the Elephant will know that the bottom of Perronet House was far from an ideal relocation site and that it was always going to be difficult for shops to attract custom, when they are tucked away out of sight of passing pedestrians.  Both Southwark Council and Meanwhile Space should have recognised this and done much more to support the traders in the Elephant Arcade.  It's noteworthy that the two businesses that have successfully re-established themselves are not only an excellent cafe and hairdresser, but are also completely visible to anyone walking by on the street.
 
@@ -27,6 +27,8 @@ The traders themselves were well aware of the problems of their situation and re
 
 No-one can say for certain that all the traders would have prospered if their request had been met , but given that they had already a track-record of trading in the area before they were relocated, they would at least have had a fighting-chance of success.     
 
-The Arcade is one of three relocation sites that were secured by local community and campaigners in the battle against the shopping centres demolition \[LINK].   A second site, Elephant Square, has had its lease extended \[LINK], but has also been subject to[ similar trader' complaints](https://www.mylondon.news/news/south-london-news/old-elephant-castle-traders-complain-25107268) as Elephant Arcade.  Southwark Council and the Square's landlords (NB not Meanwhile Space) should now take note and work with the Elephant Square traders, to give their businesses the support they need to thrive.  
+The Arcade is one of three relocation sites that were secured by the local community and the UptheElephant campaign in the [battle against the shopping centre demolition](https://www.35percent.org/posts/2021-11-20-elephant-traders-without-new-premises-one-year-after-shopping-centre-closes/).   A second site, Elephant Square, has [had its lease extended](https://southwarknews.co.uk/area/elephant-and-castle/exclusive-castle-square-traders-leases-extended-as-town-centre-development-moves-forward/), but has also been subject to[ similar trader' complaints](https://www.mylondon.news/news/south-london-news/old-elephant-castle-traders-complain-25107268) as Elephant Arcade and [has also seen traders evicted](https://southwarknews.co.uk/area/elephant-and-castle/exclusive-castle-square-traders-say-business-is-dead-as-four-are-evicted/).  
+
+Southwark Council and the Square's landlords (NB not Meanwhile Space) should now take note and work with the Elephant Square traders, to give their businesses the support they need to thrive.  
 
 [](https://southwarknews.co.uk/area/elephant-and-castle/traders-evicted-from-elephant-and-castle-shopping-arcade-as-private-landlord-hands-back-control-of-struggling-retail-space-to-southwark-council/)[^1] The current policy, which came into effect in 2022, after the Elephant trader relocation can be found in the [Southwark Plan 2022](https://services.southwark.gov.uk/assets/attach/94325/Southwark-Plan-2022.pdf), policy P33.

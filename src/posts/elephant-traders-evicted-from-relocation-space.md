@@ -17,9 +17,7 @@ Latin Elephant say.......
 
 The lose of these traders mark a falure of Southwark Council's relocation policy [^x].  Anyone familiar with the Elephant will know that the bottom of Perronet House was far from an ideal relocation site and that it was always going to be difficult for shops to attract custom, when they are tucked away out of sight of passing pedestrians.  Both Southwark Council and Meanwhile Space should have recognised this and done much more to support the traders in the Elephant Arcade.  It's noteworthy that the two businesses that have successfully re-established themselves are not only an excellent cafe and hairdresser, but are also completely visible to anyone walking by on the street.
 
-The traders themselves were well aware of this and repeatedly asked for improved signage and other changes, but to no avail, as our good friends Latin Elephant noted.
-
-The closure of these businesses due to a lack of customers should can come as no surprise to Southwark Council or anyone else.  Latin Elephant noted the risk of low footfall in its recent assessment of the impact of the relocation of the businesses from the shopping centre, in Sept 2020.  This also relates the challenges of the Covid pandemic, adding to that of ‘re-building’ a customer base in out-of-the way sites.
+The traders themselves were well aware of this and repeatedly asked for improved signage and other changes, but to no avail, as our good friends Latin Elephant have noted in their comments to Southwark News.  Latin Elephant noted the risk of low footfall in its recent assessment of the impact of the relocation of the businesses from the shopping centre \[LINK].  This also relates the challenges of the Covid pandemic, adding to that of ‘re-building’ a customer base in out-of-the way sites.
 
 Elephant Arcade is one of the three relocation sites for displaced traders from the shopping centre.  It has xx businesses who have been established form 5 to tenwty plus years.
 

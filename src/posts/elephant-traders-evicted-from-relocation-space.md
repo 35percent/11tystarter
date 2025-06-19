@@ -2,9 +2,8 @@
 title: Elephant traders evicted from relocation space
 description: Small 'struggling' traders told to leave Elephant Arcade
 date: 2025-06-19T12:35:19.062Z
+image: img/snews_190625_20250619_064846.jpg
 ---
-![](img/snews_190625_20250619_064846.jpg)
-
 The [Southwark News has reported](https://southwarknews.co.uk/area/elephant-and-castle/traders-evicted-from-elephant-and-castle-shopping-arcade-as-private-landlord-hands-back-control-of-struggling-retail-space-to-southwark-council/) that several small traders at the Elephant Arcade are to be evicted.  The traders were relocated to the Arcade from the Elephant and Castle Shopping Centre, when it was closed in September 2020.  The Arcade is a converted indoor carpark at the bottom of Perronet House, a council housing block.
 
 Around six traders have been told by the Arcade's operator, [Meanwhile Space](https://www.meanwhilespace.com/), that they will have to leave by the end of August.  Two traders have established successful businesses in the Arcade, the [Black Cowboy Coffee](https://www.instagram.com/blackcowboycoffee/?hl=en) and [Lucy's Hair and Beauty](https://www.lucyhairandbeauty.com/) and will remain there, with Southwark Council as their new landlords.
@@ -19,7 +18,7 @@ Local charity Latin Elephant advocates for all local independent traders in the 
 
 *'Southwark Council owes it to the traders they are in the process of displacing to support them in finding alternative affordable retail space in the area.'*
 
-![](img/love_the_elephant.png)
+![](https://35percent.org/img/love_the_elephant.png)
 
 ### What we say...not the first evictions
 
@@ -37,6 +36,8 @@ Both Elephant Square and Elephant Arcade are two relocation sites that were secu
 
 The Elephant Arcade evictions must be the last.    
 
-[](https://southwarknews.co.uk/area/elephant-and-castle/traders-evicted-from-elephant-and-castle-shopping-arcade-as-private-landlord-hands-back-control-of-struggling-retail-space-to-southwark-council/)[^1] The current business relocation policy, which came into effect in 2022, after the Elephant trader relocation can be found in the [Southwark Plan 2022](https://services.southwark.gov.uk/assets/attach/94325/Southwark-Plan-2022.pdf), policy P33.
+__Footnotes:__
+
+[^1] The current business relocation policy, which came into effect in 2022, after the Elephant trader relocation can be found in the [Southwark Plan 2022](https://services.southwark.gov.uk/assets/attach/94325/Southwark-Plan-2022.pdf), policy P33.
 
 [^2] A third site is Ash Avenue, Elephant Park.  Independent traders also remain in the railway arches and the shopping parade beneath Drapers House.

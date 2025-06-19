@@ -1,7 +1,7 @@
 ---
 title: Elephant traders evicted from relocation space
 description: Small 'struggling' traders told to leave Elephant Arcade
-date: 2025-06-16T09:48:45.515Z
+date: 2025-06-19T12:35:19.062Z
 ---
 ![](img/snews_190625_20250619_064846.jpg)
 

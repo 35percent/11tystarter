@@ -33,7 +33,7 @@ No-one can say for certain that all the traders would have prospered if their re
 
 Both Elephant Square and Elephant Arcade are two relocation sites that were secured by the local community and the [UptheElephant](https://x.com/uptheelephant_) campaign in the [battle against the shopping centre demolition](https://www.35percent.org/posts/2021-11-20-elephant-traders-without-new-premises-one-year-after-shopping-centre-closes/) [^2].  The traders who remain in Elephant Square are now hopeful that they will be [able to move to premises in the completed Town Centre](https://southwarknews.co.uk/area/elephant-and-castle/exclusive-castle-square-traders-leases-extended-as-town-centre-development-moves-forward/).   
 
-Southwark Council and Get Living, the Square's landlords, must work with traders to ensure that this happens, and meantime give them the support they need to stay in business.  The Elephant Arcade evictions must be the last.    
+Southwark Council and Get Living, the Square's landlords, must now work with traders to ensure that this happens, and meantime give them the support they need to stay in business.  The Elephant Arcade evictions must be the last.    
 
 [](https://southwarknews.co.uk/area/elephant-and-castle/traders-evicted-from-elephant-and-castle-shopping-arcade-as-private-landlord-hands-back-control-of-struggling-retail-space-to-southwark-council/)[^1] The current business relocation policy, which came into effect in 2022, after the Elephant trader relocation can be found in the [Southwark Plan 2022](https://services.southwark.gov.uk/assets/attach/94325/Southwark-Plan-2022.pdf), policy P33.
 

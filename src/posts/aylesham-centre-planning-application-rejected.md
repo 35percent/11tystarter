@@ -7,32 +7,34 @@ Southwark Council's planning committee has formally rejected Berkeley Home's pro
 
 The Committee met after [Berkeley announced in May that it would go over the Council's head](https://www.southwark.gov.uk/news/2025/statement-berkeley-homes-appeal-its-planning-application-aylesham-centre) and seek a decision on their planning application, by way of an appeal to the Secretary of State for Housing, Communities and Local Government.  The Council will now defend its refusal of the application at a public inquiry, scheduled to begin on 27 Oct.
 
-Local campaign group [Aylesham Community Action](https://www.ayleshamcommunityaction.co.uk/ourcampaign) has vowed to continue its long-running fight againt Berkeley's plans at the public inquiry.  Southwark Housing and Planning Emergency [(SHAPE)](https://x.com/ShapeCoalition1) has also pledged its continuing support in opposing Berkeley's plans. 
+Local campaign group [Aylesham Community Action](https://www.ayleshamcommunityaction.co.uk/ourcampaign) has vowed to continue its long-running fight againt Berkeley's plans at the public inquiry.  Southwark Housing and Planning Emergency [(SHAPE)](https://x.com/ShapeCoalition1) has also pledged its continuing support in opposing Berkeley's plans.  Both joined together in a lively 'Peck off Berkeley Party demo' oustside the Council's Tooley St offices, before the meeting
 
-The decisions were taken after a marathon meeting on Tues evening (15 July), lasting nearly six hours.  The Committee unanimiously endorsed the single reason for refusing the application, presented to them by their planning officers, adding two of their own, plus a further requirement that one issue be returned to them for a final decision.  
+image demo
 
-Description of development
+The decisions were taken after a marathon meeting on Tues evening (15 July), lasting nearly six hours.  The Committee unanimiously endorsed the single reason for refusing the application, presented to them by their planning officers, adding two of their own, after listening to objectors, plus a further requirement that one issue be returned to them for a final decision.  
+
+#### Description of development
 
 BH initiallly proposed 877 units, 35% affordable housing, x aff, y social rent, z inter, 16 buildings, max 20 storerys in DATE; amended to 867 units, 12% affordable housing, 50 social rent, 27 inter in DATE.
 
-Southwark Council say no to Berkeley Homes - the reasons for refusal
+#### Southwark Council say no to Berkeley Homes - the reasons for refusal
 
 The three reasons that Southwark will give the Inquiry for their decision are that any benefit from the low level of affordable housing, including a lack of a Community Land Trust, will not outweigh the harm that the scale of parts of the development will cause to Peckham's character; that their was not enough affordable and social rented housing and that the lost Aylesham retail floorspace was not being fully replaced, both contrary to the Southwark Plan 2022.  The Committee also asked that any relocation strategy for displaced traders return to them for a final decision (citing B Triangle as a precedent, another BH development - LINK)
 
-The Berkeley story - £84m profit, but only 50 social rented homes 
+#### The Berkeley story - £84m profit, but only 50 social rented homes 
 
 BH gave two reasons for only offering 12% affordable housing; first, that an obligation to provide Morrison's with a replacement shopping centre made the Aylesham a risky long-term development.  Secondly, that there had been a more general rise on development costs, along with a slow-down in revenue return (sales).  The Chair of the Committee Cllr Richard Livingstone pointed out that despite the purported lack of viability this caused, the scheme would still generate a profit of £84m.  BH did not deny the fact, but responded by referring to their duty to their shareholders and added that they could not honestly promise to deliver 35% affordable houisng when it was not viable.
 
 SCREENSHOT - Viability para or table  
 
-Local community speak out
+#### Local community speak out
 
 Reperesentatives of the local community supported the recommendation to the commitee to refuse the application and then defend the decision at the October Inquiry.  Led by an ACA representive, Siobhan ??,  they also laid out further objections to Berkeley's proposals - LIST.  James, a trader in the Aylesham of over 5 years, said that he and and fellow traders had no idea of what was proposed, other than that the Aylesham was to be demolished.  He supported development, but it had to be for the benefit of the community.  The Rev. Dean Pusey, of St May Magdelene spoke powerfully, asking the committee to see beyond the economics of the case and look at how the development would effect the ordinary people of Peckham. The Southwark Law Centre solicitor, Jed Holloway urged the committee to broaden the grounds of their defence of the refusal, to include amongst other things, a more forthright commitment to getting the right amount of affordable housing, vague plans for the relocation of current Aylesham traderes and the adverse socio-economic impacts, such as rising rents, of the development (two of which were adopted).
 
-Ward councillors speak against
+#### Ward councillors speak against
 
 Two local ward councillors, Cllrs P and Council deputy leader Cllr Ali joined in the general condemnation of Berkeley proposals and said....
 
-What we think
+#### What we think
 
 The scene is set for a significant showdown.  Not just a local decision - ctritical test of government's commitment to solving the houisng crisis - question whether developers are going to be allowed to get away with ducking their affordable housing responsibilities by waaving viability assessments in the air.  Given that the reasons BH are citing for not being able to provide affordable houisng - rising build costs, slow demand etc - are general, we can expect other developers to follow in their wake (if they are successful)

@@ -25,6 +25,14 @@ The three reasons that Southwark will give the Inquiry for their decision are th
 
 BH gave two reasons for only offering 12% affordable housing; first, that an obligation to provide Morrison's with a replacement shopping centre made the Aylesham a risky long-term development.  Secondly, that there had been a more general rise on development costs, along with a slow-down in revenue return (sales).  The Chair of the Committee Cllr Richard Livingstone pointed out that despite the purported lack of viability this caused, the scheme would still generate a profit of £84m.  BH did not deny the fact, but responded by referring to their duty to their shareholders and added that they could not honestly promise to deliver 35% affordable houisng when it was not viable.
 
+#### The Curse of the Viability Assessment
+
+Inevitably BH made the most of......Southwark's own appraiser felt obliged to agree the main finding, that the site was unviable, though differed by how much - both though are bound by the same method and assumptions, including treating profit as a cost, favour the developer, by treating profit as top priority and leaving what is left over for affordable houisnga and other public benefits.
+
+Sadly, BH were also able to take advantage of recent changes to the all-pervading National Planing Policy Framework, which while purportedly removing red tape,to encourage housebuilding also tilts the balance in viability arguments further in the developers favour - able to argue just building anything is the priority, over building afforable; brownfield sites; substantial harm.   
+
+[Peter Apps article](https://thedeveloper.live/opinion/opinion/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing)
+
 SCREENSHOT - Viability para or table  
 
 #### Local community speak out
@@ -37,4 +45,6 @@ Two local ward councillors, Cllrs P and Council deputy leader Cllr Ali joined in
 
 #### What we think
 
-The scene is set for a significant showdown.  Not just a local decision - ctritical test of government's commitment to solving the houisng crisis - question whether developers are going to be allowed to get away with ducking their affordable housing responsibilities by waaving viability assessments in the air.  Given that the reasons BH are citing for not being able to provide affordable houisng - rising build costs, slow demand etc - are general, we can expect other developers to follow in their wake (if they are successful)
+The scene is set for a significant showdown.  Not just a local decision - critical test of government's commitment to solving the houisng crisis - question whether developers are going to be allowed to get away with ducking their affordable housing responsibilities by waaving viability assessments in the air.  Given that the reasons BH are citing for not being able to provide affordable houisng - rising build costs, slow demand etc - are general, we can expect other developers to follow in their wake (if they are successful)
+
+Support ACA - CrowdFunding appeal

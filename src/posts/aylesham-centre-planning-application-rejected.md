@@ -7,7 +7,7 @@ Southwark Council's planning committee has formally rejected Berkeley Home's pro
 
 The Committee met after [Berkeley announced in May that it would go over the Council's head](https://www.southwark.gov.uk/news/2025/statement-berkeley-homes-appeal-its-planning-application-aylesham-centre) and seek a decision on their planning application, by way of an appeal to the Secretary of State for Housing, Communities and Local Government.  The Council will now defend its refusal of the application at a public inquiry, scheduled to begin on 27 Oct.
 
-Local campaign group [Aylesham Community Action](https://www.ayleshamcommunityaction.co.uk/ourcampaign) has vowed to continue its long-running fight againt Berkeley's plans at the public inquiry.  Southwark Housing and Planning Emergency [(SHAPE)](https://x.com/ShapeCoalition1) has also pledged its continuing support in opposing Berkeley's plans.  Both joined together in a lively 'Peck off Berkeley Party demo' oustside the Council's Tooley St offices, before the meeting
+Local campaign group [Aylesham Community Action](https://www.ayleshamcommunityaction.co.uk/ourcampaign) has vowed to continue its long-running fight againt Berkeley's plans at the public inquiry.  Southwark Housing and Planning Emergency [(SHAPE)](https://x.com/ShapeCoalition1) has also pledged its continuing support in opposing Berkeley's plans.  Both joined together in a lively ['Peck off Berkeley Party demo'](https://x.com/ShapeCoalition1/status/1944436788480585784) oustside the Council's Tooley St offices, before the meeting
 
 image demo
 

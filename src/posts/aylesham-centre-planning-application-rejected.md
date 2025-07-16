@@ -7,13 +7,15 @@ Southwark Council's planning committee has formally rejected Berkeley Home's pro
 
 The Committee met after [Berkeley announced in May that it would go over the Council's head](https://www.southwark.gov.uk/news/2025/statement-berkeley-homes-appeal-its-planning-application-aylesham-centre) and seek a decision on their planning application, by way of an appeal to the Secretary of State for Housing, Communities and Local Government.  The Council will now defend its refusal of the application at a public inquiry, scheduled to begin on 27 Oct.
 
-Local campaign group [Aylesham Community Action](https://www.ayleshamcommunityaction.co.uk/ourcampaign) has vowed to continue its long-running fight againt Berkeley's plans and join the inquiry.  Southwark Housing and Planning Emergency [(SHAPE)](https://x.com/ShapeCoalition1) has also pledged its continuing support in opposing Berkeley's plans. 
+Local campaign group [Aylesham Community Action](https://www.ayleshamcommunityaction.co.uk/ourcampaign) has vowed to continue its long-running fight againt Berkeley's plans at the public inquiry.  Southwark Housing and Planning Emergency [(SHAPE)](https://x.com/ShapeCoalition1) has also pledged its continuing support in opposing Berkeley's plans. 
 
-The decisions were taken after a marathon meeting on Tues evening (15 July), lasting nearly six hours.  The Committee unanimiously endorsed the reason for refusing the application, presented to them by their planning officers, adding two of their own, plus a further requirement that one issue be returned to them for a final decision.  
+The decisions were taken after a marathon meeting on Tues evening (15 July), lasting nearly six hours.  The Committee unanimiously endorsed the single reason for refusing the application, presented to them by their planning officers, adding two of their own, plus a further requirement that one issue be returned to them for a final decision.  
 
 SHAPE and ACA pledge to join the fight.
 
-Southwark Council say no to Berkeley Homes
+Southwark Council say no to Berkeley Homes - the reasons for refusal
+
+The three reasons that Southwark will give the Inquiry for their decision are that any benefit from the low level of affordable housing, including a lack of a Community Land Trust, will not outweigh the harm that the size and scale of harm that parts of the development will cause to the local area's character; that theit 
 
 The Berkeley story - £84m profit, but only 50 social rented homes 
 
@@ -23,7 +25,7 @@ SCREENSHOT - Viability para or table
 
 Local community speak out
 
-Reperesentatives of the local community supported the recommendation to the commitee to refuse the application and then defend the decision at the October Inquiry.  Led by an ACA representive, Siobhan ??,  they also laid out further objections to Berkeley's proposals - LIST.  James, a trader in the Aylesham of over 5 years, said that he and and fellow traders had no idea of what was proposed, other than that the Aylesham was to be demolished.  He supported development, but it had to be for the benefit of the community.  The Rev. Dean Pusey, of St May Magdelene spoke powerfully, asking the committee to see beyond the economics of the case and look at how the development would effect the ordinary people of Peckham. The Southwark Law Centre solicitor, Jed Holloway urged the committee to broaden the grounds of their defence of the refusal, to include amongst other things, a more forthright commitment to getting the right amount of affordable housing and adverse socio-economic impacts (two of which were adopted).
+Reperesentatives of the local community supported the recommendation to the commitee to refuse the application and then defend the decision at the October Inquiry.  Led by an ACA representive, Siobhan ??,  they also laid out further objections to Berkeley's proposals - LIST.  James, a trader in the Aylesham of over 5 years, said that he and and fellow traders had no idea of what was proposed, other than that the Aylesham was to be demolished.  He supported development, but it had to be for the benefit of the community.  The Rev. Dean Pusey, of St May Magdelene spoke powerfully, asking the committee to see beyond the economics of the case and look at how the development would effect the ordinary people of Peckham. The Southwark Law Centre solicitor, Jed Holloway urged the committee to broaden the grounds of their defence of the refusal, to include amongst other things, a more forthright commitment to getting the right amount of affordable housing, vague plans for the relocation of current Aylesham traderes and the adverse socio-economic impacts, such as rising rents, of the development (two of which were adopted).
 
 Ward councillors speak against
 

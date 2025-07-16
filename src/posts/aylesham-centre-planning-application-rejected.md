@@ -11,6 +11,10 @@ Local campaign group [Aylesham Community Action](https://www.ayleshamcommunityac
 
 The decisions were taken after a marathon meeting on Tues evening (15 July), lasting nearly six hours.  The Committee unanimiously endorsed the single reason for refusing the application, presented to them by their planning officers, adding two of their own, plus a further requirement that one issue be returned to them for a final decision.  
 
+Description of development
+
+BH initiallly proposed 877 units, 35% affordable housing, x aff, y social rent, z inter, 16 buildings, max 20 storerys in DATE; amended to 867 units, 12% affordable housing, 50 social rent, 27 inter in DATE.
+
 Southwark Council say no to Berkeley Homes - the reasons for refusal
 
 The three reasons that Southwark will give the Inquiry for their decision are that any benefit from the low level of affordable housing, including a lack of a Community Land Trust, will not outweigh the harm that the scale of parts of the development will cause to Peckham's character; that their was not enough affordable and social rented housing and that the lost Aylesham retail floorspace was not being fully replaced, both contrary to the Southwark Plan 2022.  The Committee also asked that any relocation strategy for displaced traders return to them for a final decision (citing B Triangle as a precedent, another BH development - LINK)

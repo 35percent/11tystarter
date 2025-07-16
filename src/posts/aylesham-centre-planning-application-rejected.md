@@ -21,11 +21,13 @@ BH gave two reasons for only offering 12% affordable housing; first, that an obl
 
 SCREENSHOT - Viability para or table  
 
-Ward councillors speak against
-
 Local community speak out
 
 Reperesentatives of the local community supported the recommendation to the commitee to refuse the application and then defend the decision at the October Inquiry.  Led by an ACA representive, Siobhan ??,  they also laid out further objections to Berkeley's proposals - LIST.  James, a trader in the Aylesham of over 5 years, said that he and and fellow traders had no idea of what was proposed, other than that the Aylesham was to be demolished.  He supported development, but it had to be for the benefit of the community.  The Rev. Dean Pusey, of St May Magdelene spoke powerfully, asking the committee to see beyond the economics of the case and look at how the development would effect the ordinary people of Peckham. The Southwark Law Centre solicitor, Jed Holloway urged the committee to broaden the grounds of their defence of the refusal, to include amongst other things, a more forthright commitment to getting the right amount of affordable housing and adverse socio-economic impacts (two of which were adopted).
+
+Ward councillors speak against
+
+Two local ward councillors, Cllrs P and Council deputy leader Cllr Ali joined in the general condemnation of Berkeley proposals and said....
 
 What we think
 

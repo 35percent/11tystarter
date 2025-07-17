@@ -1,9 +1,9 @@
 ---
 title: Aylesham Centre planning application rejected
 description: Planning committee say no to Berkeley homes
-date: 2025-07-16T08:45:02.097Z
+date: 2025-07-16
+image: img/aylesham_june_2025.jpg
 ---
-![](img/aylesham_june_2025.jpg)
 
 Southwark Council's planning committee has formally rejected Berkeley Home's proposals for the redevelopment of Peckham's Aylesham Centre.  They have further agreed to defend this decision at a forthcoming public inquiry.  
 
@@ -13,7 +13,7 @@ Local campaign group [Aylesham Community Action](https://www.ayleshamcommunityac
 
 The decisions were taken after a marathon meeting on Tuesday evening (15 July), lasting nearly six hours.  The Committee unanimously endorsed the single reason for refusing the application, presented to them by their planning officers.  After listening to objectors, Berkeley Homes and ward councillors the Committee added two further reasons, plus a requirement that one issue be returned to them for a final decision.
 
-![](img/aylesham_planning_committee_150725.jpg)
+![](https://35percent.org/img/aylesham_planning_committee_150725.jpg)
 
 #### What Berkeley want to build
 
@@ -31,7 +31,7 @@ In response to the planning officers' presentation, Berkeley gave two sets of re
 
 The Chair of the Committee, Cllr Richard Livingstone, pointed out that despite the purported lack of viability of the scheme, it could still generate a profit of £84.4m, even with a viability deficit of £41.4m.  Berkeley did not deny the fact, but responded by referring to their shareholder duty and added that they could not honestly promise to deliver 35% affordable housing when it was not viable.  Berkeley held out the possibility of increasing the affordable housing, by later reviews determining the development's real profitability.
 
-![](img/aylesham_or_para_314_150725.png)
+![](https://35percent.org/img/aylesham_or_para_314_150725.png)
 
 #### Local community and ward councillors speak out
 
@@ -41,7 +41,7 @@ James, a trader in the Rye Lane's [Market Place Food Hall](https://www.marketpla
 
 Two local Rye Lane ward councillors, [Cllr David Parton](https://x.com/davidparton_?lang=en) and Council deputy leader [Cllr Jasmine Ali](https://x.com/Jasmine_Ali?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) joined in the general condemnation of Berkeley's proposals.  They asked the Committee to agree with the recommendation to reject the application.  They pointed out that nearly 1,400 households in the SE15 postcode were overcrowded and that the need for affordable housing was desperate.  The councillors  deplored the lack of family housing, pointing to local school closures as a consequence, and were shocked by Berkeley's *'incomprehensible'* reduction of affordable housing to 12%; they asked why Berkeley had not re-appraised the scheme to secure 35%.  They considered that Berkeley had shown *'no appetite'* to improve the scheme and also asked that its detrimental socio-economic impact be considered as a reason for rejection.
 
-![](img/aca_shape_logos.png)
+![](https://35percent.org/img/aca_shape_logos.png)
 
 #### What we think.....the Curse of the Viability Assessment
 
@@ -54,5 +54,3 @@ But this is still a battle that must be fought and can be won.  Local campaigner
 [^1] Whether the affordable housing is properly delivered is a different question - see our previous blogs on affordable housing monitoring - [Southwark abandons annual affordable housing monitoring reports](https://www.35percent.org/posts/southwark-abandon-annual-affordable-housing-monitoring-reports/); [Southwark turns blind eye to social rent homes let at market-related rents](https://www.35percent.org/posts/southwark-loses-social-rented-housing-from-new-development/); [Southwark developments that fail to deliver real social rent](https://www.35percent.org/posts/southwarks-new-developments-that-fail-to-deliver-social-rent/)
 
 [^2] See the recent article by Inside Housing journalist Peter Apps - [“A broken model”: The viability loophole and its impact on affordable housing](https://thedeveloper.live/opinion/opinion/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing).  Peter is the award winning author of ['Show Me the Bodies'](https://www.theguardian.com/books/2022/nov/03/show-me-the-bodies-how-we-let-grenfell-happen-by-peter-apps-review-a-devastating-account-of-failure), an authoritative account of the Grenfell Tower disaster.
-
-[](https://thedeveloper.live/opinion/opinion/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing)

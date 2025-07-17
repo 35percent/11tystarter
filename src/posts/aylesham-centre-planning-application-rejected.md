@@ -11,9 +11,11 @@ The Committee met after [Berkeley announced in May that it would go over the Cou
 
 Local campaign group [Aylesham Community Action](https://www.ayleshamcommunityaction.co.uk/ourcampaign) has also vowed to continue its long-running fight againt Berkeley's plans, by applying to take part in the inquiry, as an independant 'Rule 6' party.  Southwark Housing and Planning Emergency [(SHAPE)](https://x.com/ShapeCoalition1) has pledged its continuing support.  Both joined together in a lively ['Peck off Berkeley Party demo'](https://x.com/ShapeCoalition1/status/1944436788480585784) oustside the Council's Tooley St offices, before the planning meeting.
 
+The decisions were taken after a marathon meeting on Tues evening (15 July), lasting nearly six hours.  The Committee unanimiously endorsed the single reason for refusing the application, presented to them by their planning officers.  After listening to objectors, Berkeley Homes and ward councillors the Committee added two further reasons, plus a requirement that one issue be returned to them for a final decision.
+
 ![](img/aylesham_planning_committee_150725.jpg)
 
-The decisions were taken after a marathon meeting on Tues evening (15 July), lasting nearly six hours.  The Committee unanimiously endorsed the single reason for refusing the application, presented to them by their planning officers.  After listening to objectors, Berkeley Homes and ward councillors the Committee added two further reasons, plus a requirement that one issue be returned to them for a final decision.  
+
 
 #### What Berkeley want to build
 

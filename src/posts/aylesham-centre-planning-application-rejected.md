@@ -3,25 +3,29 @@ title: Aylesham Centre planning application rejected
 description: Planning committee say no to Berkeley homes
 date: 2025-07-16T08:45:02.097Z
 ---
-Southwark Council's planning committee has formally rejected Berkeley Home's proposals for the redevelopment of Peckham's Aylesham Centre and agreed to defend this decision at a forthcoming public inquiry.  
+Southwark Council's planning committee has formally rejected Berkeley Home's proposals for the redevelopment of Peckham's Aylesham Centre.  They have further agreed to defend this decision at a forthcoming public inquiry.  
 
 The Committee met after [Berkeley announced in May that it would go over the Council's head](https://www.southwark.gov.uk/news/2025/statement-berkeley-homes-appeal-its-planning-application-aylesham-centre) and seek a decision on their planning application, by way of an appeal to the Secretary of State for Housing, Communities and Local Government.  The Council will now defend its refusal of the application at a public inquiry, scheduled to begin on 27 Oct.
 
-Local campaign group [Aylesham Community Action](https://www.ayleshamcommunityaction.co.uk/ourcampaign) has vowed to continue its long-running fight againt Berkeley's plans at the public inquiry.  Southwark Housing and Planning Emergency [(SHAPE)](https://x.com/ShapeCoalition1) has also pledged its continuing support in opposing Berkeley's plans.  Both joined together in a lively ['Peck off Berkeley Party demo'](https://x.com/ShapeCoalition1/status/1944436788480585784) oustside the Council's Tooley St offices, before the meeting
+Local campaign group [Aylesham Community Action](https://www.ayleshamcommunityaction.co.uk/ourcampaign) has also vowed to continue its long-running fight againt Berkeley's plans, by applying to take part in the inquiry, as an independant 'Rule 6' party.  Southwark Housing and Planning Emergency [(SHAPE)](https://x.com/ShapeCoalition1) has pledged its continuing support.  Both joined together in a lively ['Peck off Berkeley Party demo'](https://x.com/ShapeCoalition1/status/1944436788480585784) oustside the Council's Tooley St offices, before the planning meeting.
 
 image demo
 
-The decisions were taken after a marathon meeting on Tues evening (15 July), lasting nearly six hours.  The Committee unanimiously endorsed the single reason for refusing the application, presented to them by their planning officers, adding two of their own, after listening to objectors, plus a further requirement that one issue be returned to them for a final decision.  
+The decisions were taken after a marathon meeting on Tues evening (15 July), lasting nearly six hours.  The Committee unanimiously endorsed the single reason for refusing the application, presented to them by their planning officers.  After listening to objectors, Berkeley Homes and ward councillors the Committee added two further reasons, plus a requirement that one issue be returned to them for a final decision.  
 
-#### Description of development
+#### What Berkeley want to build
 
-BH initiallly proposed 877 units, 35% affordable housing, x aff, y social rent, z inter, 16 buildings, max 20 storerys in DATE; amended to 867 units, 12% affordable housing, 50 social rent, 27 inter in DATE.
+The Committee heard how in May 2024 Berkeley initially proposed 877 residential units, with 35% affordable housing, made up of 185 social rented and 85 intermediate homes. In December 2024 Berkeley's amended the application, reducing the total to  867 units, with just 12% affordable housing, made up of 50 social rented and 27 intermediate homes.  Apart form some other minor changes it remained a mixed-use development of 16 buildings, up to a height of 20 storeys, to be built in two phases, with completion of Phase 1 dueby 2030.
+
+https://www.southwark.gov.uk/news/2025/statement-berkeley-homes-appeal-its-planning-application-aylesham-centre
+
+
 
 #### Southwark Council say no to Berkeley Homes - the reasons for refusal
 
-The three reasons that Southwark will give the Inquiry for their decision are that any benefit from the low level of affordable housing, including a lack of a Community Land Trust, will not outweigh the harm that the scale of parts of the development will cause to Peckham's character; that their was not enough affordable and social rented housing and that the lost Aylesham retail floorspace was not being fully replaced, both contrary to the Southwark Plan 2022.  The Committee also asked that any relocation strategy for displaced traders return to them for a final decision (citing B Triangle as a precedent, another BH development - LINK)
+The three grounds that Southwark will give the Inquiry for their decision are that any benefit from the low level of affordable housing, including a lack of a Community Land Trust, will not outweigh the harm that the scale of parts of the development will cause to Peckham's character; that their was not enough affordable and social rented housing and that the lost Aylesham retail floorspace was not being fully replaced, both contrary to the Southwark Plan 2022.  The Committee also asked that any relocation strategy for displaced traders return to them for a final decision (citing B Triangle as a precedent, another BH development - LINK)
 
-#### The Berkeley story - £84m profit, but only 50 social rented homes 
+#### The Berkeley story - £84m profit, but only 50 social rented homes
 
 BH gave two reasons for only offering 12% affordable housing; first, that an obligation to provide Morrison's with a replacement shopping centre made the Aylesham a risky long-term development.  Secondly, that there had been a more general rise on development costs, along with a slow-down in revenue return (sales).  The Chair of the Committee Cllr Richard Livingstone pointed out that despite the purported lack of viability this caused, the scheme would still generate a profit of £84m.  BH did not deny the fact, but responded by referring to their duty to their shareholders and added that they could not honestly promise to deliver 35% affordable houisng when it was not viable.
 

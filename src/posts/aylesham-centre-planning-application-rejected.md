@@ -21,11 +21,15 @@ Planning officers told Berkeley in May 2024 that the reduction in affordable hou
 
 #### Southwark Council say no to Berkeley Homes - the reasons for refusal
 
-The three grounds that Southwark will give the Inquiry for their decision are that any benefit from the low level of affordable housing, including a lack of a Community Land Trust, will not outweigh the harm that the scale of parts of the development will cause to Peckham's character; that their was not enough affordable and social rented housing and that the lost Aylesham retail floorspace was not being fully replaced, both contrary to the Southwark Plan 2022.  The Committee also asked that any relocation strategy for displaced traders return to them for a final decision (citing B Triangle as a precedent, another BH development - LINK)
+A decision on the application will now be taken by a governement appointed inspector at the Oct public inquiry. Southwark's will present the Inquiry with three grounds for refusal -  that any benefit from the low level of affordable housing, including a lack of a Community Land Trust, will not outweigh the harm that the scale of parts of the development will cause to Peckham's character; that their was not enough affordable and social rented housing and that the lost Aylesham retail floorspace was not being fully replaced, both contrary to the Southwark Plan 2022.  The Committee also asked that any relocation strategy for displaced traders return to them for a final decision (citing B Triangle as a precedent, another BH development - LINK)
 
 #### The Berkeley story - £84m profit, but only 50 social rented homes
 
-BH gave two reasons for only offering 12% affordable housing; first, that an obligation to provide Morrison's with a replacement shopping centre made the Aylesham a risky long-term development.  Secondly, that there had been a more general rise on development costs, along with a slow-down in revenue return (sales).  The Chair of the Committee Cllr Richard Livingstone pointed out that despite the purported lack of viability this caused, the scheme would still generate a profit of £84m.  BH did not deny the fact, but responded by referring to their duty to their shareholders and added that they could not honestly promise to deliver 35% affordable houisng when it was not viable.
+In response to the planning officers' presentation, Berkeley gave two reasons for only offering 12% affordable housing.  The first was that there was an obligation to provide Morrison's with a replacement shopping centre and that this made the Aylesham a risky, long-term development.  Secondly, Berkeley argued that there had been a more general rise on development costs, along with a slow-down in revenue return (sales).  Taken together these factors meant that the scheme was not viable and could not deliver 35% affordable housing.  
+
+The Chair of the Committee Cllr Richard Livingstone pointed out that despite the purported lack of viability of the scheme, it would still generate a profit of £84m.   Berkeley did not deny the fact, but responded by referring to their duty to their shareholders and added that they could not honestly promise to deliver 35% affordable houisng when it was not viable.  Berkeley held out the possibility of increasing the affordable housing, by later reviews determining the development's real profitability.
+
+![](img/aylesham_or_para_314_150725.png)
 
 #### The Curse of the Viability Assessment
 

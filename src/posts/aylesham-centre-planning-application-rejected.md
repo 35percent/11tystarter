@@ -15,15 +15,13 @@ The decisions were taken after a marathon meeting on Tues evening (15 July), las
 
 ![](img/aylesham_planning_committee_150725.jpg)
 
-
-
 #### What Berkeley want to build
 
 The Committee heard how in May 2024 Berkeley initially proposed 877 residential units, with 35% affordable housing, made up of 185 social rented and 85 intermediate homes. In December 2024 Berkeley's amended the application, reducing the total to  867 units, with just 12% affordable housing, made up of 50 social rented and 27 intermediate homes.  It remained a mixed-use development of 16 buildings, up to a height of 20 storeys, to be built in two phases, with completion of Phase 1 due by 2030.
 
 Planning officers told Berkeley in May 2024 that the reduction in affordable housing meant that the public benefits of the proposed development would be outweighed by the harm which it would cause to the local heritage areas.  Berkeley almost immediately made an appeal to the Secretary of State (Angela Raynor) for her to take the decision on the scheme out of the Council's hands.  Berkeley  said that Southwark had not made its own decision within the required timescale.  Southwark responded with [a statement expressing disappointment](https://www.southwark.gov.uk/news/2025/statement-berkeley-homes-appeal-its-planning-application-aylesham-centre) at Berkeley's move, pointing out the need to reconsult the public on their dramatic reduction of affordable housing.[](https://www.southwark.gov.uk/news/2025/statement-berkeley-homes-appeal-its-planning-application-aylesham-centre)
 
-#### Southwark Council say no to Berkeley Homes - the reasons for refusal
+#### Southwark Council say 'no!' - the reasons for refusal
 
 A decision on the application will now be taken by a governement appointed inspector at the Oct public inquiry. Southwark's will present the Inquiry with three grounds for refusal -  that any benefit from the low level of affordable housing, including a lack of a Community Land Trust, will not outweigh the harm that the scale of parts of the development will cause to Peckham's character; that their was not enough affordable and social rented housing and that the lost Aylesham retail floorspace was not being fully replaced, both contrary to the Southwark Plan 2022.  The Committee also asked that any relocation strategy for displaced traders return to them for a final decision (citing B Triangle as a precedent, another BH development - LINK)
 

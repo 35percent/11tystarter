@@ -3,6 +3,8 @@ title: Aylesham Centre planning application rejected
 description: Planning committee say no to Berkeley homes
 date: 2025-07-16T08:45:02.097Z
 ---
+![](img/aylesham_june_2025.jpg)
+
 Southwark Council's planning committee has formally rejected Berkeley Home's proposals for the redevelopment of Peckham's Aylesham Centre.  They have further agreed to defend this decision at a forthcoming public inquiry.  
 
 The Committee met after [Berkeley announced in May that it would go over the Council's head](https://www.southwark.gov.uk/news/2025/statement-berkeley-homes-appeal-its-planning-application-aylesham-centre) and seek a decision on their planning application, by way of an appeal to the Secretary of State for Housing, Communities and Local Government.  The Council will now defend its refusal of the application at a public inquiry, scheduled to begin on 27 October.
@@ -31,11 +33,9 @@ The Chair of the Committee, Cllr Richard Livingstone, pointed out that despite t
 
 ![](img/aylesham_or_para_314_150725.png)
 
-#### Local community speak out
+#### Local community and ward councillors speak out
 
 Reperesentatives of the local community supported the recommendation to the commitee to refuse the application and then defend the decision at the October Inquiry.  Led by an ACA representive, Siobhan ??,  they also laid out further objections to Berkeley's proposals - LIST.  James, a trader in the Aylesham of over 5 years, said that he and and fellow traders had no idea of what was proposed, other than that the Aylesham was to be demolished.  He supported development, but it had to be for the benefit of the community.  The Rev. Dean Pusey, of St May Magdelene spoke powerfully, asking the committee to see beyond the economics of the case and look at how the development would effect the ordinary people of Peckham. The Southwark Law Centre solicitor, Jed Holloway urged the committee to broaden the grounds of their defence of the refusal, to include amongst other things, a more forthright commitment to getting the right amount of affordable housing, vague plans for the relocation of current Aylesham traderes and the adverse socio-economic impacts, such as rising rents, of the development (two of which were adopted).
-
-#### Ward councillors speak against
 
 Two local ward councillors, Cllrs P and Council deputy leader Cllr Ali joined in the general condemnation of Berkeley proposals and said....
 

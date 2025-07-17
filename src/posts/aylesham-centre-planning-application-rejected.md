@@ -27,7 +27,7 @@ A decision on the application will now be taken by a governement appointed inspe
 
 In response to the planning officers' presentation, Berkeley gave two reasons for only offering 12% affordable housing.  The first was that there was an obligation to provide Morrison's with a replacement shopping centre and that this made the Aylesham a risky, long-term development.  Secondly, Berkeley argued that there had been a more general rise on development costs, along with a slow-down in revenue return (sales).  Taken together these factors meant that the scheme was not viable and could not deliver 35% affordable housing.  
 
-The Chair of the Committee Cllr Richard Livingstone pointed out that despite the purported lack of viability of the scheme, it would still generate a profit of £84m.   Berkeley did not deny the fact, but responded by referring to their duty to their shareholders and added that they could not honestly promise to deliver 35% affordable houisng when it was not viable.  Berkeley held out the possibility of increasing the affordable housing, by later reviews determining the development's real profitability.
+The Chair of the Committee, Cllr Richard Livingstone, pointed out that despite the purported lack of viability of the scheme, it could still generate a profit of £84.4m, even with a viability deficit of £41.4m .   Berkeley did not deny the fact, but responded by referring to their duty to their shareholders and added that they could not honestly promise to deliver 35% affordable houisng when it was not viable.  Berkeley held out the possibility of increasing the affordable housing, by later reviews determining the development's real profitability.
 
 ![](img/aylesham_or_para_314_150725.png)
 

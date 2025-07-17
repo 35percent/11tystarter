@@ -5,7 +5,7 @@ date: 2025-07-16T08:45:02.097Z
 ---
 Southwark Council's planning committee has formally rejected Berkeley Home's proposals for the redevelopment of Peckham's Aylesham Centre.  They have further agreed to defend this decision at a forthcoming public inquiry.  
 
-The Committee met after [Berkeley announced in May that it would go over the Council's head](https://www.southwark.gov.uk/news/2025/statement-berkeley-homes-appeal-its-planning-application-aylesham-centre) and seek a decision on their planning application, by way of an appeal to the Secretary of State for Housing, Communities and Local Government.  The Council will now defend its refusal of the application at a public inquiry, scheduled to begin on 27 Oct.
+The Committee met after [Berkeley announced in May that it would go over the Council's head](https://www.southwark.gov.uk/news/2025/statement-berkeley-homes-appeal-its-planning-application-aylesham-centre) and seek a decision on their planning application, by way of an appeal to the Secretary of State for Housing, Communities and Local Government.  The Council will now defend its refusal of the application at a public inquiry, scheduled to begin on 27 October.
 
 Local campaign group [Aylesham Community Action](https://www.ayleshamcommunityaction.co.uk/ourcampaign) has also vowed to continue its long-running fight againt Berkeley's plans, by applying to take part in the inquiry, as an independant 'Rule 6' party.  Southwark Housing and Planning Emergency [(SHAPE)](https://x.com/ShapeCoalition1) has pledged its continuing support.  Both joined together in a lively ['Peck off Berkeley Party demo'](https://x.com/ShapeCoalition1/status/1944436788480585784) oustside the Council's Tooley St offices, before the planning meeting.
 

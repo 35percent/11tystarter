@@ -27,19 +27,9 @@ A decision on the application will now be taken by a governement appointed inspe
 
 In response to the planning officers' presentation, Berkeley gave two reasons for only offering 12% affordable housing.  The first was that there was an obligation to provide Morrison's with a replacement shopping centre and that this made the Aylesham a risky, long-term development.  Secondly, Berkeley argued that there had been a more general rise on development costs, along with a slow-down in revenue return (sales).  Taken together these factors meant that the scheme was not viable and could not deliver 35% affordable housing.  
 
-The Chair of the Committee, Cllr Richard Livingstone, pointed out that despite the purported lack of viability of the scheme, it could still generate a profit of £84.4m, even with a viability deficit of £41.4m .   Berkeley did not deny the fact, but responded by referring to their duty to their shareholders and added that they could not honestly promise to deliver 35% affordable houisng when it was not viable.  Berkeley held out the possibility of increasing the affordable housing, by later reviews determining the development's real profitability.
+The Chair of the Committee, Cllr Richard Livingstone, pointed out that despite the purported lack of viability of the scheme, it could still generate a profit of £84.4m, even with a viability deficit of £41.4m.  Berkeley did not deny the fact, but responded by referring to their shareholder duty and added that they could not honestly promise to deliver 35% affordable houisng when it was not viable.  Berkeley held out the possibility of increasing the affordable housing, by later reviews determining the development's real profitability.
 
 ![](img/aylesham_or_para_314_150725.png)
-
-#### The Curse of the Viability Assessment
-
-Inevitably BH made the most of......Southwark's own appraiser felt obliged to agree the main finding, that the site was unviable, though differed by how much - both though are bound by the same method and assumptions, including treating profit as a cost, favour the developer, by treating profit as top priority and leaving what is left over for affordable houisnga and other public benefits.
-
-Sadly, BH were also able to take advantage of recent changes to the all-pervading National Planing Policy Framework, which while purportedly removing red tape,to encourage housebuilding also tilts the balance in viability arguments further in the developers favour - able to argue just building anything is the priority, over building afforable; brownfield sites; substantial harm.   
-
-[Peter Apps article](https://thedeveloper.live/opinion/opinion/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing)
-
-SCREENSHOT - Viability para or table  
 
 #### Local community speak out
 
@@ -49,8 +39,24 @@ Reperesentatives of the local community supported the recommendation to the comm
 
 Two local ward councillors, Cllrs P and Council deputy leader Cllr Ali joined in the general condemnation of Berkeley proposals and said....
 
-#### What we think
+#### What we think.....the Curse of the Viability Assessment
+
+The Aylesham is a significant application, beyond its size and local importance.  As Cllr Livingstone pointed out in the planning meeting, Southwark Council has, by and large, held the line against big developers claiming that their schemes are unviable and only approved them if they deliver 35% affordable housing, including the required amount of social housing [^1].  If Berkeley succeed at appeal, that line will be broken and we can expect that other big developers to take advantage and reduce their affordable housing contributions too.
+
+At the Inquiry, Berkeley's will no doubt rely in large part on the viability assessment which underpins the 12% affordable housing offer.  They will also emphasise that Southwark's own appraisal does not fundamentally disagree about the viability of the scheme.  Berkeley will be able to do this because the new Labour government missed the opportunity of abolishing viability assessments, or to at least re-balance their application in favour of local communities, in its recent changes to the National Planning Policy Framework (NPPF).  In fact, those NPPF changes that were made, eg for building on brownfield sites, strengthen the developers position against planng authorities and we can expect them to be used by Berkeley against Southwark.
+
+But this is still a battle that must be fought.  Local campaigners and ward councillors have shown how it can be done; they stood together at the planning committee meeting and won the first round.  With a Labour council, a Labout mayor and a Labour government Aylesham Community Action have  
+
+
 
 The scene is set for a significant showdown.  Not just a local decision - critical test of government's commitment to solving the houisng crisis - question whether developers are going to be allowed to get away with ducking their affordable housing responsibilities by waaving viability assessments in the air.  Given that the reasons BH are citing for not being able to provide affordable houisng - rising build costs, slow demand etc - are general, we can expect other developers to follow in their wake (if they are successful)
+
+Inevitably BH made the most of......Southwark's own appraiser felt obliged to agree the main finding, that the site was unviable, though differed by how much - both though are bound by the same method and assumptions, including treating profit as a cost, favour the developer, by treating profit as top priority and leaving what is left over for affordable houisnga and other public benefits.
+
+Sadly, BH were also able to take advantage of recent changes to the all-pervading National Planing Policy Framework, which while purportedly removing red tape,to encourage housebuilding also tilts the balance in viability arguments further in the developers favour - able to argue just building anything is the priority, over building afforable; brownfield sites; substantial harm.   
+
+[Peter Apps article](https://thedeveloper.live/opinion/opinion/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing)
+
+SCREENSHOT - Viability para or table
 
 Support ACA - CrowdFunding appeal

@@ -41,6 +41,8 @@ James, a trader in the Rye Lane's [Market Place Food Hall](https://www.marketpla
 
 Two local Rye Lane ward councillors, [Cllr David Parton](https://x.com/davidparton_?lang=en) and Council deputy leader [Cllr Jasmine Ali](https://x.com/Jasmine_Ali?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) joined in the general condemnation of Berkeley's proposals.  They asked the Committee to agree with the recommendation to reject the application.  They pointed out that over 1,300 households in the SE15 postcode were overcrowded and that the need for affordable housing was desperate.  The councillors  deplored the lack of family housing, pointing to local school closures as a consequence and were shocked by Berkeley's *'incomprehensible'* reduction of affordable housing to 12%; they asked why Berkeley had not re-appraised the scheme to secure 35%.  They considered that Berkeley had shown *'no appetite'* to improve the scheme and also asked that its detrimental socio-economic impact be considered as a reason for rejection.
 
+![](img/aca_shape_logos.png)
+
 #### What we think.....the Curse of the Viability Assessment
 
 The Aylesham is a significant application, beyond its size and local importance.  As Cllr Livingstone pointed out in the planning meeting, Southwark Council has, by and large, held the line against big developers who claim that their schemes are unviable: such schemes were only approved if they deliver 35% affordable housing, regardless, including the required amount of social housing [^1].  If Berkeley succeed at appeal, that line will be broken and we can expect that other big developers to take advantage and reduce their affordable housing contributions too.

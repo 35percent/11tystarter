@@ -1,0 +1,287 @@
+---
+title: "Aylesbury estate redevelopment: £450m over budget and only 1/4 complete"
+description: The spiralling costs of a scheme that is too big to fail.
+date: 2022-05-24T10:38:48.648Z
+---
+##### The Aylesbury regeneration – 25  years old and counting……
+
+In 1997 Tony Blair chose the [Aylesbury estate](https://www.35percent.org/aylesbury-estate/) as the venue for his [first speech as prime minister](http://www.independent.co.uk/news/blairs-pledge-to-the-dark-estates-1253883.html).  It was a speech of [renewal and hope](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml), vowing to 'learn from the mistakes of the past' and replace dogma with pragmatism and common sense.  New Labour's '[Urban Task Force](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance)' duly promised an *'urban renaissance'* and in 1999 the Aylesbury was included in the [New Deal for Local Communities](https://en.wikipedia.org/wiki/New_Deal_for_Communities) (NDC) regeneration programme.
+Tony Blair departed as prime minister in 2010, but the Aylesbury regeneration is still with us, just nearing the finish of the first phase of its four-phase programme, twenty-five years after it began.  The completion date for whole redevelopment has stretched from 2027 to 2037 (link), but the rate of progress so far makes that date very unlikely.
+
+##### How to pay for the regeneration – public and private funding…
+
+The 1999 New Deal for Communities (NDC) partnership secured [£52m government funding](<https://moderngov.southwark.gov.uk/Data/Executive/20050927/Agenda/Item 07 - The AylesburyEstate Revised Strategy - Report.pdf>) over 10 years.  A further £400m was expected, as part of a stock transfer to a housing association and a comprehensive demolition/redevelopment. However, this depended on tenants giving up their council tenancies and moving to a housing association, an unpopular proposal that was emphatically rejected by a 2001 resident ballot (link).
+
+After this, in 2002, Southwark decided on a [retention and  refurbishment](<https://moderngov.southwark.gov.uk/Data/Executive/20050927/Agenda/Item 07 - The AylesburyEstate Revised Strategy - Annex A.pdf>) of the estate.  In 2005 Southwark estimated that this would have cost between [£315m and £350m](<https://moderngov.southwark.gov.uk/Data/Executive/20050927/Agenda/Item 07 - The AylesburyEstate Revised Strategy - Annex A.pdf>), with funding options for this coming up short by a least £93m.  Another £50m would be needed for some offsite relocation, but with funding identified. 
+
+Southwark instead choose to pursue the *‘redevelopment’* option, to provide 2,288 new social housing units and 2,603 units for sale, almost doubling the number of homes on the estate footprint.  The land would be transferred to housing associations ‘or other partners at current land values’ and after construction costs, a 15% developer profit margin and £16m management costs the *‘development would be broadly cost neutral’*.  The finance director noted cautiously *‘….it is very difficult to assess the full financial implications of the scheme….. Ultimately the financial implications will be driven principally by external funding from Government and other sources’*. 
+
+By the time of the time of the 2010 [Aylesbury Area Action Plan](https://www.southwark.gov.uk/assets/attach/12791/EIP32-Aylesbury-AAP-2010-.pdf) (AAAP) the cost estimate for the regeneration [stood at £1.2bn](<https://moderngov.southwark.gov.uk/documents/s6720/Adoption of Local Development Document Aylesbury Area Action Plan report.pdf>), with an identified short fall of £169m.  The money would still be a combination of public and private sector funding, with the AAAP noting ‘ The success of the scheme requires the private sector to commit to significant levels of borrowing and investment’.
+
+##### Phase 1 - The Southwest Corner - also known as Phase 1a or Site 1a
+
+Meantime, the development of the south west corner of the estate for 125 dwellings and a new resource centre had been approved in January 2005 and later [increased in size to 260 dwellings](<https://moderngov.southwark.gov.uk/Data/Planning Committee/20070605/Agenda/Item 64 Report Open LandEast of Red Lion Row and North of Boyston Road, 1-41 Bradenham,1-12 Red Lion Close and the Aylesbury Day Centre London SE172ES.pdf>), in June 2007.  Housing Association L&Q was adopted as the development partner for the site in January 2008.  Southwark [leases the land for 130 years](<https://moderngov.southwark.gov.uk/Data/Major Projects Board (Executive Committee)/20080619/Agenda/Item 7 -Aylesbury Phase 1A - Approval for Disposal of Land.pdf>), at less than open market value to L&Q, for an undisclosed sum.  In return, L&Q will contribute to the *‘social infrastructure’* and meet higher than the minimum design, build and space standards of the development (NB A successful [2023 FOI request](https://www.whatdotheyknow.com/request/requesting_report_on_disposal_of#incoming-2475221) for the closed [Council Assembly report](<https://www.whatdotheyknow.com/request/requesting_report_on_disposal_of/response/2475221/attach/2/flynn attach 4.doc?cookie_passthrough=1>) shows that the land was sold for £3m, against a valuation of £9.8m).\
+The undisclosed cost the new resource centre is be funded from the Health and social care department’s allocation in the Council’s capital programme.  The cost of acquiring the [twelve residential and six commercial leaseholds](<https://moderngov.southwark.gov.uk/Data/Planning Committee/20070605/Agenda/Item 64 Report Open LandEast of Red Lion Row and North of Boyston Road, 1-41 Bradenham,1-12 Red Lion Close and the Aylesbury Day Centre London SE172ES.pdf>) will be met by the capital programme.  No provision for meeting costs from HRA or General Fund costs. 
+
+### Background - timeline
+
+1997        Election of Blair government.
+
+1999	New Deal for Communites (NDC) award. £52m (later £56m) for ten years, with expectation of further £400m as part of stock transfer, for comprehensive demolition/redevelopment.
+
+Dec 2001	A stock transfer to Faraday Housing Association rejected by residents, by ballot (73% against, 73% turn-out) (0001a)
+
+2002	Service consultants Capita engaged to ‘get NDC programme back on track and provided strategic direction’.  (1999 NDC award is £56.2m according to 2010 leaflet, with £36m for physical renewal and £20m for a social programme) (012a).
+
+Lord Adebowale is appointed the chair of NDC Board (0001).
+
+2002	The Council to retain and refurbish estate, beginning with southwest corner, which provide 100 new social rent homes and new day centre, without the demolition of homes.  The funding will come from the NDC, £8m, the Council, £15m, and the London Housing Board, £11.5m; total £33m.  The cost for the whole estate, including the south-west corner is estimated to be £133m.  The NDC would pay a further £24m for this, with other identified sources giving £44m, leaving a £30m shortfall.
+
+Jan/Apr 2003	Options Appraisal Exercise south-west corner Levitt Bernstein. 	Lord Adebowale steps down as chair of NDC Board (0001b)
+
+Sept 2005	The Council adopts a new ‘demolish and replace’ strategy for the redevelopment of the Aylesbury Estate. This would increase the density of the estate from around 2,700 to 4,900 homes.  The 2005 level of social housing would be maintained, at around 2,300 homes, with the remaining 2,700 homes being for sale or shared-ownership.  Scheme would be ‘broadly cost neutral’ with costs met by the value of the land, after it had been sold to either to a housing association or other development partner.  The south-west corner is to remain the starting point of redevelopment.
+
+A Steering Group of councillors, TRA and NDC representatives is set up. (013e)
+
+Dec 2005	Walworth Community Council considers outline planning application 05-CO-0161 for the south-west corner, now for 125 new dwellings and the new day centre, in advance of planning committee meeting in 2006.
+
+Jan 2006	Planning permission for 05-CO-0161 (south-west corner) is granted.  This will be the first part of Phase 1, Site 1a.
+
+March 2006	Initial demolition notices served on all Phase 1 properties on March 31 2006; also suspends existing and future Right-to- Buy applications for a period of 5 years.  	Phase 1 properties are 1-59 Wolverton on East St, on the north of the estate; 42-256 Bradenham, 1- 172 Chiltern, 1-149 Chartridge, and 1-28 Arklow, all on the remainder of the south-west corner, and 300-313 Missenden (the Amersham site), in the centre of the estate, on Thurland Rd.
+
+May 2006	Work on south-west corner suspended because of health and safety concerns about the design of the day centre.  A new design is commissioned within an enlarged scheme.
+
+Sept 2006	The Council changes its policy for rehousing regeneration estate residents’.  Council tenants will be able to retain their secure tenancies by moving to another council home elsewhere in the borough, or move to a new-build home on Aylesbury footprint or replacement sites and become a housing association tenant, with an assured tenancy.  Tenants ‘under-occupying’ homes with 2-beds or more will be entitled to an extra bedroom whether they opt for a new-build replacement home or an existing Council home.
+
+Those who wish to remain council tenants will be rehoused by bidding for available properties, using the choice based letting system, ‘Homesearch’.  Tenants will be given Band 1 priority, but if they are unable to find a suitable home through Homesearch the Council will make them a single direct offer. 
+
+The Council notes that ‘unless the policy for rehousing tenants/homeowners on regeneration schemes is based on full re-provision of all socially rented homes within the regeneration scheme, regeneration schemes have an adverse impact on all other applicants on the Council’s Housing List. Unless all lost homes are re-provided, fewer applicants on the Housing List can be rehoused’.
+
+	Leaseholders will receive compensation for the loss of their homes.  This should be the market value of the home plus 10%, plus disturbance and legal costs.   However, the Council acknowledges that ‘it is considered highly likely that the value of new build properties on the Aylesbury Estate will be significantly in excess of the market value of the leaseholders existing property’.  Four other options will be available to suitably qualified leaseholders – i/part-buy, part-rent shared ownership ii/ part-buy, no rent, with outstanding amount paid on sale of home iii/ a swap, for another council property of equivalent value iv/ becoming a council tenant. The options are conditional on leaseholders’ differing financial circumstances.
+
+There will be negotiations between the Council and leaseholders so that all options can be explored. The Council will also seek Compulsory Purchase Order (CPO) powers ‘at the appropriate time’ for compulsory acquisitions.
+The Council agrees a Medium Term Financial Strategy, including a 3-year £455m capital programme and the aim of securing ‘capital receipts from regeneration projects to support the Council’s future capital programme’.  The Strategy notes a Regeneration & Development fund that can be released from Corporate Reserves including that of the Aylesbury estate.
+
+Nov 2006	The Council approves procuring a Registered Social Landlord (housing association) or private developer for south-west corner site, also known as Phase 1a.
+
+Mar 2007	The New Aylesbury Trust (Creation Trust) is set up with the  key aims of engaging the community in the regeneration programme and promoting skills, training, health and wellbeing (004a).
+
+June 2007	The planning committee approves outline planning application 07-CO-0046, for the south-west corner (Site 1a).  This now supercedes planning permission 05-CO-0161.  It increases the homes in Site to 260 units.  This entailed the demolition of 1-41 Bradenham, 1-12 Red Lion Close and commercial units on Westmoreland Rd. All 53 demolished social rented units are to be re-provided. Of the 207 additional units, 37.7% will be affordable, of which 62.8% will be social rented and 37.2% to be intermediate, by habitable rooms. Overall there will be 34.6% social rented, 11.1% intermediate and 54.2% market.  This equates to 114 private homes, 90 social rent units and 29 inter units. 90% of the homes will be 1/2 bed.
+
+Jan 2008	The L&Q housing association is chosen as the developer of Site 1a.  The Council will sell the land to L&Q on a 130 year lease for an undisclosed amount. The affordable housing ‘will reflect the generous space standards of the existing estate’.  (A FOI request of 2023 revealed that the land was sold for £3m, against a valuation of £9.8m).
+
+June/July 2008	The Council applies to the Secretary of State, Department of Communities and Local Government for consent to sell the Phase 1a land to L&Q at less than open market price. L&Q is to add an undisclosed ‘added value’ contribution for ‘social infrastructure’ (eg employment) and will meet higher than minimum design, build and space standards.  The undisclosed cost of building the ARC and the cost of acquiring the twelve residential and six commercial leaseholds will be met by the Council.  Social rent tenancies will ‘be a minimum of the council’s existing tenancy conditions’, with the right to acquire. 
+
+Oct 2008	The Council submits an expression of Interest for Housing Revenue Account (HRA) Private Finance Initative (PFI) credits to the Department for Communities and Local Government in partial support of delivering Aylesbury phases 2 and 3. 	(NB PFI projects are public-private partnerships where the private sector is responsible for financing, designing, building and operating an asset. PFI credits provide central government funding to local authorities for such projects.  PFI credits support capital costs and are paid as a series of grants.  PFI credits do not fund the buy backs of ex-council properties.  Local authorities must provide contributions to the scheme eg through revenue funding;  cross subsidisation from new build for sale.  The typical PFI contract is 30 years.  Tenants should remain tenants of the local authority throughout the course of the PFI contract. There will be no change in their status or their rights as a result of the PFI project and rents for dwellings included in the scheme to be set in accordance with the authority’s general approach to rent-setting and within the Office’s rent restructuring framework - 
+
+2008-2009	The Aylesbury Area Action Plan (AAAP) is prepared. It is approved by a government inspector, after four stages of consultation and an Examination in Public.
+
+The AAAP is ‘a holistic plan for the regeneration of the estate and surrounding area’. The AAAP outlined what would be built and included strategies for employment, health, transport, open spaces as well as a business and delivery plan.  The regeneration will provide 4,200 new homes over four phases.  The AAAP identifies health, employment, retail and a range of more general uses including assembly, youth etc. The capital programme is set at £1.2bn, with a funding shortfall of £169m.
+
+Jan 2009	         £18m of NDC capital funding is to be used for buy-outs of leaseholders living on Site 10 (the Amersham site) and improvements to Burgess Park.  The Council will developer the site, to include community facilities to be held in trust by Creation Trust, and give revenue support to Creation.
+
+The NDC scheme is due to end March 2010 and has £14 -£18m investment capital.  £7m allocated for current year (2008/09) for leaseholder buy-backs will be lost if unspent with further potential loss of £7-11m NDC capital in next year (2009/10).
+
+The Council needs adequate finance for the early acquisitions of the 500 or so leaseholder’ properties. The total cost of these will be around £130m.  It is agreed with NDC that £14m of NDC funds can be used to buy-back leases, up to 2011 and £4m can be used for improvements to Burgess Park.  This will be match funding for a bid of £2m to the Mayor’s Top Priority Parks Award.  Money which is not spent on Burgess Park can be spent on leaseholder buybacks.
+
+In return the Council will bring forward the early development of the Amersham site, starting in 2010, finishing in 2013.  This will provide 80-100 homes, mainly social rented and essential social and community facilities (including replacement doctor’s surgery, and pharmacy) to support the residents during the redevelopment process.  These facilities and others on Aylesbury sites will be transferred to the Trust at let on a long-lease at a peppercorn rent.  The Trust will have first refusal for the lease of 2500m2 of general use community space.
+The Council will also provide revenue support to the NDC successor vehicle, Creation Trust of £1.25m over the five years from 2010/11 to 2014/15.  NDC Board asks for details of off-site housing supply needed to rehouse displaced residents of 300-313 Missenden.
+
+The cost of community facilities, that are to be transferred to Creation, should be met by a tariff for developers, but it is not certain that this will be sufficient to meet all the regeneration’s requirements.
+
+The Aylesbury Area Action Plan approved by the Council’s Executive and Planning Committee.  The Finance Director says ‘This report presents Aylesbury Area Action Plan - Publication version. Delivery of the plan is anticipated to be in four main phases. The funding of Phase 1a has already been agreed. Funding of further phases, including a public sector commitment of around £299m is being sought, as shown in paragraph 33 of this report and in more detail in section 7 of the AAP. The Finance Director considers that securing funding for each of the further stages of the Aylesbury programme will continue to be challenging. No financial commitment will be entered into until the necessary funding for that element has been secured.’
+
+Mar 2009	Building work begins on Site 1a.
+
+July 2009	The Council is invited to submit an outline business case (OBC) after a successful application for Private Finance Initiative (PFI) funding for Phases 2 and 3 (Sites 4a, 4b, 5, 6, 8, 9). This scheme to be considered in more detail in a separate report to the October 20 Executive.   Homes and Communities Agency (HCA) funding of £13m for Phase 1a confirmed to Executive committee.
+
+Sept 2009	AAAP Examination in Public (EiP), 2/3 Sept, before government inspector.
+
+Oct 2009	The Council, working with the Homes and Communities Agency (HCA), begins the search for the development and housing association partners the for remainder of Phase 1, the first of four phases.  It also approves the start of the phased re-housing of Phase 1 residents, to allow demolition of their homes. 639 homes will be demolished and replaced by 1,159 new homes (plus the 260 new homes on Site 1a). The blocks to be demolished are 1-59 Wolverton on East St, on the north of the estate; 42-256 Bradenham, 1- 172 Chiltern, 1-149 Chartridge, and 1-28 Arklow, all on the remainder of the south-west corner, and 300-313 Missenden (the Amersham site), in the centre of the estate, on Thurland Rd.
+
+Residents on Phase 1 will be rehoused between 2010 and 2012 with building work to start in 2011 and finish by 2016.  All estate residents will be rehoused by 2023.  All four phases will be completed by 2027.
+
+The Council states that lettings of council tenancies on Phase 1 have already been stopped and will soon stop for Phase 2.
+
+Only limited maintenance works, on heating, lifts and security, will be undertaken hench forth, on Phases 2 and 3 Any interim investment will be on Phase 4 blocks.
+
+There will be 1,419 new homes on Phase 1.  Site 1a will provide 260 new homes, Site 1b, 409 homes; Site 1c, 471 homes; North Wolverton, 166 homes and the Amersham site 113 homes.
+
+One of the ‘key components’ of the whole scheme is a new energy centre, which would also serve the new buildings of the Elephant & Castle regeneration. The energy centre will be built on the Amersham site, along with a pre-school facility and a community facility.  Site 1b will also have a pre-school facility.   These infrastucture components will be funded by tariff or s106 payments.
+
+The Council will control the delivery programme.  It will form partnerships with other public sector partnership bodies. The sites will be offered to ‘the developer market in a series of phases or sub-phases over time’.  The Council will securing vacant possession and clear the site.
+
+The Council believes that ‘this approach will also enable the council to respond to the various property market, economic, financial risk and other factors that change over time and that will affect how and when sites are taken to the market’.
+
+The Council rules out a land sale onto the open market.  It notes the significant cost of achieving vacant possession because of the high number of leaseholders and resident’ rehousing requirements.  The requirement to provide 50% affordable housing would also be unattractive to developers.  Property values were low and unlikely to recover soon; valuations of properties on the Amersham site have produced negative land values.  A partnership with a housing association or developer would more likely attract greater social housing grant.
+
+The Council intends to secure a share of the rise in land value brought about by the regeneration by provisions in the Development Agreements with housing association/developer partners.
+
+Funding for the regeneration will come from private and public sources.  It will be different for the different phases.  For Phase 1 it will come through forming a partnership with a housing association/developer, chosen by competition, with the HCA, according to EU rules.  The Council is in ‘dialogue’ with the HCA to secure Social Housing Grant, which it is assumed will meet any land value deficit.   For Phases 2 and 3 funding will come through a ‘HRA \[Housing Revenue Account] PFI \[Private Finance Initiative] mechanism’.  There were no proposals for Phase 4.
+
+The Finance Director warns that that this route is heavily reliant on HCA commitment to provide liquidity and that any alterations in levels of proposed grant funding for the phase should be carefully scrutinised in order to avoid placing the council in a financially onerous position, for example half way through a build out of a site’.
+Capital costs of site preparation (for Phase 1?) i.e. for leasehold acquisitions, re-housing and infrastructure can be funded through London Housing Board, NDC allocation, recycled Social Housing Grant and LBS capital allocation.
+Homeloss and disturbance payment to tenants will cost £2.611m, to be met by efficiency savings and from the HRA. Other costs to be met from efficiencies and HRA will total £10.113m.
+
+Project team costs are estimated at £2.3m, to be funded through the Aylesbury reserve.
+
+The Council makes the business case for Private Finance Initiative (PFI) support for Phases 2 and 3.  It looks at options for delivering the phases, which comprise 1094 mixed tenure homes and strategic and social infrastructure.  Phase 2 will have 645 new homes (241 rental, 81 intermediate, 322 for sale).  Phase 3 will have 450 new homes (169 rental, 57 intermediate, 224 for sale).
+
+The phases will be built on council owned land with an obligation on the Council to acquire the existing leasehold properties. They will be delivered within the council’s Housing Revenue Account (HRA) using the PFI credits, valued at £180.25m.  It is assumed that the project will have a 30-year term beginning in 2013/14. At the end of the PFI contract the rented homes will come into Council ownership. (Query; So the PFI partner would be the landlord until then?)
+
+The credits support the cost of demolition, design, build, finance, maintenance and management of social rented homes and the supporting infrastructure.  The PFI provider will be responsible for the management, maintenance and community safety of properties before the start of demolition from the start of the PFI contract (although the re-housing process will have already commenced). The cost of leasehold acquisitions is specifically excluded from PFI.
+
+
+The PFI process has two stages.  The first to prepare the Outline Business Case (OBC), over 15-18 months.  The second stage is the procurement of a partner ending with the award of the contract, over approximately 3 years, by the end of 2013.
+
+The HCA requires an additional interim OBC stage to address concerns about funding and high costs and examining alternatives to the HRA PFI, to be completed by June 2010.
+
+The Council will have to meet or underwrite significant costs - achieving vacant possession, procurement, the payments under the 30 year PFI contract (the unitary charge), the cross subsidy of affordable housing by private sales.  This will have a significant have a significant impact on the council’s HRA, though no estimates of the costs for Phase 1 and Phases 2 and 3 are made public.
+
+The Finance Director notes ‘The estimated financial impact in relation to the PFI represents a very significant financial challenge to the council and will require continual re-examination moving forward’.
+
+Jan 2010	The Council adopts the AAP. The estimated ‘full lifetime cost’ of the capital programme is around £1.2 billion with an identified funding shortfall of around £169m.
+
+The Council has the freehold ownership of the land, subject to a number of long leases granted as Right to Buy or business leases. These will be acquired by negotiation or by Compulsory Purchase Orders.  The first three phases of development will be marketed as cleared sites i.e. with residents re-housing and homes demolished. The second and third phases may be partly funded by PFI. The fourth phase which is likely to have greater land value, may be demolished by an appointed developer.
+
+The sale of the land in manageable parcels should generate competitive bids and prove attractive to a wider range of developers, contractors, funders and Registered Social Landlords (RSLs).  The Council is in discussions with the HCA about funding new replacement affordable rented and intermediate accommodation in phase 1. The GLA has provided £2m for improvements to Burgess Park, with £4m match funding from the NDC.
+
+The schemes infrastructure will be provided by appointed contractors or by preferred developer partners and paid for out of an estate-wide social and strategic infrastructure tariff.
+
+A partnership between the Council, HCA, the GLA and the Government Office for London (GOL) will give public sector leadership as a clearly defined client. This will allow the  best use of public sector expertise and financial support, and will enhance private sector developer confidence.
+
+The Partnership will retain control over all aspects of the development programme, maximise its returns on a phase by phase basis because it will retain control of the land, and ensure that infrastructure is delivered in a sustainable way to support the development.
+
+
+Feb 2010  	The Council takes Compulsory Purchase Order (CPO) powers for remainder of Phase 1.  This comprises 1-59 Wolverton (Site 7; 59 dwellings); 42-256 Bradenham, 1- 172 Chiltern, 1-149 Chartridge,1-28 Arklow (Sites 1b and 1c; 566 dwellings) and 300-313 Missenden (Site 10; 14 dwellings).  The total number of dwellings is 639.
+
+Site 7 has 18 leaseholders, Sites 1b and 1c has 65 leaseholders and Site 7 has 2 leaseholders.  The total number of leaseholders is 85.
+
+The Council aims to conclude leaseholder purchases by 2012.  	The estimated costs of acquiring the leasehold properties are -  £11.923m, compensation;  £1.192m homeloss payments; £64k disturbance payments; total £13.75m.
+
+Ellison House, on Albany Road, a Probation Service hostel is excluded because it is Crown Property.  The Council hopes to include the site at a later stage, if an alternative premises can be agrees with the Service.
+
+Council notes that the 75% of Right to Buy receipts transferred to Treasury can be reduced by 35% of admin costs of buy-back, if it is negotiated rather than secured by CPO.
+
+Mar 2010	The NDC Board and the Steering Group are wound-up and a freshly constituted New Aylesbury Trust replaces all three bodies. Trustees include residents and councillors. It will focus on all housing related matters, non-housing services (health, education, community safety) and seek additional funding for these activities. (013e).
+
+June/July 2010	The Council PFI bid is changed after a reduction in available funding, following a government spending review.  This is because of a  reduction in available HCA funding (following a government spending review),  and following a review of financing and risks, a clarification of the project timescales, consideration of the PFI’s financial/technical requirements and delays in the HCA procurement process.
+
+The Council considered that the assumed cross subsidy of £20m, underwritten by the council, is unlikely to be achieved, because of the decline in the property market.  The HCA time limits would also require the PFI scheme to begin before the end of 2014.
+
+These risks could leave the Council with a deficit on the remaining Phase 1 sites.  This, combined with the costs of leaseholder buybacks for Phases 2 and 3, would make the programme unaffordable.
+
+These issues have delayed the marketing and delivery of the Phase 1 sites, which are needed to decant existing residents displaced from Phases 2 & 3.  Also, the Council is advised that only 200 homes per annum should be put onto the open market.  The convergence of Phase 1 with Phases 2 and 3 would mean that these numbers are greatly exceeded, with a consequent likely loss of developer interest in the scheme.
+
+The estimated acquisition and demolition costs for the sites of the original bid is £45.73m and of the revised bid is £37.10m.  The cost of leaseholder buy-backs is £23.50m for the original bid and £12.50m for the revised bid.  Estimated demolition costs remain  £11.20m. Estimated maintenance costs increase from £11.03m to £13.40m.
+
+The size of the bid is reduced. Phase 2 (Sites 4a, 4b, 5) and Site 6 are removed, while Sites 1b and 1c are added.  The PFI bid is now for Sites 1b, 1c, 8 and 9.  The changes reduce the number of current homes within the PFI-funded sites from 1087 dwellings to 875.The changes should secure funding of £181m for 360 new social homes (‘will deliver a minimum of 360 new homes funded under the PFI …\[and] can be contained within the HCA’s £181m affordability envelope’). (NB An average cost of £502.7k per unit).
+
+The changes remove Sites 1b and 1c from the procurement process that depends on HCA funding. Alternative funding will have to be found for Phase 2 and Site 6.
+
+The rehousing of Sites 8 and 9 comes forward from 2016 to 2012.  Sites 8 and 9 consist of Taplow (215 dwellings), Northchurch (82 dwellings) and East St (12 dwellings) – totalling 309 dwellings.  Alternative premises will also have to be found for the Taplow Neighbourhood Office, the Medical Centre, the Heath Centre and the Pharmacy on these sites.
+
+The changes reduce the total housing funded from 1094 units to 943.  The sites for the original bid had 1087 dwellings and for the revised bid 875.
+
+A saving of £3.07m on maintenance costs, with the loss of council homes, would be reduced to £70k under the revised PFI bid.
+
+The Council’s Housing Investment Programme (HIP) will meet £28m costs not funded by the PFI - leasehold buy-backs (£12.5m); demolition £11.2m); CPO enquiry costs (£333K); procurement costs (£4m).
+
+A Council report shows that the original bid would have led to a reduction of 509 social rented homes for the funded sites (from 919 to 410 dwellings).  The revised bid would have a loss of 425 social rented dwellings (from 785 to 360 dwellings).  The proposed intermediate housing was reduced from 136 to 131 dwellings and the proposed free-market housing was reduced from 548 to 452 homes.
+
+The PFI funding is for the social rented housing, to be completed by 2019.  The affordable intermediate and free market housing will be funded by the developer, in a timescale determined by the market, likely to be 2014-2020.
+
+There will be a likely cost of around £1.25m each year to 2014/15, for essential repairs, securing vacated dwellings, rehousing support and site security.  Homeloss and disturbance payments related to the PFI will be around £3.4m. These costs will be met from the HRA and existing budgets. (NB totals £9.65m).
+
+The HRA will also make a contribution of £171,000 per annum (April 2010 prices) to the unitary charge, for the 30 years of the contract, not starting  before 2016.
+
+The infrastructure of the PFI sites will be funded by a combination of charges levied on developer, via the PFI credits and via other sources that have yet to be identified.
+
+A financial assessment indicates a deficit of £4.7m in the PFI option for which there are no funds. This may be reduced by improved market factors eg higher sales prices for free-market homes.  Otherwise the deficit will need to be met by the Council or external funding sources.
+
+The Council would own the PFI funded homes, but they would be designed, built, managed and maintained by a developer, under a 30-year contract.  The council would pay a ‘unitary charge’ to cover the supplier’s costs. This charge   will be funded from PFI credits, HRA management and maintenance allowances, and revenue contributions from council resources.  After 30 years the Council can either manage the social units itself, or appoint new housing management or reappoint the existing housing management.
+
+The Council chooses a so-called HRA PFI over a non-HRA PFI option.  A non-HRA PFI could be cheaper (because homeownership is retained by the developer) and it could provide 35 more social rented homes. However, the Council chooses a HRA PFI because of its policy of building more council homes and because of a risk to its general fund, which would have to be used, instead of the HRA, to meet all costs.  Under the HRA PFI social rented homes would be let as council homes, with target rents achieved over four years.  Under a non-HRA PFI the social rented homes would most likely be let by a housing association, with target rents set immediately. (NB Target rents are a higher social rent, designed to bring council rents and housing association rents into line). (013f, 014)
+
+Oct	              https://moderngov.southwark.gov.uk/documents/s13437/Report%20Creation%20Trust%20-%20Approval%20of%20Finance%20to%20Support%20its%20Business%20Case%20for%20201112.pdf
+
+Nov 2010	Cabinet Report: Aylesbury Regeneration – Phase 1: sites 7 & 10 - revised delivery route, 02 Nov 2010 (015)
+
+April 2012	Cabinet Report: Selection of Preferred Developer for Land Transfer Aylesbury Site 7 (1-50 Wolverton), 17 April 2012 (016)
+
+2011/2012		Phase 1a completed.  http://www.aylesburynow.london/regeneration/regeneration-programme
+
+April 2014		Partnership for Phases 2, 3, 4 awarded to Notting Hill
+Decision Taker: Chief Executive Report title: Gateway 2 - Contract Award Approval Development partner for the regeneration of the Aylesbury Estate	 https://moderngov.southwark.gov.uk/documents/s44910/Report.pdf 
+
+CONTINUE...
+
+£456m of public money has been spent on the Aylesbury estate regeneration as the first of the new council homes are completed.[^1]
+
+The cross subsidy it will receive from the sale of the private homes once phase one is completed amounts to just £8.7m
+
+That's a cost of £608k per dwelling for the 750 homes demolished on the estate to date. 
+
+This is a far cry from the Council's original forecasts, which said the scheme would be entirely funded by the profits of building a mix of private homes on the redeveloped estate. Southwark calculated that the cost to the Council would be 'broadly neutral'. Its [Cabinet report](https://moderngov.southwark.gov.uk/Data/Executive/20050927/Agenda/Item%2007%20-%20The%20AylesburyEstate%20Revised%20Strategy%20-%20Report.pdf) approving the redevelopment in 2005 said this:
+
+![](https://35percent.org/img/costneutral.png)
+
+It even produced a detailed [costing](https://crappistmartin.github.io/images/annexc.pdf) showing a small deficit of around £7m for the whole scheme.
+
+In the event costs have ballooned
+
+Elsewhere on the estate the Council has just refurbished 80 homes at a cost just £10k per dwelling.
+
+Southwark Council has always argued that it simply didn't have enough money to refurbish the estate..
+
+## Too big to fail
+
+Aylesbury estate was selected by Tony Blair for his \[first speech as prime minister](http://www.independent.co.uk/news/blairs-pledge-to-the-dark-estates-1253883.html) on 2nd June 1997, where he made his 'forgotten people' speech, [saying](http://www.bbc.co.uk/news/special/politics97/news/06/0602/blair.shtml) there must be no more *"no-hope areas"* in new Labour's Britain.
+
+<div align="center">
+
+<a href="http://35percent.org/img/blairaylesburyspeech.mp4"><img src="http://35percent.org/img/blairaylesbury.jpg" alt="IMAGE ALT TEXT"></a>
+
+</div>
+
+*Blair visiting the Aylesbury in 1997 to give his first speech as prime minister*
+
+Blair vowed to *'learn from the mistakes of the past'* and replace the dogma of bygone housing policies with pragmatism and common sense. The estate's regeneration was subsequently initiated as part of New Labour's '\[Urban Task Force](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance)' inner-city renewal programme. The project was subsequently awarded £56m funding under the \['New Deal for Communities'](http://en.wikipedia.org/wiki/New_Deal_for_Communities) partnership and regeneration plans were drawn up to transfer the estate to a housing association for redevelopment.
+
+## Other boroughs take a different approach
+
+Other London boroughs take a different approach to regeneration. Islington has an estate called the Six Acres estate near Finsbury Park. The Six Acres estate was built at the same time as Heygate & Aylesury, by the same contractors (Laing) using the [same system](http://crappistmartin.github.io/images/LBI_SixAcres_Jespersen12M.pdf) (Jespersen 12M). 
+
+Instead of demolishing its estate and handing it over to the private sector at a loss, Islington Council chose to refurbish the Six Acres estate in 2012. The 473 homes on the estate were refurbished with [new external wall insulation](http://www.lawtechltd.co.uk/Project_Tollington.aspx), new entry doors, exterior furnishing improvements, [green roofs](http://www.langley.co.uk/asx/six_acres_case_study.pdf) and [cycle shelters](http://greenroofshelters.co.uk/green-roofed-cycle-shelters-for-islington/). 
+
+More information about the Six Acres estate regeneration can be found [here](http://www.langley.co.uk/asx/six_acres_case_study_-_newsletter.pdf), [here](http://bit.ly/1ssLvV6), [here](http://www.langley.co.uk/asx/six_acres_case_study.pdf), [here](http://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) and under planning application ref: P072153 on [Islington Council's Planning Portal](/img/6acrescasereport.pdf).
+
+![](/img/sixacresbefore4.jpg) 
+[Photos of Six Acres before regeneration](https://www.flickr.com/photos/46360829@N03/sets/72157645684480295/)
+
+![](/img/sixacresafter.jpg)
+[Photos of Six Acres after regeneration](https://www.flickr.com/photos/46360829@N03/sets/72157645684757965/)
+
+The London Borough of Wandsworth also has an estate made with the same construction system as the Aylesbury estate - the [Doddington & Rollo estate](/img/doddington.pdf) in Battersea. Wandsworth has no plans to demolish the estate.
+
+![](/img/doddington.png)
+*Doddington & Rollo estate in Battersea*
+
+**Footnotes:** 
+[^1]: The first public funding spent on the scheme was the £56m from the government’s NDC (New Deal for Communities) programme.
+
+The scheme was subsequently allocated [46m from the government’s Estate Regeneration Fund](https://moderngov.southwark.gov.uk/documents/s52526/Report%20Aylesbury%20Regeneration%20Update.pdf) and £27m from GLA funding to date (see source [here](https://moderngov.southwark.gov.uk/documents/s52526/Report%20Aylesbury%20Regeneration%20Update.pdf)), plus £13m of HCA funding, which helped build the completed phase 1a of the scheme (see source on page 20 of the [this document](https://35percent.org/img/Estate-Regen-Sourcebook-Web-Version.pdf)).
+
+[Architects Journal](https://www.architectsjournal.co.uk/news/government-pledges-extra-32m-for-estate-regeneration) [Estate Regeneration Programme](https://www.gov.uk/government/publications/estate-regeneration-programme#full-publication-update-history) [Mayor Funding](https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/aylesbury-estate-allocations-1)
+
+In addition, the Council has spent a considerable amount of its own HRA account funds on the scheme. This [Jan 2022 Cabinet report](https://moderngov.southwark.gov.uk/documents/s104415/Report%20Future%20of%20Aylesbury%20Estate.pdf) shows that £65.42m of HRA funds have been spent to date(para 18) and releases a further £29.8m for ongoing acquisitions of leaseholders (para 43).
+
+This comes after the Council's [decision](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/) in 2020 to spend £193m just in order to complete the first phase of the scheme alone, after its development partner said it wouldn't proceed on the agreed basis.
+
+There is also the £35m cost to the Council of building the replacement library and health centre (see para 10 of [this Cabinet report](https://moderngov.southwark.gov.uk/documents/s71667/Report%20Aylesbury%20Estate%20Community%20facilities%20at%20Plot%2018%20Delivery.pdf)). Note that Notting Hill Genesis is contributing £3m towards the cost of these so the overall cost to the Council is £32m.
+
+Note also that Southwark will receive a Land payment from Notting Hill Genesis amounting to £5.7m.
+
+Taking this into account a total of £456.5m of public funds has been spent just in order to complete the first of four phases of the estate's redevelopment.
+
+[Room 151](https://www.room151.co.uk/treasury/hra-deficit-of-13-8m-at-southwark-endangers-ambitious-council-housing-plans/)

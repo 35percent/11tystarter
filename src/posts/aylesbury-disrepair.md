@@ -54,3 +54,10 @@ vii/ two days after that the electrics were made secure and four days later the 
 17	The councillors compiled a dossier of Aylesbury disrepairs, including a video and image of the instance noted here, and submitted this to the council leadership.
 
 18	The Aylesbury Estate Voids and Squatted Property Data is compiled by the contractor for renovating properties.  It has been shared with councillors, but does not appear to be a public document.
+
+Phase	Voids	Squats
+2B              372	1
+2C	          254	22
+3	          207	9
+4	           141	16
+Totals	   974	48

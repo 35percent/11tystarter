@@ -9,9 +9,11 @@ Peckham campaign group [Aylesham Community Action](https://www.ayleshamcommunity
 
 ### Aylesham Community Action to join the legal action
 
-Aylesham Community Action (ACA) have led the fight against Berkeley Homes and helped generate ove 2,000 objections to Berkeley's scheme.  They have permission to take part in the Inquiry as an independent 'Rule 6 party'.  They have engaged  
+Aylesham Community Action (ACA) have led the fight against Berkeley Homes and helped generate over 2,000 objections to Berkeley's scheme.  They now have permission to take part in the Inquiry as an independent 'Rule 6' party and are **aiming to raise £50,000 to meet legal costs**.  Barrister [Hashi Mohammad](https://www.landmarkchambers.co.uk/barristers/hashi-mohamed) of Landmark Chambers and Southwark Law Centre have been engaged as ACA's legel representives.  
 
-Local campaign group Aylesham Community Action has also vowed to continue its long-running fight against Berkeley's plans, by applying to take part in the inquiry, as an independent 'Rule 6' party. Southwark Housing and Planning Emergency (SHAPE) has pledged its continuing support. 
+As well as being a barrister Hashi is author of the critically acclaimed book 'A Home of One’s Own: Why the Housing Crisis Matters'.  He is also the Chair of Coin Street Housing Cooperative on the South Bank. Southwark Law Centre's Planning Voice Project has been working with ACA throughout the Aylesham planning process.  SLC has been a consitent supporter of housing campaigns in Southwark, including Save Borough Triangle and Up the Elephant.
+
+ACA also enjoys the support of SHAPE Southwark Housing and Planning Emergency (SHAPE) has pledged its continuing support. 
 
 
 

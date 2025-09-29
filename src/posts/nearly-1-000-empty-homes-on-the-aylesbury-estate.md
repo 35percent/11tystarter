@@ -15,15 +15,17 @@ The total number of voids is an increase on the 713 figure of January 2024, with
 
 The same Southwark News article contains the claim by Notting Hill Genesis (NHG) that, as *'proud partners with Southwark*' they have *'so far delivered more than 700 new homes, of which 85% are affordable housing...'*, without making it clear that most of these are in fact both funded and provided by Southwark Council, through [a bail-out of the First  Development Site (FDS), in July 2020](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/).  Throught this deal the Council took over two of the three FDS plots (FDS A & B), at a cost of over £200m, leaving FDS C to NHG.  FDS C will provide just 56 social rent units, 75 shared-ownership and 190 private homes.  Leaving FDS C with NHG also denies Southwark important revenue for cross subsidising affordable and social rented housing. 
 
-All-importantly, NHG has delivered very little affordable housing, particularly social rented housing. Despite holding an outline planning permission since 2015, and aside from the FDS, Notting Hill Genensis has only completed the [122 homes on Plot 18, of which just 23 are social rented.](https://www.35percent.org/posts/aylesbury-regeneration-fails-to-deliver-affordable-and-family-housing/)
+All-importantly, NHG has delivered very little affordable housing, particularly social rented housing. Despite holding an outline planning permission since 2015, and aside from the FDS, Notting Hill Genensis has only completed the [122 homes on Plot 18, and just 23 of these are social rented.](https://www.35percent.org/posts/aylesbury-regeneration-fails-to-deliver-affordable-and-family-housing/)
+
+The table below gives a full account of the social rent delivery of the regeneration so far, according to planning documents.  It should be noted that while these show Southwark Council providing 301 social rented homes it has pledged that all 581 units   of social rented homes provided by Southwark 
 
 Background Aylesbury regeneration
 
 Phase 2B.  NHG's record - links to previous blog
 
-What we think - 'Delay, delay, delay'
+What we think - 'Delay, baby, delay'
 
-According to his baseball cap, the Labour government's new Secretary of State for housing's motto is 'Build, baby, build', but as far as the Aylesbury is concerned it seems to be more case  of 'Delay, delay, delay'.  Notting Hill Genisis has held the outline planning permission for the remainder of the Aylesbury regeneration 
+According to his baseball cap, the Labour government's new Secretary of State for Housing's motto is 'Build, baby, build', but as far as the Aylesbury and Notting Hill Genensis is concerned it seems to be more case  of 'Delay, baby  delay'.  On top of its poor aaffordable housing delivery, NHG has also embroiled itself in a misconcieved attempt to build outside the planning permission it has held since 2015.  And despite losing the resulting High Court case, it is pressing on with this approach for Phase 2B.  There are no concrete plans for the remaining indication of when that Notting Hill Genisis has held the outline planning permission for the remainder of the Aylesbury regeneration 
 
 
 

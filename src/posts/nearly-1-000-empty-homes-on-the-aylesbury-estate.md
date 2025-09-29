@@ -19,7 +19,7 @@ The same Southwark News article contains the claim by Notting Hill Genesis (NHG)
 
 All-importantly, NHG has delivered very little affordable housing, particularly social rented housing. Despite holding an outline planning permission since 2015, and aside from the FDS, Notting Hill Genesis has only completed the [122 homes on Plot 18, and just 23 of these are social rented.](https://www.35percent.org/posts/aylesbury-regeneration-fails-to-deliver-affordable-and-family-housing/)
 
-The table below gives a full account of the social rent delivery of the regeneration so far, according to planning documents.  It should be noted that while these show Southwark Council providing 301 social rented homes it has pledged that all 581 units of FDS A and B will be council homes.
+The table below gives a full account of the social rent delivery of the regeneration so far, according to planning documents.  It should be noted that while these show Southwark Council providing 301 social rented homes, it has pledged that all 581 units of FDS A and B will be council homes.
 
 ![](img/table_providers_of_social_rented_draft_blog_211124.png)
 
@@ -29,7 +29,7 @@ According to Steve Reed's baseball cap, the motto of the Labour government's new
 
 Meantime the very large number of current Aylesbury residents, estimated to be 1,300 in the [Southwark News report](https://southwarknews.co.uk/news/news-plus/southwark-council-clamps-down-on-aylesbury-estate-squatting-in-response-to-residents-fears/), including new residents and those in temporary accommodation, are left in limbo on a *'near-derelict estate'*
 
-In short, in terms of social rented housing, cost to the borough and living conditions on the Aylesbury,  NHG's *'proud'* partnership with Southwark Council is doing more harm than good; the Council should start taking steps to end it, as part of a serious reconsideration of the whole Aylesbury regeneration.
+In short, in terms of social rented housing, cost to the borough and living conditions on the Aylesbury, NHG's *'proud'* partnership with Southwark Council is doing more harm than good; the Council should start taking steps to end it, as part of a serious reconsideration of the whole Aylesbury regeneration.
 
 Figures from Council Homlessness stategy - <https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf>
 

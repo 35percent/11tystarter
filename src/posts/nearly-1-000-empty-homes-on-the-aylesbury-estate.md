@@ -11,19 +11,17 @@ The highest number of voids though is for Phase 2B, the next scheduled for redev
 
 The total number of voids is an increase on the 713 figure of January 2024, with 600 vacant more than 2 years, as reported in [a recent Southwark News article](https://southwarknews.co.uk/news/news-plus/southwark-council-clamps-down-on-aylesbury-estate-squatting-in-response-to-residents-fears/).
 
+![](img/img-20250811-wa0003-002-_phase_2b.jpg)
+
 #### Notting Hill Genesis fail to deliver
 
 The same Southwark News article contains the claim by Notting Hill Genesis (NHG) that, as *'proud partners with Southwark*' they have *'so far delivered more than 700 new homes, of which 85% are affordable housing...'*, without making it clear that most of these are in fact both funded and provided by Southwark Council, through [a bail-out of the First  Development Site (FDS), in July 2020](https://www.35percent.org/posts/2020-07-09-aylesbury-estate-fds-variation/).  Throught this deal the Council took over two of the three FDS plots (FDS A & B), at a cost of over £200m, leaving FDS C to NHG.  FDS C will provide just 56 social rent units, 75 shared-ownership and 190 private homes.  Leaving FDS C with NHG also denies Southwark important revenue for cross subsidising affordable and social rented housing. 
 
 All-importantly, NHG has delivered very little affordable housing, particularly social rented housing. Despite holding an outline planning permission since 2015, and aside from the FDS, Notting Hill Genesis has only completed the [122 homes on Plot 18, and just 23 of these are social rented.](https://www.35percent.org/posts/aylesbury-regeneration-fails-to-deliver-affordable-and-family-housing/)
 
-The table below gives a full account of the social rent delivery of the regeneration so far, according to planning documents.  It should be noted that while these show Southwark Council providing 301 social rented homes it has pledged that all 581 units of FDS  A and B will be council homes.
+The table below gives a full account of the social rent delivery of the regeneration so far, according to planning documents.  It should be noted that while these show Southwark Council providing 301 social rented homes it has pledged that all 581 units of FDS A and B will be council homes.
 
-![]()
-
-
-
-
+![](img/table_providers_of_social_rented_draft_blog_211124.png)
 
 #### What we think - 'Delay, baby, delay'
 

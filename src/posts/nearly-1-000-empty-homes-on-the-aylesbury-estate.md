@@ -25,7 +25,7 @@ The table below gives a full account of the social rent delivery of the regenera
 
 #### What we think - 'Delay, baby, delay'
 
-According to Steve Reed's baseball cap, the motto of the Labour government's new Secretary of State for Housing's is 'Build, baby, build', but as far as Notting Hill Genesis and the Aylesbury are concerned it seems to be more case  of 'Delay, baby  delay'.  On top of its poor affordable housing delivery since 2015, NHG also embroiled itself in a misconcieved attempt to build outside its planning permission.  And despite losing the resulting High Court case, it is pressing on with this approach for Phase 2B.  NHG have presented no concrete plans for Phase 3 and 4, the remaining two phases.
+According to his baseball cap, the motto of the Labour government's new Secretary of State for Housing is 'Build, baby, build', but as far as Notting Hill Genesis and the Aylesbury are concerned it seems to be more case  of 'Delay, baby  delay'.  On top of its poor affordable housing delivery since 2015, NHG also embroiled itself in a misconcieved attempt to build outside its planning permission.  And despite losing the resulting High Court case, it is pressing on with this approach for Phase 2B.  NHG have presented no concrete plans for Phase 3 and 4, the remaining two phases.
 
 Meantime the very large number of current Aylesbury residents, estimated to be 1,300 in the [Southwark News report](https://southwarknews.co.uk/news/news-plus/southwark-council-clamps-down-on-aylesbury-estate-squatting-in-response-to-residents-fears/), including new residents and those in temporary accommodation, are left in limbo on a *'near-derelict estate'*
 

@@ -5,9 +5,9 @@ date: 2025-09-08T08:50:33.605Z
 ---
 ![](img/aylesbury_view_das_may_2022_pg_43.png)
 
-A Southwark Council document seen by the 35% Campaign numbers the **total of empty homes on the Aylesbury estate at 974.**  Fourty-eight homes are also listed as being squatted, but it is not clear whether these are in additon to the void homes.  In either case, the figures mean that over a third of the estate's original number of 2,700 homes, when it was built back in the 1970's.
+A Southwark Council document seen by the 35% Campaign numbers the **total of empty homes on the Aylesbury estate at 974.**  Fourty-eight homes are also listed as being squatted, but it is not clear whether these are in additon to the void homes.  In either case, the figures mean that over a third of the estate's original number of 2,700 homes, when it was built back in the 1970's.  It is also nearly double the total number of new-build social rent homes let in the borough in 2024/25. [^1]
 
-The document is dated the 14 July 2025 and lists the number of voids for each phase of the estate's regeneration, which is now entering its twenty-seventh year [^1].  Phase 2C has 254 voids; Phase 3, 207 voids and Phase 4, 141 voids.
+The document is dated the 14 July 2025 and lists the number of voids for each phase of the estate's regeneration, which is now entering its twenty-seventh year [^2].  Phase 2C has 254 voids; Phase 3, 207 voids and Phase 4, 141 voids.
 
 The highest number of voids though is for Phase 2B, the next scheduled for redevelopment.  The Phase 2B blocks (Padbury, Ravenstone, Wendover, Winslow) have 372 voids, almost the entire number of dwellings.  Southwark Council's planning committee [approved Notting Hill Genesis' proposals](https://www.35percent.org/posts/aylesbury-phase-2b-approved-by-planning-committee-for-the-second-time/) for the phase back in June, earlier this year, but the s106 agreement that seals the approval has not yet been concluded. 
 
@@ -27,7 +27,9 @@ The table below gives a full account of the social rent delivery of the regenera
 
 #### Homelessness in the borough
 
-The large number of empty council homes on the Aylesbury should be seen in the context of our stark housing crisis.  Southwark Council adopted a homelessness strategy 
+The large number of empty council homes on the Aylesbury should be seen in the context of our stark housing crisis.  Southwark Council adopted a homelessness strategy in June 2025 that very sensibly puts building new homes at the top of its Strategy for solving homelessnness.  It boasts about building 3000 new council homes, as  the largest council house building programme in the country, but when the large number of council homes that have been demolished in the name of regeneration are taken into account, such as the Aylesbury's 977 units, then that number rapidly to dimishes (see [our blogpost on this](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details).
+
+it is also telling that 
 
 £11m from the Local Authority Housing Fund to buy-back former council homes on our estates, as well as investing in empty homes on the Aylesbury Estate that are earmarked for redevelopment in latter phases of the regeneration there.  which continues the manage the largest stock of council housing in London,
 
@@ -51,4 +53,6 @@ https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=8214&Ver=4<h
 
 Southwark News article - <https://southwarknews.co.uk/news/news-plus/southwark-council-clamps-down-on-aylesbury-estate-squatting-in-response-to-residents-fears/>
 
-[^1] Southwark Council  Estate was awarded New Deal for Communities (NDC) status, with the expectation of government funding for a comprehensive demolition/redevelopment programme, in 1999.
+[^1] [Southwark Council's Homelessness and Rough Sleeping Strategy 2025-2030](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf) pg 9
+
+[^2] Southwark Council  Estate was awarded New Deal for Communities (NDC) status, with the expectation of government funding for a comprehensive demolition/redevelopment programme, in 1999.

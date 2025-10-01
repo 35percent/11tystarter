@@ -3,6 +3,12 @@ title: Nearly 1,000 empty homes on the Aylesbury estate
 description: Over a third of estate's original number of homes now empty
 date: 2025-09-08T08:50:33.605Z
 ---
+
+
+
+
+![](img/aylesbury_view_das_may_2022_pg_43.png)
+
 A Southwark Council document seen by the 35% Campaign numbers the **total of empty homes on the Aylesbury estate at 974.**  Fourty-eight homes are also listed as being squatted, but it is not clear whether these are in additon to the void homes.  In either case, the figures mean that over a third of the estate's original number of 2,700 homes, when it was built back in the 1970's.
 
 The document is dated the 14 July 2025 and lists the number of voids for each phase of the estate's regeneration, which is now entering its twenty-seventh year [^1].  Phase 2C has 254 voids; Phase 3, 207 voids and Phase 4, 141 voids.
@@ -25,9 +31,9 @@ The table below gives a full account of the social rent delivery of the regenera
 
 #### What we think - 'Delay, baby, delay'
 
-According to his baseball cap, the motto of the Labour government's new Secretary of State for Housing is 'Build, baby, build', but as far as Notting Hill Genesis and the Aylesbury are concerned it seems to be more case  of 'Delay, baby  delay'.  On top of its poor affordable housing delivery since 2015, NHG also embroiled itself in a misconcieved attempt to build outside its planning permission.  And despite losing the resulting High Court case, it is pressing on with this approach for Phase 2B.  NHG have presented no concrete plans for Phase 3 and 4, the remaining two phases.
+According to his baseball cap, the motto of the Labour government's new Secretary of State for Housing is 'Build, baby, build', but as far as Notting Hill Genesis and the Aylesbury are concerned it seems to be more case  of 'Delay, baby  delay'.  On top of its poor affordable housing delivery since 2015, NHG also embroiled itself in a misconcieved attempt to build outside its planning permission.  And despite [losing the resulting High Court case](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/), it is pressing on with this approach for Phase 2B.  NHG have presented no concrete plans for Phase 3 and 4, the remaining two phases.
 
-Meantime the very large number of current Aylesbury residents, estimated to be 1,300 in the [Southwark News report](https://southwarknews.co.uk/news/news-plus/southwark-council-clamps-down-on-aylesbury-estate-squatting-in-response-to-residents-fears/), including new residents and those in temporary accommodation, are left in limbo on a *'near-derelict estate'*
+Meantime the very large number of current Aylesbury residents, estimated to be 1,300 in the [Southwark News report](https://southwarknews.co.uk/news/news-plus/southwark-council-clamps-down-on-aylesbury-estate-squatting-in-response-to-residents-fears/), including new residents and those in temporary accommodation, are left in limbo on a *'near-derelict estate'.*
 
 In short, in terms of social rented housing, cost to the borough and living conditions on the Aylesbury, NHG's *'proud'* partnership with Southwark Council is doing more harm than good; the Council should start taking steps to end it, as part of a serious reconsideration of the whole Aylesbury regeneration.
 

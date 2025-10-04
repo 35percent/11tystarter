@@ -27,15 +27,13 @@ The table below gives a full account of the social rent delivery of the regenera
 
 #### While council helps homeless, developers dump affordable housing
 
-The large number of empty council homes on the Aylesbury should be seen in the context of our stark housing crisis.  There are 19,586 households on Southwark Council's housing waiting and 4,184 households in temporary accommodation, including 5,076 children according to Southwark's [Homelessness Strategy June 2025](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf).   
+The large number of empty council homes on the Aylesbury should be seen in the context of our stark housing crisis.  There are 19,586 households on Southwark Council's housing waiting and 4,184 households in temporary accommodation, including 5,076 children, according to Southwark's [Homelessness Strategy June 2025](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf).   
 
-The Strategy very sensibly puts building new homes as the top means of reducing homelessnness and claims that  3000 new council homes have been built; this number, though, rapidly diminishes when the large number of council homes that have been demolished or decanted in the name of regeneration are taken into account, including the Aylesbury's 977 units, then that number rapidly to dimishes - see [our blogpost on new council homes](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details.
+The Strategy very sensibly puts new-build affordable homes as the top means of reducing homelessnness, but its claim that 3000 council homes have been built takes no account of the large number that have been demolished or decanted in the name of regeneration, including the Aylesbury's 977 units - see [our blogpost on new council homes](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details.
 
-£11m from the Local Authority Housing Fund to buy-back former council homes on our estates, as well as investing in empty homes on the Aylesbury Estate that are earmarked for redevelopment in latter phases of the regeneration there.  which continues the manage the largest stock of council housing in London,
+In any event, the continuing decline in council housing stock is graphical illustrated 
 
-Homelessness Prevention Grant (HPG). In 2024/25, the HPG totalled £440.4 million, ensuring targeted support for homelessness prevention and recovery
-
-2025/26, Southwark Council’s funding allocations Total Funding for 2025/26 £14,603,381.00 
+The Strategy also notes that £11m from the Local Authority Housing Fund to buy-back former council homes on our estates, as well as investing in empty homes on the Aylesbury Estate.  Southwark Council’s funding allocations Total Funding for 2025/26 £14,603,381.00 
 
 
 

@@ -50,11 +50,13 @@ easily be addressed through prevention strategies, with a spiralling of resident
 from Home Office accommodation as significantly expedited decisions were reached on
 their immigration case. 
 
-Southwark has match funded its allocation of grant
-from the Household Support Fund to establish a Cost of Living Fund worth almost £12
-million in helping those most in need. 
+Southwark has match funded its allocation of grant from the Household Support Fund to establish a Cost of Living Fund worth almost £12million in helping those most in need. 
 
 
+measure to restore Local Housing Allowance (LHA) rates to 30th percentile of market rent
+determined in September 2023 saw a boost in housing costs support for many. However,
+with the benefit cap formula remaining unchanged, many out of work households will be
+affected with minimal to no increase in support.
 
 
 

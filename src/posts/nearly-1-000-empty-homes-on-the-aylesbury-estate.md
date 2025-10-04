@@ -53,14 +53,10 @@ Meantime the very large number of current Aylesbury residents, estimated to be 1
 
 In short, in terms of social rented housing, cost to the borough and living conditions on the Aylesbury, NHG's *'proud'* partnership with Southwark Council is doing more harm than good; the Council should start taking steps to end it, as part of a serious reconsideration of the whole Aylesbury regeneration.
 
-Figures from Council Homlessness stategy - <https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf>
 
-https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=8214&Ver=4<https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=8214&Ver=4>
-
-Southwark News article - <https://southwarknews.co.uk/news/news-plus/southwark-council-clamps-down-on-aylesbury-estate-squatting-in-response-to-residents-fears/>
 
 [^1] [Southwark Council's Homelessness and Rough Sleeping Strategy 2025-2030](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf) pg 9
 
 [^2] Southwark Council  Estate was awarded New Deal for Communities (NDC) status, with the expectation of government funding for a comprehensive demolition/redevelopment programme, in 1999.
 
-[^3] Although marked as 'DRAFT' the link is to the report as approved by Southwark Council's Cabinet on 17 June 2025
+[^3] Although marked as 'DRAFT' the link is to the report as approved by Southwark Council's Cabinet on [17 June 2025](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=8214&Ver=4)

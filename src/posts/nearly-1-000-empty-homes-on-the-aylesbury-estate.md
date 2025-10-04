@@ -27,7 +27,7 @@ The table below gives a full account of the social rent delivery of the regenera
 
 #### While council tries to help homeless.....
 
-The large number of empty council homes on the Aylesbury should be seen in the context of our stark housing crisis.  There are 19,586 households on Southwark Council's housing waiting and 4,184 households in temporary accommodation, including 5,076 children, according to Southwark's [Homelessness Strategy June 2025](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf).   
+The large number of empty council homes on the Aylesbury should be seen in the context of our stark housing crisis.  There are 19,586 households on Southwark Council's housing waiting and 4,184 households in temporary accommodation, including 5,076 children, according to Southwark's [Homelessness Strategy June 2025](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf). [^3] 
 
 The Strategy very sensibly puts building more affordable homes as the top means of reducing homelessnness, but its claim that Southwark has [built 3000 council homes](https://www.southwark.gov.uk/housing/new-council-homes-0#:~:text=Why%20we're%20building%20Why,households%20living%20in%20temporary%20accommodation) takes no account of the large number that have been demolished or decanted in the name of regeneration, including the Aylesbury's 977 units - see [our blogpost on new council homes](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details.
 
@@ -62,3 +62,5 @@ Southwark News article - <https://southwarknews.co.uk/news/news-plus/southwark-c
 [^1] [Southwark Council's Homelessness and Rough Sleeping Strategy 2025-2030](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf) pg 9
 
 [^2] Southwark Council  Estate was awarded New Deal for Communities (NDC) status, with the expectation of government funding for a comprehensive demolition/redevelopment programme, in 1999.
+
+[^3] Although marked as 'DRAFT' the link is to the report as approved by Southwark Council's Cabinet on 17 June 2025

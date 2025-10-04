@@ -31,7 +31,7 @@ The large number of empty council homes on the Aylesbury should be seen in the c
 
 The Strategy very sensibly puts building more affordable homes as the top means of reducing homelessnness, but its claim that Southwark has [built 3000 council homes](https://www.southwark.gov.uk/housing/new-council-homes-0#:~:text=Why%20we're%20building%20Why,households%20living%20in%20temporary%20accommodation) takes no account of the large number that have been demolished or decanted in the name of regeneration, including the Aylesbury's 977 units - see [our blogpost on new council homes](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details.
 
-In any event, the continuing decline in council housing stock is well illustrated by a graph showing a fall of 527 dwellings from 2018 to 2021.
+In any event, the fall in council housing stock is well illustrated by a graph showing a fall of 527 dwellings from 2018 to 2021.  This continues the longer term [decline from over 55,000 council homes](https://www.35percent.org/new-council-homes/) since 1994.
 
 ![](img/fall_southwark_council_housing_2018_2021_homelessness_strategy_2025_2030.png "Fall in Southwark Council Housing stock 2018-2021")
 

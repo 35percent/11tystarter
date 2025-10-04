@@ -41,7 +41,7 @@ But undermining all Southwark's efforts, developers are now mounting a strong lo
 
 #### What we think -  NHG 'Delay, baby, delay'
 
-
+it is very clear that while we need as much affordable housing as quickly as possible, developers have other ideas.
 
 Sir Kier Starmer pledged to ['Build, baby, build'](https://www.bbc.co.uk/news/articles/c805mjxe2y9o), to end the housing crisis, but as far as Notting Hill Genesis and the Aylesbury are concerned it seems to be more a case  of 'Delay, baby, delay'.  On top of its poor affordable housing delivery since 2015, NHG also embroiled itself in a misconcieved attempt to build outside its planning permission.  And despite [losing the resulting High Court case](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/), it is pressing on with this approach for Phase 2B.  NHG have presented no concrete plans for Phase 3 and 4, the remaining two phases.
 

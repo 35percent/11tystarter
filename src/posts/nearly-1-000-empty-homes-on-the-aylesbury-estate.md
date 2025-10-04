@@ -25,7 +25,7 @@ The table below gives a full account of the social rent delivery of the regenera
 
 ![](img/table_providers_of_social_rented_draft_blog_211124.png)
 
-#### While council tries to help homeless, developers dump affordable housing
+#### While council tries to help homeless.....developers dump affordable housing
 
 The large number of empty council homes on the Aylesbury should be seen in the context of our stark housing crisis.  There are 19,586 households on Southwark Council's housing waiting and 4,184 households in temporary accommodation, including 5,076 children, according to Southwark's [Homelessness Strategy June 2025](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf).   
 
@@ -35,20 +35,13 @@ In any event, the continuing decline in council housing stock is well illustrate
 
 ![](img/fall_southwark_council_housing_2018_2021_homelessness_strategy_2025_2030.png "Fall in Southwark Council Housing stock 2018-2021")
 
-The Strategy also notes that £11m from the Local Authority Housing Fund to buy-back former council homes on our estates, as well as investing in empty homes on the Aylesbury Estate.  Southwark Council’s funding allocations Total Funding for 2025/26 £14,603,381.00 
+The Strategy also notes that it has £11m from the Local Authority Housing Fund to buy-back former council homes and investing in empty homes on the Aylesbury, with other homelessness initiative funding for 2025/26 totals £14.6m 
 
-
-
-
-
-
-
-
-
-
-But undermining all Southwark's efforts, developers have now mounted a strong lobbying campaign to reduce the amount of affordable housing required from them under the Mayor's [London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan).  According to the [BBC News](https://www.bbc.co.uk/news/articles/c62z6gpg8e6o) the House Bulders Federation has called for the 35% requirement to be reduced to 25%, in a [HBF report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) on housing development in London.  The Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) add that developers are demanding an even bigger cut, to between 10-15%.  In Southwark both British Land and Berkeley Homes, the developers of [Canada Water](https://www.salamandernews.org/canada-water-developer-requests-reduction-in-affordable-housing/) and the [Aylesham Centre](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/) respectively are already seeking to reduce affordable housing to these levels. 
+But undermining all Southwark's efforts, developers are now mounting a strong lobbying campaign to reduce the amount of affordable housing required from them under the Mayor's [London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan).  According to the [BBC News](https://www.bbc.co.uk/news/articles/c62z6gpg8e6o) the House Bulders Federation has called for the 35% requirement to be reduced to 25%, in a [HBF report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) on housing development in London.  The Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) add that developers are demanding an even bigger cut, to between 10-15%.  In Southwark both British Land and Berkeley Homes, the developers of [Canada Water](https://www.salamandernews.org/canada-water-developer-requests-reduction-in-affordable-housing/) and the [Aylesham Centre](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/) respectively are already seeking to reduce affordable housing to these levels. 
 
 #### What we think -  NHG 'Delay, baby, delay'
+
+
 
 Sir Kier Starmer pledged to ['Build, baby, build'](https://www.bbc.co.uk/news/articles/c805mjxe2y9o), to end the housing crisis, but as far as Notting Hill Genesis and the Aylesbury are concerned it seems to be more a case  of 'Delay, baby, delay'.  On top of its poor affordable housing delivery since 2015, NHG also embroiled itself in a misconcieved attempt to build outside its planning permission.  And despite [losing the resulting High Court case](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/), it is pressing on with this approach for Phase 2B.  NHG have presented no concrete plans for Phase 3 and 4, the remaining two phases.
 

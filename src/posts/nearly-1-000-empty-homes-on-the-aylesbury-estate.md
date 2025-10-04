@@ -25,51 +25,32 @@ The table below gives a full account of the social rent delivery of the regenera
 
 ![](img/table_providers_of_social_rented_draft_blog_211124.png)
 
-#### While council helps homeless, developers dump affordable housing
+#### While council tries to help homeless, developers dump affordable housing
 
 The large number of empty council homes on the Aylesbury should be seen in the context of our stark housing crisis.  There are 19,586 households on Southwark Council's housing waiting and 4,184 households in temporary accommodation, including 5,076 children, according to Southwark's [Homelessness Strategy June 2025](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf).   
 
-The Strategy very sensibly puts more affordable homes as the top means of reducing homelessnness, but its claim that Southwark has [built 3000 council homes](https://www.southwark.gov.uk/housing/new-council-homes-0#:~:text=Why%20we're%20building%20Why,households%20living%20in%20temporary%20accommodation) takes no account of the large number that have been demolished or decanted in the name of regeneration, including the Aylesbury's 977 units - see [our blogpost on new council homes](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details.
+The Strategy very sensibly puts building more affordable homes as the top means of reducing homelessnness, but its claim that Southwark has [built 3000 council homes](https://www.southwark.gov.uk/housing/new-council-homes-0#:~:text=Why%20we're%20building%20Why,households%20living%20in%20temporary%20accommodation) takes no account of the large number that have been demolished or decanted in the name of regeneration, including the Aylesbury's 977 units - see [our blogpost on new council homes](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details.
 
-In any event, the continuing decline in council housing stock is well illustrated by a graph showing a fall of about 400 dwellings since 2018.
+In any event, the continuing decline in council housing stock is well illustrated by a graph showing a fall of 527 dwellings from 2018 to 2021.
 
- 
+![](img/fall_southwark_council_housing_2018_2021_homelessness_strategy_2025_2030.png "Fall in Southwark Council Housing stock 2018-2021")
 
 The Strategy also notes that £11m from the Local Authority Housing Fund to buy-back former council homes on our estates, as well as investing in empty homes on the Aylesbury Estate.  Southwark Council’s funding allocations Total Funding for 2025/26 £14,603,381.00 
 
 
 
-Southwark Housing Strategy 2015 – 2043 
-The four fundamental issues remained affordability; quality; security and pride and
-responsibility.
-The four broad principles were re-focused on these key values as follows:
-
-1. Increasing the supply of genuinely affordable high-quality homes that meet our
-   residents’ housing needs and aspirations.
-
-During the second half of 2023-24 we saw rising levels of homelessness that could not
-easily be addressed through prevention strategies, with a spiralling of residents evicted
-from Home Office accommodation as significantly expedited decisions were reached on
-their immigration case. 
-
-Southwark has match funded its allocation of grant from the Household Support Fund to establish a Cost of Living Fund worth almost £12million in helping those most in need. 
 
 
-measure to restore Local Housing Allowance (LHA) rates to 30th percentile of market rent
-determined in September 2023 saw a boost in housing costs support for many. However,
-with the benefit cap formula remaining unchanged, many out of work households will be
-affected with minimal to no increase in support.
 
-Lambeth the only inner London borough to take more applications than Southwark (3744 compared to Southwark’s 3310 in 2023/24.)
 
-4184 homeless households are in TA (as at May 2025), 1609 of which are in
-nightly paid accommodation
 
-Despite this , developers have now mounted a strong lobbying campaign to reduce the amount of affordable housing required under the Mayor's [London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan).  According to the [BBC News](https://www.bbc.co.uk/news/articles/c62z6gpg8e6o) the House Bulders Federation has called for the 35% requirement to be reduced to 25%, in a [HBF report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) on housing development in London.  The Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) add that developers are demanding an even bigger cut, to between 10-15%.  In Southwark both British Land and Berkeley Homes, the developers of [Canada Water](https://www.salamandernews.org/canada-water-developer-requests-reduction-in-affordable-housing/) and the [Aylesham Centre](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/) respectively are already seeking to reduce affordable housing to these levels. 
 
-#### What we think - 'Delay, baby, delay'
 
-Sir Kier Starmer pledged to ['Build, baby, build'](https://www.bbc.co.uk/news/articles/c805mjxe2y9o), but as far as Notting Hill Genesis and the Aylesbury are concerned it seems to be more a case  of 'Delay, baby  delay'.  On top of its poor affordable housing delivery since 2015, NHG also embroiled itself in a misconcieved attempt to build outside its planning permission.  And despite [losing the resulting High Court case](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/), it is pressing on with this approach for Phase 2B.  NHG have presented no concrete plans for Phase 3 and 4, the remaining two phases.
+But undermining all Southwark's efforts, developers have now mounted a strong lobbying campaign to reduce the amount of affordable housing required from them under the Mayor's [London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan).  According to the [BBC News](https://www.bbc.co.uk/news/articles/c62z6gpg8e6o) the House Bulders Federation has called for the 35% requirement to be reduced to 25%, in a [HBF report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) on housing development in London.  The Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) add that developers are demanding an even bigger cut, to between 10-15%.  In Southwark both British Land and Berkeley Homes, the developers of [Canada Water](https://www.salamandernews.org/canada-water-developer-requests-reduction-in-affordable-housing/) and the [Aylesham Centre](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/) respectively are already seeking to reduce affordable housing to these levels. 
+
+#### What we think -  NHG 'Delay, baby, delay'
+
+Sir Kier Starmer pledged to ['Build, baby, build'](https://www.bbc.co.uk/news/articles/c805mjxe2y9o), to end the housing crisis, but as far as Notting Hill Genesis and the Aylesbury are concerned it seems to be more a case  of 'Delay, baby, delay'.  On top of its poor affordable housing delivery since 2015, NHG also embroiled itself in a misconcieved attempt to build outside its planning permission.  And despite [losing the resulting High Court case](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/), it is pressing on with this approach for Phase 2B.  NHG have presented no concrete plans for Phase 3 and 4, the remaining two phases.
 
 Meantime the very large number of current Aylesbury residents, estimated to be 1,300 in the [Southwark News report](https://southwarknews.co.uk/news/news-plus/southwark-council-clamps-down-on-aylesbury-estate-squatting-in-response-to-residents-fears/), including new residents and those in temporary accommodation, are left in limbo on a *'near-derelict estate'.*
 

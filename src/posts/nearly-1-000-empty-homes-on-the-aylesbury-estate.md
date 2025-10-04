@@ -5,7 +5,7 @@ date: 2025-09-08T08:50:33.605Z
 ---
 ![](img/aylesbury_view_das_may_2022_pg_43.png)
 
-A Southwark Council document seen by the 35% Campaign numbers the **total of empty homes on the Aylesbury estate at 974.**  Forty-eight homes are also listed as being squatted, but it is not clear whether these are in additon to the void homes.  In either case, the figures mean that over a third of the estate's original number of 2,700 homes, when it was built back in the 1970's are empty.  It is also nearly double the total number of new-build social rent homes let in the borough in 2024/25. [^1]
+A Southwark Council document seen by the 35% Campaign numbers the **total of empty homes on the Aylesbury estate at 974.**  Forty-eight homes are also listed as being squatted, but it is not clear whether these are in addition to the void homes.  In either case, the figures mean that over a third of the estate's original number of 2,700 homes, when it was built back in the 1970's are empty.  It is also nearly double the total number of new-build social rent homes let in the borough in 2024/25. [^1]
 
 The document is dated the 14 July 2025 and lists the number of voids for each phase of the estate's regeneration, which is now entering its twenty-seventh year [^2].  Phase 2C has 254 voids; Phase 3, 207 voids and Phase 4, 141 voids.
 

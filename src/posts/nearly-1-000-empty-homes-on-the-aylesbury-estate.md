@@ -25,9 +25,9 @@ The table below gives a full account of the social rent delivery of the regenera
 
 ![](img/table_providers_of_social_rented_draft_blog_211124.png)
 
-#### Homelessness and developers
+#### Developers dump affordable housing
 
-The large number of empty council homes on the Aylesbury should be seen in the context of our stark housing crisis.  Southwark Council adopted a homelessness strategy in June 2025 that very sensibly puts building new homes at the top of its Strategy for solving homelessnness.  It boasts about building 3000 new council homes, as  the largest council house building programme in the country, but when the large number of council homes that have been demolished in the name of regeneration are taken into account, such as the Aylesbury's 977 units, then that number rapidly to dimishes (see [our blogpost on this](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details).
+The large number of empty council homes on the Aylesbury should be seen in the context of our stark housing crisis.  Southwark Council adopted a [homelessness strategy in June 2025](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf) that very sensibly puts building new homes at the top of its Strategy for solving homelessnness.  It boasts about building 3000 new council homes, as  the largest council house building programme in the country, but when the large number of council homes that have been demolished in the name of regeneration are taken into account, such as the Aylesbury's 977 units, then that number rapidly to dimishes (see [our blogpost on this](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details).
 
 £11m from the Local Authority Housing Fund to buy-back former council homes on our estates, as well as investing in empty homes on the Aylesbury Estate that are earmarked for redevelopment in latter phases of the regeneration there.  which continues the manage the largest stock of council housing in London,
 

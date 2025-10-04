@@ -35,9 +35,9 @@ Homelessness Prevention Grant (HPG). In 2024/25, the HPG totalled £440.4 millio
 
 2025/26, Southwark Council’s funding allocations Total Funding for 2025/26 £14,603,381.00 
 
-On top of all of this developers have mounted a strong lobbying campaign to reduce the amount of affordable housing required under the Mayor's London Plan, currently 35% for private developments.  A report from th House Bulders Fedderation 
+On top of all of this, developers have mounted a strong lobbying campaign to reduce the amount of affordable housing required under the Mayor's [London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan).  According to the [BBC News](https://www.bbc.co.uk/news/articles/c62z6gpg8e6o) the House Bulders Federation has called for the 35% requirment to be reduced to 25%, in a [HBF report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) on housing development in London.  The [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) repeats a Financial Times report of developers demanding an even bigger cut, to between 10-15%.  
 
-<https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html>
+[](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html)
 
 #### What we think - 'Delay, baby, delay'
 

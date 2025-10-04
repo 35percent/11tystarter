@@ -29,9 +29,9 @@ The table below gives a full account of the social rent delivery of the regenera
 
 The large number of empty council homes on the Aylesbury should be seen in the context of our stark housing crisis.  There are 19,586 households on Southwark Council's housing waiting and 4,184 households in temporary accommodation, including 5,076 children, according to Southwark's [Homelessness Strategy June 2025](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf).   
 
-The Strategy very sensibly puts more affordable homes as the top means of reducing homelessnness, but its claim that it has built 3000 council homes takes no account of the large number that have been demolished or decanted in the name of regeneration, including the Aylesbury's 977 units - see [our blogpost on new council homes](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details.
+The Strategy very sensibly puts more affordable homes as the top means of reducing homelessnness, but its claim that Southwark has [built 3000 council homes](https://www.southwark.gov.uk/housing/new-council-homes-0#:~:text=Why%20we're%20building%20Why,households%20living%20in%20temporary%20accommodation) takes no account of the large number that have been demolished or decanted in the name of regeneration, including the Aylesbury's 977 units - see [our blogpost on new council homes](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details.
 
-In any event, the continuing decline in council housing stock is illustrated by agraph showing a fall of about ...since 2018.
+In any event, the continuing decline in council housing stock is well illustrated by a graph showing a fall of about 400 dwellings since 2018.
 
  
 

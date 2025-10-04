@@ -25,9 +25,11 @@ The table below gives a full account of the social rent delivery of the regenera
 
 ![](img/table_providers_of_social_rented_draft_blog_211124.png)
 
-#### Southwark's homeless increase - developers dump affordable housing
+#### Council helps homeless  - developers dump affordable housing
 
-The large number of empty council homes on the Aylesbury should be seen in the context of our stark housing crisis.  Southwark Council adopted a [homelessness strategy in June 2025](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf) that very sensibly puts building new homes at the top of its Strategy for solving homelessnness.  It boasts about building 3000 new council homes, as  the largest council house building programme in the country, but when the large number of council homes that have been demolished in the name of regeneration are taken into account, such as the Aylesbury's 977 units, then that number rapidly to dimishes (see [our blogpost on this](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details).
+The large number of empty council homes on the Aylesbury should be seen in the context of our stark housing crisis.  There are over 16,500 housholds on Southwark Council's housing waiting and 3,400 in temporary accommodation, according to the council [website](https://www.southwark.gov.uk/housing/new-council-homes-0#:~:text=Why%20we're%20building%20Why,households%20living%20in%20temporary%20accommodation).  A higher figure for temporary accommodation of 4,184 is given in Southwark's [homelessness strategy June 2025](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf).
+
+ that very sensibly puts building new homes at the top of its Strategy for solving homelessnness.  It boasts about building 3000 new council homes, as  the largest council house building programme in the country, but when the large number of council homes that have been demolished in the name of regeneration are taken into account, such as the Aylesbury's 977 units, then that number rapidly to dimishes (see [our blogpost on this](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details).
 
 £11m from the Local Authority Housing Fund to buy-back former council homes on our estates, as well as investing in empty homes on the Aylesbury Estate that are earmarked for redevelopment in latter phases of the regeneration there.  which continues the manage the largest stock of council housing in London,
 
@@ -60,12 +62,8 @@ affected with minimal to no increase in support.
 
 Lambeth the only inner London borough to take more applications than Southwark (3744 compared to Southwark’s 3310 in 2023/24.)
 
-
-
-mporary accommodation numbers
-
-8. 4184 homeless households are in TA (as at May 2025), 1609 of which are in
-   nightly paid accommodation
+4184 homeless households are in TA (as at May 2025), 1609 of which are in
+nightly paid accommodation
 
 Added to all of this, developers have now mounted a strong lobbying campaign to reduce the amount of affordable housing required under the Mayor's [London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan).  According to the [BBC News](https://www.bbc.co.uk/news/articles/c62z6gpg8e6o) the House Bulders Federation has called for the 35% requirement to be reduced to 25%, in a [HBF report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) on housing development in London.  The Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) add that developers are demanding an even bigger cut, to between 10-15%.  In Southwark both British Land and Berkeley Homes, the developers of [Canada Water](https://www.salamandernews.org/canada-water-developer-requests-reduction-in-affordable-housing/) and the [Aylesham Centre](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/) respectively are already seeking to reduce affordable housing to these levels. 
 

@@ -25,7 +25,7 @@ The table below gives a full account of the social rent delivery of the regenera
 
 ![](img/table_providers_of_social_rented_draft_blog_211124.png)
 
-#### Developers dump affordable housing
+#### Southwark's homeless increase - developers dump affordable housing
 
 The large number of empty council homes on the Aylesbury should be seen in the context of our stark housing crisis.  Southwark Council adopted a [homelessness strategy in June 2025](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf) that very sensibly puts building new homes at the top of its Strategy for solving homelessnness.  It boasts about building 3000 new council homes, as  the largest council house building programme in the country, but when the large number of council homes that have been demolished in the name of regeneration are taken into account, such as the Aylesbury's 977 units, then that number rapidly to dimishes (see [our blogpost on this](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details).
 
@@ -35,7 +35,28 @@ Homelessness Prevention Grant (HPG). In 2024/25, the HPG totalled £440.4 millio
 
 2025/26, Southwark Council’s funding allocations Total Funding for 2025/26 £14,603,381.00 
 
-Added to all of this, developers have have mounted a strong lobbying campaign to reduce the amount of affordable housing required under the Mayor's [London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan).  According to the [BBC News](https://www.bbc.co.uk/news/articles/c62z6gpg8e6o) the House Bulders Federation has called for the 35% requirement to be reduced to 25%, in a [HBF report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) on housing development in London.  The Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) add that developers are demanding an even bigger cut, to between 10-15%.  In Southwark both British Land and Berkeley Homes, the developers of [Canada Water](https://www.salamandernews.org/canada-water-developer-requests-reduction-in-affordable-housing/) and the [Aylesham Centre](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/) respectively are already seeking to reduce affordable housing to these levels. 
+
+
+Southwark Housing Strategy 2015 – 2043 
+The four fundamental issues remained affordability; quality; security and pride and
+responsibility.
+The four broad principles were re-focused on these key values as follows:
+
+1. Increasing the supply of genuinely affordable high-quality homes that meet our
+   residents’ housing needs and aspirations.
+
+During the second half of 2023-24 we saw rising levels of homelessness that could not
+easily be addressed through prevention strategies, with a spiralling of residents evicted
+from Home Office accommodation as significantly expedited decisions were reached on
+their immigration case. 
+
+Southwark has match funded its allocation of grant
+from the Household Support Fund to establish a Cost of Living Fund worth almost £12
+million in helping those most in need. 
+
+
+
+Added to all of this, developers have now mounted a strong lobbying campaign to reduce the amount of affordable housing required under the Mayor's [London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan).  According to the [BBC News](https://www.bbc.co.uk/news/articles/c62z6gpg8e6o) the House Bulders Federation has called for the 35% requirement to be reduced to 25%, in a [HBF report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) on housing development in London.  The Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) add that developers are demanding an even bigger cut, to between 10-15%.  In Southwark both British Land and Berkeley Homes, the developers of [Canada Water](https://www.salamandernews.org/canada-water-developer-requests-reduction-in-affordable-housing/) and the [Aylesham Centre](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/) respectively are already seeking to reduce affordable housing to these levels. 
 
 #### What we think - 'Delay, baby, delay'
 

@@ -35,6 +35,10 @@ Homelessness Prevention Grant (HPG). In 2024/25, the HPG totalled £440.4 millio
 
 2025/26, Southwark Council’s funding allocations Total Funding for 2025/26 £14,603,381.00 
 
+On top of all of this developers have mounted a strong lobbying campaign to reduce the amount of affordable housing required under the Mayor's London Plan, currently 35% for private developments.  A report from th House Bulders Fedderation 
+
+<https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html>
+
 #### What we think - 'Delay, baby, delay'
 
 According to his baseball cap, the motto of the Labour government's new Secretary of State for Housing is 'Build, baby, build', but as far as Notting Hill Genesis and the Aylesbury are concerned it seems to be more case  of 'Delay, baby  delay'.  On top of its poor affordable housing delivery since 2015, NHG also embroiled itself in a misconcieved attempt to build outside its planning permission.  And despite [losing the resulting High Court case](https://www.35percent.org/posts/ayllesbury-planning-decision-quashed/), it is pressing on with this approach for Phase 2B.  NHG have presented no concrete plans for Phase 3 and 4, the remaining two phases.
@@ -44,8 +48,6 @@ Meantime the very large number of current Aylesbury residents, estimated to be 1
 In short, in terms of social rented housing, cost to the borough and living conditions on the Aylesbury, NHG's *'proud'* partnership with Southwark Council is doing more harm than good; the Council should start taking steps to end it, as part of a serious reconsideration of the whole Aylesbury regeneration.
 
 Figures from Council Homlessness stategy - <https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf>
-
-
 
 https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=8214&Ver=4<https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=8214&Ver=4>
 

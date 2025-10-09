@@ -50,11 +50,11 @@ When Southwark rejected our complaint we referred the matter to the Local Govern
 ## The bungled audit
 Southwark has since conducted a so-called [audit](https://app.powerbi.com/view?r=eyJrIjoiZGQzMzM2MDktZDlkOS00ZWIwLWI5NzAtNmE5MDg1ZDRlMDgyIiwidCI6ImY3YWRjZjA2LTk1OGYtNDRjNC1iYzFjLTMzOWVkZDkwOTAzZCIsImMiOjh9) and superficially it looks good, but on closer examination the numbers don't add up. 
 
-Starting on the landing page, it's immediately clear that the figures for the three categories of affordable housing (social rent, intermediate, affordable) do not add up to the number of total homes.but it contains many inconsistencies and the figures simply do not add up:
+Starting on the landing page, it's immediately clear that the figures for the three categories of affordable housing (social rent, intermediate, affordable) do not add up to the number of total homes.
 
 ![](https://35percent.org/img/monitoring_audit_pg_2_total_homes_against_s106_160425.png "Total homes provided measured against number promised by s106 agreements")
 
-For example, what should be delivered is determined by all the legal s106 agreements that developers sign with the Council.  The s106 data provided by the registered provider shows that 21,245 have been provided, whereas the number of homes that the s106 agreements say should be provided is 8,333 – a difference of 12,912 homes. 
+What should have been delivered is determined by all the legal s106 agreements that developers sign with the Council.  The s106 data provided by the registered provider shows that 21,245 have been provided, whereas the number of homes that the s106 agreements say should be provided is 8,333 – a difference of 12,912 homes. 
 
 The figures for the five categories of affordable housing show similar large differences .  The difference for social housing is particularly striking; the registered provider provided data shows that they have provided 14,140 social rented homes, while the s106 agreements only require that they provide 2,176 – a massive difference of 11,964 homes which, if it is to be believed, means that private developers and their registered providers partners have delivered over six times more affordable housing than they were required to!
 
@@ -63,7 +63,7 @@ When drilling down into the individual tables behind the visualisation (by click
 ![Hexagon rents](https://35percent.org/img/hexagonrents.png)
 
 ## Why no enforcement action?
-Furthermore, where breaches have been uncovered by the audit, no enforcement action has been taken. Here are some of the blatant examples:
+Furthermore, where breaches have been uncovered by the audit, no enforcement action has been taken. Here are some of the more blatant examples:
 
 ### Lock House, (15/AP/0426) - 41 unit scheme on Rope Street at Rotherhithe Docks SE16. 
 ![Lock House, Rope Street SE16](https://media.onthemarket.com/properties/16308414/1533267583/image-2-1024x1024.jpg)

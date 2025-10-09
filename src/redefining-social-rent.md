@@ -5,6 +5,10 @@ featured: true
 image: img/rsr.png
 excerpt: Southwark continues to turn a blind eye to developers flouting affordable housing requirements
 ---
+Developers and housing associations are failing to provide the level of affordable housing agreed in planning consents and charging up to 80% market rent for homes approved as social rent.
+
+In other cases housing associations have been found selling affordable housing on the open market in 'sham transactions' and in some cases developers have simply failed to provide any of the affordable housing that it had agreed to when their planning applications were approved. 
+
 In 2016, Southwark Council rejected our [complaint](https://35percent.org/img/ccomplaint15Dec2016.pdf) that affordable homes secured from private developments weren't in fact being delivered, Southwark's Director of Planning [saying](https://35percent.org/img/Stage1response28Jan2016.pdf) _‘Southwark Council has appropriate safeguards in place and has not failed in its duties .. therefore your compliant is not upheld"._
 
 We made the complaint after discovering that Neo Bankside, a high-profile development next to the Tate Gallery, had only delivered 62 of the 94 social rented homes required by the planning approval. The story was [taken up by the Guardian](https://www.theguardian.com/artanddesign/architecture-design-blog/2015/jul/21/neo-bankside-how-richard-rogers-new-non-dom-accom-cut-out-the-poor).
@@ -42,38 +46,30 @@ When Southwark rejected our complaint we referred the matter to the Local Govern
 
 ![](https://35percent.org/img/lgoreport.png)
 
-In late 2019, after three years of badgering, the Council finally [published a spreadsheet](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/monitoring/authority-monitoring-report/housing?chapter=9), which it claimed to be an audit.
+## The bungled audit
+Southwark has since conducted a so-called [audit](https://app.powerbi.com/view?r=eyJrIjoiZGQzMzM2MDktZDlkOS00ZWIwLWI5NzAtNmE5MDg1ZDRlMDgyIiwidCI6ImY3YWRjZjA2LTk1OGYtNDRjNC1iYzFjLTMzOWVkZDkwOTAzZCIsImMiOjh9) but it contains many inconsistencies and the figures simply do not add up:
 
-![](https://35percent.org/img/auditpage.png)
+![](https://35percent.org/img/monitoring_audit_pg_2_total_homes_against_s106_160425.png "Total homes provided measured against number promised by s106 agreements")
 
-But the audit is in fact only a list of developments, detailing affordable housing required according to the s106 agreement. A necessary link to what was actually delivered is absent and any breaches cannot be identified from it. It is therefore impossible to tell from the audit if the affordable housing has been delivered according to the planning consent.
+For example, what should be delivered is determined by all the legal s106 agreements that developers sign with the Council.  The s106 data provided by the registered provider shows that 21,245 have been provided, whereas the number of homes that the s106 agreements say should be provided is 8,333 – a difference of 12,912 homes. 
 
-![](https://35percent.org/img/audit_extract.png)
+The figures for the five categories of affordable housing show similar large differences .  The difference for social housing is particularly striking; the registered provider provided data shows that they have provided 14,140 social rented homes, while the s106 agreements only require that they provide 2,176 – a massive difference of 11,964 homes which, if it is to be believed, means that private developers and their registered providers partners have delivered over six times more affordable housing than they were required to!
 
-In addition, the audit shows that in over two thirds of the developments, the Council still doesn’t have confirmation of the affordable housing provided and nearly one thousand homes have 'Not Known' tenure, out of nearly 7,000 affordable homes listed.
+## Zero enforcement
+Furthermore, where breaches have been uncovered by the audit, no enforcement action has been taken:
 
-In many cases where the housing association has responded confirming the tenure and number of homes provided, they clearly don't match with the requirements of the planning consent.
+1. Lock House, (15/AP/0426) - 41 unit scheme on Rope Street at Rotherhithe Docks SE16. 
+![Lock House, Rope Street SE16](https://media.onthemarket.com/properties/16308414/1533267583/image-2-1024x1024.jpg)
 
-For example, phase 1 of the Aylesbury estate (07/CO/0046) is listed as being let at affordable rent (i.e. up to 80% market rent) but the s106 agreement for this scheme requires social rent.
+*The S106 agreement required 15 affordable housing units: 12 for social rent and 3 as shared ownership. It has in fact only delivered 13 shared ownership units. This 2 fewer units than required, and a large under-delivery of much-needed social-rented homes.*
 
-Similarly phase 1 of the Canada Water regeneration (09/AP/1870) required at least 123 homes at social rent. The audit shows these all at being provided at affordable rent.
+2. 22 Amelia Street (07/AP/0650) - 164 unit scheme at Elephant & Castle. 
+![22 Amelia Street](https://southwarknews.co.uk/wp-content/uploads/2025/01/Printworks-is-a-nine-story-residential-development-situated-at-22-Amelia-Street.-Image-Southwark-Planning-Documents.png)
 
-Also, the 553-home Tabard Square scheme (02/AP/0168) was approved with a requirement for at least 79 social rented units. These are being listed as having been provided by Horizon Housing Association as affordable rent.
+*The S106 agreement requires 67 affordable homes of which at least 49 at social rent. It has in fact provided just 38 affordable homes: 23 social rent units, 14 intermediate, and 1 affordable rent.*
 
-## Show us the 5,462 social rented homes
 
-The audit clearly hasn’t been conducted effectively. It remains impossible to know with certainty how much affordable housing has been delivered or whether it has been delivered under the tenure required by the section 106 agreement.
 
-Southwark’s Housing Engagement and Scrutiny Commission [considered affordable housing delivery at its last meeting](https://www.youtube.com/watch?v=OF0cobZ3kIk&amp;feature=youtu.be) at the beginning of December and we have sent the Commission a [detailed account of the gaps and flaws in the audit](https://35percent.org/img/hscrutiny.pdf). We told the Commission that five years on, Southwark still has not properly fulfilled the requirements of the Ombudsman’s decision and asked it to investigate. The Commission didn't so much as bother to respond.    
-
-As we have pursued this issue, Southwark's general response has always been that it is in the process of [developing new software](https://www.southwark.gov.uk/innovate/collabrative-project/affordable-housing-monitoring) to deal with monitoring. But after 5 years of development this software is still not operational. 
-
-Southwark Council has lately been emphasising the number of affordable and the number of social rented homes that they have succeeded in securing from developers at the planning stage, but this is obviously a hollow claim if the homes are not built and or are then let at a higher rent tenure. Until a proper audit is conducted (plus an investigation of any apparent infractions) Southwark’s [claim to have delivered 5,462 social rented homes](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/monitoring/authority-monitoring-report/housing?chapter=4), in particular, can only be met with scepticism. 
-
-Southwark Council is now under new leadership - solving this issue head-on, instead of just muddling along and sweeping it under the carpet will be a test of whether it will be any better than the old leadership.
-
-![](https://35percent.org/img/screenshotahmon.png)
-*Southwark's website [claims](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/monitoring/authority-monitoring-report/housing?chapter=4) it has delivered 5,462 social rented homes*
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@35percent_EAN">

@@ -77,14 +77,14 @@ Furthermore, where breaches have been uncovered by the audit, no enforcement act
 
 ### Heygate estate (12/AP/1092) - 2,924 unit scheme at Elephant & Castle.
 ![Elephant Park](https://35percent.org/img/elephantpark.jpg)
-*The Heygate redevelopment scandalously required just 100 social rented homes but the audit confirms that only 72 have been provided*
+*The Heygate redevelopment scandalously required just 92 social rented homes but the audit confirms that only 72 have been provided*
 
 ### Aylesbury estate redevelopment phase 1 (14/AP/3717)
 
 ![Aylesbury phase 1](https://media.onthemarket.com/properties/13240380/1446127810/image-14-1024x1024.jpg)
 *The audit confirms that of the 134 affordable homes required in this phase, only 123 have been provided.*
 
-### Bermondsey Spa regeneration (phase 3, sites E-U)
+### Bermondsey Spa regeneration (phase 3, sites E-U) (04/AP/0102)
 
 ![Bermondsey spa regeneration](https://www.hyde-housing.co.uk/media/1334/bermondsey_spa_low-res-1.jpg)
 *The audit confirms that of the 202 social rented homes required, only 196 have been provided.*

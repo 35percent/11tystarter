@@ -56,9 +56,9 @@ Starting on the landing page, it's immediately clear that the figures for the th
 
 What should have been delivered is determined by all the legal s106 agreements that developers sign with the Council.  The s106 data provided by the registered provider shows that 21,245 have been provided, whereas the number of homes that the s106 agreements say should be provided is 8,333 – a difference of 12,912 homes. 
 
-The figures for the five categories of affordable housing show similar large differences .  The difference for social housing is particularly striking; the registered provider provided data shows that they have provided 14,140 social rented homes, while the s106 agreements only require that they provide 2,176 – a massive difference of 11,964 homes which, if it is to be believed, means that private developers and their registered providers partners have delivered over six times more affordable housing than they were required to!
+The figures for the five categories of affordable housing show similar large differences .  The difference for social housing is particularly striking; the registered provider provided data shows that they have provided 14,140 social rented homes, while the s106 agreements only require that they provide 2,176 – a massive difference of 11,964 homes which, if it is to be believed, means that private developers and their registered providers partners have delivered over six times more social-rented housing than they were required to!
 
-When drilling down into the individual tables behind the visualisation (by clicking on 'show data table') there appear two immediate problems. First, there is no column saying what tenure the affordable home should have been provided as under the section 106 agreement; secondly, in some cases the rent levels for social rent are more than twice as high as they should be:
+Also, when drilling down into the individual tables behind the visualisation (by clicking on 'show data table') two immediate problems appear: First, there is no column saying what tenure the affordable home should have been provided as under the section 106 agreement; secondly, in some cases the rent levels for social rent are more than twice as high as they should be:
 
 ![Hexagon rents](https://35percent.org/img/hexagonrents.png)
 
@@ -77,7 +77,7 @@ Furthermore, where breaches have been uncovered by the audit, no enforcement act
 
 ### Heygate estate (12/AP/1092) - 2,924 unit scheme at Elephant & Castle.
 ![Elephant Park](https://35percent.org/img/elephantpark.jpg)
-*The scheme required 100 social rented homes but the audit confirms that only 72 have been provided*
+*The Heygate redevelopment scandalously required just 100 social rented homes but the audit confirms that only 72 have been provided*
 
 ### Aylesbury estate redevelopment phase 1 (14/AP/3717)
 
@@ -87,7 +87,7 @@ Furthermore, where breaches have been uncovered by the audit, no enforcement act
 ### Bermondsey Spa regeneration (phase 3, sites E-U)
 
 ![Bermondsey spa regeneration](https://www.hyde-housing.co.uk/media/1334/bermondsey_spa_low-res-1.jpg)
-*The audit confirms that of the 202 social rented homes required, only 196 have been provided. 
+*The audit confirms that of the 202 social rented homes required, only 196 have been provided.*
 
 ### Strata Tower (05/AP/2502)
 
@@ -119,6 +119,13 @@ Schedule 4 sets out the tenure split of 143 ‘Rented’ and 27 Shared Ownership
 
 There are dozens of further cases where affordable rent of up to 80% has been provided instead of social rent, but Southwark has long been [turning a blind eye](https://www.35percent.org/posts/southwarks-new-developments-that-fail-to-deliver-social-rent/) to this sleight of hand.
 
+Southwark, in its efforts to be developer friendly and encourage them to 'Build, Build, Build!', doesn't appear to be bothered whether what gets built corresponds to what was approved by its planning committee.
+
+Its response so far has been that enforcement action would be costly and not worth the bother for a few homes here and there. We argue that for every single social rented home not provided, the Council bears the cost of private temporary accommodation for a family on its waiting list. This is currently [£200 per family per night](https://www.whatdotheyknow.com/request/temporary_accommodation_nightly_912/response/2929190/attach/3/FOI%2034923641%20Response%20Letter.pdf), amounting to [£37m per year](https://southwarknews.co.uk/news/news-plus/number-of-homeless-children-in-southwark-has-soared-by-77-per-cent-since-2020-report-finds/).
+
+![temp accom costs](https://35percent.org/img/tempaccomcosts.png)
+
+We call on the Council to take immediate enforcement action on each and every social rented home that has not been provided under section 106 agreements.
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@35percent_EAN">

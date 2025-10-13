@@ -112,6 +112,11 @@ Schedule 4 sets out the tenure split of 143 ‘Rented’ and 27 Shared Ownership
 ![Canada Water site D](https://www.35percent.org/img/sited.png)
 *The planning consent requires 34 social rented and 18 shared ownership homes. The audit shows that only 29 social rented homes have been provided.*
 
+### Bombay Street, Bermondsey (17/AP/0296)
+
+![Bombay street](https://southwarknews.co.uk/wp-content/uploads/2024/05/What-the-unfinished-apartment-block-on-Bombay-Street-Bermondsey-looks-like.-Photo-from-Southwark-Council-planning-documents-535x560.jpg)
+*This scheme required 7 affordable housing units, all of which shared ownership. The developer failed to deliver any affordable housing and has sold some of units designated as such.*
+
 ### Blakes Road, Peckham (04/AP/1601)
 
 ![Blakes Road Peckham](https://property-images-uk.s3.eu-west-2.amazonaws.com/i/dc283e6279731a4dc97c1a73e2ab0cfd.jpg)

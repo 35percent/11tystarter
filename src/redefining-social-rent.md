@@ -25,7 +25,7 @@ We told him that we had no way of knowing whether his home was one of the 11 aff
 *The Signal Building at Elephant & Castle where affordable homes were let at market rent and then sold on the open market*
 
 ## Sham transactions
-It later [emerged](https://www.insidehousing.co.uk/insight/insight/the-court-battles-over-section-106-delivery--56141) that the housing association concerned had sold these and other affordable homes across on the open market. The resulting court case, brought by Southwark Council claimed that these involved 'sham transactions'.
+It later [emerged](https://www.insidehousing.co.uk/insight/insight/the-court-battles-over-section-106-delivery--56141) that the housing association concerned had sold these and other affordable homes on the open market. The resulting court case, brought by Southwark Council claimed that these involved 'sham transactions'.
 
 ![](https://35percent.org/img/lhah.png)
 *[https://www.insidehousing.co.uk/insight/insight/the-court-battles-over-section-106-delivery--56141](https://www.insidehousing.co.uk/insight/insight/the-court-battles-over-section-106-delivery--56141)*
@@ -40,7 +40,7 @@ We then cross-checked planning committee reports with section 106 agreements, La
 ![](https://35percent.org/img/arexampless.png)
 
 ## The Ombudsman
-When Southwark rejected our complaint we referred the matter to the Local Government Ombudsman and in November 2016 he [published a damning report](https://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) stating that Southwark actually have no proper procedures for monitoring the delivery of affordable housing. In response Southwark undertook to introduce monitoring procedures and conduct an audit of all the section 106 affordable housing in the borough.
+When Southwark rejected our complaint we referred the matter to the Local Government Ombudsman and in November 2016 he [published a damning report](https://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) stating that Southwark didn't actually have ANY procedures for monitoring the delivery of affordable housing. In response, Southwark undertook to introduce monitoring procedures and conduct an audit of all the section 106 affordable housing in the borough.
 
 ![](https://35percent.org/img/LGOFinalDecisionSOR.png)
 
@@ -48,7 +48,7 @@ When Southwark rejected our complaint we referred the matter to the Local Govern
 ![](https://35percent.org/img/lgoreport.png)
 
 ## The bungled audit
-Southwark has since conducted a so-called [audit](https://app.powerbi.com/view?r=eyJrIjoiZGQzMzM2MDktZDlkOS00ZWIwLWI5NzAtNmE5MDg1ZDRlMDgyIiwidCI6ImY3YWRjZjA2LTk1OGYtNDRjNC1iYzFjLTMzOWVkZDkwOTAzZCIsImMiOjh9) and superficially it looks good, but on closer examination the numbers don't add up. 
+Southwark has since conducted a so-called [audit](https://app.powerbi.com/view?r=eyJrIjoiZGQzMzM2MDktZDlkOS00ZWIwLWI5NzAtNmE5MDg1ZDRlMDgyIiwidCI6ImY3YWRjZjA2LTk1OGYtNDRjNC1iYzFjLTMzOWVkZDkwOTAzZCIsImMiOjh9) and superficially it looks good, but it still relies on trusting housing associations to volunteer information and on closer examination the numbers don't add up. 
 
 Starting on the landing page, it's immediately clear that the figures for the three categories of affordable housing (social rent, intermediate, affordable) do not add up to the number of total homes.
 
@@ -134,6 +134,6 @@ We call on the Council to take immediate enforcement action on each and every so
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@35percent_EAN">
-<meta name="twitter:title" content="Social Rented homes missing">
+<meta name="twitter:title" content="Social Rented homes go missing">
 <meta name="twitter:description" content="Nearly 10 years after damning Ombudsman report and Southwark still doesn't know (or care) if S106 affordable housing is delivered.">
 <meta name="twitter:image" content="https://35percent.org/img/arexampless.png">

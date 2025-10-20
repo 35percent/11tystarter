@@ -4,9 +4,9 @@ description: Over a third of estate's original number of homes now empty
 date: 2025-10-20T15:05:45.053Z
 image: img/aylesbury_view_das_may_2022_pg_43.png
 ---
-A Southwark Council document seen by the 35% Campaign numbers the **total of empty homes on the Aylesbury estate at 974.**  Forty-eight homes are also listed as being squatted, but it is not clear whether these are in addition to the void homes.  In either case, the figures mean that over a third of the estate's original number of 2,700 homes, when it was built back in the 1970's are empty.  It also approaches twice the total number of new-build social rent homes let in the borough in 2024/25. [^1]
+A Southwark Council [document](https://35percent.org/img/aylesburyreport_voids_080925.pdf) seen by the 35% Campaign numbers the **total of empty homes on the Aylesbury estate at 974.**  Forty-eight homes are also listed as being squatted, but it is not clear whether these are in addition to the void homes.  In either case, the figures mean that over a third of the estate's original number of 2,700 homes, when it was built back in the 1970's are empty.  It also approaches twice the total number of new-build social rent homes let in the borough in 2024/25. [^1]
 
-The document is dated the 14 July 2025 and lists the number of voids for each phase of the estate's regeneration, which is now entering its twenty-seventh year [^2].  Phase 2C has 254 voids; Phase 3, 207 voids and Phase 4, 141 voids.
+The [document](https://35percent.org/img/aylesburyreport_voids_080925.pdf) is dated the 14 July 2025 and lists the number of voids for each phase of the estate's regeneration, which is now entering its twenty-seventh year [^2].  Phase 2C has 254 voids; Phase 3, 207 voids and Phase 4, 141 voids.
 
 The highest number of voids though is for Phase 2B, the next scheduled for redevelopment.  The Phase 2B blocks (Padbury, Ravenstone, Wendover, Winslow) have 372 voids, almost the entire number of dwellings.  Southwark Council's planning committee [approved Notting Hill Genesis' proposals](https://www.35percent.org/posts/aylesbury-phase-2b-approved-by-planning-committee-for-the-second-time/) for the phase back in June, earlier this year, but the s106 agreement that seals the approval has not yet been concluded. 
 

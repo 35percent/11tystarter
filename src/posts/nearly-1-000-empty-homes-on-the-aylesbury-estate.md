@@ -2,9 +2,8 @@
 title: Nearly 1,000 empty homes on the Aylesbury estate
 description: Over a third of estate's original number of homes now empty
 date: 2025-10-20T15:05:45.053Z
+image: img/aylesbury_view_das_may_2022_pg_43.png
 ---
-![](img/aylesbury_view_das_may_2022_pg_43.png)
-
 A Southwark Council document seen by the 35% Campaign numbers the **total of empty homes on the Aylesbury estate at 974.**  Forty-eight homes are also listed as being squatted, but it is not clear whether these are in addition to the void homes.  In either case, the figures mean that over a third of the estate's original number of 2,700 homes, when it was built back in the 1970's are empty.  It also approaches twice the total number of new-build social rent homes let in the borough in 2024/25. [^1]
 
 The document is dated the 14 July 2025 and lists the number of voids for each phase of the estate's regeneration, which is now entering its twenty-seventh year [^2].  Phase 2C has 254 voids; Phase 3, 207 voids and Phase 4, 141 voids.
@@ -13,7 +12,7 @@ The highest number of voids though is for Phase 2B, the next scheduled for redev
 
 The total number of voids is an increase on the 713 figure of January 2024, with 600 vacant more than 2 years, as reported in [a recent Southwark News article](https://southwarknews.co.uk/news/news-plus/southwark-council-clamps-down-on-aylesbury-estate-squatting-in-response-to-residents-fears/).
 
-![](img/img-20250811-wa0003-002-_phase_2b.jpg)
+![phase 2b image](https://35percent.org/img/img-20250811-wa0003-002-_phase_2b.jpg)
 
 #### Notting Hill Genesis fail to deliver
 
@@ -23,7 +22,7 @@ All-importantly, NHG has delivered very little affordable housing, particularly 
 
 The table below gives a full account of the social rent delivery of the regeneration so far, according to planning documents.  It should be noted that while these show Southwark Council providing 301 social rented homes, it has pledged that all 581 units of FDS A and B will be council homes.
 
-![](img/table_providers_of_social_rented_draft_blog_211124.png)
+![table of providers](https://35percent.org/img/table_providers_of_social_rented_draft_blog_211124.png)
 
 #### While council tries to help homeless.....
 
@@ -33,7 +32,7 @@ The Strategy very sensibly puts building more affordable homes as the top means 
 
 In any event, the fall in council housing stock is well illustrated by a graph from the Strategy, which shows a fall of 527 dwellings from 2018 to 2021.  This continues the longer term [decline from over 55,000 council homes](https://www.35percent.org/new-council-homes/) since 1994.
 
-![](img/fall_southwark_council_housing_2018_2021_homelessness_strategy_2025_2030.png "Fall in Southwark Council Housing stock 2018-2021")
+![SC homelessness strategy](https://35percent.org/img/fall_southwark_council_housing_2018_2021_homelessness_strategy_2025_2030.png "Fall in Southwark Council Housing stock 2018-2021")
 
 The Strategy also notes that it has £11m from the Local Authority Housing Fund to buy-back former council homes and to invest in empty homes on the Aylesbury, while other homelessness initiative funding for 2025/26 totals £14.6m.
 
@@ -55,9 +54,11 @@ Meantime the very large number of current Aylesbury residents, estimated to be 1
 
 In short, in terms of social rented housing, cost to the borough and living conditions on the Aylesbury, NHG's *'proud'* partnership with Southwark Council is doing more harm than good; the Council must take steps to end it, as part of a serious reconsideration of the whole Aylesbury regeneration.
 
+__Footnotes:__
+
 [^1] [](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf)555 new build lets in 2024/2025 [Southwark Council's Homelessness and Rough Sleeping Strategy 2025-2030](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf) pg 9
 
-[^2] Southwark Council  Estate was awarded New Deal for Communities (NDC) status, with the expectation of government funding for a comprehensive demolition/redevelopment programme, in 1999.
+[^2] The Aylesbury estate was awarded New Deal for Communities (NDC) status, with the expectation of government funding for a comprehensive demolition/redevelopment programme, in 1999.
 
 [^3] Although marked as 'DRAFT' the link is to the report as approved by Southwark Council's Cabinet on [17 June 2025](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=8214&Ver=4)
 

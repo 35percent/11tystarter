@@ -53,7 +53,7 @@ And while Sir Kier Starmer pledged to ['Build, baby, build'](https://www.bbc.co.
 
 Meantime the very large number of current Aylesbury residents, estimated to be 1,300 in the [Southwark News report](https://southwarknews.co.uk/news/news-plus/southwark-council-clamps-down-on-aylesbury-estate-squatting-in-response-to-residents-fears/), including new residents and those in temporary accommodation, are left in limbo on a *'near-derelict estate'.*
 
-In short, in terms of social rented housing, cost to the borough and living conditions on the Aylesbury, NHG's *'proud'* partnership with Southwark Council is doing more harm than good; the Council should start taking steps to end it, as part of a serious reconsideration of the whole Aylesbury regeneration.
+In short, in terms of social rented housing, cost to the borough and living conditions on the Aylesbury, NHG's *'proud'* partnership with Southwark Council is doing more harm than good; the Council must take steps to end it, as part of a serious reconsideration of the whole Aylesbury regeneration.
 
 [^1] [](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf)555 new build lets in 2024/2025 [Southwark Council's Homelessness and Rough Sleeping Strategy 2025-2030](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf) pg 9
 

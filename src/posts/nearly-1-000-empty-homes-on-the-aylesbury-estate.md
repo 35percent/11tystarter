@@ -39,7 +39,7 @@ The Strategy also notes that it has £11m from the Local Authority Housing Fund 
 
 #### ......developers dump affordable housing
 
-But while Southwark and other councils do their limited best to help the homeless, developers seem determined to make matters worse.  Led by the House Builders Federation, developers are now mounting a strong lobbying campaign to reduce the amount of affordable housing required from them under the Mayor's [London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan). 
+But while Southwark and other councils do their limited best to help the homeless, developers seem determined to make matters worse.  Led by the House Builders Federation, developers mounted a strong lobbying campaign to reduce the amount of affordable housing required from them under the Mayor's [London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan). 
 
 According to the [BBC News](https://www.bbc.co.uk/news/articles/c62z6gpg8e6o) the HBF has called for the 35% affordable housing requirement to be reduced to 25%, in a [report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) on housing development in London.  The Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) add that developers are demanding an even bigger cut, to between 10-15%.  In Southwark both British Land and Berkeley Homes, the developers of [Canada Water](https://www.salamandernews.org/canada-water-developer-requests-reduction-in-affordable-housing/) and the [Aylesham Centre](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/) respectively are already seeking to reduce affordable housing to these levels. 
 
@@ -52,8 +52,6 @@ And while Sir Kier Starmer pledged to ['Build, baby, build'](https://www.bbc.co.
 Meantime the very large number of current Aylesbury residents, estimated to be 1,300 in the [Southwark News report](https://southwarknews.co.uk/news/news-plus/southwark-council-clamps-down-on-aylesbury-estate-squatting-in-response-to-residents-fears/), including new residents and those in temporary accommodation, are left in limbo on a *'near-derelict estate'.*
 
 In short, in terms of social rented housing, cost to the borough and living conditions on the Aylesbury, NHG's *'proud'* partnership with Southwark Council is doing more harm than good; the Council should start taking steps to end it, as part of a serious reconsideration of the whole Aylesbury regeneration.
-
-
 
 [^1] [Southwark Council's Homelessness and Rough Sleeping Strategy 2025-2030](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf) pg 9
 

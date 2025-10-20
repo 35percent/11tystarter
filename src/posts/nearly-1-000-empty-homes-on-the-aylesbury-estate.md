@@ -1,7 +1,7 @@
 ---
 title: Nearly 1,000 empty homes on the Aylesbury estate
 description: Over a third of estate's original number of homes now empty
-date: 2025-09-08T08:50:33.605Z
+date: 2025-10-20T15:05:45.053Z
 ---
 ![](img/aylesbury_view_das_may_2022_pg_43.png)
 

@@ -5,7 +5,7 @@ date: 2025-09-08T08:50:33.605Z
 ---
 ![](img/aylesbury_view_das_may_2022_pg_43.png)
 
-A Southwark Council document seen by the 35% Campaign numbers the **total of empty homes on the Aylesbury estate at 974.**  Forty-eight homes are also listed as being squatted, but it is not clear whether these are in addition to the void homes.  In either case, the figures mean that over a third of the estate's original number of 2,700 homes, when it was built back in the 1970's are empty.  It is also nearly double the total number of new-build social rent homes let in the borough in 2024/25. [^1]
+A Southwark Council document seen by the 35% Campaign numbers the **total of empty homes on the Aylesbury estate at 974.**  Forty-eight homes are also listed as being squatted, but it is not clear whether these are in addition to the void homes.  In either case, the figures mean that over a third of the estate's original number of 2,700 homes, when it was built back in the 1970's are empty.  It also approaches twice the total number of new-build social rent homes let in the borough in 2024/25. [^1]
 
 The document is dated the 14 July 2025 and lists the number of voids for each phase of the estate's regeneration, which is now entering its twenty-seventh year [^2].  Phase 2C has 254 voids; Phase 3, 207 voids and Phase 4, 141 voids.
 
@@ -31,7 +31,7 @@ The large number of empty council homes on the Aylesbury should be seen in the c
 
 The Strategy very sensibly puts building more affordable homes as the top means of reducing homelessness, but its claim that Southwark has [built 3000 council homes](https://www.southwark.gov.uk/housing/new-council-homes-0#:~:text=Why%20we're%20building%20Why,households%20living%20in%20temporary%20accommodation) takes no account of the large number that have been demolished or decanted in the name of regeneration, including the Aylesbury's 977 units - see [our blogpost on new council homes](https://www.35percent.org/posts/southwark-council-ends-council-house-building/) for further details.
 
-In any event, the fall in council housing stock is well illustrated by a graph showing a fall of 527 dwellings from 2018 to 2021.  This continues the longer term [decline from over 55,000 council homes](https://www.35percent.org/new-council-homes/) since 1994.
+In any event, the fall in council housing stock is well illustrated by a graph from the Strategy, which shows a fall of 527 dwellings from 2018 to 2021.  This continues the longer term [decline from over 55,000 council homes](https://www.35percent.org/new-council-homes/) since 1994.
 
 ![](img/fall_southwark_council_housing_2018_2021_homelessness_strategy_2025_2030.png "Fall in Southwark Council Housing stock 2018-2021")
 
@@ -43,7 +43,7 @@ But while Southwark and other councils do their limited best to help the homeles
 
 According to the [BBC News](https://www.bbc.co.uk/news/articles/c62z6gpg8e6o) the HBF has called for the 35% affordable housing requirement to be reduced to 25%, in a [report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) on housing development in London.  The Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) add that developers are demanding an even bigger cut, to between 10-15%.  In Southwark both British Land and Berkeley Homes, the developers of [Canada Water](https://www.salamandernews.org/canada-water-developer-requests-reduction-in-affordable-housing/) and the [Aylesham Centre](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/) respectively are already seeking to reduce affordable housing to these levels.
 
-And the developer's campaign looks like it is succceeding - a [Guardian article](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed) by Aditya Chakraborttyreveals that the Steve Reed, the new government's new housing minister, is poised to reduce affordable housing requirements in London down to 20% and suspend[ CIL, the community  infrastructure levy](https://assets.publishing.service.gov.uk/media/5f2adbdae90e0732dbca7a6b/The_Value_and_Incidence_of_Developer_Contributions_in_England_201819.pdf), which pays for such things as new GP surgeries, needed to support big new developments.  
+And the developer's campaign looks like it is succceeding - a [Guardian article](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed) by Aditya Chakraborttyreveals that the Steve Reed, the new government's new housing minister, is poised to reduce affordable housing requirements in London down to 20% and suspend[ CIL, the community  infrastructure levy](https://assets.publishing.service.gov.uk/media/5f2adbdae90e0732dbca7a6b/The_Value_and_Incidence_of_Developer_Contributions_in_England_201819.pdf), which pays for the social infrastructure needed to support big new developments, such as new GP surgeries,   
 
 #### What we think -  NHG 'Delay, baby, delay'
 

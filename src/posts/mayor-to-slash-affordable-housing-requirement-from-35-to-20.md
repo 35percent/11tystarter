@@ -29,7 +29,21 @@ In Southwark both British Land and Berkeley Homes, the developers of Canada Wate
 
 What we think
 
-One thing is clear - the decision-makers on what gets built in London are the big property developers; the Mayor and Secretory of State just follow their lead.
+These decision make clear -  that there is a trade-off between affordable housing and profit, if ever that was in doubt; and developers will not allow affordable housing to reduce profit.
+
+As far back as 2017, well before the current 'cost-crisis' in house building developers were claiming affordable housing targets were 'unviable' - now they see their opportunity to remove something that they have always railed against. And, despite the fact that they are democratically elected, and despite the fact that the same party is in power locally, regionally and nationally Mr Reed and Mr Khan are too feeble to face down  
+
+q. Berkeely Homes = we cannot build homes unless there is a profit, Firefox.  Pod cast British Land - more recently said much to the same effect 
+
+<https://montfort.london/british-land-ceo-heralds-asset-management-engine-driving-value-through-conviction-bets-on-campuses/>
+
+British Land profit six months ended 30 September, British Land said underlying profits had risen from £143m to £155m
+
+<https://www.voxmarkets.co.uk/articles/british-land-posts-155m-h1-profit-as-occupational-fundamentals-remain-robust--e79fb20/>
+
+<https://www.theguardian.com/business/2018/sep/03/berkeley-calls-affordable-housing-targets-unviable-as-chairman-earns-174m>
+
+One thing is clear - the decision-makers on what gets built in London are the big property developers; the Mayor and Secretory of State just limply follow their lead.
 
 When SK came to power in 2017 he pledged his viability task force would 'My new viability officers are scrutinising viability assessments to ensure that these are consistent with my guidance and that affordable housing delivery is increased. They are supporting boroughs to take a robust approach to viability testing and are undertaking work to inform the new London Plan which will provide a new policy framework for London.'
 

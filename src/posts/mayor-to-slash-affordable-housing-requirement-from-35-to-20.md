@@ -11,6 +11,8 @@ Developers' obligation to pay the Community Infrastructure Levy (CIL) has also b
 
 [Build to rent](https://www.gov.uk/guidance/build-to-rent) schemes will  be eligible for the same terms if they provide 30% of their homes at intermediate rent at [London Living Rent](https://www.london.gov.uk/programmes-strategies/housing-and-land/buying-and-owning-home/london-living-rent), with the remainder at *'a range of genuinely affordable rents'*.
 
+Existing schemes, which already have planning permission will be able to apply for this grant too,
+
 The proposals are outlined in a [joint paper from the Government and the Mayor](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf).  Other proposals include design changes that  *'constrain density'* - reducing dual aspect dwellings, increasing the number of dwellings in each building core and reducing cycle storage. 
 
 The Mayor will also be given greater powers to take decisions out of borough hands, if it looks as it might refuse an application of more than 50 units.  He will also be able to take the decision on developments of over 1,000sqm on Green Belt and Metropolitan Open land.  He will alos be able to grant planning permissions for 'strategic schemes'.
@@ -23,8 +25,4 @@ Aditya Chakrabortty in the Guardian [revealed how the proposals were all fashion
 
 *'Berkeley has delivered £528.9 million of pre-tax profit for the year, with net cash at £337.3 million, in spite of ongoing geopolitical and macroeconomic volatility.  With over 75% of sales secured for the coming year, we are well-placed to achieve our FY26 pre-tax profit guidance of £450 million'.* 
 
-
-
 In Southwark both British Land and Berkeley Homes, the developers of Canada Water and the Aylesham Centre respectively are already seeking to reduce affordable housing to these levels.
-
-And the developer's campaign looks like it is succeeding - a Guardian article by Aditya Chakraborttyreveals that the Steve Reed, the new government's new housing minister, is poised to reduce affordable housing requirements in London down to 20% and suspend CIL, the community infrastructure levy, which pays for the social infrastructure needed to support big new developments, such as new GP surgeries.

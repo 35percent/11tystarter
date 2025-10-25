@@ -19,6 +19,10 @@ Six-week consultations are promised on these proposals.
 
 Aditya Chakrabortty in the Guardian [revealed how the proposals were all fashioned in behind-closed-doors](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed) discussions with developers, sidelining councils and anyone from the wider community.
 
+<https://www.directorstalkinterviews.com/berkeley-group-reports-529m-profit-382m-shareholder-returns-for-fy25/4121203310>
+
+*'Berkeley has delivered £528.9 million of pre-tax profit for the year, with net cash at £337.3 million, in spite of ongoing geopolitical and macroeconomic volatility.  With over 75% of sales secured for the coming year, we are well-placed to achieve our FY26 pre-tax profit guidance of £450 million'.* 
+
 
 
 In Southwark both British Land and Berkeley Homes, the developers of Canada Water and the Aylesham Centre respectively are already seeking to reduce affordable housing to these levels.

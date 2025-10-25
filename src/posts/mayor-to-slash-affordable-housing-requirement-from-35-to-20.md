@@ -26,3 +26,15 @@ Aditya Chakrabortty in the Guardian [revealed how the proposals were all fashion
 *'Berkeley has delivered £528.9 million of pre-tax profit for the year, with net cash at £337.3 million, in spite of ongoing geopolitical and macroeconomic volatility.  With over 75% of sales secured for the coming year, we are well-placed to achieve our FY26 pre-tax profit guidance of £450 million'.* 
 
 In Southwark both British Land and Berkeley Homes, the developers of Canada Water and the Aylesham Centre respectively are already seeking to reduce affordable housing to these levels.
+
+What we think
+
+One thing is clear - the decision-makers on what gets built in London are the big property developers; the Mayor and Secretory of State just follow their lead.
+
+When SK came to power in 2017 he pledged his viability task force would 'My new viability officers are scrutinising viability assessments to ensure that these are consistent with my guidance and that affordable housing delivery is increased. They are supporting boroughs to take a robust approach to viability testing and are undertaking work to inform the new London Plan which will provide a new policy framework for London.'
+
+Now 
+
+
+
+<https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/viabilityaffordable-housing-2#:~:text=Answer&text=My%20new%20viability%20officers%20are,new%20policy%20framework%20for%20London.>

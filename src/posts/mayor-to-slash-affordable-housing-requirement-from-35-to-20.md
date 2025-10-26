@@ -76,3 +76,15 @@ What has actually happened?
 3 Will developers stick to it?  Examples indicate otherwise - CW and Aylesham.  Two carrots - CIL reduction and grant - increased? always had this?
 
 4 £322m fund not for affordable housing, but for developers to build affordable housing - why not cut out the middle man (woman)?  Basically subsidising affordablh houisng to build as much or as little affordable housing as they choose
+
+What we think - Less is not more
+
+1 the champions of this hope that it will lead to increase of affordable housing
+
+2 might in short term, but ultimately getting less tha we would have done if 35% enforced
+
+3 also who is telling us this, that we cannot have any housing, including affordable housing? Developers... and this has not stopped them building other types of residential developments - student housing and co-living.  They have also always been opposed to a/h.
+
+4 remains to be seen how this plays out; all carrots, very little stick, feeble threat of a review, and gettin share of profit.  No cast iron commitment from developers -'you give us everything we want, then we will see what we can do...'
+
+Why are we in this position? We have a Labour government, elected on a landslide, Labout MPs all across London, Labour councils all across London, a Labour Mayor?  Why do we just have to do developers bidding to get something as basic as homes we can afford to live in?

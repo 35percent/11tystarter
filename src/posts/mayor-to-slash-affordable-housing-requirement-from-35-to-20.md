@@ -49,6 +49,14 @@ When SK came to power in 2017 he pledged his viability task force would 'My new 
 
 Now 
 
-
-
 <https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/viabilityaffordable-housing-2#:~:text=Answer&text=My%20new%20viability%20officers%20are,new%20policy%20framework%20for%20London.>
+
+Notes
+
+What we think - Less is not more
+
+1 Beyound doub5 - less CIL and less a/h, more profit - that's the arithematic - proposals would not work otherwise
+
+2 Proponents say than leaving things as they are - we will get somthing better than nothing, what we are getting at the moment - 'volume' is what counts
+
+3 Remains to be seen - no commitment from developer, always been against a/h;

@@ -55,8 +55,14 @@ Notes
 
 What we think - Less is not more
 
-1 Beyound doub5 - less CIL and less a/h, more profit - that's the arithematic - proposals would not work otherwise
+1 Beyound doubt - less CIL and less a/h, more profit - that's the arithematic - proposals would not work otherwise
 
-2 Proponents say than leaving things as they are - we will get somthing better than nothing, what we are getting at the moment - 'volume' is what counts
+2 Proponents say better than leaving things as they are - we will get something better than nothing, what we are getting at the moment - 'volume' is what counts
 
-3 Remains to be seen - no commitment from developer, always been against a/h;
+3 Remains to be seen, there could be a short term boost to housing numbers - no commitment from developer, always been against a/h; will take full advantage; can expect approved developments to queue up to revise a/h (s73 changes to prevent this?); lobby hard to  make permanent and get in LPlan.  All carrot, no sticks.
+
+4 However it plays out three things are beyond doubt 1/ developers are calling the shots; developers lead, politicians meekly follow; 2/ developers are deciding what gets built in London, and who can live here 2/ we will have less affordable houisng at the end of all this, than we would have had if 35% was kept and enforced.
+
+35% affordable housing  is supported by viability assessments, Southwark, London Plan - why are 'ours' ignored and developers accepted?
+
+Viability assessments always allowed developers to deliver less than 35% affordable housing - took full advantage of it eg Heygate (do a case study); Shelter report highlights

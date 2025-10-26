@@ -66,3 +66,13 @@ What we think - Less is not more
 35% affordable housing  is supported by viability assessments, Southwark, London Plan - why are 'ours' ignored and developers accepted?
 
 Viability assessments always allowed developers to deliver less than 35% affordable housing - took full advantage of it eg Heygate (do a case study); Shelter report highlights
+
+What has actually happened?
+
+1 35% never a 'quota'; always open to developers to reduce, and nearly always have done.
+
+2 Lowers the assumption/benchmark of what was expected - Southwark at least set this benchmark, Sadiq followed
+
+3 Will developers stick to it?  Examples indicate otherwise - CW and Aylesham.  Two carrots - CIL reduction and grant - increased? always had this?
+
+4 £322m fund not for affordable housing, but for developers to build affordable housing - why not cut out the middle man (woman)?  Basically subsidising affordablh houisng to build as much or as little affordable housing as they choose

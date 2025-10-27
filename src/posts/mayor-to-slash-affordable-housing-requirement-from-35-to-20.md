@@ -109,11 +109,17 @@ just a slew of new permissions with less onerous obligations, from the developer
 
 [](https://www.bbc.com/news/articles/cdrzgxj37d5o.amp)300,000 outstanding plannning permissions in London - Cllr Grace Williams, London Councils' member for housing and regeneration - <https://www.bbc.com/news/articles/cdrzgxj37d5o.amp>
 
-### Who benefits?
+### What schemes are covered by proposals?
+
+One question it is also not easy to answer from reading the[ joint paper](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf) is how many already consented schemes will be able to reduce their affordable housing.  See paras 32 -34
+
+
+
+The paper says that schemes that already have affordable houisng grants are 'not expected to renogotiate....' and it proposes changes to section 73 applications, often used to do this, that sound as if th (para 26) 
 
 It is not clear from the [joint paper](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf) just exactly how many schemes will take advantage of the reduction in the CIL and affordable housing reduction - whether only new schemes or also those that already have planning permission and are 'stalled' or just not built yet.  Schemes that already have grants are 'not expected to renogotiate....' (para 26)  
 
-Less is not more
+### Less is not more
 
 On the other side of the coin, local communities across London will have to bear the loss of affordable housing and in particular social rented housing, and the community facilities that CIL funds.  Mr Reed and Mr Khan are silent on whether we will just have to do with less green space and new health 
 

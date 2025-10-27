@@ -11,7 +11,7 @@ Developers' obligation to pay the Community Infrastructure Levy (CIL) has also b
 
 [Build to rent](https://www.gov.uk/guidance/build-to-rent) schemes will  be eligible for the same terms if they provide 30% of their homes at intermediate rent at [London Living Rent](https://www.london.gov.uk/programmes-strategies/housing-and-land/buying-and-owning-home/london-living-rent), with the remainder at *'a range of genuinely affordable rents'*.
 
-Existing schemes, which already have planning permission will be able to apply for this grant too,
+Existing schemes, which already have planning permission will be able to apply for this grant too?
 
 The proposals are outlined in a [joint paper from the Government and the Mayor](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf).  Other proposals include design changes that  *'constrain density'* - reducing dual aspect dwellings, increasing the number of dwellings in each building core and reducing cycle storage. 
 
@@ -88,3 +88,5 @@ What we think - Less is not more
 4 remains to be seen how this plays out; all carrots, very little stick, feeble threat of a review, and gettin share of profit.  No cast iron commitment from developers -'you give us everything we want, then we will see what we can do...'
 
 Why are we in this position? We have a Labour government, elected on a landslide, Labout MPs all across London, Labour councils all across London, a Labour Mayor?  Why do we just have to do developers bidding to get something as basic as homes we can afford to live in?
+
+[](https://www.bbc.com/news/articles/cdrzgxj37d5o.amp)300,000 outstanding plannning permissions in London - Cllr Grace Williams, London Councils' member for housing and regeneration - <https://www.bbc.com/news/articles/cdrzgxj37d5o.amp>

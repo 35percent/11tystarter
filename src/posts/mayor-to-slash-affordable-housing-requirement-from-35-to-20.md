@@ -91,7 +91,9 @@ Why are we in this position? We have a Labour government, elected on a landslide
 
 What has happened? 
 
-Developers have made and been granted planning permissions that they have decided, for one reason or another, not to build.  30,000 are outstanding according to London Councils All of these permissions should be viable - it is an assumption of the grant in the first place.  If developers 
+Developers have made and been granted planning permissions that they have decided, for one reason or another, not to build.  300,000 are outstanding according a to London Councils spokesperson.  All of these permissions should be viable - it is an assumption of the grant in the first place.  If developers think that schemes have become unviable, they can apply to get their planning permission changed.  The rules and guidance for this are laid out in the National Planning Policy Framework and the London Plan.
+
+Developers have successfully persuaded the government and the Mayor that 
 
 
 

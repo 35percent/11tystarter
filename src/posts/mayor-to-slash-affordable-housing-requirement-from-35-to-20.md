@@ -109,9 +109,9 @@ just a slew of new permissions with less onerous obligations, from the developer
 
 [](https://www.bbc.com/news/articles/cdrzgxj37d5o.amp)300,000 outstanding plannning permissions in London - Cllr Grace Williams, London Councils' member for housing and regeneration - <https://www.bbc.com/news/articles/cdrzgxj37d5o.amp>
 
-Who benefits?
+### Who benefits?
 
-It is not clear from the [joint paper](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf) just exactly how many schemes can take advantage of the reduction in the CIL and affordable housing reduction - whether only new schemes or also those that already have planning permission and are 'stalled' or just not built yet.   
+It is not clear from the [joint paper](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf) just exactly how many schemes will take advantage of the reduction in the CIL and affordable housing reduction - whether only new schemes or also those that already have planning permission and are 'stalled' or just not built yet.  Schemes that already have grants are 'not expected to renogotiate....' (para 26)  
 
 Less is not more
 

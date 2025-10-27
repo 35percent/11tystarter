@@ -107,7 +107,11 @@ It is also not exactly clear to which schemes or developments the proposals will
 
 just a slew of new permissions with less onerous obligations, from the developers point of view - won't accelerate completions unless currently permitted developments allowed to take advantage of new regime.
 
-[](https://www.bbc.com/news/articles/cdrzgxj37d5o.amp)300,000 outstanding plannning permissions in London - Cllr Grace Williams, London Councils' member for housing and regeneration - <https://www.bbc.com/news/articles/cdrzgxj37d5o.amp> 
+[](https://www.bbc.com/news/articles/cdrzgxj37d5o.amp)300,000 outstanding plannning permissions in London - Cllr Grace Williams, London Councils' member for housing and regeneration - <https://www.bbc.com/news/articles/cdrzgxj37d5o.amp>
+
+Who benefits?
+
+It is not clear from the [joint paper](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf) just exactly how many schemes can take advantage of the reduction in the CIL and affordable housing reduction - whether only new schemes or also those that already have planning permission and are 'stalled' or just not built yet.   
 
 Less is not more
 

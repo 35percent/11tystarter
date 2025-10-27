@@ -7,6 +7,8 @@ As has been [widely reported](https://www.theguardian.com/society/2025/oct/23/mi
 
 Up until now, developers who provided 35% affordable housing could take a no-questions-asked 'fast-track' route for planning permission, which allowed them to avoid providing a viability assessment - this threshold is now being dropped to 20%.  [Our previous blogpost](https://www.35percent.org/posts/nearly-1-000-empty-homes-on-the-aylesbury-estate/) noted that this follows a lobbying campign by developers, with a main aim of achieving this reduction.  A [House Builders Federation report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) recommended that the requirement be reduced to 25%, the Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) said that developers were demanding an even bigger cut, to between 10-15%. 
 
+### 50% CIL cut
+
 Developers' obligation to pay the Community Infrastructure Levy (CIL) has also been cut in half, if developers commit to just 20% affordable housing, 60% of which should be social rent.  The CIL cut can be increased, if the affordable housing is increased.  [CIL pays for](https://assets.publishing.service.gov.uk/media/5a7969dc40f0b63d72fc59ba/1897278.pdf) *'a very broad range of facilities such as play areas, parks and green spaces, cultural and sports facilities.....and other community safety facilities'.*  Developers will also be able to claim £220,000 per unit for social rent, £70,000 for shared ownership and either £90,000 or £140,000 for intermediate rent units for about half of their affordable units, drawn from £322m of governement grant funding.
 
 [Build to rent](https://www.gov.uk/guidance/build-to-rent) schemes will  be eligible for the same terms if they provide 30% of their homes at intermediate rent at [London Living Rent](https://www.london.gov.uk/programmes-strategies/housing-and-land/buying-and-owning-home/london-living-rent), with the remainder at *'a range of genuinely affordable rents'*.
@@ -14,6 +16,8 @@ Developers' obligation to pay the Community Infrastructure Levy (CIL) has also b
 Existing schemes, which already have planning permission will be able to apply for this grant too?
 
 The proposals are outlined in a [joint paper from the Government and the Mayor](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf).  Other proposals include design changes that  *'constrain density'* - reducing dual aspect dwellings, increasing the number of dwellings in each building core and reducing cycle storage. 
+
+### Mayor gets more powers
 
 The Mayor will also be given greater powers to take decisions out of borough hands, if it looks as it might refuse an application of more than 50 units.  He will also be able to take the decision on developments of over 1,000sqm on Green Belt and Metropolitan Open land.  He will alos be able to grant planning permissions for 'strategic schemes'.
 
@@ -27,7 +31,7 @@ Aditya Chakrabortty in the Guardian [revealed how the proposals were all fashion
 
 In Southwark both British Land and Berkeley Homes, the developers of Canada Water and the Aylesham Centre respectively are already seeking to reduce affordable housing to these levels.
 
-What we think
+### What we think
 
 These decision make clear -  that there is a trade-off between affordable housing and profit, if ever that was in doubt; and developers will not allow affordable housing to reduce profit.
 
@@ -36,6 +40,10 @@ As far back as 2017, well before the current 'cost-crisis' in house building dev
 q. Berkeely Homes = we cannot build homes unless there is a profit, Firefox.  Pod cast British Land - more recently said much to the same effect 
 
 <https://montfort.london/british-land-ceo-heralds-asset-management-engine-driving-value-through-conviction-bets-on-campuses/>
+
+### The mystery of developers profits
+
+While developers claim to be so badly burdened by unviable deelopments that they cannot possibly be built they nonetheless still manage to make handsome profits.
 
 British Land profit six months ended 30 September, British Land said underlying profits had risen from £143m to £155m
 
@@ -67,7 +75,7 @@ What we think - Less is not more
 
 Viability assessments always allowed developers to deliver less than 35% affordable housing - took full advantage of it eg Heygate (do a case study); Shelter report highlights
 
-What has actually happened?
+### What has happened?
 
 1 35% never a 'quota'; always open to developers to reduce, and nearly always have done.
 
@@ -128,3 +136,5 @@ While we may very well get a 'sugar-rush' of applications to take advantage of t
 <https://trustforlondon.org.uk/data/new-housing-completions/#:~:text=What%20does%20it%20tell%20us,made%20for%20social%20rented%20properties.>
 
 <https://ihowz.uk/londons-housing-solution-student-accommodation-boom/#:~:text=According%20to%20new%20research%20from,option%20for%20investors%20and%20providers.>
+
+### Open Letter

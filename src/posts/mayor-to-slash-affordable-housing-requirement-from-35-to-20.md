@@ -89,12 +89,10 @@ What we think - Less is not more
 
 Why are we in this position? We have a Labour government, elected on a landslide, Labout MPs all across London, Labour councils all across London, a Labour Mayor?  Why do we just have to do developers bidding to get something as basic as homes we can afford to live in?
 
-What has happened? 
+### What has happened? 
 
-Developers have made and been granted planning permissions that they have decided, for one reason or another, not to build.  300,000 are outstanding according a to London Councils spokesperson.  All of these permissions should be viable - it is an assumption of the grant in the first place.  If developers think that schemes have become unviable, they can apply to get their planning permission changed.  The rules and guidance for this are laid out in the National Planning Policy Framework and the London Plan.
+Developers have been granted planning permissions for schemes that they have decided, [for one reason or another](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf), not to build.  300,000 are outstanding according a to London Councils spokesperson.  All of these permissions should be viable - it is an assumption of the grant in the first place.  If developers think that schemes have become unviable, they can apply to get their planning permission changed.  The rules and guidance for this are laid out in the National Planning Policy Framework and the London Plan.
 
-Developers have successfully persuaded the government and the Mayor that 
-
-
+In it's proposal to reduce affordable housing and CIL the Mr Reed and Mr Khan cite high interest rates, spriralling construction costs and wider economic conditions as the reasons for the sharp drop of housebuilding in London.  They focuse, though, solely on *'regulatory blockers'* as the key factor;  plus affordable houisng funding and their 
 
 [](https://www.bbc.com/news/articles/cdrzgxj37d5o.amp)300,000 outstanding plannning permissions in London - Cllr Grace Williams, London Councils' member for housing and regeneration - <https://www.bbc.com/news/articles/cdrzgxj37d5o.amp>

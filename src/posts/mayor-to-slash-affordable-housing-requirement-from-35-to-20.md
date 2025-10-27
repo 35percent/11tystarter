@@ -93,7 +93,7 @@ Why are we in this position? We have a Labour government, elected on a landslide
 
 Developers have been granted planning permissions for schemes that they have decided, [for one reason or another](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf), not to build.  300,000 are outstanding according a to London Councils spokesperson.  All of these permissions should be viable - it is an assumption of the grant in the first place.  If developers think that schemes have become unviable, they can apply to get their planning permission changed.  The rules and guidance for this are laid out in the National Planning Policy Framework and the London Plan.
 
-In their proposals to reduce affordable housing and CIL, Mr Reed and Mr Khan cite high interest rates, spriralling construction costs and wider economic conditions as the reasons for the sharp drop of housebuilding in London.  They focus solely, though, on *'regulatory blockers',* which take theshape of CIL and affordable housing requirements, design *'constraints'* on density, as the key factor;  their solution is to remove these plus affordable houisng funding and their 
+In their proposals to reduce affordable housing and CIL, Mr Reed and Mr Khan cite high interest rates, spriralling construction costs and wider economic conditions as the reasons for the sharp drop of housebuilding in London.  They focus solely, though, on *'regulatory blockers',* which take theshape of CIL and affordable housing requirements, design *'constraints'* on density -  their solution is to reduce or remove these and add some affordable houisng funding and their 
 
 They ignore all the other factors
 
@@ -102,6 +102,10 @@ To meet the present crisis the government have given developer's concesssions, w
 It must also be remembered that an unviable development is not always an unprofitable development, but are simply not .  Its impossible to say how many of the outstanding 300,000 permissions are genuinely loss-making, 
 
 Two exceptions that might be welcomed are that the CIL relief and the new, time limited planning route, with the 20% affordable housing requirement, does not apply to student and co-living housing; student housing in particular has [enjoyed a boom](<https://ihowz.uk/londons-housing-solution-student-accommodation-boom/#:~:text=According%20to%20new%20research%20from,option%20for%20investors%20and%20providers.>), developers viewing them as a [more 'viable' option](https://www.savills.co.uk/blog/article/373783/residential-property/what-operational-real-estate-means-for-london-wide-planning-applications.aspx) than building permanent homes. 
+
+It is also not exactly clear to which schemes or developments the proposals will apply to 
+
+just a slew of new permissions with less onerous obligations, from the developers point of view - won't accelerate completions unless currently permitted developments allowed to take advantage of new regime.
 
 [](https://www.bbc.com/news/articles/cdrzgxj37d5o.amp)300,000 outstanding plannning permissions in London - Cllr Grace Williams, London Councils' member for housing and regeneration - <https://www.bbc.com/news/articles/cdrzgxj37d5o.amp> 
 

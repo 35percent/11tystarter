@@ -89,4 +89,10 @@ What we think - Less is not more
 
 Why are we in this position? We have a Labour government, elected on a landslide, Labout MPs all across London, Labour councils all across London, a Labour Mayor?  Why do we just have to do developers bidding to get something as basic as homes we can afford to live in?
 
+What has happened? 
+
+Developers have made and been granted planning permissions that they have decided, for one reason or another, not to build.  30,000 are outstanding according to London Councils All of these permissions should be viable - it is an assumption of the grant in the first place.  If developers 
+
+
+
 [](https://www.bbc.com/news/articles/cdrzgxj37d5o.amp)300,000 outstanding plannning permissions in London - Cllr Grace Williams, London Councils' member for housing and regeneration - <https://www.bbc.com/news/articles/cdrzgxj37d5o.amp>

@@ -93,16 +93,22 @@ Why are we in this position? We have a Labour government, elected on a landslide
 
 Developers have been granted planning permissions for schemes that they have decided, [for one reason or another](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf), not to build.  300,000 are outstanding according a to London Councils spokesperson.  All of these permissions should be viable - it is an assumption of the grant in the first place.  If developers think that schemes have become unviable, they can apply to get their planning permission changed.  The rules and guidance for this are laid out in the National Planning Policy Framework and the London Plan.
 
-In their proposals to reduce affordable housing and CIL the Mr Reed and Mr Khan cite high interest rates, spriralling construction costs and wider economic conditions as the reasons for the sharp drop of housebuilding in London.  They focuse, though, solely on *'regulatory blockers',* in the shape of CIL and affordable housing requirements, design *'constraints'* on density, as the key factor;  their solution is to remove these plus affordable houisng funding and their 
+In their proposals to reduce affordable housing and CIL, Mr Reed and Mr Khan cite high interest rates, spriralling construction costs and wider economic conditions as the reasons for the sharp drop of housebuilding in London.  They focus solely, though, on *'regulatory blockers',* which take theshape of CIL and affordable housing requirements, design *'constraints'* on density, as the key factor;  their solution is to remove these plus affordable houisng funding and their 
 
 They ignore all the other factors
 
-To meet the present crisis the government have given developer's concesssions, while doing nothing about the other factors behind the collapse in housebuilding.  These are concessions that would have been welcomed at any time over the last twenty years and they are unlikely to want to give them up, when the supposed time limit of these measures lapses in two years.  In addition it is offering to relieving developers oc much of the cost of providing affordble housing.  advancing funds for affordable housing to All this to improve viabililty, while ignoring the other factors.
+To meet the present crisis the government have given developer's concesssions, while doing nothing about the other factors behind the collapse in housebuilding.  These are concessions that developers would have welcomed at any time over the last two decades and they are unlikely to want to give them up when the supposed time limit of these measures lapses in two years.  In addition the government is offering to relieving developers of much of the cost of providing affordble housing.  advancing funds for affordable housing to All this to improve viabililty, while ignoring the other factors.
 
-It must also be remembered that an unviable development is not always an unprofitable development, but are simply not .  Its impossible to say how many of the outstanding 300,000 permissions are 
+It must also be remembered that an unviable development is not always an unprofitable development, but are simply not .  Its impossible to say how many of the outstanding 300,000 permissions are genuinely loss-making, 
+
+Me Reed and Mr Khan also ignore the fact that while developers are refused to build new homes, they have been perfectly happy to build other types of residential accommodation, such as [student housing](https://ihowz.uk/londons-housing-solution-student-accommodation-boom/#:~:text=According%20to%20new%20research%20from,option%20for%20investors%20and%20providers.) and co-living units.  Deelopers deem these as [more 'viable' options](https://www.savills.co.uk/blog/article/373783/residential-property/what-operational-real-estate-means-for-london-wide-planning-applications.aspx) and have no complaints about *'regulatory blockage'*.  There are no measures proposed to redress this.
 
 [](https://www.bbc.com/news/articles/cdrzgxj37d5o.amp)300,000 outstanding plannning permissions in London - Cllr Grace Williams, London Councils' member for housing and regeneration - <https://www.bbc.com/news/articles/cdrzgxj37d5o.amp> 
 
 Less is not more
 
-On the other side of the coin, local communities across London will have to bear the loss of affordable housing and in particular social rented housing, and the community facilities that CIL funds.  Mr Reed and Mr Khan are silent on whether we will just have to do with less green space and new health
+On the other side of the coin, local communities across London will have to bear the loss of affordable housing and in particular social rented housing, and the community facilities that CIL funds.  Mr Reed and Mr Khan are silent on whether we will just have to do with less green space and new health 
+
+<https://trustforlondon.org.uk/data/new-housing-completions/#:~:text=What%20does%20it%20tell%20us,made%20for%20social%20rented%20properties.>
+
+<https://ihowz.uk/londons-housing-solution-student-accommodation-boom/#:~:text=According%20to%20new%20research%20from,option%20for%20investors%20and%20providers.>

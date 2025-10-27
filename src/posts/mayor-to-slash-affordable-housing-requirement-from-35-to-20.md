@@ -41,7 +41,7 @@ q. Berkeely Homes = we cannot build homes unless there is a profit, Firefox.  Po
 
 <https://montfort.london/british-land-ceo-heralds-asset-management-engine-driving-value-through-conviction-bets-on-campuses/>
 
-### The mystery of developers profits
+### The mystery of developer's profits
 
 While developers claim to be so badly burdened by unviable deelopments that they cannot possibly be built they nonetheless still manage to make handsome profits.
 

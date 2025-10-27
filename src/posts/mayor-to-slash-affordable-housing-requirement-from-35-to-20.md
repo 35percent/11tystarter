@@ -101,13 +101,15 @@ To meet the present crisis the government have given developer's concesssions, w
 
 It must also be remembered that an unviable development is not always an unprofitable development, but are simply not .  Its impossible to say how many of the outstanding 300,000 permissions are genuinely loss-making, 
 
-Me Reed and Mr Khan also ignore the fact that while developers are refused to build new homes, they have been perfectly happy to build other types of residential accommodation, such as [student housing](https://ihowz.uk/londons-housing-solution-student-accommodation-boom/#:~:text=According%20to%20new%20research%20from,option%20for%20investors%20and%20providers.) and co-living units.  Deelopers deem these as [more 'viable' options](https://www.savills.co.uk/blog/article/373783/residential-property/what-operational-real-estate-means-for-london-wide-planning-applications.aspx) and have no complaints about *'regulatory blockage'*.  There are no measures proposed to redress this.
+Two exceptions that might be welcomed are that the CIL relief and the new, time limited planning route, with the 20% affordable housing requirement, does not apply to student and co-living housing; student housing in particular has [enjoyed a boom](<https://ihowz.uk/londons-housing-solution-student-accommodation-boom/#:~:text=According%20to%20new%20research%20from,option%20for%20investors%20and%20providers.>), developers viewing them as a [more 'viable' option](https://www.savills.co.uk/blog/article/373783/residential-property/what-operational-real-estate-means-for-london-wide-planning-applications.aspx) than building permanent homes. 
 
 [](https://www.bbc.com/news/articles/cdrzgxj37d5o.amp)300,000 outstanding plannning permissions in London - Cllr Grace Williams, London Councils' member for housing and regeneration - <https://www.bbc.com/news/articles/cdrzgxj37d5o.amp> 
 
 Less is not more
 
 On the other side of the coin, local communities across London will have to bear the loss of affordable housing and in particular social rented housing, and the community facilities that CIL funds.  Mr Reed and Mr Khan are silent on whether we will just have to do with less green space and new health 
+
+While we may very well get a 'sugar-rush' of applications to take advantage of the lower CIL and affordable housing requirements, there is already a large back-log of unbuilt permissions.  Unless these too 
 
 <https://trustforlondon.org.uk/data/new-housing-completions/#:~:text=What%20does%20it%20tell%20us,made%20for%20social%20rented%20properties.>
 

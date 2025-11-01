@@ -97,7 +97,7 @@ What we think - Less is not more
 
 Why are we in this position? We have a Labour government, elected on a landslide, Labout MPs all across London, Labour councils all across London, a Labour Mayor?  Why do we just have to do developers bidding to get something as basic as homes we can afford to live in?
 
-### What has happened? 
+### What has happened?
 
 Developers have been granted planning permissions for schemes that they have decided, [for one reason or another](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf), not to build.  300,000 are outstanding according a to London Councils spokesperson.  All of these permissions should be viable - it is an assumption of the grant in the first place.  If developers think that schemes have become unviable, they can apply to get their planning permission changed.  The rules and guidance for this are laid out in the National Planning Policy Framework and the London Plan.
 
@@ -109,7 +109,7 @@ To meet the present crisis the government have given developer's concesssions, w
 
 It must also be remembered that an unviable development is not always an unprofitable development, but are simply not .  Its impossible to say how many of the outstanding 300,000 permissions are genuinely loss-making, 
 
-Two exceptions that might be welcomed are that the CIL relief and the new, time limited planning route, with the 20% affordable housing requirement, does not apply to student and co-living housing; student housing in particular has [enjoyed a boom](<https://ihowz.uk/londons-housing-solution-student-accommodation-boom/#:~:text=According%20to%20new%20research%20from,option%20for%20investors%20and%20providers.>), developers viewing them as a [more 'viable' option](https://www.savills.co.uk/blog/article/373783/residential-property/what-operational-real-estate-means-for-london-wide-planning-applications.aspx) than building permanent homes. 
+Two exceptions that might be welcomed are that the CIL relief and the new, time limited planning route, with the 20% affordable housing requirement, does not apply to student and co-living housing; student housing in particular has [enjoyed a boom](https://ihowz.uk/londons-housing-solution-student-accommodation-boom/#:~:text=According%20to%20new%20research%20from,option%20for%20investors%20and%20providers.), developers viewing them as a [more 'viable' option](https://www.savills.co.uk/blog/article/373783/residential-property/what-operational-real-estate-means-for-london-wide-planning-applications.aspx) than building permanent homes. 
 
 It is also not exactly clear to which schemes or developments the proposals will apply to 
 
@@ -120,8 +120,6 @@ just a slew of new permissions with less onerous obligations, from the developer
 ### What schemes are covered by proposals?
 
 One question it is also not easy to answer from reading the[ joint paper](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf) is how many already consented schemes will be able to reduce their affordable housing.  See paras 32 -34
-
-
 
 The paper says that schemes that already have affordable houisng grants are 'not expected to renogotiate....' and it proposes changes to section 73 applications, often used to do this, that sound as if th (para 26) 
 
@@ -136,5 +134,7 @@ While we may very well get a 'sugar-rush' of applications to take advantage of t
 <https://trustforlondon.org.uk/data/new-housing-completions/#:~:text=What%20does%20it%20tell%20us,made%20for%20social%20rented%20properties.>
 
 <https://ihowz.uk/londons-housing-solution-student-accommodation-boom/#:~:text=According%20to%20new%20research%20from,option%20for%20investors%20and%20providers.>
+
+<https://www.gov.uk/government/news/new-measures-announced-to-ramp-up-housebuilding-in-london>
 
 ### Open Letter

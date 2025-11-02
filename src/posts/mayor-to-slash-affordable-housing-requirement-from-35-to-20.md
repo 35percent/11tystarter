@@ -29,6 +29,8 @@ Aditya Chakrabortty in the Guardian [revealed how the proposals were all fashion
 
 *'Berkeley has delivered £528.9 million of pre-tax profit for the year, with net cash at £337.3 million, in spite of ongoing geopolitical and macroeconomic volatility.  With over 75% of sales secured for the coming year, we are well-placed to achieve our FY26 pre-tax profit guidance of £450 million'.* 
 
+<https://www.voxmarkets.co.uk:3636/articles/berkeley-keeps-fy-profit-targets-after-stable-start-aed5b69>
+
 In Southwark both British Land and Berkeley Homes, the developers of Canada Water and the Aylesham Centre respectively are already seeking to reduce affordable housing to these levels.
 
 ### What we think

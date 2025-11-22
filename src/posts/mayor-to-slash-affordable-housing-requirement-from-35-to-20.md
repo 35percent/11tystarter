@@ -15,7 +15,7 @@ This follows the publication of an open letter from eight local campaign groups 
 
 ![](img/open_letter_031125.png)
 
-The Council leadership prevented any discussion about the cut proposals, by proposing an amendment which replaced the entire motion with one of the own.  This details the Council's record, at the centre of which is the claim that it has built 3,000 new council homes have been built (or are (on-site).  As [we have noted before](https://www.35percent.org/posts/southwark-council-ends-council-house-building/), while creditable, this figure takes no account of those demolished, despite the [2014 promise](https://www.35percent.org/new-council-homes/) from then Council leader Peter John that the council homes *'will be new homes additonal to our existing stock'*.  After demolitions are factored in the the additional number provided is a fraction of 3,000 [^xxxxx].  
+The Council leadership prevented any discussion about the cut proposals, by proposing an amendment which replaced the entire motion with one of the own.  This details the Council's record, at the centre of which is the claim that it has built 3,000 new council homes have been built (or are (on-site).  As [we have noted before](https://www.35percent.org/posts/southwark-council-ends-council-house-building/), while creditable, this figure takes no account of those demolished, despite the [2014 promise](https://www.35percent.org/new-council-homes/) from then Council leader Peter John that the council homes *'will be new homes additonal to our existing stock'*.  After demolitions are factored in the the additional number provided is a fraction of 3,000 [^xxxxx].  Southwark has also [ended direct delivery of its council housing](https://southwarknews.co.uk/area/southwark/council-says-it-must-stop-building-its-own-homes-and-rely-on-developers-instead/) and will be be depending on development partnerships into the future.
 
 As has been [widely reported](https://www.theguardian.com/society/2025/oct/23/ministers-confirm-plans-to-reduce-londons-affordable-housing-quotas), London Mayor Sadiq Khan and the Secretary of State for Housing, Steve Reed have agreed to reduce the affordable housing requirements for private developments in London from 35% to 20%.  
 
@@ -51,11 +51,13 @@ In Southwark both British Land and Berkeley Homes, the developers of Canada Wate
 
 Southwark Council's Labour administration does itself no favours by deliberately avoiding debate about the government and Mayor's so-called emergency package.  If it is implemented the package will shred the borough's longstanding policy requirement for 35% affordable housing and could lose us the funds needed to keep the borough a moderately civilised place to live in.
 
-We can have no idea of whether the Council thinks that affordable housing and CIL parts of the emergency package proposals are good ideas or a bad ones.  In its own, self-congratulatory, motion the Council welcomes a new London investment fund of 322m and the exclusion of student and co-living schemes from the emergency package.  The motion end with the single saying that the Council will 'continue to defending Southwark's planning policies'.  But what does this mean? Does it intend to keep 35% affordable housing  - does this mean that they will oppose the emergency package, or try to changes it?  Without further explanatiowe have no idea whether it thinks the package  
+We can have no idea of whether the Council thinks that affordable housing and CIL parts of the emergency package proposals are good ideas or a bad ones.  In its own self-congratulatory motion the Council welcomes a new London investment fund of 322m and the exclusion of student and co-living schemes from the emergency package.  The motion ends with the single saying that the Council will 'continue to defending Southwark's planning policies'.  But what does this mean? Will Southwark intend to keep 35% affordable housing and oppose the emergency package? Or try to change it?  
+
+These are all unanswered questions, but one thing is clear; that as things stand the decisions about how much affordable housing we will get in Southwark are being made in the board rooms of big developers, such Berkeleys and British Land, not by the Council Tooley St.  BH and BL have made perfectly clear -  that it does not even intend to deliver 20% - it's offering 12% at both the Aylesham and Bermondsey Place; BL is offering 10% at Canada Water.
 
 These decision make clear -  that there is a trade-off between affordable housing and profit, if ever that was in doubt; and developers will not allow affordable housing to reduce profit.
 
-One thing is clear the A/H decisions are being made in the board rooms of big developers, such Berkeleys and British Land, not by the Council Tooley St.  BH and BL have made perfectly clear -  that it does not even intend to deliver 20% - it's offering 12% at both the Aylesham and Bermondsey Place; BL is offering 10% at Canada Water.
+
 
 As far back as 2017, well before the current 'cost-crisis' in house building developers were claiming affordable housing targets were 'unviable' - now they see their opportunity to remove something that they have always railed against. And, despite the fact that they are democratically elected, and despite the fact that the same party is in power locally, regionally and nationally Mr Reed and Mr Khan are too feeble to face down  
 
@@ -168,7 +170,7 @@ While we may very well get a 'sugar-rush' of applications to take advantage of t
 [^xxxx] The signatories are 35% Campaign, SHAPE (Southwark Housing and Planning Emergency), SDCH - (Southwark Defend Council Housing), Peckham Vision, ACA (Aylesham Community Action), PLUSH SE16,
 Southwark Law Centre, Latin Elephant.
 
-[^xxxxx] 
+[^xxxxx] 977 council homes will have had to be demolished on the Aylesbury FDS, the Tustin and the Ledbury to allow 1,196 new social rent homes to be built - a net gain of just 219 social rented homes across these three big sites.
 
 in a self-congratulory way
 

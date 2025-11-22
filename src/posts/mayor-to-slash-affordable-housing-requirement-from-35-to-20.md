@@ -5,11 +5,11 @@ date: 2025-10-25T14:21:46.200Z
 ---
 Southwark Council looks set to reduce its longstanding requirement for 35% affordable housing  to 20%, after it rejected a motion to keep the higher level.  The requirement applies to all major developments (over 10 units) and has been in place, with some changes, since the 2007. [^x[](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)]
 
-Independent councillor Sam Foster called on the Council *'Not to water down affordable and social housing requirements: meaning, no reduction in the minimum affordable housing requirement of 35%, not any reduction in the minimum social rent requirment of 25%'* [^xx].
+Independent councillor Sam Foster called on the Council *'Not to water down affordable and social housing requirements: meaning, no reduction in the minimum affordable housing requirement of 35%, not any reduction in the minimum social rent requirment of 25%'* [^xx].  The motion was seconded by independent councillor Karh Whittam.
 
 The motion was prompted by the recent joint announcement of such a reduction for the whole of London by Housing Minister Steve Reed and Mayor Sadiq Khan.  They also proposed cutting the Community Infrastructure Levy (CIL) by half, for developments that deliver just 20% affordable housing.  [CIL pays for social infrastructure](https://www.gov.uk/guidance/community-infrastructure-levy), such as green and open spaces and GP surgeries.
 
-Cllr Foster opposed this too, saying there should be no cut and nor should the Council 'otherwise compromise on requirements that development in Southwark serve the public good'.  Cllr Foster also called for more government investment in affordable and council housing, rent controls and local limits to stusent accomodation and co-living developmets [^xxx]
+Cllrs Foster and Whittam opposed this too, saying there should be no cut and nor should the Council *'otherwise compromise on requirements that development in Southwark serve the public good'*.  The councillors also called for more government investment in affordable and council housing, rent controls and local limits to student accomodation and co-living developmets [^xxx]
 
 
 

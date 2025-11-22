@@ -47,9 +47,15 @@ Aditya Chakrabortty in the Guardian [revealed how the proposals were all fashion
 
 In Southwark both British Land and Berkeley Homes, the developers of Canada Water and the Aylesham Centre respectively are already seeking to reduce affordable housing to these levels.
 
-### What we think
+### What we think - less is not more
+
+Southwark Council's Labour administration does itself no favours by deliberately avoiding debate about the government and Mayor's so-called emergency package.  If it is implemented the package will shred the borough's longstanding policy requirement for 35% affordable housing and could lose us the funds needed to keep the borough a moderately civilised place to live in.
+
+We can have no idea of whether the Council thinks that affordable housing and CIL parts of the emergency package proposals are good ideas or a bad ones.  In its own, self-congratulatory, motion the Council welcomes a new London investment fund of 322m and the exclusion of student and co-living schemes from the emergency package.  The motion end with the single saying that the Council will 'continue to defending Southwark's planning policies'.  But what does this mean? Does it intend to keep 35% affordable housing  - does this mean that they will oppose the emergency package, or try to changes it?  Without further explanatiowe have no idea whether it thinks the package  
 
 These decision make clear -  that there is a trade-off between affordable housing and profit, if ever that was in doubt; and developers will not allow affordable housing to reduce profit.
+
+One thing is clear the A/H decisions are being made in the board rooms of big developers, such Berkeleys and British Land, not by the Council Tooley St.  BH and BL have made perfectly clear -  that it does not even intend to deliver 20% - it's offering 12% at both the Aylesham and Bermondsey Place; BL is offering 10% at Canada Water.
 
 As far back as 2017, well before the current 'cost-crisis' in house building developers were claiming affordable housing targets were 'unviable' - now they see their opportunity to remove something that they have always railed against. And, despite the fact that they are democratically elected, and despite the fact that the same party is in power locally, regionally and nationally Mr Reed and Mr Khan are too feeble to face down  
 
@@ -161,6 +167,8 @@ While we may very well get a 'sugar-rush' of applications to take advantage of t
 
 [^xxxx] The signatories are 35% Campaign, SHAPE (Southwark Housing and Planning Emergency), SDCH - (Southwark Defend Council Housing), Peckham Vision, ACA (Aylesham Community Action), PLUSH SE16,
 Southwark Law Centre, Latin Elephant.
+
+[^xxxxx] 
 
 in a self-congratulory way
 

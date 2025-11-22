@@ -1,5 +1,5 @@
 ---
-title: Mayor to slash affordable housing requirement from 35% to 20%
+title: Southwark set to reduce 35% affordable houisng to 20%
 description: Sadiq Khan and government agree to developer giveaway
 date: 2025-10-25T14:21:46.200Z
 ---

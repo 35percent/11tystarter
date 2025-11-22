@@ -5,11 +5,11 @@ date: 2025-10-25T14:21:46.200Z
 ---
 Southwark Council looks set to reduce its longstanding requirement for 35% affordable housing  to 20%, after it rejected a motion to keep the higher level.  The requirement applies to all major developments (over 10 units) and has been in place, with some changes, since the 2007. [^x[](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)]
 
-Independant councillor Sam Foster called on the Council *'Not to water down affordable and social housing requirements: meaning, no reduction in the minimum affordable housing requirement of 35%, not any reduction in the minimum social rent requirment of 25%'* [^xx].
+Independent councillor Sam Foster called on the Council *'Not to water down affordable and social housing requirements: meaning, no reduction in the minimum affordable housing requirement of 35%, not any reduction in the minimum social rent requirment of 25%'* [^xx].
 
-The motion was prompted by the recent joint announcement by Housing Minister Steve Reed and M
+The motion was prompted by the recent joint announcement of such a reduction for the whole of London by Housing Minister Steve Reed and Mayor Sadiq Khan.  They also proposed cutting the Community Infrastructure Levy (CIL) by half, for developments that deliver just 20% affordable housing.  [CIL pays for social infrastructure](https://www.gov.uk/guidance/community-infrastructure-levy), such as green and open spaces and GP surgeries.
 
-Cllr Foster also called for more government investment in affordable and council housing, rent controls
+Cllr Foster opposed this too, saying there should be no cut and nor should the Council 'otherwise compromise on requirements that development in Southwark serve the public good'.  Cllr Foster also called for more government investment in affordable and council housing, rent controls and local limits to stusent accomodation and co-living developmets [^xxx]
 
 
 
@@ -156,5 +156,9 @@ While we may very well get a 'sugar-rush' of applications to take advantage of t
 [^x] [Saved Southwark Plan 2007](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)
 
 [^xx] An error in the original wording said '15%'; this was corrected at the meeting, see [Tabled Items](https://moderngov.southwark.gov.uk/documents/b50018369/Tabled%20Items%20Wednesday%2012-Nov-2025%2019.00%20Council%20Assembly.pdf?T=9) pg 3 motion 3 item 5.2
+
+[^xxx] Sothwark was declared a ['hot-spot](https://www.turley.co.uk/sites/default/files/media/pdf/2023-10/turley_-_pbsa_in_london_2023_0.pdf) for purpose built student accomodation (PBSA) by development consultants Turley in 2023.
+
+
 
 ### Open Letter

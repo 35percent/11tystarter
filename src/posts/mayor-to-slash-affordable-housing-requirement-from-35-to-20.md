@@ -1,8 +1,18 @@
 ---
 title: Southwark set to reduce 35% affordable houisng to 20%
-description: Sadiq Khan and government agree to developer giveaway
+description: Aeembly meeting rejects mov to keep 35% requirement
 date: 2025-10-25T14:21:46.200Z
 ---
+Southwark Council looks set to reduce its longstanding requirement for 35% affordable housing from private developments to 20%, after it rejected a motion to keep the higher level at its recent Assembly meeting.
+
+Independant councillor Sam Foster proposed the motion 
+
+
+
+
+
+
+
 As has been [widely reported](https://www.theguardian.com/society/2025/oct/23/ministers-confirm-plans-to-reduce-londons-affordable-housing-quotas), London Mayor Sadiq Khan and the Secretary of State for Housing, Steve Reed have agreed to reduce the affordable housing requirements for private developments in London from 35% to 20%.  
 
 Up until now, developers who provided 35% affordable housing could take a no-questions-asked 'fast-track' route for planning permission, which allowed them to avoid providing a viability assessment - this threshold is now being dropped to 20%.  [Our previous blogpost](https://www.35percent.org/posts/nearly-1-000-empty-homes-on-the-aylesbury-estate/) noted that this follows a lobbying campign by developers, with a main aim of achieving this reduction.  A [House Builders Federation report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) recommended that the requirement be reduced to 25%, the Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) said that developers were demanding an even bigger cut, to between 10-15%. 

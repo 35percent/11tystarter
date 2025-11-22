@@ -149,4 +149,6 @@ While we may very well get a 'sugar-rush' of applications to take advantage of t
 
 <https://www.gov.uk/government/news/new-measures-announced-to-ramp-up-housebuilding-in-london>
 
+[](https://moderngov.southwark.gov.uk/documents/b50018369/Tabled%20Items%20Wednesday%2012-Nov-2025%2019.00%20Council%20Assembly.pdf?T=9)Motion amended to 25% a/h See [Tabled Items](https://moderngov.southwark.gov.uk/documents/b50018369/Tabled%20Items%20Wednesday%2012-Nov-2025%2019.00%20Council%20Assembly.pdf?T=9) pg 3 motion 3 item 5.2
+
 ### Open Letter

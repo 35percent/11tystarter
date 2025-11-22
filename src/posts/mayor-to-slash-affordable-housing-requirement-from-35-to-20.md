@@ -3,19 +3,19 @@ title: Southwark set to reduce 35% affordable houisng to 20%
 description: Aeembly meeting rejects mov to keep 35% requirement
 date: 2025-10-25T14:21:46.200Z
 ---
-Southwark Council looks set to reduce its longstanding requirement for 35% affordable housing  to 20%, after it rejected a motion to keep the higher level.  The requirement applies to all major developments (over 10 units) and has been in place, with some changes, since the 2007. [^x[](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)]
+Southwark Council looks set to reduce its longstanding requirement for 35% affordable housing  to 20%, after it rejected a motion to keep the higher level.  The requirement applies to all major developments (over 10 units) and has been in place, with some changes, since the 2007. [^x[](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)].
 
 Independent councillor Sam Foster called on the Council *'Not to water down affordable and social housing requirements: meaning, no reduction in the minimum affordable housing requirement of 35%, not any reduction in the minimum social rent requirment of 25%'* [^xx].  The motion was seconded by independent councillor Karh Whittam.
 
 The motion was prompted by the [recent joint announcement](https://www.gov.uk/government/news/new-measures-announced-to-ramp-up-housebuilding-in-london) of such [a reduction for the whole of London](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf) by Housing Minister Steve Reed and Mayor Sadiq Khan.  They also proposed cutting the Community Infrastructure Levy (CIL) by half, for developments that deliver just 20% affordable housing.  [CIL pays for social infrastructure](https://www.gov.uk/guidance/community-infrastructure-levy), such as green and open spaces and GP surgeries.
 
-Cllrs Foster and Whittam opposed this too, saying there should be no cut and nor should the Council *'otherwise compromise on requirements that development in Southwark serve the public good'*.  The councillors also called for more government investment in affordable and council housing, rent controls and local limits to student accomodation and co-living developmets [^xxx]
+Cllrs Foster and Whittam opposed this too, saying there should be no cut and nor should the Council *'otherwise compromise on requirements that development in Southwark serve the public good'*.  The councillors also called for more government investment in affordable and council housing, rent controls and local limits to student accomodation and co-living developmets [^xxx].
 
-This follows the publication of an open letter from eight local campaign groups also asking Southwark Council to resist the reductions in both affordable housing and CIL [^xxxx]
+This follows the publication of an open letter from eight local campaign groups also asking Southwark Council to resist the reductions in both affordable housing and CIL [^xxxx].
 
 ![](img/open_letter_031125.png)
 
-The Council leadership prevented any discussion about vote about motion, by proposing an amendment 
+The Council leadership prevented any discussion about the cut proposals, by proposing an amendment which replaced the entire motion with one of the own.  This details the Council's record, at the centre of which is the claim that it has built 3,000 new council homes have been built (or are (on-site).  As [we have noted before](https://www.35percent.org/posts/southwark-council-ends-council-house-building/), while creditable, this figure takes no account of those demolished, despite the [2014 promise](https://www.35percent.org/new-council-homes/) from then Council leader Peter John that the council homes *'will be new homes additonal to our existing stock'*.  After demolitions are factored in the the additional number provided is a fraction of 3,000 [^xxxxx].  
 
 As has been [widely reported](https://www.theguardian.com/society/2025/oct/23/ministers-confirm-plans-to-reduce-londons-affordable-housing-quotas), London Mayor Sadiq Khan and the Secretary of State for Housing, Steve Reed have agreed to reduce the affordable housing requirements for private developments in London from 35% to 20%.  
 
@@ -161,5 +161,7 @@ While we may very well get a 'sugar-rush' of applications to take advantage of t
 
 [^xxxx] The signatories are 35% Campaign, SHAPE (Southwark Housing and Planning Emergency), SDCH - (Southwark Defend Council Housing), Peckham Vision, ACA (Aylesham Community Action), PLUSH SE16,
 Southwark Law Centre, Latin Elephant.
+
+in a self-congratulory way
 
 ### Open Letter

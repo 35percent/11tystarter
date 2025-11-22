@@ -7,7 +7,7 @@ Southwark Council looks set to reduce its longstanding requirement for 35% affor
 
 Independent councillor Sam Foster called on the Council *'Not to water down affordable and social housing requirements: meaning, no reduction in the minimum affordable housing requirement of 35%, not any reduction in the minimum social rent requirment of 25%'* [^xx].  The motion was seconded by independent councillor Karh Whittam.
 
-The motion was prompted by the recent joint announcement of such a reduction for the whole of London by Housing Minister Steve Reed and Mayor Sadiq Khan.  They also proposed cutting the Community Infrastructure Levy (CIL) by half, for developments that deliver just 20% affordable housing.  [CIL pays for social infrastructure](https://www.gov.uk/guidance/community-infrastructure-levy), such as green and open spaces and GP surgeries.
+The motion was prompted by the [recent joint announcement](https://www.gov.uk/government/news/new-measures-announced-to-ramp-up-housebuilding-in-london) of such [a reduction for the whole of London](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf) by Housing Minister Steve Reed and Mayor Sadiq Khan.  They also proposed cutting the Community Infrastructure Levy (CIL) by half, for developments that deliver just 20% affordable housing.  [CIL pays for social infrastructure](https://www.gov.uk/guidance/community-infrastructure-levy), such as green and open spaces and GP surgeries.
 
 Cllrs Foster and Whittam opposed this too, saying there should be no cut and nor should the Council *'otherwise compromise on requirements that development in Southwark serve the public good'*.  The councillors also called for more government investment in affordable and council housing, rent controls and local limits to student accomodation and co-living developmets [^xxx]
 
@@ -15,7 +15,7 @@ This follows the publication of an open letter from eight local campaign groups 
 
 ![](img/open_letter_031125.png)
 
-
+The Council leadership prevented any discussion about vote about motion, by proposing an amendment 
 
 As has been [widely reported](https://www.theguardian.com/society/2025/oct/23/ministers-confirm-plans-to-reduce-londons-affordable-housing-quotas), London Mayor Sadiq Khan and the Secretary of State for Housing, Steve Reed have agreed to reduce the affordable housing requirements for private developments in London from 35% to 20%.  
 

@@ -1,6 +1,6 @@
 ---
 title: Southwark set to reduce 35% affordable housing to 20%
-description: Aeembly meeting rejects mov to keep 35% requirement
+description: Assembly meeting rejects mov to keep 35% requirement
 date: 2025-10-25T14:21:46.200Z
 ---
 Southwark Council looks set to reduce its longstanding requirement for affordable housing on private housing developments to 20%, after rejecting a call to keep the present level of 35% at [its recent Assembly meeting](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=132&MId=8197&Ver=4).   The 35% requirement applies to all major schemes (over 10 units) and has been in place, with some changes, since the 2007 [^x[](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)].  

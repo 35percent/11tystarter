@@ -17,7 +17,7 @@ Cllrs Foster and Whittam also opposed any reduction in CIL, and that the Council
 
 Eight local campaign groups have written an Open Letter to Council Leader, Cllr Sarah King, also urging Southwark Council to resist the reductions in both the affordable housing requirement and CIL, proposed in the emergency package by Steve Reed and Sadiq Khan [^xxxx].
 
-The letter points out that the emergency package was agreed after closed-door discussions with large developers, excluding London's concils or anyone else in the wider community, as [reported by the Guardian](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed).  It reminds Cllr King that Southwark's own key planning document, the Southwark Plan states that most households in the borough  
+The letter points out that the emergency package was agreed after closed-door discussions with large developers, excluding London's concils or anyone else in the wider community, as [reported by the Guardian](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed).  It reminds Cllr King that Southwark's own key planning document, the Southwark Plan states that most households in the borough earn only enough for affordable housing.
 
 
 
@@ -61,11 +61,11 @@ Southwark Council's Labour administration does itself no favours by deliberately
 
 We can have no idea of whether the Council thinks that affordable housing and CIL parts of the emergency package proposals are good ideas or bad ideas.  In its own self-congratulatory motion the Council welcomes a new London investment fund of 322m and the exclusion of student and co-living schemes from the emergency package.  The motion ends with the single sentence, saying that the Council will *'continue to defending Southwark's planning policies'*.  But what does this mean? Will Southwark intend to keep 35% affordable housing and oppose the emergency package? Or try to change it?  
 
-Decisions made in developers boardrooms
+#### Decisions made in developers boardrooms
 
 These are unanswered questions, but one thing is clear; that as things stand the decisions about how much affordable housing we will get in Southwark are being made in the board rooms of big developers, such Berkeleys and British Land, not by the Council at Tooley St.  BH and BL have made perfectly clear -  that it does not even intend to deliver 20% - it's offering 12% at both the Aylesham and Bermondsey Place; BL is offering 10% at Canada Water.
 
-What is is the point of building more free-market homes in a borough where only 7% of households can fully afford free-market-housing? According to developers and Steve Reed and Sadiq Khan it is the only way to get more social rented housing....
+What is is the point of building more free-market homes in a borough where only 7% of households can fully afford free-market-housing? According to developers and Steve Reed and Sadiq Khan it is the only way to get more social rented housing....part of the answer is that developers/Reed/Khan see London as a single market, London is also a global city; on both counts local housing need comes second; the abscence of local demand because local people cannot be pay for new homes being built in their midst will be met by richer people from elsewhere; unfortunately though that market has collapsed and now developers are taking advantage of the fact to get rid of a requirement that they have always been determined to avoid.
 
 These decision make clear -  that there is a trade-off between affordable housing and profit, if ever that was in doubt; and developers will not allow affordable housing to reduce profit.
 

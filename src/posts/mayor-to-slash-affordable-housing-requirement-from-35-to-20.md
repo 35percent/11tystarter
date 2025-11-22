@@ -51,9 +51,11 @@ In Southwark both British Land and Berkeley Homes, the developers of Canada Wate
 
 Southwark Council's Labour administration does itself no favours by deliberately avoiding debate about the government and Mayor's so-called emergency package.  If it is implemented the package will shred the borough's longstanding policy requirement for 35% affordable housing and could lose us the funds needed to keep the borough a moderately civilised place to live in.
 
-We can have no idea of whether the Council thinks that affordable housing and CIL parts of the emergency package proposals are good ideas or a bad ones.  In its own self-congratulatory motion the Council welcomes a new London investment fund of 322m and the exclusion of student and co-living schemes from the emergency package.  The motion ends with the single saying that the Council will 'continue to defending Southwark's planning policies'.  But what does this mean? Will Southwark intend to keep 35% affordable housing and oppose the emergency package? Or try to change it?  
+We can have no idea of whether the Council thinks that affordable housing and CIL parts of the emergency package proposals are good ideas or bad ideas.  In its own self-congratulatory motion the Council welcomes a new London investment fund of 322m and the exclusion of student and co-living schemes from the emergency package.  The motion ends with the single sentence, saying that the Council will *'continue to defending Southwark's planning policies'*.  But what does this mean? Will Southwark intend to keep 35% affordable housing and oppose the emergency package? Or try to change it?  
 
-These are all unanswered questions, but one thing is clear; that as things stand the decisions about how much affordable housing we will get in Southwark are being made in the board rooms of big developers, such Berkeleys and British Land, not by the Council Tooley St.  BH and BL have made perfectly clear -  that it does not even intend to deliver 20% - it's offering 12% at both the Aylesham and Bermondsey Place; BL is offering 10% at Canada Water.
+Decisions made in developers boardrooms
+
+These are unanswered questions, but one thing is clear; that as things stand the decisions about how much affordable housing we will get in Southwark are being made in the board rooms of big developers, such Berkeleys and British Land, not by the Council at Tooley St.  BH and BL have made perfectly clear -  that it does not even intend to deliver 20% - it's offering 12% at both the Aylesham and Bermondsey Place; BL is offering 10% at Canada Water.
 
 These decision make clear -  that there is a trade-off between affordable housing and profit, if ever that was in doubt; and developers will not allow affordable housing to reduce profit.
 

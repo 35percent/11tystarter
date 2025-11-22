@@ -11,9 +11,15 @@ Cllrs Foster and Whittam called on the Council' *'Not to water down affordable a
 
 The cut in the affordable housing requirement comes in a joint paper from Housing Minister Steve Reed and Mayor Sadiq Khan called ['Homes for London - A Package of Support for Housebuilding on the Capital'](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf).  This 'emergency package' also proposes cutting the Community Infrastructure Levy (CIL) by half for developments that deliver 20% affordable housing.  CIL is currently levied on most new developments and [pays for social infrastructure](https://www.gov.uk/guidance/community-infrastructure-levy) such as green and open spaces and GP surgeries.  Southwark r[aised £23m from CIL](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-obligations-and-community/community/how) in the years 2015 to 2020.
 
-Cllrs Foster and Whittam opposed this too, saying there should be no cut and nor should the Council *'otherwise compromise on requirements that development in Southwark serve the public good'*.  The councillors also called for more government investment in affordable and council housing, rent controls and local limits to student accomodation and co-living developmets [^xxx].
+Cllrs Foster and Whittam also opposed any reduction in CIL, and that the Council should not *'otherwise compromise on requirements that development in Southwark serve the public good'*.  The councillors also called for more government investment in affordable and council housing, rent controls and local limits to student accomodation and co-living developmets [^xxx].
 
-This follows the publication of an open letter from eight local campaign groups also asking Southwark Council to resist the reductions in both affordable housing and CIL [^xxxx].
+#### An Open Letter to the Southwark Council Leader
+
+Eight local campaign groups have written an Open Letter to Council Leader, Cllr Sarah King, also urging Southwark Council to resist the reductions in both the affordable housing requirement and CIL, proposed in the emergency package by Steve Reed and Sadiq Khan [^xxxx].
+
+The letter points out that the emergency package was agreed after closed-door discussions with large developers, ecluding London's concils or anyone else in the wider community, as [reported by the Guardian](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed).  
+
+
 
 ![](img/open_letter_031125.png)
 

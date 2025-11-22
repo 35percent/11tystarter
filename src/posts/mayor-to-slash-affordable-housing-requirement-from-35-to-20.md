@@ -15,7 +15,7 @@ This follows the publication of an open letter from eight local campaign groups 
 
 ![](img/open_letter_031125.png)
 
-tions in both affordable housing and CIL  
+
 
 As has been [widely reported](https://www.theguardian.com/society/2025/oct/23/ministers-confirm-plans-to-reduce-londons-affordable-housing-quotas), London Mayor Sadiq Khan and the Secretary of State for Housing, Steve Reed have agreed to reduce the affordable housing requirements for private developments in London from 35% to 20%.  
 

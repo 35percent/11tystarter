@@ -3,9 +3,13 @@ title: Southwark set to reduce 35% affordable houisng to 20%
 description: Aeembly meeting rejects mov to keep 35% requirement
 date: 2025-10-25T14:21:46.200Z
 ---
-Southwark Council looks set to reduce its longstanding requirement for 35% affordable housing  to 20%, after it rejected a motion to keep the higher level.  The requirement applies to all major developments (over 10 units) and has been in place, with some changes, since the 2007. [^x [Saved Southwark Plan 2007](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)]
+Southwark Council looks set to reduce its longstanding requirement for 35% affordable housing  to 20%, after it rejected a motion to keep the higher level.  The requirement applies to all major developments (over 10 units) and has been in place, with some changes, since the 2007. [^x[](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)]
 
-Independant councillor Sam Foster called on the Council 'Not to water down affordable and social housing requirements: meaning, no reduction in the minimum affordable housing requirement of 35%, not any reduction in the minimum social rent requirment of 25%' [^xx An error in the original wording said 15%; this was corrected at the meeting; see 
+Independant councillor Sam Foster called on the Council *'Not to water down affordable and social housing requirements: meaning, no reduction in the minimum affordable housing requirement of 35%, not any reduction in the minimum social rent requirment of 25%'* [^xx].
+
+The motion was prompted by the recent joint announcement by Housing Minister Steve Reed and M
+
+Cllr Foster also called for more government investment in affordable and council housing, rent controls
 
 
 

@@ -17,7 +17,7 @@ Cllrs Foster and Whittam also opposed any reduction in CIL, and that the Council
 
 Eight local campaign groups have written an Open Letter to Council Leader, Cllr Sarah King, also urging Southwark Council to resist the reductions in both the affordable housing requirement and CIL, proposed in the emergency package by Steve Reed and Sadiq Khan [^xxxx].
 
-The letter points out that the emergency package was agreed after closed-door discussions with large developers, ecluding London's concils or anyone else in the wider community, as [reported by the Guardian](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed).  
+The letter points out that the emergency package was agreed after closed-door discussions with large developers, excluding London's concils or anyone else in the wider community, as [reported by the Guardian](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed).  It reminds Cllr King that Southwark's own key planning document, the Southwark Plan states that most households in the borough  
 
 
 
@@ -64,6 +64,8 @@ We can have no idea of whether the Council thinks that affordable housing and CI
 Decisions made in developers boardrooms
 
 These are unanswered questions, but one thing is clear; that as things stand the decisions about how much affordable housing we will get in Southwark are being made in the board rooms of big developers, such Berkeleys and British Land, not by the Council at Tooley St.  BH and BL have made perfectly clear -  that it does not even intend to deliver 20% - it's offering 12% at both the Aylesham and Bermondsey Place; BL is offering 10% at Canada Water.
+
+What is is the point of building more free-market homes in a borough where only 7% of households can fully afford free-market-housing? According to developers and Steve Reed and Sadiq Khan it is the only way to get more social rented housing....
 
 These decision make clear -  that there is a trade-off between affordable housing and profit, if ever that was in doubt; and developers will not allow affordable housing to reduce profit.
 

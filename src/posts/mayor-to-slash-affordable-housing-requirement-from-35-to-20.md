@@ -17,9 +17,7 @@ Cllrs Foster and Whittam also opposed any reduction in CIL, and that the Council
 
 Eight local campaign groups have written an Open Letter to Council Leader, Cllr Sarah King, also urging Southwark Council to resist the reductions in the affordable housing requirement and CIL, as proposed by Steve Reed and Sadiq Khan [^xxxx].
 
-The letter points out that the emergency package was agreed after closed-door discussions with large developers, excluding London's concils or anyone else in the wider community, as [reported by the Guardian](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed).  It reminds Cllr King that Southwark's own key planning document, the Southwark Plan states that most households in the borough earn only enough for affordable housing, with fewer than 7% alble to afford free-market housing.  Were the emergency proposals to
-
-
+The letter points out that the emergency package was agreed after closed-door discussions with large developers, excluding London's concils or anyone else in the wider community, as [reported by the Guardian](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed).  It reminds Cllr King that Southwark's own key planning document, the Southwark Plan states that most households in the borough earn only enough for affordable housing, with fewer than 7% able to afford free-market housing.  Were the emergency proposals to
 
 ![](img/open_letter_031125.png)
 
@@ -68,8 +66,6 @@ These are unanswered questions, but one thing is clear; that as things stand the
 What is is the point of building more free-market homes in a borough where only 7% of households can fully afford free-market-housing? According to developers and Steve Reed and Sadiq Khan it is the only way to get more social rented housing....part of the answer is that developers/Reed/Khan see London as a single market, London is also a global city; on both counts local housing need comes second; the abscence of local demand because local people cannot be pay for new homes being built in their midst will be met by richer people from elsewhere; unfortunately though that market has collapsed and now developers are taking advantage of the fact to get rid of a requirement that they have always been determined to avoid.
 
 These decision make clear -  that there is a trade-off between affordable housing and profit, if ever that was in doubt; and developers will not allow affordable housing to reduce profit.
-
-
 
 As far back as 2017, well before the current 'cost-crisis' in house building developers were claiming affordable housing targets were 'unviable' - now they see their opportunity to remove something that they have always railed against. And, despite the fact that they are democratically elected, and despite the fact that the same party is in power locally, regionally and nationally Mr Reed and Mr Khan are too feeble to face down  
 

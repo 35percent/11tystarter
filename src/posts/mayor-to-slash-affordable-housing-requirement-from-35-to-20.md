@@ -3,9 +3,13 @@ title: Southwark set to reduce 35% affordable houisng to 20%
 description: Aeembly meeting rejects mov to keep 35% requirement
 date: 2025-10-25T14:21:46.200Z
 ---
-Southwark Council looks set to reduce its longstanding requirement for 35% affordable housing  to 20%, after it rejected a motion to keep the higher level.  The requirement applies to all major developments (over 10 units) and has been in place, with some changes, since the 2007. [^x[](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)].
+Southwark Council looks set to reduce its longstanding requirement for affordable housing on private housing developments, from 35% of the total housing to 20%.  The borough depends on private developments for nearly all its affordable and social housing.  The 35% requirement applies to all major schemes (over 10 units) and has been in place, with some changes, since the 2007. [^x[](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)].
+
+A recent announcement by the governement and London Mayor proposes to slash the affordable requirement across the capital to 20% prompted independant councillors Sam Foster and Kath Whittam to call on Southwark Council to maintain its policy at 35%.
 
 Independent councillor Sam Foster called on the Council *'Not to water down affordable and social housing requirements: meaning, no reduction in the minimum affordable housing requirement of 35%, not any reduction in the minimum social rent requirment of 25%'* [^xx].  The motion was seconded by independent councillor Karh Whittam.
+
+The proposed cut comes in a joint paper from Housing Minister Steve Reed and Mayor Sadiq Khan called ['Homes for London - A Package of Support for Housebuilding on the Capital'](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf).   
 
 The motion was prompted by the [recent joint announcement](https://www.gov.uk/government/news/new-measures-announced-to-ramp-up-housebuilding-in-london) of such [a reduction for the whole of London](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf) by Housing Minister Steve Reed and Mayor Sadiq Khan.  They also proposed cutting the Community Infrastructure Levy (CIL) by half, for developments that deliver just 20% affordable housing.  [CIL pays for social infrastructure](https://www.gov.uk/guidance/community-infrastructure-levy), such as green and open spaces and GP surgeries.
 

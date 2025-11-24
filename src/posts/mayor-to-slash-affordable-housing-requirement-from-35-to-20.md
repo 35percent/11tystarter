@@ -41,7 +41,7 @@ Once the *'temporary relief'* from borough Community Infrastructure Levy (CIL) i
 
 Other proposals include design changes that  *'constrain density'* - reducing the number of dual aspect dwellings (flats with windows facing different directions), increasing the number of dwellings in each building core and reducing cycle storage. 
 
-The Mayor will also be given greater powers to take decisions out of borough hands, if it looks as if the local authority might refuse an application of more than 50 units.  He will also be able to take the decision on developments of over 1,000sqm on Green Belt and Metropolitan Open land and grant *'upfront'* planning permissions for *'strategic schemes which support London's growth*'.  Local communities will also lose the opportunity of making in-person representations to the Mayor, on those schemes he takes over ('calls in') and be confined to written representations *'in certain cases'*.
+The Mayor will be given greater powers to take decisions out of borough hands, if it looks as if the local authority might refuse an application of more than 50 units.  He will also be able to take the decision on developments of over 1,000sqm on Green Belt and Metropolitan Open land and grant *'upfront'* planning permissions for *'strategic schemes which support London's growth*'.  In 'certain cases' decisions will no longer follow after a full hearing of    in-person representations to the Mayor, at full hearings for those schemes he takes over ('calls in') and but be confined to written representations .
 
 #### What happens next...
 

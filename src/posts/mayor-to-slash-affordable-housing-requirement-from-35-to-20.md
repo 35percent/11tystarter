@@ -25,10 +25,6 @@ The campaigners' letter also warns that even 20% affordable housing is not guara
 
 ![](img/open_letter_031125.png)
 
-The Council leadership prevented any discussion about the cut proposals, by proposing an amendment which replaced the entire motion with one of the own.  
-
-As has been [widely reported](https://www.theguardian.com/society/2025/oct/23/ministers-confirm-plans-to-reduce-londons-affordable-housing-quotas), London Mayor Sadiq Khan and the Secretary of State for Housing, Steve Reed have agreed to reduce the affordable housing requirements for private developments in London from 35% to 20%.  
-
 Up until now, developers who provided 35% affordable housing could take a no-questions-asked 'fast-track' route for planning permission, which allowed them to avoid providing a viability assessment - this threshold is now being dropped to 20%.  [Our previous blogpost](https://www.35percent.org/posts/nearly-1-000-empty-homes-on-the-aylesbury-estate/) noted that this follows a lobbying campign by developers, with a main aim of achieving this reduction.  A [House Builders Federation report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) recommended that the requirement be reduced to 25%, the Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) said that developers were demanding an even bigger cut, to between 10-15%. 
 
 ### 50% CIL cut
@@ -187,8 +183,6 @@ Southwark Law Centre, Latin Elephant.
 [^xxxxxx] Southwark Plan 2022 Fig 2 Home affordability in Southwark (2018)
 
 [^y] The reduction from 35% would cut the affordable housing on the Aylesham Centre from 270 to 77 units; on Bermondsey Place from around 470 units to 140 units, a total on the two Berkeley developments of around 500 affordable homes.  British Land's Canada Water (25/AP/0242) scheme would see a very rough loss of 1,000 affordable homes.  (Planning ref nos 24/AP/2074, 25/AP/2987, 25/AP/0242 respectively)
-
-[^yy]   See <https://www.35percent.org/posts/southwark-council-ends-council-house-building/>.  
 
 in a self-congratulory way
 

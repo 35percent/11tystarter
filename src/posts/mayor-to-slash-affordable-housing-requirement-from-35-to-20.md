@@ -49,15 +49,13 @@ The emergency measures are presented with a list of four seperate consultations,
 
 <https://www.southwark.gov.uk/sites/default/files/2025-05/Facts%20and%20Figures%20-%20Housing%20%281%29.pdf> - Table 7 for completions; never below 26%; voluntatrily going to reduce requirement to 20%?  What sense does this make?
 
-
-
 The pro-development argument behind reducing the affordable housing requirement can be summed up by the claim that '20% of something is better than 35% of nothing'.  According to this line of thinking schemes have stalled across London and the way to get 'spades in the ground' and get them going again is to relieve developers of the burden of providing affordable housing and social infrastucture payments.
 
-What has been proposed though does not guarantee 20% affordable housing, as the examples put to Southwark Council leader Sarah King by local campaigners illustrates.  Between them Canada Water, the Aylesham Centre and the mis-named Bermondsey Place developments total roughly 5,000 new homes.  At 35% affordable housing this would provide us with roughly 1,750 affordable homes, at 20% roughly 1,000.  Berkeley and British Land are offering 12% and 10% - a mere 500/600 homes.
+What has been proposed though does not guarantee 20% affordable housing, as the examples put to Southwark Council leader Sarah King by local campaigners illustrate.  Between them Canada Water, the Aylesham Centre and the mis-named Bermondsey Place developments total roughly 5,000 new homes.  At 35% affordable housing this would provide us with roughly 1,750 affordable homes, at 20% roughly 1,000.  Berkeley and British Land are offering 12% and 10% - a mere 500/600 homes.
 
-This is because while a new time limited route to 20% has been introduced, the viability assessment route that allows even less has been left open.  Any developer worth their salt is going to look at this too; they will weigh up their options (no doubt taking into account the grant incentive that will pay for half that they will get if they  which 
+This is because while a new time limited route to 20% is being introduced, the viability assessment route that allows even less affordable housing has been left open.  Any developer worth their salt is going to look at this too; they will weigh up their options, including the grant incentive for half the affordable housing if they promise 20%, and choose the option that costs them least, not that which maximises affordable housing.
 
-Also developers that do give 20% a/h will only be paying the full cost of building half of it; a government grant will take care of the rest of it 
+Ruby Triangle	18/AP/0897  1152 units Cantium Retail Park	18/AP/3246 1113 units Southernwood Retail Park (Humphrey St, opp Tesco)  18/AP/3551 724 units
 
 The incentive to give 20% seems to be the grant for half of these, but there has been no assessment made public about whether his will be effective
 

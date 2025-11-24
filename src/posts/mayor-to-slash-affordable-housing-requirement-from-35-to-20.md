@@ -51,7 +51,7 @@ Aditya Chakrabortty in the Guardian [revealed how the proposals were all fashion
 
 <https://www.voxmarkets.co.uk:3636/articles/berkeley-keeps-fy-profit-targets-after-stable-start-aed5b69>
 
-In Southwark both British Land and Berkeley Homes, the developers of Canada Water and the Aylesham Centre respectively are already seeking to reduce affordable housing to these levels.
+
 
 ### What we think - less is not more
 

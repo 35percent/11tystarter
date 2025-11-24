@@ -5,7 +5,7 @@ date: 2025-10-25T14:21:46.200Z
 ---
 Southwark Council looks set to reduce its longstanding requirement for affordable housing on private developments to 20%, after rejecting a call to keep the level at 35% at [its recent Assembly meeting](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=132&MId=8197&Ver=4).   The 35% requirement applies to all major schemes (over 10 units) and has been in place, with some changes, since the 2007 [^x[](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)].  
 
-A [recent announcement](https://www.gov.uk/government/news/new-measures-announced-to-ramp-up-housebuilding-in-london) by the government and the Mayor proposing to slash the affordable requirement in London to 20% prompted independant councillors Sam Foster and Kath Whittam, of the Green Party, to urge the Labour administration to keep the 35% requirement in Southwark.  The borough depends on private developments for nearly all its affordable and social housing.
+A [recent announcement](https://www.gov.uk/government/news/new-measures-announced-to-ramp-up-housebuilding-in-london) by the government and the Mayor proposing to slash the affordable requirement in London to 20% prompted independant councillors Sam Foster and Kath Whittam, of the Green Party, to urge the Labour administration to keep the 35% requirement in Southwark.  The borough depends on private developments for  all its affordable and social housing.
 
 Cllrs Foster and Whittam called on the Council' *'Not to water down affordable and social housing requirements: meaning, no reduction in the minimum affordable housing requirement of 35%, not any reduction in the minimum social rent requirment of 25%'* [^xx].  The call was made by way of a motion to the [November Council Assembly](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=132&MId=8197&Ver=4).  In response the Labour administration amended the motion entirely, largely replacing it with an account of their own housebuilding efforts.  The amended motion was carried by the Labour majority, against the votes of the Liberal Democrats and Green councillors [^xxx].
 
@@ -47,7 +47,25 @@ The emergency measures are presented with a list of four seperate consultations,
 
 ### What we think - less is not more
 
-The Mayor and Steve Reed and developers are as one in their low opion of local decision-making powers, as evidenced by the moves to put more of those powers in his hands.  The consultation process will run over Christmas and looks both complicated and perfunctory.  
+The pro-development argument behind reducing the affordable housing requirement can be summed up by the claim that '20% of something is better than 35% of nothing'.  According to this line of thinking schemes have stalled across London and the way to get 'spades in the ground' and get them going again is to relieve developers of the burden of providing affordable housing and social infrastucture payments.
+
+What has been proposed though does not guarantee 20% affordable housing, as the examples put to Southwark Council leader Sarah King by local campaigners illustrates.  Between them Canada Water, the Aylesham Centre and the mis-named Bermondsey Place developments total roughly 5,000 new homes.  At 35% affordable housing this would provide us with roughly 1,750 affordable homes, at 20% roughly 1,000.  Berkeley and British Land are offering 12% and 10% - a mere 500/600 homes.
+
+This is because while a new time limited route to 20% has been introduced, the viability assessment route that allows even less has been left open.  Any developer worth their salt is going to look at this too; they will weigh up their options (no doubt taking into account the grant incentive that will pay for half that they will get if they  which 
+
+Also developers that do give 20% a/h will only be paying the full cost of building half of it; a government grant will take care of the rest of it 
+
+The incentive to give 20% seems to be the grant for half of these, but there has been no assessment made public about whether his will be effective
+
+it is also worth considering what the 'success' would look like, particularly in Southwark - it would be that only one out of every five new private development homes would be affordable, when 93% of Southwark's h/h are eligible for affordable housing and only 7% can afford free-market housing.  The market for new homes on new developments in Southwark for the people who now live in Southwark would be effectively closed.  This would be the price of 'spades in the ground'
+
+This igores the pertinant fact that developers have been happy enough to put 'spades in the ground' to build student residences and co-living developments, which have mushroomed
+
+Reducing the amount of affordable housing required from private developments, when we depend upon
+
+
+
+The Mayor and Steve Reed and developers are as one in their low opinion of local decision-making powers, as evidenced by the moves to put more of those powers in his hands.  The consultation process will run over Christmas and looks both complicated and perfunctory.  
 
 How temporary will the temporary measures be?  It is easy to imagine them remaining in place beyond 31 March 2028, if *'market conditions'* do not improve to developers' satisfaction, or becoming embedded permanently into a [revised London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan/next-london-plan).
 

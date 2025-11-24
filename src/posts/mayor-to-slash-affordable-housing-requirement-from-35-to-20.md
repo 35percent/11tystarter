@@ -19,11 +19,11 @@ Cllrs Foster and Whittam also opposed any reduction in CIL, and moved that the C
 
 Eight local campaign groups have also written an Open Letter to Council Leader, Cllr Sarah King, also urging Southwark Council to resist the reductions in the affordable housing requirement and CIL [^xxxx].
 
-The letter points out that the emergency package was agreed after closed-door discussions with large developers, excluding London's concils or anyone else in the wider community, as [reported by the Guardian](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed).  It reminds Cllr King that Southwark's own key planning document, the Southwark Plan states that most households in the borough earn only enough for affordable housing, with fewer than 7% able to afford free-market housing.  Were the emergency proposals to
+The letter points out that the emergency package was agreed after closed-door discussions with large developers, excluding London's concils or anyone else in the wider community, as [reported by the Guardian](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed).  It reminds Cllr King that Southwark's own key planning document, the Southwark Plan states that most households in the borough earn only enough for affordable housing, with fewer than 7% able to afford free-market housing (^xxxxx.  Were the cut to affordable housing to go ahead hardly anyone currently living  in Southwark would be able to rent or buy a home on a new development.
 
 ![](img/open_letter_031125.png)
 
-The Council leadership prevented any discussion about the cut proposals, by proposing an amendment which replaced the entire motion with one of the own.  This details the Council's record, at the centre of which is the claim that it has built 3,000 new council homes have been built (or are (on-site).  As [we have noted before](https://www.35percent.org/posts/southwark-council-ends-council-house-building/), while creditable, this figure takes no account of those demolished, despite the [2014 promise](https://www.35percent.org/new-council-homes/) from then Council leader Peter John that the council homes *'will be new homes additonal to our existing stock'*.  After demolitions are factored in the the additional number provided is a fraction of 3,000 [^xxxxx].  Southwark has also now [ended direct delivery of its council housing](https://southwarknews.co.uk/area/southwark/council-says-it-must-stop-building-its-own-homes-and-rely-on-developers-instead/).
+The Council leadership prevented any discussion about the cut proposals, by proposing an amendment which replaced the entire motion with one of the own.  This details the Council's record, at the centre of which is the claim that it has built 3,000 new council homes have been built (or are (on-site).  As [we have noted before](https://www.35percent.org/posts/southwark-council-ends-council-house-building/), while creditable, this figure takes no account of those demolished, despite the [2014 promise](https://www.35percent.org/new-council-homes/) from then Council leader Peter John that the council homes *'will be new homes additonal to our existing stock'*.  After demolitions are factored in the the additional number provided is a fraction of 3,000 [^y].  Southwark has also now [ended direct delivery of its council housing](https://southwarknews.co.uk/area/southwark/council-says-it-must-stop-building-its-own-homes-and-rely-on-developers-instead/).
 
 As has been [widely reported](https://www.theguardian.com/society/2025/oct/23/ministers-confirm-plans-to-reduce-londons-affordable-housing-quotas), London Mayor Sadiq Khan and the Secretary of State for Housing, Steve Reed have agreed to reduce the affordable housing requirements for private developments in London from 35% to 20%.  
 
@@ -180,7 +180,9 @@ While we may very well get a 'sugar-rush' of applications to take advantage of t
 [^xxxx] The signatories are 35% Campaign, SHAPE (Southwark Housing and Planning Emergency), SDCH - (Southwark Defend Council Housing), Peckham Vision, ACA (Aylesham Community Action), PLUSH SE16,
 Southwark Law Centre, Latin Elephant.
 
-[^xxxxx] 977 council homes will have had to be demolished on the Aylesbury FDS, the Tustin and the Ledbury to allow 1,196 new social rent homes to be built - a net gain of just 219 social rented homes across these three big sites.  See <https://www.35percent.org/posts/southwark-council-ends-council-house-building/>.  
+[^xxxxx] Southwark Plan 2022 Fig 2 Home affordability in Southwark (2018)
+
+[^y] 977 council homes will have had to be demolished on the Aylesbury FDS, the Tustin and the Ledbury to allow 1,196 new social rent homes to be built - a net gain of just 219 social rented homes across these three big sites.  See <https://www.35percent.org/posts/southwark-council-ends-council-house-building/>.  
 
 in a self-congratulory way
 

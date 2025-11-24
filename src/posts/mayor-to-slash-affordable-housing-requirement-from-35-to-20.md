@@ -35,33 +35,23 @@ In the event a developer' promise of 20% affordable housing will be enought to t
 
 Purpose built student accommodation and co-living developments and schemes on Grey or Green Belt will not be eligible for the new route.
 
-#### Other proposed changes 
+#### Boroughs lose planning power to Mayor
 
-The *'temporary relief'* from paying borough Community Infrastructure Levy (CIL).  This will be cut in half if there is 20% affordable housing, 60% of which should be social rent.  The CIL cut can be increased, if the affordable housing is increased.  Developers will still have to pay the full [Mayoral CIL](https://www.london.gov.uk/programmes-strategies/planning/implementing-london-plan/mayoral-community-infrastructure-levy), which funds London-wide transport schemes, such Cross-Rail.
+Once the *'temporary relief'* from borough Community Infrastructure Levy (CIL) is in place, it will be available up to 31 Decenber 2028.  While the relief will be cut CIL in half, if there is 20% affordable housing, the cut could be increased if there is more afforable housing.  In some unspecified circumstances, the relief will be lower.  Developers will still have to pay the full [Mayoral CIL](https://www.london.gov.uk/programmes-strategies/planning/implementing-london-plan/mayoral-community-infrastructure-levy), which funds London-wide transport schemes, such Cross-Rail.
 
-h Other proposals include design changes that  *'constrain density'* - reducing dual aspect dwellings, increasing the number of dwellings in each building core and reducing cycle storage. 
+Other proposals include design changes that  *'constrain density'* - reducing the number of dual aspect dwellings (flats with windows facing different directions), increasing the number of dwellings in each building core and reducing cycle storage. 
 
-### Mayor gets more powers
+The Mayor will also be given greater powers to take decisions out of borough hands, if it looks as if the local authority might refuse an application of more than 50 units.  He will also be able to take the decision on developments of over 1,000sqm on Green Belt and Metropolitan Open land and grant *'upfront'* planning permissions for *'strategic schemes which support London's growth*'.  Local communities will also lose the opportunity of making in-person representations to the Mayor, on those schemes he takes over ('calls in') and be confined to written representations *'in certain cases'*.
 
-The Mayor will also be given greater powers to take decisions out of borough hands, if it looks as it might refuse an application of more than 50 units.  He will also be able to take the decision on developments of over 1,000sqm on Green Belt and Metropolitan Open land.  He will alos be able to grant planning permissions for 'strategic schemes'.
+#### What happens next...
 
-Six-week consultations are promised on these proposals.  
-
-Aditya Chakrabortty in the Guardian [revealed how the proposals were all fashioned in behind-closed-doors](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed) discussions with developers, sidelining councils and anyone from the wider community.
-
-<https://www.directorstalkinterviews.com/berkeley-group-reports-529m-profit-382m-shareholder-returns-for-fy25/4121203310>
-
-*'Berkeley has delivered £528.9 million of pre-tax profit for the year, with net cash at £337.3 million, in spite of ongoing geopolitical and macroeconomic volatility.  With over 75% of sales secured for the coming year, we are well-placed to achieve our FY26 pre-tax profit guidance of £450 million'.* 
-
-<https://www.voxmarkets.co.uk:3636/articles/berkeley-keeps-fy-profit-targets-after-stable-start-aed5b69>
-
-
+The emergency measures are presented with a list of four seperate consultations - by the Mayor on density/ design changes and the new 20% affordable housing 'time limited planning route' and by the government on CIL and extending the Mayor's powers - all to start 'from November' for six weeks.  At the same time, Steps to Implementation', are in train, by the government via secondary legislation and by the Mayor, using Emergency London Plan Guidance.  The joint paper considers that it has supplied *'developers, social landlords and councils with sufficient detail that they can begin preparing for its implementation - which the Government and the Mayor of london want to secure as soon as possible'*.
 
 ### What we think - less is not more
 
 How temporary will the temporary measures be?  It is easy to imagine them remaining in place beyond 31 March 2028, if *'market conditions'* do not improve to developers' satisfaction, or becoming embedded permanently into a [revised London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan/next-london-plan).
 
-A exlusively planning led approach, where planning is seen as solely as an obstacle - no account of developer profitability, beyond the confines of individual schemes. 
+A exclusively planning led approach, where planning is seen as solely as an obstacle - no account of developer profitability, beyond the confines of individual schemes. 
 
  <https://www.directorstalkinterviews.com/berkeley-group-reports-529m-profit-382m-shareholder-returns-for-fy25/4121203310>
 

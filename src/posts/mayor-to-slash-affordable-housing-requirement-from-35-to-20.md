@@ -27,9 +27,9 @@ The campaigners' letter also warns that even 20% affordable housing is not guara
 
 ### Giving developers what they want
 
-The emergency measures follow a lobbying campaign by developers [as noted in our previous blogpost](https://www.35percent.org/posts/nearly-1-000-empty-homes-on-the-aylesbury-estate/), enthusiatically supported by [so-called YIMBYS](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ft.com/content/c9576296-e265-4b4c-97ff-6311968cdefb&ved=2ahUKEwinx6Hr3YqRAxWDV0EAHdeZL1AQFnoECBkQAQ&usg=AOvVaw37EnnlT2tUAhNejzr5q7Jj).  A [House Builders Federation report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) recommended that the requirement be reduced to 25%, the Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) said that developers were demanding an even bigger cut, to between 10-15%.  In the event, Reed and Khan have rewarded them with 20%.
+The emergency measures, or package, follows a lobbying campaign by developers [(noted in our previous blogpost](https://www.35percent.org/posts/nearly-1-000-empty-homes-on-the-aylesbury-estate/)), enthusiatically supported by [YIMBYS](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ft.com/content/c9576296-e265-4b4c-97ff-6311968cdefb&ved=2ahUKEwinx6Hr3YqRAxWDV0EAHdeZL1AQFnoECBkQAQ&usg=AOvVaw37EnnlT2tUAhNejzr5q7Jj).  A [House Builders Federation report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) recommended that the affordable housing requirement be reduced to 25%, while the Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) said that developers were demanding an even bigger cut, to between 10-15%.  
 
-Up until now, developers who provided 35% affordable housing could take a no-questions-asked 'fast-track' route for planning permission, which allowed them to avoid providing a viability assessment - this threshold is now being dropped to 20%.
+In the event a developer' promise of 20% affordable housing will be enought to secure a planning permission, via a new 'time-limited planning route'.  Half of this housing will be eligible for grant funding.  The emergency package also holds out the possibility of increasing the affordable housing *'where market conditions improve'*[^yy].  
 
 Developers' obligation to pay the Community Infrastructure Levy (CIL) has also been cut in half, if developers commit to just 20% affordable housing, 60% of which should be social rent.  The CIL cut can be increased, if the affordable housing is increased.  [CIL pays for](https://assets.publishing.service.gov.uk/media/5a7969dc40f0b63d72fc59ba/1897278.pdf) *'a very broad range of facilities such as play areas, parks and green spaces, cultural and sports facilities.....and other community safety facilities'.*  Developers will also be able to claim £220,000 per unit for social rent, £70,000 for shared ownership and either £90,000 or £140,000 for intermediate rent units for about half of their affordable units, drawn from £322m of governement grant funding.
 
@@ -184,8 +184,6 @@ Southwark Law Centre, Latin Elephant.
 
 [^xxxxxx] Southwark Plan 2022 Fig 2 Home affordability in Southwark (2018)
 
-[^y] The reduction from 35% would cut the affordable housing on the Aylesham Centre from 270 to 77 units; on Bermondsey Place from around 470 units to 140 units, a total on the two Berkeley developments of around 500 affordable homes.  British Land's Canada Water (25/AP/0242) scheme would see a very rough loss of 1,000 affordable homes.  (Planning ref nos 24/AP/2074, 25/AP/2987, 25/AP/0242 respectively)
+[^y] The reduction from 35% would cut the affordable housing on the Aylesham Centre from 270 to 77 units; on Bermondsey Place from around 470 units to 140 units, a total on the two Berkeley developments of around 500 affordable homes.  British Land's Canada Water (25/AP/0242) scheme would see a very rough loss of 1,000 affordable homes.  (Planning ref nos 24/AP/2074, 25/AP/2987, 25/AP/0242 respectively).
 
-in a self-congratulory way
-
-### Open Letter
+[^yy] The benchmark grant rates will be £220,000 for Social Rent, £70,000 for Shared Ownership and £90,000 or £140,000 for Intermediate rent, amount depending upon whether units are let above or below London Living Rent.

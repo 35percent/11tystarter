@@ -21,7 +21,7 @@ Eight local campaign groups have also written an Open Letter to Council Leader, 
 
 The letter points out that the emergency package was agreed after closed-door discussions with large developers, excluding London's concils or anyone else in the wider community, as [reported by the Guardian](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed).  It reminds Cllr King that Southwark's own key planning document, the Southwark Plan states that most households in the borough earn only enough for affordable housing, with fewer than 7% able to afford free-market housing [^xxxxxx].  Were the cut to affordable housing to go ahead hardly anyone currently living in Southwark would be able to rent or buy a home on a new development.
 
-The campaigners' letter also warns that even 20% affordable housing is not guaranteed, citing Berkeley's developments at the Aylesham Centre, Peckham, and Bermondsey Place, Old Kent Rd as two large schemes that are only offering 12% and British Land's Canada Water development, which is only now offering 10% [^y].
+The campaigners' letter also warns that even 20% affordable housing is not guaranteed, citing Berkeley's developments at the Aylesham Centre and Bermondsey Place as two large schemes that are only offering 12%  with British Land's Canada Water development only offering 10% [^y].
 
 ![](img/open_letter_031125.png)
 

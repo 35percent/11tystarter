@@ -7,25 +7,25 @@ Southwark Council looks set to reduce its longstanding requirement for affordabl
 
 A [recent announcement](https://www.gov.uk/government/news/new-measures-announced-to-ramp-up-housebuilding-in-london) by the government and the Mayor proposing to slash the affordable requirement in London to 20% prompted independant councillor Sam Foster and Kath Whittam, of the Green Party, to urge the Labour administration to keep the 35% requirement in Southwark.  The borough depends on private developments for nearly all its affordable and social housing.
 
-Cllrs Foster and Whittam called on the Council' *'Not to water down affordable and social housing requirements: meaning, no reduction in the minimum affordable housing requirement of 35%, not any reduction in the minimum social rent requirment of 25%'* [^xx].  The call was made by way of a motion to the [November Council Assembly](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=132&MId=8197&Ver=4).  In response the Labour administration amended the motion entirely, largely replacing it with an account of their own housebuilding efforts.  The amended motion was carried by the Labour majority, against the votes of the Liberal Democrats and Green councillors.
+Cllrs Foster and Whittam called on the Council' *'Not to water down affordable and social housing requirements: meaning, no reduction in the minimum affordable housing requirement of 35%, not any reduction in the minimum social rent requirment of 25%'* [^xx].  The call was made by way of a motion to the [November Council Assembly](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=132&MId=8197&Ver=4).  In response the Labour administration amended the motion entirely, largely replacing it with an account of their own housebuilding efforts.  The amended motion was carried by the Labour majority, against the votes of the Liberal Democrats and Green councillors [^xxx].
 
 #### 'Emergency measures' cut affordable housing requirement and CIL
 
 The cut in the affordable housing requirement comes in a joint paper from Housing Minister Steve Reed and Mayor Sadiq Khan called ['Homes for London - A Package of Support for Housebuilding on the Capital'](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf).  The 'emergency measures' also propose cutting the Community Infrastructure Levy (CIL) by half for developments that deliver 20% affordable housing. The paper says that both sets of cuts will be for two years.  CIL is currently levied on most new developments and [pays for social infrastructure](https://www.gov.uk/guidance/community-infrastructure-levy), such as green and open spaces and GP surgeries.  Southwark r[aised £23m from CIL](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/planning-obligations-and-community/community/how) in the years 2015 to 2020.
 
-Cllrs Foster and Whittam also opposed any reduction in CIL, and moved that the Council should not *'otherwise compromise on requirements that development in Southwark serve the public good'*.  The councillors also called for more government investment in affordable and council housing, rent controls and local limits to student accomodation and co-living developmets [^xxx].
+Cllrs Foster and Whittam also opposed any reduction in CIL, and moved that the Council should not *'otherwise compromise on requirements that development in Southwark serve the public good'*.  The councillors also called for more government investment in affordable and council housing, rent controls and local limits to student accomodation and co-living developments [^xxxx].
 
 #### An Open Letter to the Southwark Council Leader
 
-Eight local campaign groups have also written an Open Letter to Council Leader, Cllr Sarah King, also urging Southwark Council to resist the reductions in the affordable housing requirement and CIL [^xxxx].
+Eight local campaign groups have also written an Open Letter to Council Leader, Cllr Sarah King, also urging Southwark Council to resist the reductions in the affordable housing requirement and CIL [^xxxxx].
 
-The letter points out that the emergency package was agreed after closed-door discussions with large developers, excluding London's concils or anyone else in the wider community, as [reported by the Guardian](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed).  It reminds Cllr King that Southwark's own key planning document, the Southwark Plan states that most households in the borough earn only enough for affordable housing, with fewer than 7% able to afford free-market housing [^xxxxx].  Were the cut to affordable housing to go ahead hardly anyone currently living in Southwark would be able to rent or buy a home on a new development.
+The letter points out that the emergency package was agreed after closed-door discussions with large developers, excluding London's concils or anyone else in the wider community, as [reported by the Guardian](https://www.theguardian.com/commentisfree/2025/oct/15/labour-housing-memo-leak-steve-reed).  It reminds Cllr King that Southwark's own key planning document, the Southwark Plan states that most households in the borough earn only enough for affordable housing, with fewer than 7% able to afford free-market housing [^xxxxxx].  Were the cut to affordable housing to go ahead hardly anyone currently living in Southwark would be able to rent or buy a home on a new development.
 
 The campaigners' letter also warns that even 20% affordable housing is not guaranteed, citing Berkeley's developments at the Aylesham Centre, Peckham, and Bermondsey Place, Old Kent Rd as two large schemes that are only offering 12% and British Land's Canada Water development, which is only now offering 10% [^y].
 
 ![](img/open_letter_031125.png)
 
-The Council leadership prevented any discussion about the cut proposals, by proposing an amendment which replaced the entire motion with one of the own.  This details the Council's record, at the centre of which is the claim that it has built 3,000 new council homes have been built (or are (on-site).  As [we have noted before](https://www.35percent.org/posts/southwark-council-ends-council-house-building/), while creditable, this figure takes no account of those demolished, despite the [2014 promise](https://www.35percent.org/new-council-homes/) from then Council leader Peter John that the council homes *'will be new homes additonal to our existing stock'*.  After demolitions are factored in the the additional number provided is a fraction of 3,000 [^yy].  Southwark has also now [ended direct delivery of its council housing](https://southwarknews.co.uk/area/southwark/council-says-it-must-stop-building-its-own-homes-and-rely-on-developers-instead/).
+The Council leadership prevented any discussion about the cut proposals, by proposing an amendment which replaced the entire motion with one of the own.  
 
 As has been [widely reported](https://www.theguardian.com/society/2025/oct/23/ministers-confirm-plans-to-reduce-londons-affordable-housing-quotas), London Mayor Sadiq Khan and the Secretary of State for Housing, Steve Reed have agreed to reduce the affordable housing requirements for private developments in London from 35% to 20%.  
 
@@ -177,16 +177,18 @@ While we may very well get a 'sugar-rush' of applications to take advantage of t
 
 [^xx] An error in the original wording said '15%'; this was corrected at the meeting, see [Tabled Items](https://moderngov.southwark.gov.uk/documents/b50018369/Tabled%20Items%20Wednesday%2012-Nov-2025%2019.00%20Council%20Assembly.pdf?T=9) pg 3 motion 3 item 5.2
 
-[^xxx] Sothwark was declared a ['hot-spot](https://www.turley.co.uk/sites/default/files/media/pdf/2023-10/turley_-_pbsa_in_london_2023_0.pdf) for purpose built student accomodation (PBSA) by development consultants Turley in 2023.
+[^xxx] The Council's central claim is that it has built, or is building 3,000 new council homes.  As [we have noted before](https://www.35percent.org/posts/southwark-council-ends-council-house-building/), while creditable, this figure takes no account of those demolished. Once these are factored in, the additional number provided is a fraction of 3,000.  In particular, 977 council homes will have had to be demolished on the Aylesbury FDS, the Tustin and the Ledbury to allow 1,196 new social rent homes to be built - a net gain of just 219 social rented homes. Southwark has also now [ended direct delivery of its council housing](https://southwarknews.co.uk/area/southwark/council-says-it-must-stop-building-its-own-homes-and-rely-on-developers-instead/).
 
-[^xxxx] The signatories are 35% Campaign, SHAPE (Southwark Housing and Planning Emergency), SDCH - (Southwark Defend Council Housing), Peckham Vision, ACA (Aylesham Community Action), PLUSH SE16,
+[^xxxx] Southwark was declared a ['hot-spot](https://www.turley.co.uk/sites/default/files/media/pdf/2023-10/turley_-_pbsa_in_london_2023_0.pdf) for purpose built student accomodation (PBSA) by development consultants Turley in 2023.
+
+[^xxxxx] The signatories are 35% Campaign, SHAPE (Southwark Housing and Planning Emergency), SDCH - (Southwark Defend Council Housing), Peckham Vision, ACA (Aylesham Community Action), PLUSH SE16,
 Southwark Law Centre, Latin Elephant.
 
-[^xxxxx] Southwark Plan 2022 Fig 2 Home affordability in Southwark (2018)
+[^xxxxxx] Southwark Plan 2022 Fig 2 Home affordability in Southwark (2018)
 
 [^y] The reduction from 35% would cut the affordable housing on the Aylesham Centre from 270 to 77 units; on Bermondsey Place from around 470 units to 140 units, a total on the two Berkeley developments of around 500 affordable homes.  British Land's Canada Water (25/AP/0242) scheme would see a very rough loss of 1,000 affordable homes.  (Planning ref nos 24/AP/2074, 25/AP/2987, 25/AP/0242 respectively)
 
-[^yy] 977 council homes will have had to be demolished on the Aylesbury FDS, the Tustin and the Ledbury to allow 1,196 new social rent homes to be built - a net gain of just 219 social rented homes across these three big sites.  See <https://www.35percent.org/posts/southwark-council-ends-council-house-building/>.  
+[^yy]   See <https://www.35percent.org/posts/southwark-council-ends-council-house-building/>.  
 
 in a self-congratulory way
 

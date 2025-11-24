@@ -47,7 +47,7 @@ The emergency measures are presented with a list of four seperate consultations,
 
 ### What we think - less is not more
 
-The Mayor and Steve Reed and developers are as one in their low opion of local decision-making powers, as evidenced by the moves to put more of those powers in his hands.  The consultation process looks both complicated and perfunctory, running over Christmas.  
+The Mayor and Steve Reed and developers are as one in their low opion of local decision-making powers, as evidenced by the moves to put more of those powers in his hands.  The consultation process will run over Christmas and looks both complicated and perfunctory.  
 
 How temporary will the temporary measures be?  It is easy to imagine them remaining in place beyond 31 March 2028, if *'market conditions'* do not improve to developers' satisfaction, or becoming embedded permanently into a [revised London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan/next-london-plan).
 

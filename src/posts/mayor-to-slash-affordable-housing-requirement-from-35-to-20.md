@@ -31,13 +31,15 @@ The emergency measures, or package, follows a lobbying campaign by developers [(
 
 In the event a developer' promise of 20% affordable housing will be enought to take advantage of a *'time-limited planning route'*, without producing a viability assessment.  Half of this housing will be eligible for grant funding.  The emergency package also holds out the possibility of increasing the affordable housing *'where market conditions improve'*[^yy].  
 
-There will also be *'temporary relief'* from paying borough Community Infrastructure Levy (CIL).  This will be cut in half if there is 20% affordable housing, 60% of which should be social rent.  The CIL cut can be increased, if the affordable housing is increased. .
+[Build to rent](https://www.gov.uk/guidance/build-to-rent) schemes will  be eligible for the same route if they provide 30% of their intermediate rent homes at [London Living Rent](https://www.london.gov.uk/programmes-strategies/housing-and-land/buying-and-owning-home/london-living-rent), with the remainder at *'a range of genuinely affordable rents'*.  If a scheme is on public land or schemes where industrial land is lost the threshold for entry to the viability-free route will remain at 35%.
 
-[Build to rent](https://www.gov.uk/guidance/build-to-rent) schemes will  be eligible for the same terms if they provide 30% of their homes at intermediate rent at [London Living Rent](https://www.london.gov.uk/programmes-strategies/housing-and-land/buying-and-owning-home/london-living-rent), with the remainder at *'a range of genuinely affordable rents'*.
+Purpose built student accommodation and co-living developments and schemes on Grey or Green Belt will not be eligible for the new route.
 
-Existing schemes, which already have planning permission will be able to apply for this grant too?
+#### Other proposed changes 
 
-The proposals are outlined in a [joint paper from the Government and the Mayor](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf).  Other proposals include design changes that  *'constrain density'* - reducing dual aspect dwellings, increasing the number of dwellings in each building core and reducing cycle storage. 
+The *'temporary relief'* from paying borough Community Infrastructure Levy (CIL).  This will be cut in half if there is 20% affordable housing, 60% of which should be social rent.  The CIL cut can be increased, if the affordable housing is increased.  Developers will still have to pay the full [Mayoral CIL](https://www.london.gov.uk/programmes-strategies/planning/implementing-london-plan/mayoral-community-infrastructure-levy), which funds London-wide transport schemes, such Cross-Rail.
+
+h Other proposals include design changes that  *'constrain density'* - reducing dual aspect dwellings, increasing the number of dwellings in each building core and reducing cycle storage. 
 
 ### Mayor gets more powers
 
@@ -56,6 +58,16 @@ Aditya Chakrabortty in the Guardian [revealed how the proposals were all fashion
 
 
 ### What we think - less is not more
+
+How temporary will the temporary measures be?  It is easy to imagine them remaining in place beyond 31 March 2028, if *'market conditions'* do not improve to developers' satisfaction, or becoming embedded permanently into a [revised London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan/next-london-plan).
+
+A exlusively planning led approach, where planning is seen as solely as an obstacle - no account of developer profitability, beyond the confines of individual schemes. 
+
+ <https://www.directorstalkinterviews.com/berkeley-group-reports-529m-profit-382m-shareholder-returns-for-fy25/4121203310>
+
+*'Berkeley has delivered £528.9 million of pre-tax profit for the year, with net cash at £337.3 million, in spite of ongoing geopolitical and macroeconomic volatility.  With over 75% of sales secured for the coming year, we are well-placed to achieve our FY26 pre-tax profit guidance of £450 million'.* 
+
+<https://www.voxmarkets.co.uk:3636/articles/berkeley-keeps-fy-profit-targets-after-stable-start-aed5b69>
 
 Southwark Council's Labour administration does itself no favours by deliberately avoiding debate about the government and Mayor's so-called emergency package.  If it is implemented the package will shred the borough's longstanding policy requirement for 35% affordable housing and could lose us the funds needed to keep the borough a moderately civilised place to live in.
 

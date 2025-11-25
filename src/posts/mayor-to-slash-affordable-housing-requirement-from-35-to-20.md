@@ -44,7 +44,7 @@ The emergency package will also give the Mayor greater powers to take decisions 
 
 #### What happens next...
 
-The emergency measures are presented with a list of four seperate consultations, all to start from November and lasting six weeks.  These will be aligned; two by the Mayor on density/ design changes and the new 20% affordable housing *'time limited planning route'* and two run by the government on CIL and extending the Mayor's powers.  At the same time,'*Steps to Implementation'*, are in train, by the government via secondary legislation and by the Mayor, using Emergency London Plan Guidance.  The joint paper considers that it has supplied *'developers, social landlords and councils with sufficient detail that they can begin preparing for its implementation - which the Government and the Mayor of london want to secure as soon as possible'*.
+The emergency measures are presented with a list of four seperate consultations, all to start from November and lasting six weeks.  These will be aligned; two by the Mayor on density/ design changes and the new 20% affordable housing *'time limited planning route'* and two run by the government on CIL and extending the Mayor's powers.  At the same time,'*Steps to Implementation'* will be in train, by the government via secondary legislation and by the Mayor, using Emergency London Plan Guidance.  The joint paper considers that it has supplied *'developers, social landlords and councils with sufficient detail that they can begin preparing for its implementation - which the Government and the Mayor of london want to secure as soon as possible'*.
 
 ### What we think - less is not more
 

@@ -70,7 +70,7 @@ We have no idea what Southwark's Labour administration thinks about Steve Reed a
 
 [^3] The Council's central claim is that it has built, or is building 3,000 new council homes.  As [we have noted before](https://www.35percent.org/posts/southwark-council-ends-council-house-building/), while creditable, this figure takes no account of those demolished. Once these are factored in, the additional number provided is a fraction of 3,000.  In particular, 977 council homes will have had to be demolished on the Aylesbury FDS, the Tustin and the Ledbury to allow 1,196 new social rent homes to be built - a net gain of just 219 social rented homes. Southwark has also now [ended direct delivery of its council housing](https://southwarknews.co.uk/area/southwark/council-says-it-must-stop-building-its-own-homes-and-rely-on-developers-instead/).
 
-[^4] Southwark was declared a ['hot-spot](https://www.turley.co.uk/sites/default/files/media/pdf/2023-10/turley_-_pbsa_in_london_2023_0.pdf) for purpose built student accomodation (PBSA) by development consultants Turley in 2023.
+[^4] Southwark was declared a ['hotspot](https://www.turley.co.uk/sites/default/files/media/pdf/2023-10/turley_-_pbsa_in_london_2023_0.pdf)' for purpose built student accomodation (PBSA) by development consultants Turley in 2023.
 
 [^5] The signatories are 35% Campaign, SHAPE (Southwark Housing and Planning Emergency), SDCH - (Southwark Defend Council Housing), Peckham Vision, ACA (Aylesham Community Action), PLUSH SE16,
 Southwark Law Centre, Latin Elephant.

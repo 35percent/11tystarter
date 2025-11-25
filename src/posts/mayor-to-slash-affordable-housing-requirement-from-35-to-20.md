@@ -52,17 +52,19 @@ The pro-development argument behind reducing the affordable housing requirement 
 
 What has been proposed though does not guarantee 20% affordable housing, as the examples put to Southwark Council leader Sarah King by local campaigners illustrate.  Between them Canada Water, the Aylesham Centre and the mis-named Bermondsey Place developments total roughly 5,000 new homes.  At 35% affordable housing this would provide us with roughly 1,750 affordable homes, at 20% roughly 1,000.  Berkeley and British Land are offering 12% and 10% - a mere 500/600 homes.
 
-This is because while a new time limited route to 20% is being introduced, the viability assessment route that allows even less affordable housing has been left open.  Any developer worth their salt is going to look at this too; they will weigh up their options, including the grant incentive for half the affordable housing if they promise 20%, and choose the option that costs them least, not that which maximises affordable housing.
+This is because while a new time limited route to 20% is being introduced, the viability assessment route that allows even less affordable housing has been left open.  Any developer worth their salt is going to look at this too; they will weigh up their options, including the grant incentive for half the affordable housing if they promise 20%, and choose the option that costs them least, not that which maximises affordable housing.  
 
-The Ruby Triangle	18/AP/0897  1152 units Cantium Retail Park	18/AP/3246 1113 units Southernwood Retail Park (Humphrey St, opp Tesco)  18/AP/3551 724 units
+The gain-share review mechanism  that could increase affordable houisng at a later stage is not new and will only apply in limited circumstances.  Later stage review mechanisms have been in place fro many years and the 35% Campaign is unaware of any schemes in Southwark where this has produced any significant increase in affordable housing.
 
-The gain-share review mechanism is not new and will only apply in limited circumstances.  Later stage review mechanisms have been in place fro many years and the 35% Campaign is unaware of any schemes in Southwark where this has produced any significant increase in affordable housing.
+The emergency measures are not just for upcoming schemes; there explicitly aimed at stalled developments. Some big developments, other than the The Ruby Triangle	18/AP/0897  1152 units Cantium Retail Park	18/AP/3246 1113 units Southernwood Retail Park (Humphrey St, opp Tesco)  18/AP/3551 724 units
+
+
 
 it is also worth considering what the 'success' would look like, particularly in Southwark - it would be that only one out of every five new private development homes would be affordable, when 93% of Southwark's h/h are eligible for affordable housing and only 7% can afford free-market housing.  The market for new homes on new developments in Southwark for the people who now live in Southwark would be effectively closed.  This would be the price of 'spades in the ground'.
 
 This igores the pertinant fact that developers have been happy enough to put 'spades in the ground' to build student residences and co-living developments, which have mushroomed
 
-Reducing the amount of affordable housing required from private developments, when we depend upon
+R
 
 The Mayor and Steve Reed and developers are as one in their low opinion of local decision-making powers, as evidenced by the moves to put more of those powers in his hands.  The consultation process will run over Christmas and looks both complicated and perfunctory.  
 

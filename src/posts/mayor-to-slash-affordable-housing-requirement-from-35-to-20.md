@@ -30,7 +30,7 @@ The letter points out that the emergency package was agreed after closed-door di
 
 The campaigners' letter also warns that even 20% affordable housing is not guaranteed, citing Berkeley's developments at the [Aylesham Centre](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/) and[ Bermondsey Place](https://southwarknews.co.uk/news/news-plus/old-kent-road-housing-scheme-by-firm-behind-contentious-peckham-redevelopment-will-contain-just-81-affordable-homes-out-of-a-thousand/) as two large schemes that are only offering 12% [^7] and  British Land's Canada Water development only offering 10% (despite [their webpage still saying 35%](https://canadawater.co.uk/vision/masterplan/))[^8].
 
-![](img/open_letter_031125.png)
+![](img/fig_2_housing_affordability_in_southwark_2018_southwark_plan_2022.png)
 
 ### Giving developers what they want
 

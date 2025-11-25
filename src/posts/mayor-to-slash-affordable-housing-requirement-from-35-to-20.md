@@ -44,6 +44,8 @@ Other proposals include design changes that *'constrain density'* - reducing the
 
 The emergency package will also give the Mayor greater powers to take decisions himself, and out of borough hands, if it looks as if they might refuse an application of more than 50 units.  He will also be able to take the decision on developments of over 1,000sqm on Green Belt and Metropolitan Open land and grant *'upfront'* planning permissions for *'strategic schemes which support London's growth*'.  In *'certain cases'* he will also take decisions without hearing in-person representations about the schemes he calls-in, but will instead depend on written representations.
 
+![](img/less_community_infrastructure_two.png)
+
 #### What happens next...
 
 The emergency measures are presented with a list of four separate consultations, all to start from November and lasting six weeks.  These will be aligned; two run by the Mayor on density/ design changes and the new 20% affordable housing *'time limited planning route'* and two run by the government on CIL and extending the Mayor's powers.  At the same time, '*Steps to Implementation'* will be put in train, by the government via secondary legislation and by the Mayor, using Emergency London Plan Guidance.  The joint paper considers that it has supplied *'developers, social landlords and councils with sufficient detail that they can begin preparing for its implementation - which the Government and the Mayor of London want to secure as soon as possible'*.

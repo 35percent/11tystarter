@@ -48,7 +48,7 @@ The emergency measures are presented with a list of four seperate consultations,
 
 ### What we think - less is not more
 
-<https://www.southwark.gov.uk/sites/default/files/2025-05/Facts%20and%20Figures%20-%20Housing%20%281%29.pdf> - Table 7 for completions; never below 26%; voluntatrily going to reduce requirement to 20%?  What sense does this make?
+[](https://www.southwark.gov.uk/sites/default/files/2025-05/Facts%20and%20Figures%20-%20Housing%20%281%29.pdf)
 
 The pro-development argument behind reducing the affordable housing requirement can be summed up by the claim that '20% of something is better than 35% of nothing'.  According to this line of thinking schemes have stalled across London and the way to get 'spades in the ground' and get them going again is to relieve developers of the burden of providing affordable housing and social infrastucture payments.
 
@@ -191,6 +191,8 @@ While we may very well get a 'sugar-rush' of applications to take advantage of t
 <https://ihowz.uk/londons-housing-solution-student-accommodation-boom/#:~:text=According%20to%20new%20research%20from,option%20for%20investors%20and%20providers.>
 
 <https://www.gov.uk/government/news/new-measures-announced-to-ramp-up-housebuilding-in-london>
+
+<https://www.southwark.gov.uk/sites/default/files/2025-05/Facts%20and%20Figures%20-%20Housing%20%281%29.pdf> - Table 7 for completions; never below 26%; voluntatrily going to reduce requirement to 20%?  What sense does this make?
 
 [^x] [Saved Southwark Plan 2007](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)
 

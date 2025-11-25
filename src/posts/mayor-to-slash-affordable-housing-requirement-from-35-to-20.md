@@ -64,8 +64,6 @@ It is also worth considering what the 'success' would look like, if the 20% requ
 
 We have no idea what Southwark's Labour administration thinks about Steve Reed and Sadiq Khan's ideas. It avoided debating the issue, when it was given the opportunity at Council Assembly, by substituting its own self-congratulatory motion for the critical one that was proposed by Cllr Foster and Whittam. The Council's motion ends by saying that it will *'continue defending Southwark's planning policies'*.  But what does this mean? Does Southwark intend to keep 35% affordable housing and full CIL payments or will it oppose the emergency package? Southwark rightly notes that it has *'robustly defended'* 35%  at the recent planning inquiry that will decide the fate of the Aylesham site. It must now maintain that defence across the borough for all new housing developments and oppose Reed and Khan's emergency measures.  Failing to do this will confirm the strong suspicion that the decisions about how much affordable housing we get in Southwark are being made in the board rooms of big developers, such Berkeley and British Land, not by the Council at Tooley St.
 
-END
-
 [^1] [Saved Southwark Plan 2007](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)
 
 [^2] An error in the motion's original wording said '15%'; this was corrected at the meeting, see [Tabled Items](https://moderngov.southwark.gov.uk/documents/b50018369/Tabled%20Items%20Wednesday%2012-Nov-2025%2019.00%20Council%20Assembly.pdf?T=9) pg 3 motion 3 item 5.2

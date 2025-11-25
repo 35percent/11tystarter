@@ -67,7 +67,7 @@ Reducing the amount of affordable housing required from private developments, wh
 
 The Mayor and Steve Reed and developers are as one in their low opinion of local decision-making powers, as evidenced by the moves to put more of those powers in his hands.  The consultation process will run over Christmas and looks both complicated and perfunctory.  
 
-How temporary will the temporary measures be?  It is easy to imagine them remaining in place beyond 31 March 2028, if *'market conditions'* do not improve to developers' satisfaction, or becoming embedded permanently into a [revised London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan/next-london-plan).
+How temporary will the temporary measures be?  It is easy to imagine them remaining in place beyond 31 March 2028, if *'market conditions'* do not improve to developers' satisfaction, or becoming embedded permanently into a [revised London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan/next-london-plan).  Also, while they are time-limited the consequences will be hard to reverse – once a site is built-out with free-market housing, the opportunity for affordable housing will be gone.
 
 A exclusively planning led approach, where planning is seen as solely as an obstacle - no account of developer profitability, beyond the confines of individual schemes. 
 

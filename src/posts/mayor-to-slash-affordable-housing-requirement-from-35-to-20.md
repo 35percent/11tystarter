@@ -38,9 +38,9 @@ In the event a developer' promise of 20% affordable housing, with 60% of this as
 
 #### Boroughs lose planning power to Mayor
 
-Other proposals include design changes that  *'constrain density'* - reducing the number of dual aspect dwellings (flats with windows facing different directions), increasing the number of dwellings in each building core and reducing cycle storage. 
+Other proposals include design changes that *'constrain density'* - reducing the number of dual aspect dwellings (flats with windows facing different directions), increasing the number of dwellings in each building core and reducing cycle storage. 
 
-The emergency package will also give the Mayor greater powers to take decisions himself, and out of borough hands, if it looks as if they might refuse an application of more than 50 units.  He will also be able to take the decision on developments of over 1,000sqm on Green Belt and Metropolitan Open land and grant *'upfront'* planning permissions for *'strategic schemes which support London's growth*'.  In *'certain cases'* he will also take decisions without hearing in-person representations about the schemes he calls-in, but will instead depend only on written representations.
+The emergency package will also give the Mayor greater powers to take decisions himself, and out of borough hands, if it looks as if they might refuse an application of more than 50 units.  He will also be able to take the decision on developments of over 1,000sqm on Green Belt and Metropolitan Open land and grant *'upfront'* planning permissions for *'strategic schemes which support London's growth*'.  In *'certain cases'* he will also take decisions without hearing in-person representations about the schemes he calls-in, but will instead depend on written representations.
 
 #### What happens next...
 

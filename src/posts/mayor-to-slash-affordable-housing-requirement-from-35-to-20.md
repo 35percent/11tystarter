@@ -32,7 +32,7 @@ The campaigners' letter also warns that even 20% affordable housing is not guara
 
 The emergency measures, or package, follows a lobbying campaign by developers [(noted in our previous blogpost](https://www.35percent.org/posts/nearly-1-000-empty-homes-on-the-aylesbury-estate/)), enthusiatically supported by [YIMBYS](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ft.com/content/c9576296-e265-4b4c-97ff-6311968cdefb&ved=2ahUKEwinx6Hr3YqRAxWDV0EAHdeZL1AQFnoECBkQAQ&usg=AOvVaw37EnnlT2tUAhNejzr5q7Jj).  A [House Builders Federation report](https://www.hbf.co.uk/documents/14913/Mind_the_Gap_Examining_Londons_housing_shortfall.pdf) recommended that the affordable housing requirement be reduced to 25%, while the Financial Times and [Evening Standard](https://www.standard.co.uk/news/london/housing-crisis-sadiq-khan-affordable-homes-rule-gla-mayor-b1250874.html) said that developers were demanding an even bigger cut, to between 10-15%.  
 
-In the event a developer' promise of 20% affordable housing, with 60% of this as social rent, will be enought to take advantage of a *'time-limited planning route'* to gaining a planning permission, without having to produce a viability assessment.  Half of such housing will be eligible for grant funding.  The emergency package also holds out the possibility of increasing the affordable housing *'where market conditions improve'*, and schemes have not made sufficicient progress by March 2030, through a *'gain-share'* review mechanism [^yy].  
+In the event a developer' promise of 20% affordable housing, with 60% of this as social rent, will be enought to take advantage of a *'time-limited planning route'* to gaining a planning permission, without having to produce a viability assessment.  Half of such housing will be eligible for grants, from an initial fund of £322m.  The emergency package also holds out the possibility of increasing the affordable housing *'where market conditions improve'*, and schemes have not made sufficicient progress by March 2030, through a *'gain-share'* review mechanism [^yy].  
 
 [Build to rent](https://www.gov.uk/guidance/build-to-rent) schemes will  be eligible for the same route if they provide 30% of their intermediate rent homes at [London Living Rent](https://www.london.gov.uk/programmes-strategies/housing-and-land/buying-and-owning-home/london-living-rent), with the remainder at *'a range of genuinely affordable rents'*.  If a scheme is on public land or loses industrial land the threshold for entry to the viability-free route will remain at 35%.  Purpose built student accommodation and co-living developments and schemes on Grey or Green Belt will also not be eligible for the new route.
 
@@ -56,17 +56,17 @@ This is because while a new time limited route to 20% is being introduced, the v
 
 The emergency measures are explicitly aimed at stalled developments. Some big developments that might fall into this category [line the Old Kent Rd](https://www.southwark.gov.uk/sites/default/files/2025-10/Old%20Kent%20Road%20Area%20Action%20Plan%20Planning%20approvals%20September%202025.pdf) - the Ruby Triangle, Cantium Retail Park, each over a eleven hundred units and Southernwood Retail Park, over 700 units - all of which have planning permission for 35% affordable housing, but are not yet built.  A reduction to 20% affordable housing on these sites would mean a loss of of around 400 affordable homes, accompnied by big losses in CIL payments.
 
-#### Homes just for all.....if you have the money
+And while the measures are billed as 'time-limited' it is easy to imagine them remaining in place beyond 31 March 2028, or becoming embedded permanently into a [revised London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan/next-london-plan), if *'market conditions'* do not improve to developers' satisfaction.  In any event the consequences of two-years with a reduced affordable requirement will be hard to reverse – once a site is built-out with free-market housing, the opportunity for affordable housing will be gone.
 
-it is also worth considering what the 'success' would look like, particularly in Southwark - it would be that only one out of every five new private development homes would be affordable, when 93% of Southwark's h/h are eligible for affordable housing and only 7% can afford free-market housing.  The market for new homes on new developments in Southwark for the people who now live in Southwark would be effectively closed.  This would be the price of 'spades in the ground'.
+#### Homes for all.....if you have the money
 
-This igores the pertinant fact that developers have been happy enough to put 'spades in the ground' to build student residences and co-living developments, which have mushroomed
+It is also worth considering what the 'success' would look like, in terms of the communities that will result, if the 20% requirement takes effect.  It would mean only one in five new development homes would be affordable; this is not a recipe for mixed and balanced communities, when only 7% of Southwark's households can afford free-market housing.  The market for new homes on new developments in Southwark,for the people who now live in Southwark, would be effectively closed.  A community heavily tilted towards the most affluent would be the price of *'spades in the ground'*.
 
-R
+We have no idea what Southwark's Labour administration thinks about Steve Reeds and Sadiq Khan's ideas. In its own self-congratulatory motion the Council welcomes a new London investment fund of 322m and the exclusion of student and co-living schemes from the emergency package.  The motion ends with the single sentence, saying that the Council will *'continue to defending Southwark's planning policies'*.  But what does this mean? Will Southwark intend to keep 35% affordable housing and oppose the emergency package? Or try to change it?
 
-The Mayor and Steve Reed and developers are as one in their low opinion of local decision-making powers, as evidenced by the moves to put more of those powers in his hands.  The consultation process will run over Christmas and looks both complicated and perfunctory.  
+These are unanswered questions, but one thing is clear; that as things stand the decisions about how much affordable housing we will get in Southwark are being made in the board rooms of big developers, such Berkeleys and British Land, not by the Council at Tooley St.
 
-How temporary will the temporary measures be?  It is easy to imagine them remaining in place beyond 31 March 2028, if *'market conditions'* do not improve to developers' satisfaction, or becoming embedded permanently into a [revised London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan/next-london-plan).  Also, while they are time-limited the consequences will be hard to reverse – once a site is built-out with free-market housing, the opportunity for affordable housing will be gone.
+
 
 A exclusively planning led approach, where planning is seen as solely as an obstacle - no account of developer profitability, beyond the confines of individual schemes. 
 
@@ -78,7 +78,7 @@ A exclusively planning led approach, where planning is seen as solely as an obst
 
 Southwark Council's Labour administration does itself no favours by deliberately avoiding debate about the government and Mayor's so-called emergency package.  If it is implemented the package will shred the borough's longstanding policy requirement for 35% affordable housing and could lose us the funds needed to keep the borough a moderately civilised place to live in.
 
-We can have no idea of whether the Council thinks that affordable housing and CIL parts of the emergency package proposals are good ideas or bad ideas.  In its own self-congratulatory motion the Council welcomes a new London investment fund of 322m and the exclusion of student and co-living schemes from the emergency package.  The motion ends with the single sentence, saying that the Council will *'continue to defending Southwark's planning policies'*.  But what does this mean? Will Southwark intend to keep 35% affordable housing and oppose the emergency package? Or try to change it?  
+
 
 #### Decisions made in developers boardrooms
 
@@ -191,6 +191,12 @@ While we may very well get a 'sugar-rush' of applications to take advantage of t
 <https://www.gov.uk/government/news/new-measures-announced-to-ramp-up-housebuilding-in-london>
 
 <https://www.southwark.gov.uk/sites/default/files/2025-05/Facts%20and%20Figures%20-%20Housing%20%281%29.pdf> - Table 7 for completions; never below 26%; voluntatrily going to reduce requirement to 20%?  What sense does this make?
+
+This igores the pertinant fact that developers have been happy enough to put 'spades in the ground' to build student residences and co-living developments, which have mushroomed
+
+R
+
+The Mayor and Steve Reed and developers are as one in their low opinion of local decision-making powers, as evidenced by the moves to put more of those powers in his hands.  The consultation process will run over Christmas and looks both complicated and perfunctory.
 
 [^x] [Saved Southwark Plan 2007](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)
 

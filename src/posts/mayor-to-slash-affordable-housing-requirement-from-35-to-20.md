@@ -75,7 +75,7 @@ We have no idea what Southwark's Labour administration thinks about Steve Reed a
 [^5] The signatories are 35% Campaign, SHAPE (Southwark Housing and Planning Emergency), SDCH - (Southwark Defend Council Housing), Peckham Vision, ACA (Aylesham Community Action), PLUSH SE16,
 Southwark Law Centre, Latin Elephant.
 
-[^6] Southwark Plan 2022 Fig 2 Home affordability in Southwark (2018).  The income ranges for households that can afford market housing extends from £90,000 to £200,000 pa and amounts to 6.9% of the total households in the borough; all other households lie within income ranges that are eligible for affordable housing. the figures date from 2018, but the situation is hardly likley to have improved since.
+[^6] Southwark Plan 2022 Fig 2 Home affordability in Southwark (2018).  The income ranges for households that can afford market housing extends from £90,000 to £200,000+ pa and amounts to 6.9% of the total households in the borough; all other households lie within income ranges that are eligible for affordable housing. the figures date from 2018, but the situation is hardly likley to have improved since.
 
 [^7] The reduction from 35% would cut the affordable housing on the Aylesham Centre from 270 to 77 units; on Bermondsey Place from around 470 units to 140 units, a total on the two Berkeley developments of around 500 affordable homes.  British Land's Canada Water (25/AP/0242) scheme would see a very rough loss of 1,000 affordable homes.  (Planning ref nos 24/AP/2074, 25/AP/2987, 25/AP/0242 respectively).
 

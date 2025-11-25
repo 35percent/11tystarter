@@ -59,7 +59,7 @@ Ruby Triangle	18/AP/0897  1152 units Cantium Retail Park	18/AP/3246 1113 units S
 
 The incentive to give 20% seems to be the grant for half of these, but there has been no assessment made public about whether his will be effective
 
-it is also worth considering what the 'success' would look like, particularly in Southwark - it would be that only one out of every five new private development homes would be affordable, when 93% of Southwark's h/h are eligible for affordable housing and only 7% can afford free-market housing.  The market for new homes on new developments in Southwark for the people who now live in Southwark would be effectively closed.  This would be the price of 'spades in the ground'
+it is also worth considering what the 'success' would look like, particularly in Southwark - it would be that only one out of every five new private development homes would be affordable, when 93% of Southwark's h/h are eligible for affordable housing and only 7% can afford free-market housing.  The market for new homes on new developments in Southwark for the people who now live in Southwark would be effectively closed.  This would be the price of 'spades in the ground'.
 
 This igores the pertinant fact that developers have been happy enough to put 'spades in the ground' to build student residences and co-living developments, which have mushroomed
 

@@ -48,8 +48,6 @@ The emergency measures are presented with a list of four seperate consultations,
 
 ### What we think - less is not more
 
-[](https://www.southwark.gov.uk/sites/default/files/2025-05/Facts%20and%20Figures%20-%20Housing%20%281%29.pdf)
-
 The pro-development argument behind reducing the affordable housing requirement can be summed up by the claim that '20% of something is better than 35% of nothing'.  According to this line of thinking schemes have stalled across London and the way to get 'spades in the ground' and get them going again is to relieve developers of the burden of providing affordable housing and social infrastucture payments.
 
 What has been proposed though does not guarantee 20% affordable housing, as the examples put to Southwark Council leader Sarah King by local campaigners illustrate.  Between them Canada Water, the Aylesham Centre and the mis-named Bermondsey Place developments total roughly 5,000 new homes.  At 35% affordable housing this would provide us with roughly 1,750 affordable homes, at 20% roughly 1,000.  Berkeley and British Land are offering 12% and 10% - a mere 500/600 homes.

@@ -60,7 +60,7 @@ And while the emergency measures are billed as *'time-limited'* it is easy to im
 
 #### Homes for all.....if you have the money
 
-It is also worth considering what the 'success' would look like, if the 20% requirement takes effect, in terms of the communities that will result.  'Suuccess' would mean only one in five new development homes would be affordable; this is not a recipe for mixed and balanced communities (one of plannings of the overarching goals), when only 7% of Southwark's households can afford free-market housing.  The market for new homes on new developments in Southwark, for the people who now live in Southwark, would be effectively closed.  A community heavily tilted towards the most affluent would be the price of *'spades in the ground'*.
+It is also worth considering what the 'success' would look like, if the 20% requirement takes effect, in terms of the communities that will result.  'Success' would mean only one in five new development homes would be affordable; this is not a recipe for *'strong and inclusive communities'*, when only 7% of Southwark's households can afford free-market housing.  The market for new homes on new developments in Southwark, for the people who now live in Southwark, would be effectively closed.  A community heavily tilted towards the most affluent would be the price of *'spades in the ground'*.
 
 We have no idea what Southwark's Labour administration thinks about Steve Reed and Sadiq Khan's ideas. It avoided debating the issue, when it was given the opportunity at Council Assembly, by substituting its own self-congratulatory motion for the critical one that was proposed. The Council motion ends by saying that it will *'continue defending Southwark's planning policies'*.  But what does this mean? Does Southwark intend to keep 35% affordable housing and full CIL payments or will it oppose the emergency package? Southwark rightly notes that it has *'robustly defended'* 35%  at the recent planning inquiry that will decide the fate of the Aylesham site. It must now maintain that defence across the borough for all new housing developments and oppose Reed and Khan's emergency measures.  Failing to do this will confirm the strong suspicion that the decisions about how much affordable housing we get in Southwark are being made in the board rooms of big developers, such Berkeleys and British Land, not by the Council at Tooley St.
 
@@ -77,8 +77,10 @@ END
 [^xxxxx] The signatories are 35% Campaign, SHAPE (Southwark Housing and Planning Emergency), SDCH - (Southwark Defend Council Housing), Peckham Vision, ACA (Aylesham Community Action), PLUSH SE16,
 Southwark Law Centre, Latin Elephant.
 
-[^xxxxxx] Southwark Plan 2022 Fig 2 Home affordability in Southwark (2018)
+[^xxxxxx] Southwark Plan 2022 Fig 2 Home affordability in Southwark (2018).  The income ranges for households that can afford market housing extends from £90,000 to £200,000 pa and amounts to 6.9% of the total households in the borough; all other households lie within income ranges that are eligible for affordable housing. the figures date from 2018, but the situation is hardly likley to have improved since.
 
 [^y] The reduction from 35% would cut the affordable housing on the Aylesham Centre from 270 to 77 units; on Bermondsey Place from around 470 units to 140 units, a total on the two Berkeley developments of around 500 affordable homes.  British Land's Canada Water (25/AP/0242) scheme would see a very rough loss of 1,000 affordable homes.  (Planning ref nos 24/AP/2074, 25/AP/2987, 25/AP/0242 respectively).
 
 [^yy] The benchmark grant rates will be £220,000 for Social Rent, £70,000 for Shared Ownership and £90,000 or £140,000 for Intermediate rent, amount depending upon whether units are let above or below London Living Rent.  This will be drawn from a City Hall Developer Investment Fund, of initial £322m initially.
+
+[^yyy] Building strong and inclusive communities are one of the Mayor's planning aims; see London Plan 2021, GG1.  See Southwark Plan 2022 Fig 2 Home affordability in Southwark (2018) and footnote [^xxxxxx] above.

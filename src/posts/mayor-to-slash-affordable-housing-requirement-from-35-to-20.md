@@ -66,7 +66,7 @@ We have no idea what Southwark's Labour administration thinks about Steve Reed a
 
 [^1] [Saved Southwark Plan 2007](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)
 
-[^2] An error in the motion's original wording said '15%'; this was corrected at the meeting, see [Tabled Items](https://moderngov.southwark.gov.uk/documents/b50018369/Tabled%20Items%20Wednesday%2012-Nov-2025%2019.00%20Council%20Assembly.pdf?T=9) pg 3 motion 3 item 5.2
+[^2] An error in the motion's original wording said '15%'; this was corrected at the meeting, see [Tabled Items](https://moderngov.southwark.gov.uk/documents/b50018369/Tabled%20Items%20Wednesday%2012-Nov-2025%2019.00%20Council%20Assembly.pdf?T=9) pg 3  item 5.2 motion 3.
 
 [^3] The Council's central claim is that it has built, or is building 3,000 new council homes.  As [we have noted before](https://www.35percent.org/posts/southwark-council-ends-council-house-building/), while creditable, this figure takes no account of those demolished. Once these are factored in, the additional number provided is a fraction of 3,000.  In particular, 977 council homes will have had to be demolished on the Aylesbury FDS, the Tustin and the Ledbury to allow 1,196 new social rent homes to be built - a net gain of just 219 social rented homes. Southwark has also now [ended direct delivery of its council housing](https://southwarknews.co.uk/area/southwark/council-says-it-must-stop-building-its-own-homes-and-rely-on-developers-instead/).
 

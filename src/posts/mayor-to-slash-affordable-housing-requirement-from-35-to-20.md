@@ -20,6 +20,8 @@ The paper says that both sets of cuts will be in place for about two years.  CIL
 Cllrs Foster and Whittam also opposed any reduction in CIL, and moved that the Council should not *'otherwise compromise on requirements that development in Southwark serve the public good'*.  The councillors also called for more government investment in affordable and council housing, rent controls and local limits to student accommodation and co-living developments [^4].  The Labour administration's amended motion referred to a [consultation on increasing CIL for student accommodation](https://engage.southwark.gov.uk/en-GB/projects/cil-direct-let-student-housing-rate?utm_content=&utm_medium=email&utm_name=&utm_source=govdelivery&utm_term=), and resolved to *'maximise
 long-term community benefit from new developments'* but otherwise side-stepped the issue.
 
+![](img/less_community_infrastructure_two.png)
+
 #### An Open Letter to the Southwark Council Leader
 
 Eight local campaign groups (including 35% Campaign) have also written an Open Letter to Council Leader, Cllr Sarah King, also urging Southwark Council to resist the reductions in the affordable housing requirement and CIL [^5].
@@ -43,8 +45,6 @@ In the event a developer' promise of 20% affordable housing, with 60% of this as
 Other proposals include design changes that *'constrain density'* - reducing the number of dual aspect dwellings (flats with windows facing different directions), increasing the number of dwellings in each building core and reducing cycle storage. 
 
 The emergency package will also give the Mayor greater powers to take decisions himself, and out of borough hands, if it looks as if they might refuse an application of more than 50 units.  He will also be able to take the decision on developments of over 1,000sqm on Green Belt and Metropolitan Open land and grant *'upfront'* planning permissions for *'strategic schemes which support London's growth*'.  In *'certain cases'* he will also take decisions without hearing in-person representations about the schemes he calls-in, but will instead depend on written representations.
-
-![](img/less_community_infrastructure_two.png)
 
 #### What happens next...
 

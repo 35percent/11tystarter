@@ -1,7 +1,7 @@
 ---
 title: Southwark set to reduce 35% affordable housing to 20%
-description: Assembly meeting rejects move to keep 35% requirement
-date: 2025-10-25T14:21:46.200Z
+description: Council Assembly meeting rejects move to keep 35% requirement
+date: 2025-11-26T09:53:25.527Z
 ---
 ![](img/less_affordable_housing_two.png)
 

@@ -4,14 +4,13 @@ description: Council Assembly meeting rejects move to keep 35% requirement
 date: 2025-11-26
 image: img/less_affordable_housing_two.png
 ---
-
 Southwark Council looks set to reduce its longstanding requirement for affordable housing on private developments to 20%, after rejecting a call to keep the level at 35% at [its recent Assembly meeting](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=132&MId=8197&Ver=4).  The 35% requirement applies to all major schemes (over 10 units) and has been in place, with some changes, since the 2007 [^1[](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)].  
 
 A [recent announcement](https://www.gov.uk/government/news/new-measures-announced-to-ramp-up-housebuilding-in-london) by the government and the Mayor proposing to slash the affordable requirement in London to 20% prompted independent councillor Sam Foster and Kath Whittam, of the Green Party, to urge the Labour administration to keep the 35% requirement in Southwark.  The borough depends on private developments for most of its affordable and social housing.
 
 Cllrs Foster and Whittam called on the Council' *'Not to water down affordable and social housing requirements: meaning, no reduction in the minimum affordable housing requirement of 35%, not any reduction in the minimum social rent requirement of 25%'* [^2].  The call was made by way of a motion to the [November Council Assembly](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=132&MId=8197&Ver=4).  In response the Labour administration amended the motion entirely, largely replacing it with an account of their own housebuilding efforts.  The [amended motion was carried](https://moderngov.southwark.gov.uk/documents/g8197/Printed%20minutes%20Wednesday%2012-Nov-2025%2019.00%20Council%20Assembly.pdf?T=1) by the Labour majority, against the votes of the Liberal Democrats and Green councillors.  It will now be considered by the Council’s Cabinet [^3].
 
-#### 'Emergency measures' cut affordable housing requirement and CIL
+### 'Emergency measures' cut affordable housing requirement and CIL
 
 The cut in the affordable housing requirement comes in a joint paper from Secretary of State for Housing, Communities and Local Government, Steve Reed and Mayor Sadiq Khan called ['Homes for London - A Package of Support for Housebuilding on the Capital'](https://assets.publishing.service.gov.uk/media/68fa1ab730c331c88be6f00a/support-for-house-building-in-london.pdf).  The *'emergency measures'* also propose cutting the Community Infrastructure Levy (CIL) by half for developments on brownfield land that deliver 20% affordable housing, with increasing cuts for more affordable housing.  In some unspecified circumstances, the relief will be lower.  Developers will still have to pay the full [Mayoral CIL](https://www.london.gov.uk/programmes-strategies/planning/implementing-london-plan/mayoral-community-infrastructure-levy), which funds London-wide transport schemes, such as Cross-Rail.  
 
@@ -22,7 +21,7 @@ long-term community benefit from new developments'* but otherwise side-stepped t
 
 ![](https://35percent.org/img/less_community_infrastructure_two.png)
 
-#### An Open Letter to the Southwark Council Leader
+### An Open Letter to the Southwark Council Leader
 
 Eight local campaign groups (including 35% Campaign) have also written an Open Letter to Council Leader, Cllr Sarah King, also urging Southwark Council to resist the reductions in the affordable housing requirement and CIL [^5].
 
@@ -40,7 +39,7 @@ In the event a developer' promise of 20% affordable housing, with 60% of this as
 
 [Build to rent](https://www.gov.uk/guidance/build-to-rent) schemes will  be eligible for the same route if they provide 30% of their intermediate rent homes at [London Living Rent](https://www.london.gov.uk/programmes-strategies/housing-and-land/buying-and-owning-home/london-living-rent), with the remainder at *'a range of genuinely affordable rents'*.  If a scheme is on public land or loses industrial land the threshold for entry to the viability-free route will remain at 35%.  Purpose built student accommodation and co-living developments and schemes on Grey or Green Belt will also not be eligible for the new route.
 
-#### Boroughs lose planning power to Mayor
+### Boroughs lose planning power to Mayor
 
 Other proposals include design changes that *'constrain density'* - reducing the number of dual aspect dwellings (flats with windows facing different directions), increasing the number of dwellings in each building core and reducing cycle storage. 
 
@@ -48,7 +47,7 @@ The emergency package will also give the Mayor greater powers to take decisions 
 
 ![](https://35percent.org/img/heading_homes_for_london_oct_2025.png)
 
-#### What happens next...
+### What happens next...
 
 The emergency measures are presented with a list of four separate consultations, all to start from November and lasting six weeks.  These will be aligned; two run by the Mayor on density/ design changes and the new 20% affordable housing *'time limited planning route'* and two run by the government on CIL and extending the Mayor's powers.  At the same time, '*Steps to Implementation'* will be put in train, by the government via secondary legislation and by the Mayor, using Emergency London Plan Guidance.  The joint paper considers that it has supplied *'developers, social landlords and councils with sufficient detail that they can begin preparing for its implementation - which the Government and the Mayor of London want to secure as soon as possible'*.
 
@@ -66,7 +65,7 @@ The emergency measures are explicitly aimed at stalled developments. Some other 
 
 And while the emergency measures are billed as *'time-limited'* it is easy to imagine them remaining in place beyond 31 March 2028, or becoming embedded permanently into a [revised London Plan](https://www.london.gov.uk/programmes-strategies/planning/london-plan/next-london-plan), if *'market conditions'* do not improve to developers' satisfaction.  In any event the consequences of two-years with a reduced affordable requirement will be hard to reverse – once a site is built-out with free-market housing, the opportunity for affordable housing will be gone.
 
-#### Homes for all.....if you have the money
+### Homes for all.....if you have the money
 
 It is also worth considering what the 'success' would look like, if the 20% requirement takes effect, in terms of the communities that will result.  'Success' would mean four out of five homes in new development homes would be free-market - this is not a recipe for *'strong and inclusive communities'*, when only 7% of Southwark's households can afford free-market housing.  The market for new homes on new developments in Southwark, for the people who now live in Southwark, would be effectively closed.  A community heavily tilted towards the most affluent households, earning £90,000pa and more, would be the price of getting *'spades in the ground'* [^11].
 
@@ -76,8 +75,7 @@ The Council's motion ended by saying that it will *'continue defending Southwark
 
 Southwark rightly notes that it has [*'robustly defended'* 35%  at the recent planning inquiry](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/) that will decide the fate of the Aylesham. It must now maintain that defence across the borough for all new housing developments and oppose Reed and Khan's emergency measures.  Failing to do this will confirm the strong suspicion that the decisions about how much affordable housing we get in Southwark are being made in the board rooms of big developers, such Berkeley and British Land, not by the Council at Tooley St.
 
-
-__Footnotes:__
+**Footnotes:**
 
 [^1] [Saved Southwark Plan 2007](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/6f/46/6f4643bd-ad5d-4f22-9531-2ac9aa69b83e/cd410_saved_southwark_plan_2007.pdf)
 

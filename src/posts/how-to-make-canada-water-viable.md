@@ -22,6 +22,6 @@ The disagreements between BNP and BNP can also be explained by the different int
 
 When the outcome is so doubtful, and so dependant on marginal differences, it is just not sensible to treat viablity assessments, and the question of profit, as the sole determining factor in making planning decisions.  This is recognised to a degree by the National NPPF allows the decision-maker discretion in the weight to give FVAs (REF)
 
-We can also say that the idea that a development of 3,700 new homes (and xxx sgm of retail) near the centre of London, built on a site that is largely car-park (CHECK)
+We can also say that the idea that a development of 3,700 new homes (and xxx sgm of retail) near the centre of London, built on a site that is dominated by a car-park (CHECK), with the rest of the site occupied by big-shed buildings (easy to demolish?)
 
 It also seems peculiar that there is no viability assessment of the scheme that BL actually propose building - Quod assess an illustrative scheme, of 3,700 units, not(BNP call it the 'amended' masterplan),

@@ -16,10 +16,10 @@ amended Masterplan Scheme incorporating 35% affordable housing could generate a 
 
 What we think
 
-It's impossible for the layperson to fully judge the respective merits of BNP and Quods viability assessment (which is why the NPPF allows the decision-maker discretion in the weight to give FVAs ?).  What we can say is that small changes of one or two percent can make a big difference and the answer to the main question - how much profit will be made? - cannot be answered definitively.
+It's difficult for the layperson to judge the respective merits of BNP and Quods viability assessment (which is why the NPPF allows the decision-maker discretion in the weight to give FVAs ?).  What we can say is that the answer to the main question - how much profit will be made? - cannot be answered definitively.  BNP and Quod demonstate that; they both argue within the agreed (RICS)  framework for establishing viability.  Quod notes that they approached the question on a collobative basis (July response) with agreed values where possible; their disagreements are relatively small, but differences of one or two percent can have a disproportionatley large effect  in the calculation of how much money can be made and 
 
 The differences between BNP and BNP can also be explained by the different interests they represent - BNP want to show that there is profit in the scheme, to get affordable housing for their client, Southwark Council, while Quod want to show that their is very little profit, becaus more affordable housing means less free market housing for their client, British Land, when free-market housing is worth over five times social rent (CHECK; £1,200psf V £220psf).  This naturally makes BNP's projections optimistic and Quod's pessimistic.
 
 We can also say that the idea that a development of 3,700 new homes (and xxx sgm of retail) near the centre of London, built on a site that is largely car-park (CHECK)
 
-It also seems peculiar that there is no viability assessment of the scheme that BL actually propose building - Quod assess an illustrative scheme (BNP call it the 'amended' masterplan)
+It also seems peculiar that there is no viability assessment of the scheme that BL actually propose building - Quod assess an illustrative scheme, of 3,700 units, not(BNP call it the 'amended' masterplan),

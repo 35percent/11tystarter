@@ -7,7 +7,7 @@ A viability assessment of the huge Canada Water regeneration scheme shows how it
 
 The viability assessment was prepared by BNP Paribas, for Southwark Council and is an appraisal of British Lands own assessment, by their agents Quod.
 
-BNP's report dates from December 2025 and reviews Quod's report of July 2025. BNP notes that Quod’s report is lacked supporting evidence, and that BNP had made some changes to values that disagreed with, or thought wrong.  
+BNP's report dates from Mar 2025 and reviews Quod's report of Jan 2025 \[NOTE, further docs Quod - July, Aug 2025; BNP - Oct 2025]. BNP notes that Quod’s report is lacked supporting evidence, and that BNP had made some changes to values that disagreed with, or thought wrong.  
 Applicant should address this. In the interim, we have made some changes to Quod’s appraisals
 where inputs are incorrectly applied, or where we disagree with the inputs. As a result of these
 changes and application of placemaking at various percentages, our appraisals indicate that the
@@ -16,9 +16,7 @@ amended Masterplan Scheme incorporating 35% affordable housing could generate a 
 
 The Leisure Centre mystery
 
-
-
-It is noted 
+The viability assements give the construction cost of the newly opened leisure centre as £9.7m [SCREENSHOT - Quod and It is noted 
 
 What we think
 

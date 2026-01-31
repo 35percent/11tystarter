@@ -19,6 +19,8 @@ BNP also tests a *'baseline'* scenario, without the placemaking factor, which in
 
 BNP also note that the ratio of revenue raising to non-revenue floorspace is 'inefficient', at a level of 68%, when 70-75% is more common.
 
+\[But it reaches its 13.77% conclusion without improving the efficiency?] 
+
 *The overall net to gross ratio is 68%, which is relatively inefficient, with developments typically
 achieving 70% to 75%. The efficiency has improved by 3% in comparison to the Extant Masterplan
 Scheme. Given that much of the scheme is currently in outline only, there may be opportunities to

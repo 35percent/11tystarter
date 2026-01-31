@@ -20,19 +20,6 @@ The situation  is complicated by the fact that Southwark was not just the planni
 
 Southwark could sell this stake as the develpment progressed, if it chose, according to a *'financial arrangement'* wIth BL.  Southwark could also buy the social rented housing, and possibly the intermediate housing, as they were built.  BL was committed under the MDA to build a leisure centre in the first phase, with Southwark paying a contribution of no more than £35m \[Officer report, 25 and 30 Sept 2019, 18/AP/1604, para 15]
 
-15. The council has a freehold interest in parts of the application site. The council and British
-    Land (BL, the applicant) entered into a conditional Master Development Agreement (MDA) in
-    May 2018. Planning and other conditions have to be met before the agreement becomes
-    unconditional. If planning permission is granted, and the agreement becomes unconditional,
-    the Council will grant a new head lease to BL covering the entire site. The council would then
-    have a 20% interest in the entire site. The agreement establishes the financial arrangement
-    between the council and BL, which allows the council to invest or sell its interest in any plot
-    as the development moves forward. The agreement also provides the council with an option
-    to purchase social rented, and potentially intermediate, homes as they are constructed over
-    the life time of the project. In addition the agreement obliges BL to provide a new leisure
-    centre in the first phase, with the council’s financial contribution to this facility capped at £35
-    million.
-
 (where Southwark losses affordable housing, but gains through its 20% stake from any increase in affordable housing?)
 
 ### Southwark buys affordable housing

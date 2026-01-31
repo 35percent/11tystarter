@@ -24,4 +24,4 @@ When the result of viability assessments is so highly contested, and so dependan
 
 It is also inherently unlikely that a London development of 3,700 new homes (and xxx sgm of retail) on a site with lots of empty space, and two underground stations on its doorstep cannot make enough profit to include affordable housing.
 
-Itseems peculiar that there is no viability assessment of the scheme that BL actually propose building - Quod assess an illustrative scheme, of 3,700 units, not(BNP call it the 'amended' masterplan),
+To cap all this, there is no viability assessment of the actual scheme that is to be built, were BL to succeed with their s73 application.  Quod assesses an 'illustrative' scheme of 3,700 residential units, many more than the 2,xxxx units BL have planning permission for, but without including the student, co-living and later-life residences, whose steady income streams make them a popular alternative to traditional houses, for developers \[CHECK].  BNP make their own changes to the illustrative scheme (and also test the concented HPP scheme?), but they too do not test a scheme with the s73 amendents \[CHECK].

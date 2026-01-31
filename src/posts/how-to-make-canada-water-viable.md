@@ -14,11 +14,15 @@ changes and application of placemaking at various percentages, our appraisals in
 amended Masterplan Scheme incorporating 35% affordable housing could generate a profit of up to
 13.77% of GDV, which is marginally lower than the blended target return of 16% of GDV.
 
-The Leisure Centre mystery
+### Southwark buys affordable housing
 
-The viability assements give the construction cost of the newly opened leisure centre as £9.7m \[SCREENSHOT - Quod Jan 2025 App B pg 54, 55] while noting a *'contribution'* to the leisure centre of £35m \[SCREENSHOT - Quod Jan 2025 7.15].  To complicate matters, Quod also say that SDLT of £530k has been paid by BL for acquiring the lease at a cost of £8.7m+VAT [SCREENSHOT - 
+The viability assessment notes that Southwark have also paid £18m for the 79 affordable housing units on Plot K1, near to Robert'ss Close 
 
-Has Southwark paid £35m towards a centre that cost £9.7m to build and have BL bought the lease (for £8.7m+ VAT), to rent back to Southwark, at a peppercorn rent?  Is this a good deal for Southwark?
+### The Leisure Centre - a good deal for Southwark?
+
+The viability assements give the construction cost of the newly opened leisure centre as £9.7m \[SCREENSHOT - Quod Jan 2025 App B pg 54, 55] while noting a *'contribution'* to the leisure centre of £35m \[SCREENSHOT - Quod Jan 2025 7.15].  To complicate matters, Quod also say that SDLT of £2,695,500 (or £530k?) has been paid by BL for acquiring the lease at a cost of £8.7m+VAT \[SCREENSHOT - Quod, Jan 2025, 7.2.1; July 2025, 2.35]
+
+Has Southwark paid £35m towards a centre that cost £9.7m to build and have BL bought the lease (for £8.7m+ VAT), to rent back to Southwark, at a peppercorn rent \[SCREENSHOT - July 2025, 2.10]?  Is this a good deal for Southwark?  How long does arrangement last?  Helps BL with upfront payment of rent?
 
 Two values for the SDLT Leisure Centre;
 
@@ -27,7 +31,11 @@ SDLT Leisure Centre £2,695,500 - Quod, Jan 2025, 7.2.1
 SDLT Leisure Centre £530,000 Stamp Duty payable on the acquisition of the leisure centre
 lease (£8.7m + VAT), equating to c.£500,000 - Quod, July 2025, 2.35
 
-What we think
+### Masterplan Development Agreement (MDA)
+
+
+
+### What we think
 
 It's difficult for the layperson to judge the respective merits of BNP's and Quods' viability assessments.  What we can say is that the answer to the main question - how much profit will be made? - cannot be answered definitively.  BNP and Quod demonstate this; they both argue within the agreed (RICS)  framework for establishing viability.  Quod notes that they approached the question on a collobative basis (July response), with agreed values where possible; their disagreements are relatively small, but differences of one or two percent can have a disproportionatley large effect in the calculation of how much. or little, profit can be made.
 

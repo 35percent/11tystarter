@@ -3,34 +3,31 @@ title: How to make Canada Water viable
 description: Result of viability assessment shows how huge development can be profitable
 date: 2026-01-31T12:16:55.952Z
 ---
-A viability assessment of the huge Canada Water regeneration scheme shows how it can be profitable, despite the claim of developer British Land that will lose money and so cannot supply any affordable housing.
+### Unviable made viable
 
-The viability assessment was prepared by BNP Paribas, for Southwark Council and is an appraisal of British Lands own assessment, by their agents Quod.
+A viability assessment of the huge Canada Water regeneration scheme shows how it can be profitable, and deliver 35% affordable housing (25% social rent, 10% intermediate) despite the claim of developer British Land (BL) that will lose money and so cannot supply any affordable housing.
 
-BNP's report dates from Mar 2025 and reviews Quod's report of Jan 2025 \[NOTE, further docs Quod - July, Aug 2025; BNP - Oct 2025]. BNP notes that Quod’s report is lacked supporting evidence, and that BNP had made some changes to values that disagreed with, or thought wrong.  
-Applicant should address this. In the interim, we have made some changes to Quod’s appraisals
-where inputs are incorrectly applied, or where we disagree with the inputs. As a result of these
-changes and application of placemaking at various percentages, our appraisals indicate that the
-amended Masterplan Scheme incorporating 35% affordable housing could generate a profit of up to
-13.77% of GDV, which is marginally lower than the blended target return of 16% of GDV.
+The viability assessment was prepared by BNP Paribas, for Southwark Council and is an appraisal of British Lands own assessment, by their agents Quod.  It states that a profit of 13.77% GDV (Gross Development Value) is possible, noting that this is 'marginally lower' than BL's profit target of 16% GDV. \[NOTE it is also considerably higher than the 8% profit BL agreed to when it secured planning permission].
 
-### Masterplan Development Agreement (MDA)
+BNP's report dates from Mar 2025 and reviews Quod's report of Jan 2025 \[NOTE, further docs Quod - July, Aug 2025; BNP - Oct 2025]. BNP notes that Quod’s report is lacked supporting evidence, and that BNP had made some changes to values that disagreed with, or thought wrong. BNP also applies a *'placemaking'* factor to the calculations.  This is the tendancy of residential values to rise as a long-term development progresses and leads BNP to conclude \[SCREENSHOT- BNP Mar 2025, pg 17]
+
+*'.... our appraisals indicate that the amended Masterplan Scheme incorporating 35% affordable housing could generate a profit of up to 13.77% of GDV, which is marginally lower than the blended target return of 16% of GDV'.*
+
+BNP also tests a *'baseline'* scenario, without the placemaking factor, which incurs a loss of -0.23% GDV. Quod's assessment of the same scenario sees a loss of £4.93% (£271m), and concludes that *'the maximum viable level of affordable homes when targeting 16% profit on GDV is nil'*.
+
+### Inefficient floorspace
+
+BNP also note that the ratio of revenue raising to non-revenue floorspace is 'inefficient', at a leel of 68%, when 70
+
+### The Masterplan Development Agreement (MDA) - a good deal for Southwark?
 
 The situation  is complicated by the fact that Southwark was not just the planning authority (the Mayor has taken over the decision), but also had a 20% stake in the development under a Masterplan Development Agreement.
 
-Southwark could sell this stake as the develpment progressed, if it chose, according to a *'financial arrangement'* wIth BL.  Southwark could also buy the social rented housing, and possibly the intermediate housing, as they were built.  BL was committed under the MDA to build a leisure centre in the first phase, with Southwark paying a contribution of no more than £35m \[Officer report, 25 and 30 Sept 2019, 18/AP/1604, para 15]
+According to the planning committee report that recommended approval of BL's Canada Water scheme, Southwark could sell this stake as the develpment progressed, if it chose, according to a *'financial arrangement'* wIth BL.  Southwark could also buy the social rented housing, and possibly the intermediate housing, as they were built.  BL was committed under the MDA to build a leisure centre in the first phase, with Southwark paying a contribution of no more than £35m \[Officer report, 25 and 30 Sept 2019, 18/AP/1604, para 15].
 
-(where Southwark losses affordable housing, but gains through its 20% stake from any increase in affordable housing?)
+The viability assessments confirm these arrangements.  They note that Southwark has paid £18m for the 79 affordable housing units on Plot K1, near to Robert's Close and that it has made the maximum £35m contribution to the leisure centre \[SCREENSHOT - Quod Jan 2025 7.15].  They also note that construction cost of the centre as £9.7m \[SCREENSHOT - Quod Jan 2025 App B pg 54, 55] and that BL had paid SDLT of either £2,695,500 or £530k to acquire the lease, at a cost of £8.7m (+VAT)\[SCREENSHOT - Quod, Jan 2025, 7.2.1; July 2025, 2.35], with the centre being leased to Southwark at a peppercorn rent \[SCREENSHOT - Quod, July 2025, 2.10]
 
-### Southwark buys affordable housing
-
-The viability assessment notes that Southwark have also paid £18m for the 79 affordable housing units on Plot K1, near to Robert'ss Close 
-
-### The Leisure Centre - a good deal for Southwark?
-
-The viability assements give the construction cost of the newly opened leisure centre as £9.7m \[SCREENSHOT - Quod Jan 2025 App B pg 54, 55] while noting a *'contribution'* to the leisure centre of £35m \[SCREENSHOT - Quod Jan 2025 7.15].  To complicate matters, Quod also say that SDLT of £2,695,500 (or £530k?) has been paid by BL for acquiring the lease at a cost of £8.7m+VAT \[SCREENSHOT - Quod, Jan 2025, 7.2.1; July 2025, 2.35]
-
-Has Southwark paid £35m towards a centre that cost £9.7m to build and have BL bought the lease (for £8.7m+ VAT), to rent back to Southwark, at a peppercorn rent \[SCREENSHOT - July 2025, 2.10]?  Is this a good deal for Southwark?  How long does arrangement last?  Helps BL with upfront payment of rent?
+Is this a good deal for Southwark?  How long does arrangement last?  Helps BL with upfront payment of rent?
 
 Two values for the SDLT Leisure Centre;
 
@@ -39,26 +36,7 @@ SDLT Leisure Centre £2,695,500 - Quod, Jan 2025, 7.2.1
 SDLT Leisure Centre £530,000 Stamp Duty payable on the acquisition of the leisure centre
 lease (£8.7m + VAT), equating to c.£500,000 - Quod, July 2025, 2.35
 
-### Masterplan Development Agreement (MDA)
 
-The situation  is complicated by the fact that Southwark was not just the planning authority (the Mayor has taken over the decision), but also had a 20% stake in the development under a Masterplan Development Agreement.
-
-Southwark could sell this stake as the develpment progressed, if it chose, according to a *'financial arrangement'* wIth BL.  Southwark could also buy the social rented housing, and possibly the intermediate housing, as they were built.  BL was committed under the MDA to build a leisure centre in the first phase, with Southwark paying a contribution of no more than £35m \[Officer report, 25 and 30 Sept 2019, 18/AP/1604, para 15]
-
-15. The council has a freehold interest in parts of the application site. The council and British
-    Land (BL, the applicant) entered into a conditional Master Development Agreement (MDA) in
-    May 2018. Planning and other conditions have to be met before the agreement becomes
-    unconditional. If planning permission is granted, and the agreement becomes unconditional,
-    the Council will grant a new head lease to BL covering the entire site. The council would then
-    have a 20% interest in the entire site. The agreement establishes the financial arrangement
-    between the council and BL, which allows the council to invest or sell its interest in any plot
-    as the development moves forward. The agreement also provides the council with an option
-    to purchase social rented, and potentially intermediate, homes as they are constructed over
-    the life time of the project. In addition the agreement obliges BL to provide a new leisure
-    centre in the first phase, with the council’s financial contribution to this facility capped at £35
-    million.
-
-(where Southwark losses affordable housing, but gains through its 20% stake from any increase in affordable housing?)
 
 ### What we think
 

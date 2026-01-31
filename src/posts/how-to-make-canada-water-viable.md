@@ -16,7 +16,16 @@ amended Masterplan Scheme incorporating 35% affordable housing could generate a 
 
 The Leisure Centre mystery
 
-The viability assements give the construction cost of the newly opened leisure centre as £9.7m [SCREENSHOT - Quod and It is noted 
+The viability assements give the construction cost of the newly opened leisure centre as £9.7m \[SCREENSHOT - Quod Jan 2025 App B pg 54, 55] while noting a *'contribution'* to the leisure centre of £35m \[SCREENSHOT - Quod Jan 2025 7.15].  To complicate matters, Quod also say that SDLT of £530k has been paid by BL for acquiring the lease at a cost of £8.7m+VAT [SCREENSHOT - 
+
+Has Southwark paid £35m towards a centre that cost £9.7m to build and have BL bought the lease (for £8.7m+ VAT), to rent back to Southwark, at a peppercorn rent?  Is this a good deal for Southwark?
+
+Two values for the SDLT Leisure Centre;
+
+SDLT Leisure Centre £2,695,500 - Quod, Jan 2025, 7.2.1
+
+SDLT Leisure Centre £530,000 Stamp Duty payable on the acquisition of the leisure centre
+lease (£8.7m + VAT), equating to c.£500,000 - Quod, July 2025, 2.35
 
 What we think
 

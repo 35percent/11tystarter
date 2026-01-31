@@ -17,11 +17,17 @@ BNP also tests a *'baseline'* scenario, without the placemaking factor, which in
 
 ### Inefficient floorspace
 
-BNP also note that the ratio of revenue raising to non-revenue floorspace is 'inefficient', at a leel of 68%, when 70
+BNP also note that the ratio of revenue raising to non-revenue floorspace is 'inefficient', at a level of 68%, when 70-75% is more common.
+
+*The overall net to gross ratio is 68%, which is relatively inefficient, with developments typically
+achieving 70% to 75%. The efficiency has improved by 3% in comparison to the Extant Masterplan
+Scheme. Given that much of the scheme is currently in outline only, there may be opportunities to
+achieve a higher efficiency through the detailed design process. Potential improvements could be
+identified through a viability review mechanism when reserved matters applications are submitted.* \[BNP Mar 2025, 2.2.1, pg 7]
 
 ### The Masterplan Development Agreement (MDA) - a good deal for Southwark?
 
-The situation  is complicated by the fact that Southwark was not just the planning authority (the Mayor has taken over the decision), but also had a 20% stake in the development under a Masterplan Development Agreement.
+The CW situation  is complicated by the fact that Southwark was not just the planning authority (the Mayor has taken over the decision), but also had a 20% stake in the development under a Masterplan Development Agreement.
 
 According to the planning committee report that recommended approval of BL's Canada Water scheme, Southwark could sell this stake as the develpment progressed, if it chose, according to a *'financial arrangement'* wIth BL.  Southwark could also buy the social rented housing, and possibly the intermediate housing, as they were built.  BL was committed under the MDA to build a leisure centre in the first phase, with Southwark paying a contribution of no more than £35m \[Officer report, 25 and 30 Sept 2019, 18/AP/1604, para 15].
 

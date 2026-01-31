@@ -14,6 +14,12 @@ changes and application of placemaking at various percentages, our appraisals in
 amended Masterplan Scheme incorporating 35% affordable housing could generate a profit of up to
 13.77% of GDV, which is marginally lower than the blended target return of 16% of GDV.
 
+The Leisure Centre mystery
+
+
+
+It is noted 
+
 What we think
 
 It's difficult for the layperson to judge the respective merits of BNP's and Quods' viability assessments.  What we can say is that the answer to the main question - how much profit will be made? - cannot be answered definitively.  BNP and Quod demonstate this; they both argue within the agreed (RICS)  framework for establishing viability.  Quod notes that they approached the question on a collobative basis (July response), with agreed values where possible; their disagreements are relatively small, but differences of one or two percent can have a disproportionatley large effect in the calculation of how much. or little, profit can be made.
@@ -25,3 +31,13 @@ When the result of viability assessments is so highly contested, and so dependan
 It is also inherently unlikely that a London development of 3,700 new homes (and xxx sgm of retail) on a site with lots of empty space, and two underground stations on its doorstep cannot make enough profit to include affordable housing.
 
 To cap all this, there is no viability assessment of the actual scheme that is to be built, were BL to succeed with their s73 application.  Quod assesses an 'illustrative' scheme of 3,700 residential units, many more than the 2,xxxx units BL have planning permission for, but without including the student, co-living and later-life residences, whose steady income streams make them a popular alternative to traditional houses, for developers \[CHECK].  BNP make their own changes to the illustrative scheme (and also test the concented HPP scheme?), but they too do not test a scheme with the s73 amendents \[CHECK].
+
+The Mayor should............
+
+Stage 2 report.
+
+<https://southwarknews.co.uk/area/rotherhithe/pool-inside-canada-water-leisure-centre-closed-due-to-maintenance-fault-just-weeks-after-opening/>
+
+<https://southwarkleisure.co.uk/centres/canada-water/>
+
+<https://canadawater.co.uk/news/cwleisureopen/>

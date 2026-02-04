@@ -54,6 +54,8 @@ c£37m CIL relief, if 35% aff h (BNP Oct 2025)
 
 £39m GLA a/h grant
 
+£40m further public funding?  (BNP Oct 2025)
+
 ### What we think
 
 It's difficult for the layperson to judge the respective merits of BNP's and Quods' viability assessments.  What we can say is that the answer to the main question - how much profit will be made? - cannot be answered definitively.  BNP and Quod demonstate this; they both argue within the agreed (RICS)  framework for establishing viability.  Quod notes that they approached the question on a collobative basis (July response), with agreed values where possible; their disagreements are relatively small, but differences of one or two percent can have a disproportionatley large effect in the calculation of how much. or little, profit can be made.

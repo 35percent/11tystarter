@@ -44,6 +44,14 @@ SDLT Leisure Centre £2,695,500 - Quod, Jan 2025, 7.2.1
 SDLT Leisure Centre £530,000 Stamp Duty payable on the acquisition of the leisure centre
 lease (£8.7m + VAT), equating to c.£500,000 - Quod, July 2025, 2.35
 
+### Money developer gets
+
+£18m for 79 affordable units
+
+£35m for leisure centre (build cost £9.7m)
+
+c£37m CIL relief, if 35% aff h (BNP Oct 2025)
+
 ### What we think
 
 It's difficult for the layperson to judge the respective merits of BNP's and Quods' viability assessments.  What we can say is that the answer to the main question - how much profit will be made? - cannot be answered definitively.  BNP and Quod demonstate this; they both argue within the agreed (RICS)  framework for establishing viability.  Quod notes that they approached the question on a collobative basis (July response), with agreed values where possible; their disagreements are relatively small, but differences of one or two percent can have a disproportionatley large effect in the calculation of how much. or little, profit can be made.

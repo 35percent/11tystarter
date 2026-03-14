@@ -13,7 +13,13 @@ BL justify these drastic changes by referring to the cost of installing second s
 
 BL propose increasing the height of 11 buildings by between one and thirteen storeys, with 6 of these to be between 37 and 49 storeys **^x.**
 
-According to the GLA the floorspace would increase by nearly 40%, but with only a small increase of 145 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17%.  An unspecified amount of the new co-living type of affordable housing would be introduced, which would join the already consented student accommodation, as a 'non-traditional' residential type.  The also already consented hotel would more than double in size **^x**.
+According to the GLA the floorspace would increase by nearly 40%, but with only a small increase of 145 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17%.  An unspecified amount of the new co-living type of affordable housing would be introduced, which would join the already consented student accommodation, as a 'non-traditional' residential type.  The also already consented hotel would more than double in size **^x**.  
+
+The development is divided into 12 zones with current limits on the amount of land that can be devoted to each land use (eg residentual, retail); these limits will be removed *'to provide greater flexibility and enable the Development to adapt to future market demands'* **^x.**
+
+
+
+
 
 
 
@@ -40,6 +46,8 @@ It would be easy to forget that the docklands were public land. Taken over by th
 
 BL have submitted several documents 
 
+GLA notes 35% consented while only 11% viable
+
 ### What we say - taken out of Southwark's hands....
 
 This is an outrageous attempt by a big property developer to avoid their planning obligations.  BL have taken advantage of the present poor economic conditions to warp the Canada Water development so badly, that it would serve only their need to make as much money as possible.  Not only will they be relieved of providing anything beyond the bare minimum of afforable housing, they will be given a free-hand as to what  what other types of housing it will provide - preponderantly one-bed, more studios, more student, introduce co-living, less family housing.
@@ -60,7 +68,9 @@ Zonal density cap will be removed.
 
 ^x Planning Statement Addendum Sept 2025, 1.6, 1.7.
 
-^x  Calculated from GLA Stage 1 report , 24/AP/0242, 15 Sept 2025, para 8.  Total development floorspace cap increased from 656,200sq.m. to 766,148sq.m. Residential floorspace cap increased from 331,500sq.m. to 472,600sq.m.  Introduction of Co-Living (Sui Generis) accommodation. Increase in the hotel land use cap from 7,500sq.m. to 16,500sq.m. Increase in the extent of basement footprint for Zone D and Zone H. 
+^x  Calculated from GLA Stage 1 report , 24/AP/0242, 15 Sept 2025, paras 8, 11.  Total development floorspace cap increased from 656,200sq.m. to 766,148sq.m. Residential floorspace cap increased from 331,500sq.m. to 472,600sq.m.  Introduction of Co-Living (Sui Generis) accommodation. Increase in the hotel land use cap from 7,500sq.m. to 16,500sq.m. Increase in the extent of basement footprint for Zone D and Zone H. 
+
+^x Planning Statement Addendum, Jan 2025, 2.1.8
 
 ^x IRR is the 'Internal Rate of Return', an alternative to using a percentage of the Gross Development Value (GDV) to measure profit, which takes account of cash flow.  REF - 4.1 ETC
 

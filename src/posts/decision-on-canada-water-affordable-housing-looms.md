@@ -9,6 +9,8 @@ British Land (BL) already have a planning permission **^x** to deliver over 4,00
 
 BL justify these drastic changes by referring to the cost of installing second staircases, thus losing saleable floorspace, and wider adverse economic conditions **^x.**
 
+**IMAGE** -Increase in heights
+
 ### The changes.....
 
 BL propose increasing the height of 11 buildings by between one and thirteen storeys, with 6 of these to be between 37 and 49 storeys **^x.**
@@ -37,6 +39,10 @@ This is in hefty contrast to the 16% GDV that BL were happy with when they got t
 Berkeley Homes, Aylesham and Bermondsey Place, Phase 2&3
 
 ### Height and density
+
+### Important views, height, affordable housing and planning balance
+
+The first GLA report on BL's application devote a lot of space to discussing how the new development interferes with 'important' views, and how this can be avoided and mitigated, which would be a secondary consideration to many minds.  However, it is significant in assessing the so-called planning balance, where harms have to be weighed against benefits, in deciding whether to approve an application.  The consented scheme had the advantage of a relatively high, albeit minimum amount of policy compliant affordable housing, which was judged by Southwark and GLA to outweigh the harm to views.  The scheme BL now propose, while it has some design changes, is much bigger, with a much bigger impact on views, and with neglible affordable housing, has lost that advantage, in the decision-making balance. 
 
 ### Public land
 

@@ -3,20 +3,15 @@ title: Decision on Canada Water affordable housing looms
 description: Mayor to hear the case for cutting affordable housing to 3%
 date: 2026-03-14T12:04:04.204Z
 ---
-London Mayor Sadiq Khan is due to decide developer British Land's application to reduce the affordable housing on its giant Canada Water Masterplan on the 27 March, when British Land, objectors and supporters will present their case at a [representation hearing](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing), chaired by Deputy Mayor, Jules Pipe.
+London Mayor Sadiq Khan is due to decide developer British Land's application to reduce the affordable housing on its giant Canada Water Masterplan on the 27 March, when British Land, objectors and supporters will present their case at a [representation hearing](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing), chaired by Deputy Mayor, Jules Pipe.  BL made its application to amend their planning permission to Southwark Council in January 2025, but then wrote to the Mayor asking him to take over the decision-making in September; he 'called-in' the application in at the beginning of December 2025
 
 British Land (BL) already have a planning permission **^x** to deliver over 4,000 homes on the former docklands site, with 35% affordable housing, comprising 25% social rent, 10% intermediate.  BL now wishes to increase the height and density of the residential blocks, by nearly 40%, to allow a small increase in homes (to 4,184 units), but with a big reduction in affordable housing, to 3% (with the possibilty of this increasing to 10%) **^x.**
 
 BL justify these drastic changes by referring to the cost of installing second staircases, thus losing saleable floorspace, and wider adverse economic conditions **^x.**
 
-### The road to the Mayor
+### The changes.....
 
-BL made its application to amend their planning permission to Southwark Council in January 2025, but then wrote to the Mayor asking him to take over the decision-making in September; he called the application in a
-
-29 January 2025	Southwark validate the planning application	 
-15 September 2025	Stage 1 report issued by Mayor	GLA/2025/0105/S1
-27 November 2025	The applicant wrote to the Mayor requesting that he take over determination of this application from Southwark Council	 
-1 December 2025	The Mayor calls-in the application, meaning that the Mayor of London is now responsible for making a decision on the application
+BL propose increasing the height of 11 buildings by between one and thirteen storeys, with 6 of these to be between 37 and 49 storeys **^x.**
 
 ### What's been delivered so far - Phase 1
 
@@ -55,6 +50,8 @@ Zonal density cap will be removed.
 ^x 29th May 2020 18/AP/1604
 
 ^x REF Housing Statement Addendum Sept 2025.  All planning documents for the application can be found via Southwark Council's [Planning Register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning), by entering the planning reference number 24/AP/0242.  The reference for the original planning permission documents is 18/AP/1640
+
+^x GLA Stage 1 report, 24/AP/0242, 15 Sept 2025, paras 10, 32
 
 ^x Planning Statement Addendum Sept 2025, 1.6, 1.7.
 

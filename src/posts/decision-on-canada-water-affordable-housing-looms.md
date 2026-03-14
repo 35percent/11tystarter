@@ -13,7 +13,7 @@ BL justify these drastic changes by referring to the cost of installing second s
 
 BL propose increasing the height of 11 buildings by between one and thirteen storeys, with 6 of these to be between 37 and 49 storeys **^x.**
 
-According to the GLA the floorspace would increase by nearly 40%, but with only a small increase of 145 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17%.  An unspecified amount of the new co-living type of affordable houisng would be introduced and the already consented hotel would more than double in size **^x**. No mention of student housing? 
+According to the GLA the floorspace would increase by nearly 40%, but with only a small increase of 145 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17%.  An unspecified amount of the new co-living type of affordable housing would be introduced, which would join the already consented student accommodation, as a 'non-traditional' residential type.  The also already consented hotel would more than double in size **^x**.
 
 
 

@@ -5,13 +5,31 @@ date: 2026-03-14T12:04:04.204Z
 ---
 London Mayor Sadiq Khan is due to decide developer British Land's application to reduce the affordable housing on its giant Canada Water Masterplan on the 27 March, when British Land, objectors and supporters will present their case at a [representation hearing](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing), chaired by Deputy Mayor, Jules Pipe.  BL made its application to amend their planning permission to Southwark Council in January 2025, but then wrote to the Mayor asking him to take over the decision-making in September; he 'called-in' the application in at the beginning of December 2025
 
-British Land (BL) already have a planning permission **^x** to deliver over 4,000 homes on the former docklands site, with 35% affordable housing, comprising 25% social rent, 10% intermediate.  BL now wishes to increase the height and density of the residential blocks, by nearly 40%, to allow a small increase in homes (to 4,184 units), but with a big reduction in affordable housing, to 3% (with the possibilty of this increasing to 10%) **^x.**
+British Land (BL) already have a planning permission **^x** to deliver over 4,000 homes on the former docklands site, with 35% affordable housing, comprising 25% social rent, 10% intermediate.  BL now wishes to increase the height and density of the residential blocks, a small increase in homes (to 4,184 units), but with a big reduction in affordable housing, to 3% (with the possibilty of this increasing to 10%) **^x.**
 
 BL justify these drastic changes by referring to the cost of installing second staircases, thus losing saleable floorspace, and wider adverse economic conditions **^x.**
 
 ### The changes.....
 
 BL propose increasing the height of 11 buildings by between one and thirteen storeys, with 6 of these to be between 37 and 49 storeys **^x.**
+
+The floorspace would increase by nearly 40%, but with only a small increase of 145 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17%.  An unspecified amount of the new co-living type of affordable houisng would be introduced and the already consented hotel would more than double in size **^x**.  in increase in size model of 
+• Introduction of Co-Living (Sui Generis) accommodation.
+• Increase in the hotel land use cap from 7,500sq.m. to 16,500sq.m.
+• Increase in the extent of basement footprint for Zone D and Zone H.
+page 4
+• Servicing Strategy amended to allow for direct vehicle access to Zone D from
+Deal Porters Way.
+• Amendments to the Design Guidelines.
+• Revisions to the Section 106 Agreement, to be confirmed.
+
+
+• Servicing Strategy amended to allow for direct vehicle access to Zone D from
+Deal Porters Way.
+• Amendments to the Design Guidelines.
+• Revisions to the Section 106 Agreement, to be confirmed.
+
+
 
 ### What's been delivered so far - Phase 1
 
@@ -54,6 +72,8 @@ Zonal density cap will be removed.
 ^x GLA Stage 1 report, 24/AP/0242, 15 Sept 2025, paras 10, 32
 
 ^x Planning Statement Addendum Sept 2025, 1.6, 1.7.
+
+^x  Calculated from GLA Stage 1 report , 24/AP/0242, 15 Sept 2025, para 8.  Total development floorspace cap increased from 656,200sq.m. to 766,148sq.m. Residential floorspace cap increased from 331,500sq.m. to 472,600sq.m.  Introduction of Co-Living (Sui Generis) accommodation. Increase in the hotel land use cap from 7,500sq.m. to 16,500sq.m. Increase in the extent of basement footprint for Zone D and Zone H. 
 
 ^x IRR is the 'Internal Rate of Return', an alternative to using a percentage of the Gross Development Value (GDV) to measure profit, which takes account of cash flow.  REF - 4.1 ETC
 

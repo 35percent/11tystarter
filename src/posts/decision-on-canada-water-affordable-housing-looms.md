@@ -13,21 +13,8 @@ BL justify these drastic changes by referring to the cost of installing second s
 
 BL propose increasing the height of 11 buildings by between one and thirteen storeys, with 6 of these to be between 37 and 49 storeys **^x.**
 
-The floorspace would increase by nearly 40%, but with only a small increase of 145 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17%.  An unspecified amount of the new co-living type of affordable houisng would be introduced and the already consented hotel would more than double in size **^x**.  in increase in size model of 
-• Introduction of Co-Living (Sui Generis) accommodation.
-• Increase in the hotel land use cap from 7,500sq.m. to 16,500sq.m.
-• Increase in the extent of basement footprint for Zone D and Zone H.
-page 4
-• Servicing Strategy amended to allow for direct vehicle access to Zone D from
-Deal Porters Way.
-• Amendments to the Design Guidelines.
-• Revisions to the Section 106 Agreement, to be confirmed.
+According to the GLA the floorspace would increase by nearly 40%, but with only a small increase of 145 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17%.  An unspecified amount of the new co-living type of affordable houisng would be introduced and the already consented hotel would more than double in size **^x**. No mention of student housing? 
 
-
-• Servicing Strategy amended to allow for direct vehicle access to Zone D from
-Deal Porters Way.
-• Amendments to the Design Guidelines.
-• Revisions to the Section 106 Agreement, to be confirmed.
 
 
 

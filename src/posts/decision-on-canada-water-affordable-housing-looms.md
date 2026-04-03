@@ -7,11 +7,16 @@ London Mayor Sadiq Khan has allowed developer British Land reduce the affordable
 
 ### How many affordable homes have we lost?
 
-Working out just how many affordable homes have been lost by the Mayors decison is not straightforward.  This is because BL have been given great flexibility in the number, type and size of homes they can build.
+Working out just how many affordable homes have been lost by the Mayors decison is not straightforward.  This is because BL have been given great flexibility in the type, number and size of homes they can build.
 
-The overall size of the development can be anything from 2,000 to 4,184 residential units.  The type of housing is also divided between 'conventional', self contained homes and 'non-conventional' housing, such as student and co-living.  Later-life accommodation and key worker houisng is also allowed.  (Footnote; Early in their original applciation BL pitched this as being affordable housing - Quod clarification note 3 Nov 2018) 
+The overall size of the development can be anything from 2,000 to 4,184 residential units.  The type of housing is also divided between 'conventional', self contained homes and 'non-conventional' housing, such as student and co-living.  Later-life accommodation and key worker housing is also allowed \[CHECK].  (Footnote; Early in their original applciation BL pitched this as being affordable housing - Quod clarification note 3 Nov 2018).
 
+The picture is further complicated by the scheme being divided into zones, eleven with residential accommodation. The housing mix depends on which zone the housing is in.   all zones should have a maximum of 10% studio (all market) and 60% two-bed plus.  Five of the zones should also have 20% three-bed plus.
+BL want to drop the three-bed plus market housing, leaving only three bed as affordable.
 
+As far as conventional housing is concerned, the number units for each bedroom size is laid down in the Southwark Plan and London Plans.  BL have 
+
+he housing mix, of different bedroom sizes, for conventional housing, depends on which zone the  housing is in - while BL has been allowed twice Southwark's policy limit of 5% studio flats, at 10% for all zones, five of the zones should also have
 
 The amount of affordable housing lost from the percentage reduction can be calculated as anywhere between  467 and 1,167 units in total, depending upon whether the development is built to the minimum or maximum extent.  
 
@@ -41,6 +46,8 @@ BL justify these drastic changes by referring to the cost of installing second s
 Bl has also had the twelve zonal limits to how much land can be devoted to each different land-use, removed, so as *'to provide greater flexibility and enable the Development to adapt to future market demands'* **^x.**
 
 **IMAGE** -Increase in heights
+
+### How much family houisng have we lost
 
 ### No family housing
 

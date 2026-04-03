@@ -13,7 +13,7 @@ The overall size of the development can be anything from 2,000 to 4,184 resident
 
 The picture is further complicated by the scheme being divided into twelve zones, with the housing mix of bedroom size depending on which zones the housing is in.  All zones allow BL a maximum of 10% studio flats (only for the freemarket flats, but nonetheless twice Southwark's policy limit) and a minimum of 60% two-bed plus.  Only five of the zones should also have a minimum of 20% three-bed plus, but only for affordable housing, which effectively guarantees very little family housing of any kind.
 
-While student housing and a hotel were already allowed under the original permission, the Mayor has further allowed co-living, a new type of shared living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for over 20% of the total residential floorspace.
+While student housing and a hotel were already allowed under the original permission, the Mayor has further allowed co-living, a new type of shared living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for nearly 20% of the total residential floorspace ^x2.
 
 
 
@@ -25,7 +25,7 @@ The amount of affordable housing lost from the percentage reduction can be calcu
 
 The planning committee report for the original planning permission estimated that the development would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Making the same calculation using this maximum number gets about 1,400 affordable homes, 1,000 social rent and 400 intermediate
 
-The new permission will allow BL to build just **233** social rented homes.  The possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.  The 233 social rented homes comprise 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **^x2**.
+The new permission will allow BL to build just **233** social rented homes.  The possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.  The 233 social rented homes comprise 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **^x3**.
 
 So, subtracting 233 from the minimum that could have been built gets a loss of  homes, while taking it from teh maximum gets a loss of  homes
 
@@ -42,7 +42,7 @@ level (c.9% across the whole scheme).*
 
 
 
-BL have also gained permission to increase the height and density of the residential blocks, by between one and thirteen storeys, with six blocks being between 37 and 39 storeys.  This will increase the residential floorspace by nearly 40%, but with only a small increase of around 189 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17% **^x3** An unspecified amount of the new co-living type of affordable housing would be introduced, which would join the already consented student accommodation, as a 'non-traditional' residential type.  The also already consented hotel would more than double in size .
+BL have also gained permission to increase the height and density of the residential blocks, by between one and thirteen storeys, with six blocks being between 37 and 39 storeys.  This will increase the residential floorspace by nearly 40%, but with only a small increase of around 189 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17% **^x**4 An unspecified amount of the new co-living type of affordable housing would be introduced, which would join the already consented student accommodation, as a 'non-traditional' residential type.  The also already consented hotel would more than double in size .
 
 BL justify these drastic changes by referring to the cost of installing second staircases, thus losing saleable floorspace, and wider adverse economic conditions **^x.**
 
@@ -102,9 +102,11 @@ Zonal density cap will be removed.
 
 ^x1 [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
 
-^x2 The figures are not given together, but taken from various parts of the [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf) - para 2i for the  minimum and maximum numbers 2,000-4184 units; para 2ii - 150 units from next tranche of 1,000 homes; para 10 - 79 social rent form Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
+^x2 GLA Stage 2 para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm diveded into total residential 472,000sqm, giving 19.12% 
 
-^x3 Percentages calculated on the zonal figures given in the GLA Stage 3 report; para 25, 26 - maximum floorspace by zone increases from 656,200 to 837,400sq.m. but cannot exceed the scheme limit 766,148sqm. which allows BL maxium can ; residential floorspace by zone increases from 331,500 to 472, 600sqm.  The zonal maximums exceed the 
+^x3 The figures are not given together, but taken from various parts of the [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf) - para 2i for the  minimum and maximum numbers 2,000-4184 units; para 2ii - 150 units from next tranche of 1,000 homes; para 10 - 79 social rent form Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
+
+^x4 Percentages calculated on the zonal figures given in the GLA Stage 3 report; para 25, 26 - maximum floorspace by zone increases from 656,200 to 837,400sq.m. but cannot exceed the scheme limit 766,148sqm. which allows BL maxium can ; residential floorspace by zone increases from 331,500 to 472, 600sqm.  The zonal maximums exceed the 
 
 ^x REF Housing Statement Addendum Sept 2025.  All planning documents for the application can be found via Southwark Council's [Planning Register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning), by entering the planning reference number 24/AP/0242.  The reference for the original planning permission documents is 18/AP/1640
 

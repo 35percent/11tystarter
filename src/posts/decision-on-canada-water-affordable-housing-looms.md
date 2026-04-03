@@ -21,6 +21,10 @@ Residential floorspace makes up about 40% of the total \[CHECK] and has also bee
 
 In contrast to the latitude given to BL regarding what they will build, their affordable housing obligations are precisely limited.  The new permission requires just **233** social rented homes - the 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **^x3**.  The small \[WHY?] possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.
 
+Not knowing precisley how many homes will be built, of what type and size, and in particular how many habitablerooms there might be (because the pecentage of affordable houisng is calculated by habitable rooms) means we cannot say how many we have lost by the reduction in the percentage.  We can make a rough estimate though by comparing the number we know we are getting from what was claimed when the original planning permision was granted in 2019/2020.  The planning committee report then estimated that Canada Water would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Making the same calculation using this maximum number gets about 1,400 affordable homes, 1,000 social rent and 400 intermediate.
+
+So very roughly, by subtracting 233 from these amounts, we are losing between 467 and 1,177 affordable homes, or between 267 and 767 homes, if we are only counting the social rented element.
+
 
 
 
@@ -35,7 +39,7 @@ Taking the latitude that BL have been permitted in the size, type,
 
 The amount of affordable housing lost from the percentage reduction can be calculated as anywhere between  467 and 1,167 units in total, depending upon whether the development is built to the minimum or maximum extent.  
 
-The planning committee report for the original planning permission estimated that the development would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Making the same calculation using this maximum number gets about 1,400 affordable homes, 1,000 social rent and 400 intermediate
+
 
 
 

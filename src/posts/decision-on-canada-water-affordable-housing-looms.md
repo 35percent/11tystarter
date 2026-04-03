@@ -9,17 +9,19 @@ The application was approved on the Mayor's behalf by Deputy Mayor Jules Pipe at
 
 ### A bigger scheme with fewer social rented homes
 
-The new permission will allow BL to build just **233** social rented homes out of what is likely to be 4,000 units.  The possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way and at end of the scheme.  The 233 homes comprise 79 already build on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **^x**.
+The new permission will allow BL to build just **233** social rented homes out of what is likely to be 4,000 units.  The possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at end of the scheme.  The 233 homes comprise 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **^x**.
 
-BL have also gained permission to increase the height and density of the residential blocks, by between one and thirteen storeys, with six blocks being between 37 and 39 storeys.  This will increase the floorspace by nearly 40%, but with only a small increase of 145 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17%.  An unspecified amount of the new co-living type of affordable housing would be introduced, which would join the already consented student accommodation, as a 'non-traditional' residential type.  The also already consented hotel would more than double in size **^x**.
+BL have also gained permission to increase the height and density of the residential blocks, by between one and thirteen storeys, with six blocks being between 37 and 39 storeys.  This will increase the residential floorspace by nearly 40%, but with only a small increase of 145 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17%.  An unspecified amount of the new co-living type of affordable housing would be introduced, which would join the already consented student accommodation, as a 'non-traditional' residential type.  The also already consented hotel would more than double in size **^x**.
 
 BL justify these drastic changes by referring to the cost of installing second staircases, thus losing saleable floorspace, and wider adverse economic conditions **^x.**
+
+Bl has also had the twelve zonal limits to how much land can be devoted to each different land-use, removed, so as *'to provide greater flexibility and enable the Development to adapt to future market demands'* **^x.**
 
 **IMAGE** -Increase in heights
 
 
 
-The development is divided into 12 zones with current limits on the amount of land that can be devoted to each land use (eg residentual, retail); these limits will be removed *'to provide greater flexibility and enable the Development to adapt to future market demands'* **^x.**
+
 
 ### What's been delivered so far - Phase 1
 

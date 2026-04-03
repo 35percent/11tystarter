@@ -5,6 +5,10 @@ date: 2026-03-14T12:04:04.204Z
 ---
 London Mayor Sadiq Khan has allowed developer British Land to reduce the affordable housing on its giant Canada Water scheme from 35% to 9% of the total homes.  The development will deliver at least 3,000 but more likely 4,000 new dwellings, and on a rough estimate when British Land, objectors and supporters will present their case at a [representation hearing](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing), chaired by Deputy Mayor, Jules Pipe.  BL made its application to amend their planning permission to Southwark Council in January 2025, but then wrote to the Mayor asking him to take over the decision-making in September; he 'called-in' the application in at the beginning of December 2025
 
+### How many social rented homes?
+
+BL have committed to delivering just **233** social rented homes out of what is likely to be a total of 4,000 units[^x].  The possibility of further affordable housing of any kind will then depend on viabilility reviews ot the scheme
+
 British Land (BL) already have a planning permission **^x** to deliver over 4,000 homes on the former docklands site, with 35% affordable housing, comprising 25% social rent, 10% intermediate.  BL now wishes to increase the height and density of the residential blocks, a small increase in homes (to 4,184 units), but with a big reduction in affordable housing, to 3% (with the possibilty of this increasing to 10%) **^x.**
 
 BL justify these drastic changes by referring to the cost of installing second staircases, thus losing saleable floorspace, and wider adverse economic conditions **^x.**
@@ -58,6 +62,8 @@ t by It is unlikely that BL's application would have been approved by Southwark 
 In any event BL obviously believe that they stand a better chance of getting approval if tne Mayor take the decision.  They would alos have been encouraged in their course by the Mayor joining with 
 
 Zonal density cap will be removed.
+
+^x GLA Stage 3 report para 2.  GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026
 
 ^x 29th May 2020 18/AP/1604
 

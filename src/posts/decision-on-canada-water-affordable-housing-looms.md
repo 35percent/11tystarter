@@ -7,11 +7,19 @@ London Mayor Sadiq Khan has allowed developer British Land reduce the affordable
 
 ### How many affordable homes have we lost?
 
-The amount of affordable housing lost from the percentage reduction can be calculated as anywhere between xxxx and yyyyy units in total, depending upon whether the development is built to the minimum or maximum extent.
+Working out just how many affordable homes have been lost by the Mayors decison is not straightforward.  This is because BL have been given great flexibility in the number, type and size of homes they can build.
 
-The planning committee report for the original planning permission estimated that the development would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Applying these 
+The overall size of the development can be anything from 2,000 to 4,184 residential units.  The type of housing is also divided between 'conventional', self contained homes and 'non-conventional' housing, such as student and co-living.  Later-life accommodation and key worker houisng is also allowed.  (Footnote; Early in their original applciation BL pitched this as being affordable housing - Quod clarification note 3 Nov 2018) 
 
-The new permission will allow BL to build just **233** social rented homes out of what is likely to be 4,000 units.  The possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.  The 233 social rented homes comprise 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **^x2**.
+
+
+The amount of affordable housing lost from the percentage reduction can be calculated as anywhere between  467 and 1,167 units in total, depending upon whether the development is built to the minimum or maximum extent.  
+
+The planning committee report for the original planning permission estimated that the development would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Making the same calculation using this maximum number gets about 1,400 affordable homes, 1,000 social rent and 400 intermediate
+
+The new permission will allow BL to build just **233** social rented homes.  The possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.  The 233 social rented homes comprise 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **^x2**.
+
+So, subtracting 233 from the minimum that could have been built gets a loss of  homes, while taking it from teh maximum gets a loss of  homes
 
 ### How the reduction has been dressed up
 
@@ -33,6 +41,10 @@ BL justify these drastic changes by referring to the cost of installing second s
 Bl has also had the twelve zonal limits to how much land can be devoted to each different land-use, removed, so as *'to provide greater flexibility and enable the Development to adapt to future market demands'* **^x.**
 
 **IMAGE** -Increase in heights
+
+### No family housing
+
+**Not over yet - Reserved Matters Applications**
 
 
 

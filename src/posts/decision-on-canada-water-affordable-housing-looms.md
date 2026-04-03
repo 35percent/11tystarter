@@ -1,17 +1,32 @@
 ---
-title: Canada Water's huge loss of afordable housing
+title: Canada Water's huge loss of affordable housing
 description: Mayor agrees to cut affordable housing to 9%
 date: 2026-03-14T12:04:04.204Z
 ---
-London Mayor Sadiq Khan has allowed developer British Land (BL) reduce the affordable housing on its giant Canada Water scheme from 35% to 9% of the total homes.  BL was granted planning permission to build 2,000 - 4,000 homes, plus other uses and amenities, by Southwark Council in 2019/2020.  The permission required that 35% of the housing would be affordable, comprising 25% social rented and 10% intermediate housing, with a further 5% possible , depending on the viability of the scheme [**^x**].   BL made an application to Southwark, to reduce the affordable housing, and increase the height and density of the scheme, in January 2025.  BL then referred their application the Mayor in December, without Southwark reaching any decision. 
+London Mayor Sadiq Khan has allowed developer British Land reduce the affordable housing on its giant Canada Water scheme from 35% to 9% of the total homes.  British Land (BL) was granted planning permission to build 2,000 - 4,000 homes, plus other uses and amenities, by Southwark Council in 2019/2020.  This original permission required that 35% affordable housing, comprising 25% social rented and 10% intermediate housing, with a further 5% possible , depending on the viability of the scheme [**^x1**].  At the beginning of last year BL made another application  to reduce the affordable housing requirement (while also increasing the height and density of the scheme).  BL then referred their application to the Mayor in December 2025, for his determination, before and without Southwark reaching any decision. The application was heard and approved by Deputy Mayor Jules Pipe  [on 27 March](https://webcasts.london.gov.uk/Mayoral/Event/Index/389f7074-88e3-46b0-ae1c-6c4032abfddd), after representations from GLA officers, Southwark Council, objectors and British Land.
 
-The application was approved on the Mayor's behalf by Deputy Mayor Jules Pipe at a [hearing on 27 March](https://webcasts.london.gov.uk/Mayoral/Event/Index/389f7074-88e3-46b0-ae1c-6c4032abfddd), after representations from GLA officers, objectors and British Land.
+### How many affordable homes have we lost?
 
-### A bigger scheme with fewer social rented homes
+The amount of affordable housing lost from the percentage reduction can be calculated as anywhere between xxxx and yyyyy units in total, depending upon whether the development is built to the minimum or maximum extent.
 
-The new permission will allow BL to build just **233** social rented homes out of what is likely to be 4,000 units.  The possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at end of the scheme.  The 233 homes comprise 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **^x**.
+The planning committee report for the original planning permission estimated that the development would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Applying these 
 
-BL have also gained permission to increase the height and density of the residential blocks, by between one and thirteen storeys, with six blocks being between 37 and 39 storeys.  This will increase the residential floorspace by nearly 40%, but with only a small increase of 145 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17%.  An unspecified amount of the new co-living type of affordable housing would be introduced, which would join the already consented student accommodation, as a 'non-traditional' residential type.  The also already consented hotel would more than double in size **^x**.
+The new permission will allow BL to build just **233** social rented homes out of what is likely to be 4,000 units.  The possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.  The 233 social rented homes comprise 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **^x2**.
+
+### How the reduction has been dressed up
+
+Percntages are always a fraction of something.  The GLA are straightforward in saying that the percentage of affordable housing is only around 9%, but also **^x Stage 3 2ii** when calculated against the maximum number of units allowed under the amendned planning decsisionthe Mayor has dressed his decision up as a more respectable 20% 
+
+11% becomes 35% becomes 3% becomes 10% (maybe) becomes 20% becomes 17% becomes 9%
+
+ *Grant has been awarded to the scheme, allowing 17% (by habitable room) affordable housing in the next tranche of 1,000 homes to be provided as 150 social rent homes, equivalent to 20% at a tenure compliant
+level (c.9% across the whole scheme).*
+
+### A bigger scheme, with maximum flexibility
+
+
+
+BL have also gained permission to increase the height and density of the residential blocks, by between one and thirteen storeys, with six blocks being between 37 and 39 storeys.  This will increase the residential floorspace by nearly 40%, but with only a small increase of around 189 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17% **^x3** An unspecified amount of the new co-living type of affordable housing would be introduced, which would join the already consented student accommodation, as a 'non-traditional' residential type.  The also already consented hotel would more than double in size .
 
 BL justify these drastic changes by referring to the cost of installing second staircases, thus losing saleable floorspace, and wider adverse economic conditions **^x.**
 
@@ -63,11 +78,11 @@ In any event BL obviously believe that they stand a better chance of getting app
 
 Zonal density cap will be removed.
 
-^x [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
+^x1 [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
 
-^x The figures are not given together, but taken from various parts of the [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf) - para 2i for the  minimum and maximum numbers 2,000-4184 units; para 2ii - 150 units from next tranche of 1,000 homes; para 10 - 79 social rent form Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
+^x2 The figures are not given together, but taken from various parts of the [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf) - para 2i for the  minimum and maximum numbers 2,000-4184 units; para 2ii - 150 units from next tranche of 1,000 homes; para 10 - 79 social rent form Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
 
-^x 29th May 2020 18/AP/1604
+^x3 Percentages calculated on the zonal figures given in the GLA Stage 3 report; para 25, 26 - maximum floorspace by zone increases from 656,200 to 837,400sq.m. but cannot exceed the scheme limit 766,148sqm. which allows BL maxium can ; residential floorspace by zone increases from 331,500 to 472, 600sqm.  The zonal maximums exceed the 
 
 ^x REF Housing Statement Addendum Sept 2025.  All planning documents for the application can be found via Southwark Council's [Planning Register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning), by entering the planning reference number 24/AP/0242.  The reference for the original planning permission documents is 18/AP/1640
 

@@ -9,11 +9,11 @@ London Mayor Sadiq Khan has allowed developer British Land reduce the affordable
 
 Working out just how many affordable homes have been lost by the Mayor's decison is not straightforward.  This is because BL have been given great flexibility in the type, number and size of homes they can build, both by Southwark in their original permission and by the Mayor's approval of the s73 amendment;  this went beyond just reducing the amount of affordable housing to also allowing changes in the type of housing built and the mix of dwelling size.
 
-The overall size of the development can be anything from 2,000 to 4,184 residential units.  The type of housing is also divided between 'conventional', self contained homes and 'non-conventional' housing, such as student and co-living.  Later-life accommodation and key worker housing is also allowed \[CHECK].  (Footnote; Early in their original applciation BL pitched this as being affordable housing - Quod clarification note 3 Nov 2018).
+The overall size of the development can be anything from 2,000 to 4,184 residential units.  The type of housing is also divided between 'conventional', self contained homes and 'non-conventional' housing, such as student and co-living.  Later-life accommodation and key worker housing is also allowed \[CHECK].  (Footnote; Early in their original application BL pitched this as being affordable housing - Quod clarification note 3 Nov 2018).
 
 The picture is further complicated by the scheme being divided into twelve zones, with the housing mix of bedroom size depending on which zones the housing is in.  All zones allow BL a maximum of 10% studio flats (only for the freemarket flats, but nonetheless twice Southwark's policy limit) and a minimum of 60% two-bed plus.  Only five of the zones should also have a minimum of 20% three-bed plus, but only for affordable housing, which effectively guarantees very little family housing of any kind.
 
-While student housing and a hotel were already allowed under the original permission, the Mayor has further allowed co-living, a new type of shared living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for nearly 20% of the total residential floorspace ^x2.
+While student housing and a hotel were already allowed under the original permission, the Mayor has further allowed co-living, a new type of shared living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for nearly 20% of the total residential floorspace ^**x2**.
 
 
 
@@ -42,7 +42,7 @@ level (c.9% across the whole scheme).*
 
 
 
-BL have also gained permission to increase the height and density of the residential blocks, by between one and thirteen storeys, with six blocks being between 37 and 39 storeys.  This will increase the residential floorspace by nearly 40%, but with only a small increase of around 189 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17% **^x**4 An unspecified amount of the new co-living type of affordable housing would be introduced, which would join the already consented student accommodation, as a 'non-traditional' residential type.  The also already consented hotel would more than double in size .
+BL have also gained permission to increase the height and density of the residential blocks, by between one and thirteen storeys, with six blocks being between 37 and 39 storeys.  This will increase the residential floorspace by nearly 40%, but with only a small increase of around 189 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17% **^x4** An unspecified amount of the new co-living type of affordable housing would be introduced, which would join the already consented student accommodation, as a 'non-traditional' residential type.  The also already consented hotel would more than double in size .
 
 BL justify these drastic changes by referring to the cost of installing second staircases, thus losing saleable floorspace, and wider adverse economic conditions **^x.**
 
@@ -102,7 +102,7 @@ Zonal density cap will be removed.
 
 ^x1 [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
 
-^x2 GLA Stage 2 para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm diveded into total residential 472,000sqm, giving 19.12% 
+^x2 GLA Stage 2 para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
 
 ^x3 The figures are not given together, but taken from various parts of the [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf) - para 2i for the  minimum and maximum numbers 2,000-4184 units; para 2ii - 150 units from next tranche of 1,000 homes; para 10 - 79 social rent form Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
 

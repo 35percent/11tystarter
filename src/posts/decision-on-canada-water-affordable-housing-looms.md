@@ -1,9 +1,9 @@
 ---
-title: Decision on Canada Water affordable housing looms
-description: Mayor to hear the case for cutting affordable housing to 3%
+title: Canada Water's huge loss of afordable housing
+description: Mayor agrees to cut affordable housing to 9%
 date: 2026-03-14T12:04:04.204Z
 ---
-London Mayor Sadiq Khan is due to decide developer British Land's application to reduce the affordable housing on its giant Canada Water Masterplan on the 27 March, when British Land, objectors and supporters will present their case at a [representation hearing](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing), chaired by Deputy Mayor, Jules Pipe.  BL made its application to amend their planning permission to Southwark Council in January 2025, but then wrote to the Mayor asking him to take over the decision-making in September; he 'called-in' the application in at the beginning of December 2025
+London Mayor Sadiq Khan has allowed developer British Land to reduce the affordable housing on its giant Canada Water scheme from 35% to 9% of the total homes.  The development will deliver at least 3,000 but more likely 4,000 new dwellings, and on a rough estimate when British Land, objectors and supporters will present their case at a [representation hearing](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing), chaired by Deputy Mayor, Jules Pipe.  BL made its application to amend their planning permission to Southwark Council in January 2025, but then wrote to the Mayor asking him to take over the decision-making in September; he 'called-in' the application in at the beginning of December 2025
 
 British Land (BL) already have a planning permission **^x** to deliver over 4,000 homes on the former docklands site, with 35% affordable housing, comprising 25% social rent, 10% intermediate.  BL now wishes to increase the height and density of the residential blocks, a small increase in homes (to 4,184 units), but with a big reduction in affordable housing, to 3% (with the possibilty of this increasing to 10%) **^x.**
 
@@ -18,13 +18,6 @@ BL propose increasing the height of 11 buildings by between one and thirteen sto
 According to the GLA the floorspace would increase by nearly 40%, but with only a small increase of 145 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17%.  An unspecified amount of the new co-living type of affordable housing would be introduced, which would join the already consented student accommodation, as a 'non-traditional' residential type.  The also already consented hotel would more than double in size **^x**.  
 
 The development is divided into 12 zones with current limits on the amount of land that can be devoted to each land use (eg residentual, retail); these limits will be removed *'to provide greater flexibility and enable the Development to adapt to future market demands'* **^x.**
-
-
-
-
-
-
-
 
 ### What's been delivered so far - Phase 1
 

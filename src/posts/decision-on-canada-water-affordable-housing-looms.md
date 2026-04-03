@@ -3,15 +3,15 @@ title: Canada Water's huge loss of afordable housing
 description: Mayor agrees to cut affordable housing to 9%
 date: 2026-03-14T12:04:04.204Z
 ---
-London Mayor Sadiq Khan has allowed developer British Land (BL) reduce the affordable housing on its giant Canada Water scheme from 35% to 9% of the total homes.  BL was granted planning permission to build 2,000 - 4,000 homes, plus other uses and amenities, by Southwark Council in 2020.  The permission required that 35% of the housing would be affordable, comprising 25% social rented and 10% intermediate housing, with a further 5% possible , depending on the viability of the scheme [^x].   BL made an application to Southwark, to reduce the affordable housing, and increase the height and density of the scheme, in January 2025.  BL then referred their application the Mayor in December, without Southwark reaching any decision. 
+London Mayor Sadiq Khan has allowed developer British Land (BL) reduce the affordable housing on its giant Canada Water scheme from 35% to 9% of the total homes.  BL was granted planning permission to build 2,000 - 4,000 homes, plus other uses and amenities, by Southwark Council in 2020.  The permission required that 35% of the housing would be affordable, comprising 25% social rented and 10% intermediate housing, with a further 5% possible , depending on the viability of the scheme [**^x**].   BL made an application to Southwark, to reduce the affordable housing, and increase the height and density of the scheme, in January 2025.  BL then referred their application the Mayor in December, without Southwark reaching any decision. 
 
 The application was approved on the Mayor's behalf by Deputy Mayor Jules Pipe at a [hearing on 27 March](https://webcasts.london.gov.uk/Mayoral/Event/Index/389f7074-88e3-46b0-ae1c-6c4032abfddd), after hearing from GLA officers, objectors and British Land.
 
 ### How many social rented homes?
 
-BL have committed to delivering just **233** social rented homes out of what is likely to be a total of 4,000 units[^x].  The possibility of further affordable housing of any kind will then depend on viabilility reviews, half way through and at end of the scheme.
+BL have committed to delivering just **233** social rented homes out of what is likely to be 4,000 units.  The possibility of further affordable housing of any kind will then depend on viabilility reviews, half way through and at end of the scheme.
 
-The 233 homes comprise 79 already build on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L
+The 233 homes comprise 79 already build on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **^x**.
 
 British Land (BL) already have a planning permission **^x** to deliver over 4,000 homes on the former docklands site, with 35% affordable housing, comprising 25% social rent, 10% intermediate.  BL now wishes to increase the height and density of the residential blocks, a small increase in homes (to 4,184 units), but with a big reduction in affordable housing, to 3% (with the possibilty of this increasing to 10%) **^x.**
 
@@ -69,7 +69,7 @@ Zonal density cap will be removed.
 
 ^x [Planning committee report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/Masterplan_18AP1604/Microsoft%20Word%20-%20Final%20CWM%20Committee%20Report%20(FINAL)(12thSept19).pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
 
-^x [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf), para 2, GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026
+^x The figures are not given together, but taken from various parts of the [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf) - para 2i for the  minimum and maximum numbers 2,000-4184 units; para 2ii - 150 units from next tranche of 1,000 homes; para 10 - 79 social rent form Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
 
 ^x Canada Water representation hearing 27 Mar 2026 - <https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing>
 

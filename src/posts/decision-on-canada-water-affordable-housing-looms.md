@@ -7,18 +7,19 @@ London Mayor Sadiq Khan has allowed developer British Land reduce the affordable
 
 ### How many affordable (and family) homes have we lost?
 
-Working out just how many affordable homes have been lost by the Mayors decison is not straightforward.  This is because BL have been given great flexibility in the type, number and size of homes they can build, both by Southwark in their original permission and by the Mayor's approval of the s73 application;  this went beyond just reducing the amount of affordable housing to also allowing changes in the type of housing built and the mix of dwelling size.
+Working out just how many affordable homes have been lost by the Mayors decison is not straightforward.  This is because BL have been given great flexibility in the type, number and size of homes they can build, both by Southwark in their original permission and by the Mayor's approval of the s73 amendment;  this went beyond just reducing the amount of affordable housing to also allowing changes in the type of housing built and the mix of dwelling size.
 
 The overall size of the development can be anything from 2,000 to 4,184 residential units.  The type of housing is also divided between 'conventional', self contained homes and 'non-conventional' housing, such as student and co-living.  Later-life accommodation and key worker housing is also allowed \[CHECK].  (Footnote; Early in their original applciation BL pitched this as being affordable housing - Quod clarification note 3 Nov 2018).
 
 The picture is further complicated by the scheme being divided into twelve zones, with the housing mix of bedroom size depending on which zones the housing is in.  All zones allow BL a maximum of 10% studio flats (only for the freemarket flats, but nonetheless twice Southwark's policy limit) and a minimum of 60% two-bed plus.  Only five of the zones should also have a minimum of 20% three-bed plus, but only for affordable housing, which effectively guarantees very little family housing of any kind.
 
+While student housing and a hotel were already allowed under the original permission, the Mayor has further allowed co-living, a new type of shared living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for over 20% of the total residential floorspace.
 
 
 
-As far as conventional housing is concerned, the number units for each bedroom size is laid down in the Southwark Plan and London Plans.  BL have 
 
-he housing mix, of different bedroom sizes, for conventional housing, depends on which zone the  housing is in - while BL has been allowed twice Southwark's policy limit of 5% studio flats, at 10% for all zones, five of the zones should also have
+
+
 
 The amount of affordable housing lost from the percentage reduction can be calculated as anywhere between  467 and 1,167 units in total, depending upon whether the development is built to the minimum or maximum extent.  
 

@@ -15,6 +15,17 @@ The picture is further complicated by the scheme being divided into twelve zones
 
 While student housing and a hotel were already allowed under the original permission, the Mayor has further allowed co-living, a new type of shared living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for nearly 20% of the total residential floorspace ^**x2**.
 
+BL have also been allowed to increase not only the total scheme floorspace but the floorspace limit for seven zones, and by such an amount that the cumulative total for the zones exceeds that of the limit for the whole scheme.  BL must stick to the total scheme limit, but the arrangement *'allows flexibility in the quantum of
+development that comes forward... in each Zone, over a lengthy build-out period'* **^x2i**
+
+
+
+
+
+
+
+The Mayor has also allowed BL to increase the floorspace limits for each zone that were in the original planning permission. ace cumulative maximum floorspace of the zones also exceeds the limit for the overall scheme.  This is by purposeful design, on BL's part.  While they cannot exceed the the limit of the overall scheme, they can build beyond
+
 
 
 
@@ -103,6 +114,8 @@ Zonal density cap will be removed.
 ^x1 [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
 
 ^x2 GLA Stage 2 para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
+
+^x2i GLA Stage 2 para 25, 26.
 
 ^x3 The figures are not given together, but taken from various parts of the [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf) - para 2i for the  minimum and maximum numbers 2,000-4184 units; para 2ii - 150 units from next tranche of 1,000 homes; para 10 - 79 social rent form Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
 

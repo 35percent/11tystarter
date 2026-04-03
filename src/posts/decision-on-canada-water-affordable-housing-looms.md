@@ -5,7 +5,7 @@ date: 2026-03-14T12:04:04.204Z
 ---
 London Mayor Sadiq Khan has allowed developer British Land (BL) reduce the affordable housing on its giant Canada Water scheme from 35% to 9% of the total homes.  BL was granted planning permission to build 2,000 - 4,000 homes, plus other uses and amenities, by Southwark Council in 2020.  The permission required that 35% of the housing would be affordable, comprising 25% social rented and 10% intermediate housing, with a further 5% possible , depending on the viability of the scheme [^x].   BL made an application to Southwark, to reduce the affordable housing, and increase the height and density of the scheme, in January 2025.  BL then referred their application the Mayor in December, without Southwark reaching any decision. 
 
-The application was approved on the Mayor's behalf by Deputy Mayor Jules Pipe at a [hearing on 27 March](https://webcasts.london.gov.uk/Mayoral/Event/Index/389f7074-88e3-46b0-ae1c-6c4032abfddd),  British Land, objectors and supporters will present their case at a [representation hearing](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing), chaired by Deputy Mayor, Jules Pipe.
+The application was approved on the Mayor's behalf by Deputy Mayor Jules Pipe at a [hearing on 27 March](https://webcasts.london.gov.uk/Mayoral/Event/Index/389f7074-88e3-46b0-ae1c-6c4032abfddd), after hearing from GLA officers, objectors and British Land.
 
 ### How many social rented homes?
 

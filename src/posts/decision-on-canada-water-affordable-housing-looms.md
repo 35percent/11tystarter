@@ -44,9 +44,9 @@ Bl has also had the twelve zonal limits to how much land can be devoted to each 
 
 ### No family housing
 
-**Not over yet - Reserved Matters Applications**
+### Not over yet - Reserved Matters Applications
 
-
+What BL wanted all along - BNPP Review of Affordable Housing and Viability Statement Dec 2018
 
 
 

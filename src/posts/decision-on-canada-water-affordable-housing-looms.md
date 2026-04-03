@@ -3,11 +3,15 @@ title: Canada Water's huge loss of afordable housing
 description: Mayor agrees to cut affordable housing to 9%
 date: 2026-03-14T12:04:04.204Z
 ---
-London Mayor Sadiq Khan has allowed developer British Land to reduce the affordable housing on its giant Canada Water scheme from 35% to 9% of the total homes.  The development will deliver at least 3,000 but more likely 4,000 new dwellings, and on a rough estimate when British Land, objectors and supporters will present their case at a [representation hearing](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing), chaired by Deputy Mayor, Jules Pipe.  BL made its application to amend their planning permission to Southwark Council in January 2025, but then wrote to the Mayor asking him to take over the decision-making in September; he 'called-in' the application in at the beginning of December 2025
+London Mayor Sadiq Khan has allowed developer British Land (BL) reduce the affordable housing on its giant Canada Water scheme from 35% to 9% of the total homes.  BL was granted planning permission to build 2,000 - 4,000 homes, plus shops, workspace, student accommodation, hotel and other amenities, by Southwark Council in 2020.  BL agreed that 35% of the housing would be affordable, made up of 25% social rented and 10% intermediate, with a further 5% affordable housing possible, depending on the viability of the scheme [^x]. 
+
+The cut was approved on his behalf by Deputy Mayor Jules Pipe at a hearing on 27 March \[LINK].  British Land (BL) made their application for the cut to Southwark Council in the first instance, in Jan 2025, but then referred it to the Mayor for a decision in their application for the change to the Mayor, after fisrt lofdApproval of the BL made its application to amend their planning permission to Southwark Council in January 2025, but then wrote to the Mayor asking him to take over the decision in December.  The development will deliver at least 3,000 but more likely 4,000 new dwellings, and on a rough estimate when British Land, objectors and supporters will present their case at a [representation hearing](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing), chaired by Deputy Mayor, Jules Pipe.
 
 ### How many social rented homes?
 
-BL have committed to delivering just **233** social rented homes out of what is likely to be a total of 4,000 units[^x].  The possibility of further affordable housing of any kind will then depend on viabilility reviews ot the scheme
+BL have committed to delivering just **233** social rented homes out of what is likely to be a total of 4,000 units[^x].  The possibility of further affordable housing of any kind will then depend on viabilility reviews, half way through and at end of the scheme.
+
+The 233 homes comprise 79 already build on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L
 
 British Land (BL) already have a planning permission **^x** to deliver over 4,000 homes on the former docklands site, with 35% affordable housing, comprising 25% social rent, 10% intermediate.  BL now wishes to increase the height and density of the residential blocks, a small increase in homes (to 4,184 units), but with a big reduction in affordable housing, to 3% (with the possibilty of this increasing to 10%) **^x.**
 
@@ -63,7 +67,11 @@ In any event BL obviously believe that they stand a better chance of getting app
 
 Zonal density cap will be removed.
 
-^x GLA Stage 3 report para 2.  GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026
+^x [Planning committee report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/Masterplan_18AP1604/Microsoft%20Word%20-%20Final%20CWM%20Committee%20Report%20(FINAL)(12thSept19).pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
+
+^x [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf), para 2, GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026
+
+^x Canada Water representation hearing 27 Mar 2026 - <https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing>
 
 ^x 29th May 2020 18/AP/1604
 

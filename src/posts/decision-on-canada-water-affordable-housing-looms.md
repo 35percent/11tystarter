@@ -17,6 +17,8 @@ While student housing and a hotel were already allowed under the original permis
 
 BL have also been allowed to increase not only the total floorspace for the whole scheme, but the individual floorspace limit for each of seven zones as well, and by such an amount that the cumulative total for all the zones exceeds that of the limit for the whole scheme.  By this arrangement BL will be allowed '.. *flexibility in the quantum of development that comes forward... in each Zone'*, even though they will not be allowed to build more than the total limit.**^x2i**
 
+Residential floorspace makes up about 40% of the total \[CHECK] and has also been increased by a similar percentage, from the amount allowed under the original permission. This will only result in a relatively small increase of about 189 units of housing though, with most of the extra floorspace being used to accommodate a second staircase, as required by new building-safety regulations, post Grenfell. **^x2ii**
+
 
 
 
@@ -117,6 +119,8 @@ Zonal density cap will be removed.
 ^x2 GLA Stage 2 para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
 
 ^x2i GLA Stage 2 para 25, 26.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
+
+^x2ii GLA Stage 2 para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%).  The requirement for a second staircase in tall buildings was an eventual outcome of the Grenfell Tower fire, 2017.
 
 ^x3 The figures are not given together, but taken from various parts of the [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf) - para 2i for the  minimum and maximum numbers 2,000-4184 units; para 2ii - 150 units from next tranche of 1,000 homes; para 10 - 79 social rent form Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
 

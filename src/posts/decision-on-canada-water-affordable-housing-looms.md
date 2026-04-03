@@ -7,11 +7,11 @@ London Mayor Sadiq Khan has allowed developer British Land reduce the affordable
 
 ### How many affordable (and family) homes have we lost?
 
-Working out just how many affordable homes have been lost by the Mayors decison is not straightforward.  This is because BL have been given great flexibility in the type, number and size of homes they can build, both by Southwark in their original permission and by the Mayor id approving .
+Working out just how many affordable homes have been lost by the Mayors decison is not straightforward.  This is because BL have been given great flexibility in the type, number and size of homes they can build, both by Southwark in their original permission and by the Mayor's approval of the s73 application;  this went beyond just reducing the amount of affordable housing to also allowing changes in the type of housing built and the mix of dwelling size.
 
 The overall size of the development can be anything from 2,000 to 4,184 residential units.  The type of housing is also divided between 'conventional', self contained homes and 'non-conventional' housing, such as student and co-living.  Later-life accommodation and key worker housing is also allowed \[CHECK].  (Footnote; Early in their original applciation BL pitched this as being affordable housing - Quod clarification note 3 Nov 2018).
 
-The picture is further complicated by the scheme being divided into twelve zones with the housing mix of bedroom size depending on which zones the housing is in.  All zones allow BL a maximum of 10% studio flats (only for the freemarket, but twice Southwark's policy limit) and a minimum of 60% two-bed plus.  Only five of the zones should also have a minimum of 20% three-bed plus, but only for affordable housing, which effectively guarantees very little family housing of any kind.
+The picture is further complicated by the scheme being divided into twelve zones, with the housing mix of bedroom size depending on which zones the housing is in.  All zones allow BL a maximum of 10% studio flats (only for the freemarket flats, but nonetheless twice Southwark's policy limit) and a minimum of 60% two-bed plus.  Only five of the zones should also have a minimum of 20% three-bed plus, but only for affordable housing, which effectively guarantees very little family housing of any kind.
 
 
 

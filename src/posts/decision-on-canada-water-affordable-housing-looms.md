@@ -15,8 +15,7 @@ The picture is further complicated by the scheme being divided into twelve zones
 
 While student housing and a hotel were already allowed under the original permission, the Mayor has further allowed co-living, a new type of shared living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for nearly 20% of the total residential floorspace ^**x2**.
 
-BL have also been allowed to increase not only the total scheme floorspace but the floorspace limit for seven zones, and by such an amount that the cumulative total for the zones exceeds that of the limit for the whole scheme.  BL must stick to the total scheme limit, but the arrangement *'allows flexibility in the quantum of
-development that comes forward... in each Zone, over a lengthy build-out period'* **^x2i**
+BL have also been allowed to increase not only the total floorspace for the whole scheme, but the individual floorspace limit for each of seven zones as well, and by such an amount that the cumulative total for all the zones exceeds that of the limit for the whole scheme.  By this arrangement BL will be allowed '.. *flexibility in the quantum of development that comes forward... in each Zone'*, even though they will not be allowed to build more than the total limit.**^x2i**
 
 
 

@@ -35,7 +35,32 @@ These floorspace increases will be accommodated by making the development much t
 
 The Mayor's shameful/shamefaced approval of BL's s73 application barely acknowledges that there has been a huge reduction in affordable housing.  Instead he adopts a 'glass-half full' approach - if there is any affordable housing at all that has to be welcomed and any reduction from what was previously agreed is justified by changes in economic circumstances, that in turn damage the viability of the sheme and have to be accepted.
 
-There are three arguments against this.  First, the viability assessment is based on assumptions, many questionable, and overall is just a snapshot taken at a particularly inauspicious moment of a decades long scheme.  BL in 2019 agreed to deliver 35% affordable housing, even though the viability assessment of the time said only 11% was viable \[REF].  Now their tune has changed - 3% is all that is viable and they are only comitting to 9% after the hefty gift of a grant of £xxxm \[REF- GLA Stage 3, 2ii]
+There are three arguments against this.  First, the viability assessment is based on assumptions, many questionable, and overall is just a snapshot taken at a particularly inauspicious moment of a decades long scheme.  BL in 2019 agreed to deliver 35% affordable housing, even though the viability assessment of the time said only 11% was viable \[REF].  Now their tune has changed - 3% is all that is viable and they are only comitting to 9% after the hefty gift of a grant of £xxxm \[REF- GLA Stage 3, 2ii].
+
+It must be remembered as well that an 'unviable' scheme is not an necessarily an unprofitable scheme.  The developer themselves set the level of profit that turns an unviable scheme into a viable one.  The GLA say that  they unable to say, in cash terms how much this might be  \[REF].  In percentage terms it will be 15% IRR, (Internal Rate of Return), a conveniently obscure measure of profit, favoured by developers.  This is a change from the previously agreed 16% GDV (GDV) the lay person.  
+
+Second, it is up to the decision maker how much weight to give viability assessments - NPPF
+
+Third - the common sense argument well made by local councillors and objectors  at the Mayor's hearing, that if a scheme cannot suppply the affordable housing needed (when most people in Southwark need affordable houisng), does not meet the needs of the local community in other respects (cinema etc) and can only be built with any affordable housing if most of the cost is met from the public purse, then maybe it should not be built at all?  In short, if everything the local community needs has to be dropped to make a scheme viable, then vibility becomes the whole point; we are building something because it is viable not because it is what is needed.
+
+### Will we get more affordable housing from viability reviews?
+
+Viability reviews sound like a reasonable compromise when there is doubt and argument about how viable a scheme is and how much affordable housing can be provided.
+
+However, they have no track record of reviews delivering any great amount of additional affordable housing the liklelihood of enough surplus profit being identified to fund to do this is unlikely when the starting point has been set so low.  The accepted viability of the scheme is 3%, which means that it would have to improve five-fold, to reach 15%, before a single additional affordable home is secured.
+
+In both cases, it is worth noting any review will only be off the residential element, less than half by floorspace, os any profit created by the non-residential element will be left outof the picture.
+
+mongst the questionable assumptions is the level of profit required before the whole scheme becomes 'viable'.  At 3% affordable housing BL will be making £xxxm (propped up by the GLA grant).
+
+email 25 March 2026 - 
+
+Hello Jerry
+
+The answer is yes to the first two questions. I’m afraid that I’m unable to answer the third.
+
+* If the review is indeed of the residential units only, I assume that the profit hurdle, before any additional affordable housing can be secured, would be 15% IRR on just the residential element?
+* If this is so, what would the profit hurdle be in cash terms, according to the S73 Illustrative Scheme Base appraisal, appended to the S106 agreement?
 
  
 

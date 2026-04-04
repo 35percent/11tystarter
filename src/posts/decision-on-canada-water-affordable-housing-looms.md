@@ -41,7 +41,11 @@ It must be remembered as well that an 'unviable' scheme is not an necessarily an
 
 There is also the is is a change from measuring profit by GDV to by IRR.the previously agreed 16% GDV (GDV) the lay person.
 
-Second, it is up to the Mayor how much weight to give viability assessments, when reaching his decsion on any application.  The GLA report presented to the Mayor dutifully notes this \[REF para 208], only to then go to say that they, and Southwark Council, *Considering that the submitted FVA and supplementary information has been subject to considerable scrutiny by GLA and Southwark officers and their advisers, it is considered that this scrutiny should be given considerable weight by the decision-maker.*
+Second, it is up to the Mayor how much weight to give viability assessments, when reaching his decision on any application.  The GLA report presented to the Mayor dutifully notes this \[REF para 208], only to then go to say that they, and Southwark Council,agree *with BL about the viability of the scheme and that they have given it considerable scrutiny and that it is this that should be considerable weight, rather than any loss of affordable housing.*
+
+*This approach is given strenth by the Written Ministerial Statement, which reduces the amount of affordable housing required for the so-called fast track route for planning permission from 35% to 20%, while leaving the door open to any other developer who wants to delvier less to continue to do so, bu producing viability assessments.*
+
+*Considering that the submitted FVA and supplementary information has been subject to considerable scrutiny by GLA and Southwark officers and their advisers, it is considered that this scrutiny should be given considerable weight by the decision-maker.*
 
 
 
@@ -222,3 +226,7 @@ BL pitched unconventional housing as being affordable housing in their original 
 ^x IRR is the 'Internal Rate of Return', an alternative to using a percentage of the Gross Development Value (GDV) to measure profit, which takes account of cash flow.  REF - 4.1 ETC
 
 ^x 16% GDV REF
+
+<https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing>
+
+<https://data.london.gov.uk/dataset/canada-water-masterplan-hearing-documents-2z18q/>

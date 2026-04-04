@@ -3,11 +3,13 @@ title: Canada Water's huge loss of affordable housing
 description: Mayor agrees to cut affordable housing to 9%
 date: 2026-03-14T12:04:04.204Z
 ---
-London Mayor Sadiq Khan has allowed developer British Land reduce the affordable housing on its giant Canada Water scheme from 35% to 9% of the total homes.  British Land (BL) was granted planning permission to build 2,000 - 4,000 homes, plus other uses and amenities, by Southwark Council in 2019/2020.  This original permission required that 35% affordable housing, comprising 25% social rented and 10% intermediate housing, with a further 5% possible , depending on the viability of the scheme [**^x1**].  At the beginning of last year BL made a s73 application  to reduce the affordable housing requirement (while also increasing the height and density of the scheme).  BL then referred the s73 application to the Mayor in December 2025, for his determination, taking the decision out of Southwark's hands.  The application was heard and approved by Deputy Mayor Jules Pipe (acting on the Mayor's behalf) [on 27 March](https://webcasts.london.gov.uk/Mayoral/Event/Index/389f7074-88e3-46b0-ae1c-6c4032abfddd), after representations from GLA officers, Southwark Council, objectors and British Land.
+London Mayor Sadiq Khan has approved a reduction of affordable housing from 35% to 9% on the Canada Water development.  Developer British Land (BL) was granted planning permission to build 2,000 - 4,000 homes, plus other uses and amenities on the giant site, by Southwark Council in 2019/2020.  This permission required 25% social rented and 10% intermediate housing, with a further possible 5%, depending on the viability of the scheme [**^x1**].  
+
+At the beginning of last year BL made a s73 application to Southwark, to reduce the affordable housing requirement to 3% (while also increasing the height and density of the scheme).  In December 2025, BL referred the s73 application to the Mayor in December 2025, for his determination, taking the decision out of Southwark's hands.  The application was heard and approved by Deputy Mayor Jules Pipe (acting on the Mayor's behalf) [on 27 March](https://webcasts.london.gov.uk/Mayoral/Event/Index/389f7074-88e3-46b0-ae1c-6c4032abfddd), after representations from GLA officers, Southwark Council, objectors and British Land.
 
 ### How many affordable (and family) homes have we lost?
 
-Working out just how many affordable homes have been lost by the Mayor's decison is not straightforward.  This is because BL have been given great flexibility in the type, number and size of homes they can build, both by Southwark in their original permission and by the Mayor's approval of the s73 amendment, which went beyond reducing the amount of affordable housing, to also allowing changes in the type of housing built and to the mix of dwelling size.
+Working out just how many affordable homes have been lost by the Mayor's decison is not straightforward.  BL's amended application went beyond reducing the amount of affordable housing, extending BL's discretion over what can be built and including changes in the type of housing and to the mix of dwelling size, . 
 
 The overall size of the development can be anything from 2,000 to 4,184 residential units **[^x1i]**.  The type of housing is also divided between 'conventional', self contained homes and 'non-conventional' housing, such as student and co-living.  Later-life accommodation and key worker housing is also allowed \[CHECK].  (Footnote; Early in their original application BL pitched this as being affordable housing - Quod clarification note 3 Nov 2018).
 
@@ -25,23 +27,9 @@ Not knowing precisley how many homes will be built, of what type and size, and i
 
 So very roughly, by subtracting 233 from these amounts, we are losing between 467 and 1,177 affordable homes, or between 267 and 767 homes, if we are only counting the social rented element.
 
-
-
-
-
-
-
 Taking the latitude that BL have been permitted in the size, type, 
 
-
-
-
-
 The amount of affordable housing lost from the percentage reduction can be calculated as anywhere between  467 and 1,167 units in total, depending upon whether the development is built to the minimum or maximum extent.  
-
-
-
-
 
 So, subtracting 233 from the minimum that could have been built gets a loss of  homes, while taking it from teh maximum gets a loss of  homes
 
@@ -55,8 +43,6 @@ Percntages are always a fraction of something.  The GLA are straightforward in s
 level (c.9% across the whole scheme).*
 
 ### A bigger scheme, with maximum flexibility
-
-
 
 BL have also gained permission to increase the height and density of the residential blocks, by between one and thirteen storeys, with six blocks being between 37 and 39 storeys.  This will increase the residential floorspace by nearly 40%, but with only a small increase of around 189 homes, to 4,184 units.  The limit on the total development floorspace would be increased by nearly 17% **^x4** An unspecified amount of the new co-living type of affordable housing would be introduced, which would join the already consented student accommodation, as a 'non-traditional' residential type.  The also already consented hotel would more than double in size .
 
@@ -73,8 +59,6 @@ Bl has also had the twelve zonal limits to how much land can be devoted to each 
 ### Not over yet - Reserved Matters Applications
 
 What BL wanted all along - BNPP Review of Affordable Housing and Viability Statement Dec 2018
-
-
 
 ### What's been delivered so far - Phase 1
 

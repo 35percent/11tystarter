@@ -27,7 +27,7 @@ As well as being allowed to reduce affordable housing, restrict family housing a
 
 Residential floorspace has also been increased by over 40% and makes up a similar perecentage of the total \[CHECK]. This, though, this will only result in a relatively small increase of about 189 units of housing, with most of the extra floorspace being used to accommodate a second staircase, as required by new building-safety regulations, post Grenfell. **[^8]**
 
-These floorspace increases will be accommodated by making the development much taller and denser.  The residential blocks will rise by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys.  The also already consented hotel would more than double in size .
+These floorspace increases will be accommodated by making the development much taller and denser.  The residential blocks will rise by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys. 
 
 **[IMAGE** -Increase in heights]
 
@@ -127,11 +127,7 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^8] GLA Stage 3 report para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%).  The requirement for a second staircase in tall buildings was an eventual outcome of the Grenfell Tower fire, 2017.
 
-
-
-
-
-^x4 ; residential floorspace by zone increases from 331,500 to 472, 600sqm.  The zonal maximums exceed the 
+\------------------------------------------------------------------------------------------------------------------
 
 
 

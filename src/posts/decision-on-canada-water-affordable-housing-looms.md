@@ -13,19 +13,9 @@ Working out just how many affordable homes have been lost by the Mayor's decison
 
 BL's amended application also goes beyond reducing the number of affordable homes, by also adding to the types of housing that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation.  Co-living is a new type of shared-living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for nearly 20% of the total residential floorspace [^**3]**.  Assisted living accommodation and key worker housing is also allowed **[^4].**
 
-
-
-183. *The HPP allowed for up to 35,700sq.m. of Assisted Living Accommodation in
-     Zones E, G, J, H and L. The application is not seeking any amendments to the
-     quantum; however, the proposed removal of caps on specific land uses in each
-     Zone would mean that this form of housing could be provided anywhere within
-     the Masterplan. This provides flexibility in response to market demand and the* 
-184. *Affordable housing provisions to target key workers have been added, which
-     responds to the Council’s Affordable Housing SPD, and is supported.*
-
 In addition, the mix of dwelling size has been restricted to favour smaller homes.  The scheme is divided into twelve zones; all zones allow BL a maximum of 10% studio flats (only as freemarket, but nonetheless twice Southwark's policy limit) and a minimum of 60% two-bed plus.  However, only five of the zones require a minimum of 20% three-bed plus, and only for affordable housing, which effectively guarantees very little family housing of any kind.
 
-While BL have been given plenty of latitude in choosing what to build, their affordable housing obligations have been precisely limited.  The new permission requires just **233** social rented homes - the 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L [**^5]**.  The small \[WHY?] possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.
+While BL have been given plenty of latitude in choosing what to build, their affordable housing obligations have been precisely limited.  The new permission requires just **233** social rented homes - the 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **[^5]**.  The small \[WHY?] possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.
 
 Not knowing precisley how many homes will be built, of what type and size, and how many habitable rooms there will be, means we cannot say exactly how many we have lost by the reduction of the affordable housing percentage reduction **[^6]**.   We can, though, make a rough estimate by comparing the 233 social rented homes we have been left with, to what was claimed in the original 2019 planning committee report.  This estimated that Canada Water would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Making the same calculation using this maximum number gets about 1,400 affordable homes, 1,000 social rent and 400 intermediate.
 
@@ -33,9 +23,9 @@ So very roughly, taking 233 from these amounts, we are losing between 467 and 1,
 
 ### More floorspace, but not many more homes
 
-As well as being allowed to reduce affordable housing, restrict family housing and add unconventional housing BL have also been permitted to increase both the total floorspace for the whole scheme, and the individual floorspace limit for each of seven zones as well, and by such an amount that the cumulative total for all the zones exceeds that of the limit for the whole scheme.  By this arrangement BL will be allowed '.. *flexibility in the quantum of development that comes forward... in each Zone'*, though they will not be allowed to build more than the total limit.**^x2i**
+As well as being allowed to reduce affordable housing, restrict family housing and add unconventional housing, BL have also been permitted to increase both the total floorspace for the whole scheme, and the individual floorspace limit for each of seven zones.  The cumulative floorspace total for all the zones exceeds that of the limit for the whole scheme.  Seperate from the increases in floorspace the zonal cap on specific land usage, that is the limit to the type of buildings allowed in each zone, has been removed. By these arrangements BL will be allowed '.. *flexibility in the quantum of development that comes forward... in each Zone'*, though they will not be allowed to build more than the scheme's total limit **[^7].**
 
-Residential floorspace has also been increased by about 40% and makes up a similar perecentage of the total \[CHECK]. This, though, this will only result in a relatively small increase of about 189 units of housing, with most of the extra floorspace being used to accommodate a second staircase, as required by new building-safety regulations, post Grenfell. **^x2ii**
+Residential floorspace has also been increased by over 40% and makes up a similar perecentage of the total \[CHECK]. This, though, this will only result in a relatively small increase of about 189 units of housing, with most of the extra floorspace being used to accommodate a second staircase, as required by new building-safety regulations, post Grenfell. **[^8]**
 
 These floorspace increases will be accommodated by making the development much taller and denser.  The residential blocks will rise by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys.  The also already consented hotel would more than double in size .
 
@@ -133,11 +123,9 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^6] The amount of affordable housing due is calculated using habitable rooms.  This gives a more accurate percentage figure, but results in fewer affordable homes than a calculation based on units, reduced by the weight of larger family homes.
 
-^x2 GLA Stage 3 report para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum co-living floorspace, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
+[^7] GLA Stage 3 para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
 
-^x2i GLA Stage 3 para 25, 26.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
-
-^x2ii GLA Stage 3 report para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%).  The requirement for a second staircase in tall buildings was an eventual outcome of the Grenfell Tower fire, 2017.
+[^8] GLA Stage 3 report para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%).  The requirement for a second staircase in tall buildings was an eventual outcome of the Grenfell Tower fire, 2017.
 
 
 

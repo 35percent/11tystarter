@@ -11,7 +11,7 @@ At the beginning of last year BL made a s73 application to Southwark, to reduce 
 
 Working out just how many affordable homes have been lost by the Mayor's decison is not straightforward, because we do not know how many homes will be built - the overall size of the development can be anything from 2,000 to 4,184 residential units [**^2**].
 
-BL's amended application also goes beyond reducing the number of affordable homes, by also adding to the types of housing that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation.  Co-living is a new type of shared-living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for nearly 20% of the total residential floorspace [^**3]**.  Assisted living accommodation and key worker housing is also allowed **[^4].**
+BL's amended application also goes beyond reducing the number of affordable homes, by also adding to the types of housing that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation.  Co-living is a new type of shared-living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for nearly 20% of the total residential floorspace [^\*\*3]**.  Assisted living accommodation and key worker housing is also allowed** [^4].\*\*
 
 In addition, the mix of dwelling size has been restricted to favour smaller homes.  The scheme is divided into twelve zones; all zones allow BL a maximum of 10% studio flats (only as freemarket, but nonetheless twice Southwark's policy limit) and a minimum of 60% two-bed plus.  However, only five of the zones require a minimum of 20% three-bed plus, and only for affordable housing, which effectively guarantees very little family housing of any kind.
 
@@ -37,7 +37,9 @@ The Mayor's shameful/shamefaced approval of BL's s73 application barely acknowle
 
 There are three arguments against this.  First, the viability assessment is based on assumptions, many questionable, and overall is just a snapshot taken at a particularly inauspicious moment of a decades long scheme.  BL in 2019 agreed to deliver 35% affordable housing, even though the viability assessment of the time said only 11% was viable \[REF].  Now their tune has changed - 3% is all that is viable and they are only comitting to 9% after the hefty gift of a grant of £xxxm \[REF- GLA Stage 3, 2ii].
 
-It must be remembered as well that an 'unviable' scheme is not an necessarily an unprofitable scheme.  The developer themselves set the level of profit that turns an unviable scheme into a viable one.  The GLA say that  they unable to say, in cash terms how much this might be  \[REF].  In percentage terms it will be 15% IRR, (Internal Rate of Return), a conveniently obscure measure of profit, favoured by developers.  This is a change from the previously agreed 16% GDV (GDV) the lay person.  
+It must be remembered as well that an 'unviable' scheme is not an necessarily an unprofitable scheme.  The developer themselves set the level of profit that turns an unviable scheme into a viable one.  The GLA say that  they unable to say, in cash terms how much this might be  \[REF].  In percentage terms it will be 15% IRR, (Internal Rate of Return), a conveniently obscure measure of profit, favoured by developers.  The draft financial viability assessment attached to the approved permission gives the scheme £445.37m at 7.56% IRR, which by the roughest of estimates indicates that the treshold for viability, and for any more affordable housing will be nearly £1bn.
+
+There is also the is is a change from measuring profit by GDV to by IRR.the previously agreed 16% GDV (GDV) the lay person.
 
 Second, it is up to the decision maker how much weight to give viability assessments - NPPF
 
@@ -62,13 +64,7 @@ The answer is yes to the first two questions. I’m afraid that I’m unable to 
 * If the review is indeed of the residential units only, I assume that the profit hurdle, before any additional affordable housing can be secured, would be 15% IRR on just the residential element?
 * If this is so, what would the profit hurdle be in cash terms, according to the S73 Illustrative Scheme Base appraisal, appended to the S106 agreement?
 
- 
-
 **[SCREENSHOT** -DRAFT S106 SHOWING GRANT]
-
-
-
-
 
 ### How the reduction has been dressed up
 
@@ -81,13 +77,9 @@ level (c.9% across the whole scheme).*
 
 ### A bigger scheme, with maximum flexibility
 
-
-
 BL justify these drastic changes by referring to the cost of installing second staircases, thus losing saleable floorspace, and wider adverse economic conditions **^x.**
 
 Bl has also had the twelve zonal limits to how much land can be devoted to each different land-use, removed, so as *'to provide greater flexibility and enable the Development to adapt to future market demands'* **^x.**
-
-
 
 ### How much family houisng have we lost
 
@@ -156,10 +148,6 @@ BL pitched unconventional housing as being affordable housing in their original 
 [^8] GLA Stage 3 report para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%).  The requirement for a second staircase in tall buildings was an eventual outcome of the Grenfell Tower fire, 2017.
 
 \------------------------------------------------------------------------------------------------------------------
-
-
-
-
 
 ^x REF Housing Statement Addendum Sept 2025.  All planning documents for the application can be found via Southwark Council's [Planning Register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning), by entering the planning reference number 24/AP/0242.  The reference for the original planning permission documents is 18/AP/1640
 

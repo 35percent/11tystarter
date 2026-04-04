@@ -3,15 +3,15 @@ title: Canada Water's huge loss of affordable housing
 description: Mayor agrees to cut affordable housing to 9%
 date: 2026-03-14T12:04:04.204Z
 ---
-London Mayor Sadiq Khan has approved a reduction of affordable housing from 35% to 9% on the Canada Water development.  Developer British Land (BL) was granted planning permission to build 2,000 - 4,000 homes, plus other uses and amenities on the giant site, by Southwark Council in 2019/2020.  This permission required 25% social rented and 10% intermediate housing, with a further possible 5%, depending on the viability of the scheme [**^x1**].  
+London Mayor Sadiq Khan has approved a reduction of affordable housing from 35% to 9% on the Canada Water development.  Developer British Land (BL) was granted planning permission to build 2,000 - 4,000 homes, plus other uses and amenities on the giant site, by Southwark Council in 2019/2020.  This permission required 25% social rented and 10% intermediate housing, with a further possible 5%, depending on the viability of the scheme [**^1**].  
 
 At the beginning of last year BL made a s73 application to Southwark, to reduce the affordable housing requirement to 3% (while also increasing the height and density of the scheme).  In December 2025, BL referred the s73 application to the Mayor in December 2025, for his determination, taking the decision out of Southwark's hands.  The application was heard and approved by Deputy Mayor Jules Pipe (acting on the Mayor's behalf) [on 27 March](https://webcasts.london.gov.uk/Mayoral/Event/Index/389f7074-88e3-46b0-ae1c-6c4032abfddd), after representations from GLA officers, Southwark Council, objectors and British Land.
 
 ### How many affordable (and family) homes have we lost?
 
-Working out just how many affordable homes have been lost by the Mayor's decison is not straightforward, because we do not know how many homes will be built - the overall size of the development can be anything from 2,000 to 4,184 residential units **^x1i**.
+Working out just how many affordable homes have been lost by the Mayor's decison is not straightforward, because we do not know how many homes will be built - the overall size of the development can be anything from 2,000 to 4,184 residential units [**^2**].
 
-BL's amended application also goes beyond reducing the number of affordable homes, by also adding to the types of housing that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation.  Co-living is a new type of shared-living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for nearly 20% of the total residential floorspace ^**x2**.  Assisted living accommodation and key worker housing is also allowed \[[CHECK]. **^1ii.**
+BL's amended application also goes beyond reducing the number of affordable homes, by also adding to the types of housing that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation.  Co-living is a new type of shared-living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for nearly 20% of the total residential floorspace [^**3]**.  Assisted living accommodation and key worker housing is also allowed **[^4].**
 
 
 
@@ -119,15 +119,15 @@ In any event BL obviously believe that they stand a better chance of getting app
 
 Zonal density cap will be removed. 
 
-^x1 [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
+[^1] [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
 
-^x1i [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf) - para 2i
+[^2] [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf) - para 2i
 
-^x2 GLA Stage 3 report para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum co-living floorspace, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
+[^3] GLA Stage 3 report para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum co-living floorspace, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
 
 BL pitched unconventional housing as being affordable housing in their original application, in a list including 'Southwark target rent', but also eight other different 'affordable' tenures, including 'Retirement rent', 'Shared accommodation' and 'Retired shared-equity' - Quod, Financial Viability Assesssment, Clarification Note 3, Fig 1, Nov 2018).
 
-^1ii GLA Stage 3 report, para 183, 184. 
+[^4] GLA Stage 3 report, para 183, 184. 
 
 ^x2 GLA Stage 3 report para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum co-living floorspace, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
 

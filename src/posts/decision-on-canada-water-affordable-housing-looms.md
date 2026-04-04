@@ -41,7 +41,67 @@ It must be remembered as well that an 'unviable' scheme is not an necessarily an
 
 There is also the is is a change from measuring profit by GDV to by IRR.the previously agreed 16% GDV (GDV) the lay person.
 
-Second, it is up to the decision maker how much weight to give viability assessments - NPPF
+Second, it is up to the Mayor how much weight to give viability assessments, when reaching his decsion on any application.  The GLA report presented to the Mayor dutifully notes this \[REF para 208], only to then go to say that they, and Southwark Council, *Considering that the submitted FVA and supplementary information has been subject to considerable scrutiny by GLA and Southwark officers and their advisers, it is considered that this scrutiny should be given considerable weight by the decision-maker.*
+
+
+
+
+
+
+
+and on which he based his decision, but concludes that because both they and Southwark have This is laid out clearly in the NPPF
+
+GLA
+
+208. *Paragraph 59 of the NPPF states:
+     “The weight to be given to a viability assessment is a matter for the decision
+     maker, having regard to all the circumstances in the case, including whether
+     the plan and the viability evidence underpinning it is up to date, and any
+     change in site circumstances since the plan was brought into force. All
+     viability assessments, including any undertaken at the plan-making stage,
+     should reflect the recommended approach in the National Planning Practice
+     Guidance, including standardised inputs, and should be made publicly
+     available.”* The Section 73 application relates to amendments to the Canada Water
+     Masterplan permitted under the Hybrid Planning Permission (HPP). The
+     changes are not considered to result in a development that would be
+     substantially different in nature or scale to the original permission. 
+
+*209 GLA officers accept that the applicant’s FVA demonstrates that the maximum
+viable level of affordable housing at this time is 3%. It is also accepted that the
+HPP FVA demonstrated that a viable scheme could deliver 11% affordable
+housing at that time, notwithstanding that the applicant was prepared to commit
+to 35% predicated on assumed growth. Considering that the submitted FVA
+and supplementary information has been subject to considerable scrutiny by
+GLA and Southwark officers and their advisers, it is considered that this
+scrutiny should be given considerable weight by the decision-maker. The
+particular circumstances of the scheme (such as significant front-loaded
+infrastructure costs and heritage/strategic view impacts) are also acknowledged
+to have a negative impact on the viability of the scheme, beyond negative
+viability influences currently affecting schemes more generally*
+
+*385. The Section 73 application relates to amendments to the Canada Water
+Masterplan permitted under the Hybrid Planning Permission (HPP). The
+changes are not considered to result in a development that would be
+substantially different in nature or scale to the original permission.* 
+
+[Proposed reforms to the National Planning Policy Framework and other changes to the planning system
+December 2025](https://assets.publishing.service.gov.uk/media/697b6bc6aacd0dc9777b4fd2/December_2025_NPPF_Consultation.pdf) PG 29
+
+*Finally, as part of the package of support for housebuilding in London announced by
+the Secretary of State and the Mayor of London on 23 October, the government also
+committed to clarify the use of Section 73 applications. We are taking steps today to
+remind the planning inspectorate, local planning authorities and developers that, as a
+general rule, attempts to revisit fundamental issues of viability or planning obligations
+through Section 73 applications should be scrutinised carefully, and the applicant
+should provide a robust justification for any changes proposed for planning obligations
+associated with the original permission beyond those linked to the specific variation of
+condition being sought. Where developers submit a Section 73 application that seeks
+to reduce affordable housing provision based on a new viability assessment, the
+decision-maker should have regard to the harm that such a reduction may cause and
+give this appropriate weight in the overall planning balance, alongside the wider merits
+of the scheme.*
+
+
 
 Third - the common sense argument well made by local councillors and objectors  at the Mayor's hearing, that if a scheme cannot suppply the affordable housing needed (when most people in Southwark need affordable houisng), does not meet the needs of the local community in other respects (cinema etc) and can only be built with any affordable housing if most of the cost is met from the public purse, then maybe it should not be built at all?  In short, if everything the local community needs has to be dropped to make a scheme viable, then vibility becomes the whole point; we are building something because it is viable not because it is what is needed.
 

@@ -25,9 +25,9 @@ BL's amended application also goes beyond reducing the number of affordable home
 
 In addition, the mix of dwelling size has been restricted to favour smaller homes.  The scheme is divided into twelve zones; all zones allow BL a maximum of 10% studio flats (only as freemarket, but nonetheless twice Southwark's policy limit) and a minimum of 60% two-bed plus.  However, only five of the zones require a minimum of 20% three-bed plus, and only for affordable housing, which effectively guarantees very little family housing of any kind.
 
-While BL have been given plenty of latitude in choosing what to build, their affordable housing obligations have been precisely limited.  The new permission requires just **233** social rented homes - the 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **^x3**.  The small \[WHY?] possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.
+While BL have been given plenty of latitude in choosing what to build, their affordable housing obligations have been precisely limited.  The new permission requires just **233** social rented homes - the 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L [**^5]**.  The small \[WHY?] possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.
 
-Not knowing precisley how many homes will be built, of what type and size, and how many habitable rooms there will be, means we cannot say exactly how many we have lost by the reduction of the affordable housing percentage reduction **^x3i**.   We can, though, make a rough estimate by comparing the 233 social rented homes we have been left with, to what was claimed in the original 2019 planning committee report.  This estimated that Canada Water would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Making the same calculation using this maximum number gets about 1,400 affordable homes, 1,000 social rent and 400 intermediate.
+Not knowing precisley how many homes will be built, of what type and size, and how many habitable rooms there will be, means we cannot say exactly how many we have lost by the reduction of the affordable housing percentage reduction **[^6]**.   We can, though, make a rough estimate by comparing the 233 social rented homes we have been left with, to what was claimed in the original 2019 planning committee report.  This estimated that Canada Water would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Making the same calculation using this maximum number gets about 1,400 affordable homes, 1,000 social rent and 400 intermediate.
 
 So very roughly, taking 233 from these amounts, we are losing between 467 and 1,177 affordable homes, or between 267 and 767 social rented homes, if we are just counting these.
 
@@ -127,7 +127,11 @@ Zonal density cap will be removed.
 
 BL pitched unconventional housing as being affordable housing in their original application, in a list including 'Southwark target rent', but also eight other different 'affordable' tenures, including 'Retirement rent', 'Shared accommodation' and 'Retired shared-equity' - Quod, Financial Viability Assesssment, Clarification Note 3, Fig 1, Nov 2018).
 
-[^4] GLA Stage 3 report, para 183, 184. 
+[^4] GLA Stage 3 report, para 183, 184.
+
+[^5] The figures are given in various parts of the GLA Stage 3 report [](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf)para 2ii - 150 units from next tranche of 1,000 homes; para 10 - 79 social rent form Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
+
+[^6] The amount of affordable housing due is calculated using habitable rooms.  This gives a more accurate percentage figure, but results in fewer affordable homes than a calculation based on units, reduced by the weight of larger family homes.
 
 ^x2 GLA Stage 3 report para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum co-living floorspace, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
 
@@ -135,9 +139,9 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 ^x2ii GLA Stage 3 report para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%).  The requirement for a second staircase in tall buildings was an eventual outcome of the Grenfell Tower fire, 2017.
 
-^x3 The figures are not given together, but taken from various parts of the GLA Stage 3 report [](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf)para 2ii - 150 units from next tranche of 1,000 homes; para 10 - 79 social rent form Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
 
-^x3i The amount of affordable housing due is calculated using habitable rooms.  This gives a more accurate percentage figure, but results in fewer affordable homes than a calculation based on units, reduced by the weight of larger family homes.
+
+
 
 ^x4 ; residential floorspace by zone increases from 331,500 to 472, 600sqm.  The zonal maximums exceed the 
 

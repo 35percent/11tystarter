@@ -31,7 +31,9 @@ These floorspace increases will be accommodated by making the development much t
 
 **[IMAGE** -Increase in heights]
 
-### The viability catch
+### The viability trump card
+
+
 
  *Grant has been awarded to the scheme, allowing 17% (by habitable room) affordable housing in the next tranche of 1,000 homes to be provided as 150 social rent homes, equivalent to 20% at a tenure compliant
 level (c.9% across the whole scheme).*

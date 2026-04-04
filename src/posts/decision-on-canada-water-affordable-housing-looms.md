@@ -13,7 +13,7 @@ Working out just how many affordable homes have been lost by the Mayor's decison
 
 BL's amended application also goes beyond reducing the number of affordable homes, by adding to the types of homes that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation.  Later-life accommodation and key worker housing is also allowed \[[CHECK]. **^1ii.**
 
-In addition, the mix of dwelling size has been restricted to favour smaller homesThe picture is further complicated by the scheme being divided into twelve zones, with the housing mix of bedroom size depending on which zones the housing is in.  All zones allow BL a maximum of 10% studio flats (only for the freemarket flats, but nonetheless twice Southwark's policy limit) and a minimum of 60% two-bed plus.  Only five of the zones should also have a minimum of 20% three-bed plus, but only for affordable housing, which effectively guarantees very little family housing of any kind.
+In addition, the mix of dwelling size has been restricted to favour smaller homes.  AThe picture is further complicated by the scheme being divided into twelve zones, with the housing mix of bedroom size depending on which zones the housing is in.  All zones allow BL a maximum of 10% studio flats (only for the freemarket flats, but nonetheless twice Southwark's policy limit) and a minimum of 60% two-bed plus.  Only five of the zones should also have a minimum of 20% three-bed plus, but only for affordable housing, which effectively guarantees very little family housing of any kind.
 
 
 
@@ -106,7 +106,7 @@ Zonal density cap will be removed.
 
 ^x1i [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf) - para 2i
 
-^1ii BL pitched this unconventional housing as being affordable housing in their original application, including 'Retirement rent', 'Shared accommodation' and 'Retired shared-equity' in a list including 'Southwark target rent', but also eight other different 'affordable' tenures, - Quod, Financial Viability Assesssment, Clarification Note 3, Fig 1, Nov 2018).
+^1ii BL pitched unconventional housing as being affordable housing in their original application, in a list including 'Southwark target rent', but also eight other different 'affordable' tenures, including 'Retirement rent', 'Shared accommodation' and 'Retired shared-equity' - Quod, Financial Viability Assesssment, Clarification Note 3, Fig 1, Nov 2018).
 
 ^x2 GLA Stage 3 report para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
 

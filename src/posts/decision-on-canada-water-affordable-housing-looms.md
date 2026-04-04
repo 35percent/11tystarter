@@ -45,8 +45,9 @@ Second, it is up to the Mayor how much weight to give viability assessments, whe
 
 This positive approach is given strength, according to the GLA, by a Government Policy Note 'Support for housebuilding in London' and the Mayor's 'Support for Housebuilding' LPG (London Plan Guidance), published the very previous day.  Both these documents outline a co-ordinated reduction in the affordable housing requirement, from 35% to 20%, under the so-called fast-track route for planning permission*, designed to *'unstall'* stalled schemes, just like BL's Canada Water scheme (even though it does not qualify for the new fast-track route, because it does not provide 20% affordable housing, as the GLA admit)  \[REF para 192].
 
-While noting this newly-minted policy support for their position the GLA ignores another pending policy direction, following from the Support for Housebuilding packaget, which says '*Where developers submit a Section 73 application that seeks to reduce affordable housing provision based on a new viability assessment, the decision-maker should have regard to the harm that such a reduction may cause and give this appropriate weight in the overall planning balance, alongside the wider merits
-of the scheme'.* [REF [Proposed reforms to the National Planning Policy Framework and other changes to the planning system December 2025](https://assets.publishing.service.gov.uk/media/697b6bc6aacd0dc9777b4fd2/December_2025_NPPF_Consultation.pdf) PG 29]. This remains under consultation, and was not published the day before the hearing, so was safely ignored.
+While noting this newly-minted policy support for their position the GLA ignores another pending policy direction, following from the Support for Housebuilding packaget, which says '*Where developers submit a Section 73 application that seeks to reduce affordable housing provision based on a new viability assessment, the decision-maker should have regard to the harm that such a reduction may cause and give this appropriate weight in the overall planning balance, alongside the wider merits of the scheme'.* [REF [Proposed reforms to the National Planning Policy Framework and other changes to the planning system December 2025](https://assets.publishing.service.gov.uk/media/697b6bc6aacd0dc9777b4fd2/December_2025_NPPF_Consultation.pdf) PG 29]. This remains under consultation, and was not published the day before the hearing, so was safely ignored.
+
+the GLA opines *The Section 73 application relates to amendments to the Canada Water Masterplan permitted under the Hybrid Planning Permission (HPP). The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission.* \[REF GLA para 385]
 
 
 
@@ -93,7 +94,7 @@ viability influences currently affecting schemes more generally*
 *385. The Section 73 application relates to amendments to the Canada Water
 Masterplan permitted under the Hybrid Planning Permission (HPP). The
 changes are not considered to result in a development that would be
-substantially different in nature or scale to the original permission.* 
+substantially different in nature or scale to the original permission.*
 
 [Proposed reforms to the National Planning Policy Framework and other changes to the planning system
 December 2025](https://assets.publishing.service.gov.uk/media/697b6bc6aacd0dc9777b4fd2/December_2025_NPPF_Consultation.pdf) PG 29

@@ -125,7 +125,9 @@ Zonal density cap will be removed.
 
 ^x2 GLA Stage 3 report para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum co-living floorspace, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
 
-^1ii BL pitched unconventional housing as being affordable housing in their original application, in a list including 'Southwark target rent', but also eight other different 'affordable' tenures, including 'Retirement rent', 'Shared accommodation' and 'Retired shared-equity' - Quod, Financial Viability Assesssment, Clarification Note 3, Fig 1, Nov 2018).
+BL pitched unconventional housing as being affordable housing in their original application, in a list including 'Southwark target rent', but also eight other different 'affordable' tenures, including 'Retirement rent', 'Shared accommodation' and 'Retired shared-equity' - Quod, Financial Viability Assesssment, Clarification Note 3, Fig 1, Nov 2018).
+
+^1ii GLA Stage 3 report, para 183, 184. 
 
 ^x2 GLA Stage 3 report para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum co-living floorspace, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
 

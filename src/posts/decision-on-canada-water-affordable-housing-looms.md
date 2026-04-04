@@ -9,11 +9,13 @@ At the beginning of last year BL made a s73 application to Southwark, to reduce 
 
 ### How many affordable (and family) homes have we lost?
 
-Working out just how many affordable homes have been lost by the Mayor's decison is not straightforward.  BL's amended application went beyond reducing the amount of affordable housing, extending BL's discretion over what can be built and including changes in the type of housing and to the mix of dwelling size, . 
+Working out just how many affordable homes have been lost by the Mayor's decison is not straightforward, because we do not know how many homes will be built - the overall size of the development can be anything from 2,000 to 4,184 residential units **^x1i**.
 
-The overall size of the development can be anything from 2,000 to 4,184 residential units **[^x1i]**.  The type of housing is also divided between 'conventional', self contained homes and 'non-conventional' housing, such as student and co-living.  Later-life accommodation and key worker housing is also allowed \[CHECK].  (Footnote; Early in their original application BL pitched this as being affordable housing - Quod clarification note 3 Nov 2018).
+BL's amended application also goes beyond reducing the number of affordable homes, by adding to the types of homes that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation.  Later-life accommodation and key worker housing is also allowed \[[CHECK]. **^1ii.**
 
-The picture is further complicated by the scheme being divided into twelve zones, with the housing mix of bedroom size depending on which zones the housing is in.  All zones allow BL a maximum of 10% studio flats (only for the freemarket flats, but nonetheless twice Southwark's policy limit) and a minimum of 60% two-bed plus.  Only five of the zones should also have a minimum of 20% three-bed plus, but only for affordable housing, which effectively guarantees very little family housing of any kind.
+In addition, the mix of dwelling size has been restricted to favour smaller homesThe picture is further complicated by the scheme being divided into twelve zones, with the housing mix of bedroom size depending on which zones the housing is in.  All zones allow BL a maximum of 10% studio flats (only for the freemarket flats, but nonetheless twice Southwark's policy limit) and a minimum of 60% two-bed plus.  Only five of the zones should also have a minimum of 20% three-bed plus, but only for affordable housing, which effectively guarantees very little family housing of any kind.
+
+
 
 While student housing and a hotel were already allowed under the original permission, the Mayor has further allowed co-living, a new type of shared living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for nearly 20% of the total residential floorspace ^**x2**.
 
@@ -23,7 +25,7 @@ Residential floorspace makes up about 40% of the total \[CHECK] and has also bee
 
 In contrast to the latitude given to BL in choosing to build, their affordable housing obligations are precisely limited.  The new permission requires just **233** social rented homes - the 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **^x3**.  The small \[WHY?] possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.
 
-Not knowing precisley how many homes will be built, of what type and size, and how many habitable rooms there will be^x3i (because the pecentage of affordable houisng is calculated by habitable rooms) means we cannot say how many we have lost by the reduction in the percentage.  We can make a rough estimate though by comparing the number we know we are getting from what was claimed when the original planning permision was granted in 2019/2020.  The planning committee report then estimated that Canada Water would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Making the same calculation using this maximum number gets about 1,400 affordable homes, 1,000 social rent and 400 intermediate.
+Not knowing precisley how many homes will be built, of what type and size, and how many habitable rooms there will be means we cannot say how many we have lost by the reduction in the percentage**^x3i**.   We can, though,  make a rough estimate by comparing the 233 number to what was claimed when the original planning permision was granted, in 2019/2020.  The planning committee report then estimated that Canada Water would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Making the same calculation using this maximum number gets about 1,400 affordable homes, 1,000 social rent and 400 intermediate.
 
 So very roughly, by subtracting 233 from these amounts, we are losing between 467 and 1,177 affordable homes, or between 267 and 767 homes, if we are only counting the social rented element.
 
@@ -102,7 +104,9 @@ Zonal density cap will be removed.
 
 ^x1 [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
 
-^x1i [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf) - para 2i 
+^x1i [GLA Stage 3 report](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf) - para 2i
+
+^1ii BL pitched this unconventional housing as being affordable housing in their original application, including 'Retirement rent', 'Shared accommodation' and 'Retired shared-equity' in a list including 'Southwark target rent', but also eight other different 'affordable' tenures, - Quod, Financial Viability Assesssment, Clarification Note 3, Fig 1, Nov 2018).
 
 ^x2 GLA Stage 3 report para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
 

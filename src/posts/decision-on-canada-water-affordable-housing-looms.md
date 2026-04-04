@@ -37,91 +37,25 @@ The Mayor's approval of BL's s73 application barely acknowledges that there has 
 
 Instead the GLA adopts a 'glass-half full' approach - if there is any affordable housing at all that has to be welcomed and any reduction from what was previously agreed is justified by changes in economic circumstances, that in turn damage the viability of the sCheme and just have to be accepted.
 
-But it is up to the Mayor how much weight to give viability assessments, when reaching his decision on any application.  The GLA report presented to the Mayor dutifully notes this \[REF para 208], only to then go on to say that they, and Southwark Council,agree with BL about the viability of the scheme*,* and *'they have given it considerable scrutiny and that it is this scrutiny that should be considerable weight by the decision-maker'* rather than any loss of affordable housing.
+But it is up to the Mayor how much weight to give viability assessments, when reaching his decision on any application.  The GLA report presented to the Mayor dutifully notes this \[REF para 208] **[^8i]**, only to then go on to say that they, and Southwark Council,agree with BL about the viability of the scheme*,* and *'they have given it considerable scrutiny and that it is this scrutiny that should be considerable weight by the decision-maker'* rather than any loss of affordable housing \[REF para 209].
 
 This positive approach is given strength, according to the GLA, by a Government Policy Note 'Support for housebuilding in London' and the Mayor's 'Support for Housebuilding' LPG (London Plan Guidance), published the very previous day.  Both these documents outline a co-ordinated reduction in the affordable housing requirement, from 35% to 20%, under the so-called fast-track route for planning permission*, designed to* 'unstall'* stalled schemes, just like BL's Canada Water scheme (even though it does not qualify for the new fast-track route, because it does not provide 20% affordable housing, as the GLA admit)  \[REF para 192].
 
 (*while leaving the door open to any other developer who wants to deliver less to continue to do so, by producing viability assessments).
 
-While noting this newly-minted policy support for their position the GLA ignores another pending policy direction, following from the Support for Housebuilding packaget, which says '*Where developers submit a Section 73 application that seeks to reduce affordable housing provision based on a new viability assessment, the decision-maker should have regard to the harm that such a reduction may cause and give this appropriate weight in the overall planning balance, alongside the wider merits of the scheme'.* [REF [Proposed reforms to the National Planning Policy Framework and other changes to the planning system December 2025](https://assets.publishing.service.gov.uk/media/697b6bc6aacd0dc9777b4fd2/December_2025_NPPF_Consultation.pdf) PG 29]. This remains under consultation, and was not published the day before the hearing, so was safely ignored.
+While noting this newly-minted policy support for their position the GLA ignores another pending policy direction, following from the Support for Housebuilding package, which says '*Where developers submit a Section 73 application that seeks to reduce affordable housing provision based on a new viability assessment, the decision-maker should have regard to the harm that such a reduction may cause and give this appropriate weight in the overall planning balance, alongside the wider merits of the scheme'.* [REF [Proposed reforms to the National Planning Policy Framework and other changes to the planning system December 2025](https://assets.publishing.service.gov.uk/media/697b6bc6aacd0dc9777b4fd2/December_2025_NPPF_Consultation.pdf) PG 29]. This remains under consultation, and was not published the day before the hearing, so was safely ignored.
 
 ### The viability trump card
 
-The viability assessment is based on assumptions, many questionable, and overall is just a snapshot taken at a particularly inauspicious moment of a decades long scheme.  BL in 2019 agreed to deliver 35% affordable housing, even though the viability assessment of the time said only 11% was viable \[REF].  Now their tune has changed - 3% is all that is viable and they are only comitting to 9% after the hefty gift of a grant of £xxxm \[REF- GLA Stage 3, 2ii].
+Behind everything lies viability.  All the changes (adding non-conventional housing to overcome the fall in demand for conventional housing) and reductions in the housing provision are motivated by improving viability
+
+But the viability assessment is based on assumptions, many questionable, and overall is just a snapshot taken at a particularly inauspicious moment of a decades long scheme.  BL in 2019 agreed to deliver 35% affordable housing, even though the viability assessment of the time said only 11% was viable \[REF].  Now their tune has changed - 3% is all that is viable and they are only comitting to 9% after the hefty gift of a grant of £xxxm \[REF- GLA Stage 3, 2ii].
 
 It must be remembered as well that an 'unviable' scheme is not an necessarily an unprofitable scheme.  The developer themselves set the level of profit that turns an unviable scheme into a viable one.  The GLA say that  they unable to say, in cash terms how much this might be  \[REF].  In percentage terms it will be 15% IRR, (Internal Rate of Return), a conveniently obscure measure of profit, favoured by developers.  The draft financial viability assessment attached to the approved permission gives the scheme £445.37m at 7.56% IRR, which by the roughest of estimates indicates that the treshold for viability, and for any more affordable housing will be nearly £1bn.
 
 There is also the is is a change from measuring profit by GDV to by IRR.the previously agreed 16% GDV (GDV) the lay person.
 
-
-
-
-
-
-
-*Considering that the submitted FVA and supplementary information has been subject to considerable scrutiny by GLA and Southwark officers and their advisers, it is considered that this scrutiny should be given considerable weight by the decision-maker.*
-
-
-
-
-
-
-
-and on which he based his decision, but concludes that because both they and Southwark have This is laid out clearly in the NPPF
-
-GLA
-
-208. *Paragraph 59 of the NPPF states:
-     “The weight to be given to a viability assessment is a matter for the decision
-     maker, having regard to all the circumstances in the case, including whether
-     the plan and the viability evidence underpinning it is up to date, and any
-     change in site circumstances since the plan was brought into force. All
-     viability assessments, including any undertaken at the plan-making stage,
-     should reflect the recommended approach in the National Planning Practice
-     Guidance, including standardised inputs, and should be made publicly
-     available.”* The Section 73 application relates to amendments to the Canada Water
-     Masterplan permitted under the Hybrid Planning Permission (HPP). The
-     changes are not considered to result in a development that would be
-     substantially different in nature or scale to the original permission. 
-
-*209 GLA officers accept that the applicant’s FVA demonstrates that the maximum
-viable level of affordable housing at this time is 3%. It is also accepted that the
-HPP FVA demonstrated that a viable scheme could deliver 11% affordable
-housing at that time, notwithstanding that the applicant was prepared to commit
-to 35% predicated on assumed growth. Considering that the submitted FVA
-and supplementary information has been subject to considerable scrutiny by
-GLA and Southwark officers and their advisers, it is considered that this
-scrutiny should be given considerable weight by the decision-maker. The
-particular circumstances of the scheme (such as significant front-loaded
-infrastructure costs and heritage/strategic view impacts) are also acknowledged
-to have a negative impact on the viability of the scheme, beyond negative
-viability influences currently affecting schemes more generally*
-
-*385. The Section 73 application relates to amendments to the Canada Water
-Masterplan permitted under the Hybrid Planning Permission (HPP). The
-changes are not considered to result in a development that would be
-substantially different in nature or scale to the original permission.*
-
-[Proposed reforms to the National Planning Policy Framework and other changes to the planning system
-December 2025](https://assets.publishing.service.gov.uk/media/697b6bc6aacd0dc9777b4fd2/December_2025_NPPF_Consultation.pdf) PG 29
-
-*Finally, as part of the package of support for housebuilding in London announced by
-the Secretary of State and the Mayor of London on 23 October, the government also
-committed to clarify the use of Section 73 applications. We are taking steps today to
-remind the planning inspectorate, local planning authorities and developers that, as a
-general rule, attempts to revisit fundamental issues of viability or planning obligations
-through Section 73 applications should be scrutinised carefully, and the applicant
-should provide a robust justification for any changes proposed for planning obligations
-associated with the original permission beyond those linked to the specific variation of
-condition being sought. Where developers submit a Section 73 application that seeks
-to reduce affordable housing provision based on a new viability assessment, the
-decision-maker should have regard to the harm that such a reduction may cause and
-give this appropriate weight in the overall planning balance, alongside the wider merits
-of the scheme.*
-
-
-
-Third - the common sense argument well made by local councillors and objectors  at the Mayor's hearing, that if a scheme cannot suppply the affordable housing needed (when most people in Southwark need affordable houisng), does not meet the needs of the local community in other respects (cinema etc) and can only be built with any affordable housing if most of the cost is met from the public purse, then maybe it should not be built at all?  In short, if everything the local community needs has to be dropped to make a scheme viable, then vibility becomes the whole point; we are building something because it is viable not because it is what is needed.
+Finally, the common sense argument well made by local councillors and objectors  at the Mayor's hearing, that if a scheme cannot suppply the affordable housing needed (when most people in Southwark need affordable houisng), does not meet the needs of the local community in other respects (cinema etc) and can only be built with any affordable housing if most of the cost is met from the public purse, then maybe it should not be built at all?  In short, if everything the local community needs has to be dropped to make a scheme viable, then vibility becomes the whole point; we are building something because it is viable not because it is what is needed.
 
 ### Will we get more affordable housing from viability reviews?
 
@@ -224,6 +158,8 @@ BL pitched unconventional housing as being affordable housing in their original 
 [^7] GLA Stage 3 para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
 
 [^8] GLA Stage 3 report para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%).  The requirement for a second staircase in tall buildings was an eventual outcome of the Grenfell Tower fire, 2017.
+
+[^8i] GLA Stage 3 report para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
 
 \------------------------------------------------------------------------------------------------------------------
 

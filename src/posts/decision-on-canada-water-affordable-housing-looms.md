@@ -37,9 +37,13 @@ These floorspace increases will be accommodated by making the development much t
 
 ### The GLA's 'balanced' approach
 
-The Mayor's approval of BL's s73 application relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf).  This  It's sole comment is *221 Notwithstanding this, GLA officers consider that the reduced quantum of affordable housing (compared to the HPP) reduces materially the extent of public benefits delivered by the proposals, to be weighed in the balance with all of the other benefits and dis-benefits arising from the application, as set out in the conclusion to this report.*
+The Mayor's approval of BL's s73 application relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf).  This weighs up the pros and cons of the aplication, and begins by saying  '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission.* [^9]. 
 
-Remarkably the report also says '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission.* [^9].
+It then notes that the Mayor must judge the application against the development plan (ie the London Plan) and what are known as *'material considerations'*.  **[^8i]**
+
+ *221 Notwithstanding this, GLA officers consider that the reduced quantum of affordable housing (compared to the HPP) reduces materially the extent of public benefits delivered by the proposals, to be weighed in the balance with all of the other benefits and dis-benefits arising from the application, as set out in the conclusion to this report.*
+
+
 
 
 
@@ -47,7 +51,7 @@ Remarkably the report also says '*The changes are not considered to result in a 
 
 Instead the GLA adopts a 'glass-half full' approach - if there is any affordable housing at all that has to be welcomed and any reduction from what was previously agreed is justified by changes in economic circumstances, that in turn damage the viability of the sCheme and just have to be accepted.
 
-But it is up to the Mayor how much weight to give viability assessments, when reaching his decision on any application.  The GLA report presented to the Mayor dutifully notes this \[REF para 208] **[^8i]**, only to then go on to say that they, and Southwark Council,agree with BL about the viability of the scheme*,* and *'they have given it considerable scrutiny and that it is this scrutiny that should be considerable weight by the decision-maker'* rather than any loss of affordable housing \[REF para 209].
+But it is up to the Mayor how much weight to give viability assessments, when reaching his decision on any application.  The GLA report presented to the Mayor dutifully notes this \[REF para 208] **[^8ii]**, only to then go on to say that they, and Southwark Council,agree with BL about the viability of the scheme*,* and *'they have given it considerable scrutiny and that it is this scrutiny that should be considerable weight by the decision-maker'* rather than any loss of affordable housing \[REF para 209].
 
 This positive approach is given strength, according to the GLA, by a Government Policy Note 'Support for housebuilding in London' and the Mayor's 'Support for Housebuilding' LPG (London Plan Guidance), published the very previous day.  Both these documents outline a co-ordinated reduction in the affordable housing requirement, from 35% to 20%, under the so-called fast-track route for planning permission*, designed to* 'unstall'* stalled schemes, just like BL's Canada Water scheme (even though it does not qualify for the new fast-track route, because it does not provide 20% affordable housing, as the GLA admit)  \[REF para 192].
 
@@ -171,7 +175,9 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^9] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 385
 
-[^8i] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
+[^8i]  A material consideration isdescribed on the  [government's planning webpages](https://www.gov.uk/guidance/determining-a-planning-application) as '*one which is relevant to making the planning decision in question'*; more helpfully, it continues, that material considerations are *'concerned with land use in the public interest, so that the protection of purely private interests such as the impact of a development on the value of a neighbouring property or loss of private rights to light could not be material considerations'.*
+
+[^8ii] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
 
 \------------------------------------------------------------------------------------------------------------------
 

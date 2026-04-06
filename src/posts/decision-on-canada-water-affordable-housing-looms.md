@@ -41,13 +41,13 @@ The Mayor's approval of BL's s73 application relies on the recommendation of the
 
 The report then notes that the Mayor must judge the application against the development plan and *'material considerations'***.** This places housing alongside all other aspects of the development in the *'planning balance'*.**[^9i]**  
 
-Housing is taken as a single category, without distinctions of type.  Two-bed, three-bed or family housing is not mentioned at all.  Nor is student housing, or the introducion of co-living -  it is all rolled into 'housing' which is deemed to be a benefit regardless of whom it is for (para 397).
+Housing is taken as a single category, without distinctions of type.  Two-bed, three-bed or family housing is not mentioned at all.  Nor is student housing, or the introducion of co-living -  it is all rolled into 'housing', regardless of who the the housing is for.  BL's application is commended because *'it will optimise the potential of the site to bring forward much-needed quality housing on a stalled site.........which should be given substantial weight'.* Who these homes would house is given no consideration(para 391)*.*
 
 When affordable housing is addressed it is in the context of viability.  After noting BL's previous offer of 35% affordable housing, the report accepts their assessment that 3% affordable housing is the maximum viable amount. The report then advises the Mayor that because of the GLA and Southwark's *'considerable scrutiny'* of BL's assessment their agreement with BL should itself be given *'considerable weight'.*  The Mayor is not advised to give any weight of any kind to what the consequences of reducing the affordable housing from 35% to 3% would be.
 
 The report then notes that a grant has been awarded to BL which would increase the affordable housing to around 9% across the whole scheme and that this is a material consideration and *'weighs in favour of the application',* albeit noting that the lower level from 35% reduces its public benefit(para 393)*.*
 
-The GLA report follows through on this line of reasoning, to describe the housing provided 'including affordable housing' as a 'significant public benefit', repeating that it *'weighs in favour of the application'* (para 397)So it appears that, while GLA can't deny that 9% is less than 35%, they nonethess think that getting 9%  outweighes 'in the balance' losing 24%.  they adopt this line because they are convinced by the viability assessment  is still of greater benefit than the fact that to be taken into account by the mayor when making his decision on the application, the increase from 3% to 35%, by virtue of public funding is.  
+The GLA report follows through on this line of reasoning, to describe the housing provided *'including affordable housing'* as a *'significant public benefit'*, repeating that it *'weighs in favour of the application'* (para 397).  So it appears that, while GLA can't deny that 9% is less than 35%, they nonethess think that getting 9%  outweighes *'in the balance'* losing 24%.  The GLA adopt this line because they are convinced by the viability assessment that only 9% is possible.  
 
 
 
@@ -63,11 +63,11 @@ GLA's balancing act does not include is any consideration of how the application
 
 It is a strickly bureaucratic exercise.  The lose of affordable and family housing is acknowledged by the GLA \[PARA 393] as reducing the 'extent of public benefit deliered by the proposals' but this evidently but does not carry enough weight in the planning balance, to warrent rejection of the scheme; 
 
-The fact that most of the other benefits that were being being delivered are still being delivered and that the significant detrimental change is the loss of affordable housing is  not how the GLA view the schemes
+The fact that most of the other benefits that were being being delivered are still being delivered and that the significant detrimental change is the loss of affordable housing is not the GLA's perspective.  it's  view the schemes
 
 
 
-391. *The proposed amendments will optimise the potential of the site to bring forward much-needed quality housing on a stalled site, in compliance with the NPPF and development plan policies, which should be given substantial weight.*
+391.
 
 Instead the GLA adopts a 'glass-half full' approach - if there is any affordable housing at all that has to be welcomed and any reduction from what was previously agreed is justified by changes in economic circumstances, that in turn damage the viability of the sCheme and just have to be accepted.
 

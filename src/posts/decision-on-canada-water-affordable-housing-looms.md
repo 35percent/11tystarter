@@ -13,7 +13,7 @@ Working out just how many affordable homes have been lost by the Mayor's decison
 
 BL's amended application also goes beyond reducing the number of affordable homes, by also adding to the types of housing that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation.  Co-living is a new type of shared-living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission. student and co-living accommodation will account for nearly 20% of the total residential floorspace **[^3].**  Assisted living accommodation and key worker housing is also allowed**[^4]**.
 
-In addition, the mix of dwelling size has been restricted to favour smaller homes.  The scheme is divided into twelve zones; all zones allow BL a maximum of 10% studio flats (only as freemarket, but nonetheless twice Southwark's policy limit) and a minimum of 60% two-bed plus**[^4i]**.  However, only five of the zones require a minimum of 20% three-bed plus, and only for affordable housing, which effectively guarantees very little family housing of any kind**[^4ii]**.
+In addition, the mix of dwelling size has been further restricted to favour smaller homes.  For market housing there is no obligation on BL to build either two-bed or three bed homes, depite the Southwark Plan requirements of at least 60% two-bed homes and 20% three-bed homes.  The only stipulation is that no more than 10% of market housing is studio.  Otherwise, the Southwark Plan requirements These requirements are now only applied to affordable housing  BL a maximum of 10% studio flats (only as freemarket, but nonetheless twice Southwark's policy limit) and a minimum of 60% two-bed plus**[^4i]**.  However, only five of the zones require a minimum of 20% three-bed plus, and only for affordable housing, which effectively guarantees very little family housing of any kind**[^4ii]**.
 
 While BL have been given plenty of latitude in choosing what to build, their affordable housing obligations have been precisely limited.  The new permission requires just **233** social rented homes - the 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **[^5]**.  The small \[WHY?] possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.
 
@@ -113,9 +113,9 @@ This is in hefty contrast to the 16% GDV that BL were happy with when they got t
 
 Berkeley Homes, Aylesham and Bermondsey Place, Phase 2&3
 
-### Height and density
-
 ### Important views, height, affordable housing and planning balance
+
+Loss of family houisng does not even get a mention in the consideration of planning balance.
 
 The first GLA report on BL's application devote a lot of space to discussing how the new development interferes with 'important' views, and how this can be avoided and mitigated, which would be a secondary consideration to many minds.  However, it is significant in assessing the so-called planning balance, where harms have to be weighed against benefits, in deciding whether to approve an application.  The consented scheme had the advantage of a relatively high, albeit minimum amount of policy compliant affordable housing, which was judged by Southwark and GLA to outweigh the harm to views.  The scheme BL now propose, while it has some design changes, is much bigger, with a much bigger impact on views, and with neglible affordable housing, has lost that advantage, in the decision-making balance. 
 
@@ -151,7 +151,7 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^4] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 183, 207.
 
-[^4i] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para xx, [Southwark Plan 2022](https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark%20Plan%202022%20reduced%201.pdf), Policy P2, New family homes, 1.1
+[^4i] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 6 bullet 2, 2; [Southwark Plan 2022](https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark%20Plan%202022%20reduced%201.pdf), Policy P2, New family homes, 1.1
 
 [^4ii] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf),
 

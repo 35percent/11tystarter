@@ -113,6 +113,8 @@ BL justify these drastic changes by referring to the cost of installing second s
 
 What BL wanted all along - BNPP Review of Affordable Housing and Viability Statement Dec 2018
 
+Strong opposition - Cllrs Whittam, Cryan and Roberts, local resident, Michael Robertson, 35% Campaign.
+
 ### What's been delivered so far - Phase 1
 
 ### Less affordable housing for us, more profit for BL

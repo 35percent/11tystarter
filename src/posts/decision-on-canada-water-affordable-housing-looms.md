@@ -37,7 +37,12 @@ These floorspace increases will be accommodated by making the development much t
 
 ### The GLA's 'balanced' approach
 
-The Mayor's approval of BL's s73 application barely acknowledges that there has been a huge reduction in affordable housing and an accompanying loss of family housing.  His decision relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)  to approval the application.  Remarkably the report says '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission.* [^9]  GLA para 385]
+The Mayor's approval of BL's s73 application relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf) barely acknowledges that there has been a huge reduction in affordable housing and an accompanying loss of family housing.  Remarkably the report says '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission.* [^9].  
+
+*221 Notwithstanding this, GLA officers consider that the reduced quantum of affordable housing (compared to the HPP) reduces materially the extent of public benefits delivered by the proposals, to be weighed in the balance with all
+of the other benefits and dis-benefits arising from the application, as set out in the conclusion to this report.*
+
+
 
 Instead the GLA adopts a 'glass-half full' approach - if there is any affordable housing at all that has to be welcomed and any reduction from what was previously agreed is justified by changes in economic circumstances, that in turn damage the viability of the sCheme and just have to be accepted.
 

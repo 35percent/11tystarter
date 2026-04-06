@@ -25,9 +25,9 @@ So very roughly, taking 233 from these amounts, we are losing between 467 and 1,
 
 ### More floorspace, but not many more homes
 
-As well as being allowed to reduce affordable housing, restrict family housing and add unconventional housing, BL have also been permitted to increase both the total floorspace for the whole scheme, and the individual floorspace limit for each of seven zones.  The cumulative floorspace total for all the zones exceeds that of the limit for the whole scheme.  Seperate from the increases in floorspace the zonal cap on specific land usage, that is the limit to the type of buildings allowed in each zone, has been removed. By these arrangements BL will be allowed '.. *flexibility in the quantum of development that comes forward... in each Zone'*, though they will not be allowed to build more than the scheme's total limit **[^7].**
+The scheme has been divided into 13 zones, ten of which will have housing.   BL have been permitted to increase both the total floorspace for the whole scheme, and the individual floorspace limit for seven of the ten housing zones, so that the cumulative floorspace total for all the zones exceeds that of the limit for the whole scheme, even after the increase in the total.  Seperate from the increases in floorspace the zonal cap on specific land usage, that is the limit to the type of buildings allowed in each zone, has been removed. By these arrangements BL will be allowed '.. *flexibility in the quantum of development that comes forward... in each Zone'*, though they will not be allowed to build more than the scheme's total limit **[^7].**
 
-Residential floorspace has also been increased by over 40% and makes up a similar perecentage of the total \[CHECK]. This, though, this will only result in a relatively small increase of about 189 units of housing, with most of the extra floorspace being used to accommodate a second staircase, as required by new building-safety regulations, post Grenfell. **[^8]**
+Residential floorspace has also been increased by over 40% and makes up a similar percentage of the total \[CHECK]. This, though, this will only result in a relatively small increase of about 189 units of housing, with most of the extra floorspace being used to accommodate a second staircase, as required by new building-safety regulations, post Grenfell. **[^8]**
 
 These floorspace increases will be accommodated by making the development much taller and denser.  The residential blocks will rise by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys. 
 
@@ -132,6 +132,8 @@ BL have submitted several documents
 GLA notes 35% consented while only 11% viable
 
 ### What we say - taken out of Southwark's hands....
+
+As well as being allowed to reduce affordable housing, restrict family housing and add unconventional housing,
 
 This is an outrageous attempt by a big property developer to avoid their planning obligations.  BL have taken advantage of the present poor economic conditions to warp the Canada Water development so badly, that it would serve only their need to make as much money as possible.  Not only will they be relieved of providing anything beyond the bare minimum of afforable housing, they will be given a free-hand as to what  what other types of housing it will provide - preponderantly one-bed, more studios, more student, introduce co-living, less family housing.
 

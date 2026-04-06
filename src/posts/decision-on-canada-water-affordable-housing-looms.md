@@ -37,7 +37,7 @@ These floorspace increases will be accommodated by making the development much t
 
 ### The GLA's 'balanced' approach
 
-The Mayor's approval of BL's s73 application barely acknowledges that there has been a huge reduction in affordable housing and an accompanying loss of family housing.  His decision relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)  to approval the application.  Remarkably the report says '*The Section 73 application relates to amendments to the Canada Water Masterplan permitted under the Hybrid Planning Permission (HPP). The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission.* \[REF GLA para 385]
+The Mayor's approval of BL's s73 application barely acknowledges that there has been a huge reduction in affordable housing and an accompanying loss of family housing.  His decision relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)  to approval the application.  Remarkably the report says '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission.* [^9]  GLA para 385]
 
 Instead the GLA adopts a 'glass-half full' approach - if there is any affordable housing at all that has to be welcomed and any reduction from what was previously agreed is justified by changes in economic circumstances, that in turn damage the viability of the sCheme and just have to be accepted.
 
@@ -157,11 +157,13 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^6] The amount of affordable housing due is calculated using habitable rooms.  This gives a more accurate percentage figure, but results in fewer affordable homes than a calculation based on units, because they have more habitable rooms per unit.
 
-[^7] [GLA Stage 3](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
+[^7] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
 
-[^8] [GLA Stage 3](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), report para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
+[^8] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
 
-[^8i] [GLA Stage 3](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), report para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
+[^9] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 385]
+
+[^8i] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
 
 \------------------------------------------------------------------------------------------------------------------
 

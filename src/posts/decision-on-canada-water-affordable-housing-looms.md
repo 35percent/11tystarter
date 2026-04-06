@@ -39,17 +39,15 @@ These floorspace increases will be accommodated by making the development much t
 
 The Mayor's approval of BL's s73 application relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf).  This weighs up the pros and cons of the application's proposed changes, but, despite the development's big cuts to affordable housing, as well as the large increase in floorspace, height and density, the report begins its conclusion by saying that '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission'* **[^9]**.
 
-The report then notes that the Mayor must judge the application against the development plan and *'material considerations'* **[^9i].**  This places housing alongside all other aspects of the development, such as design and appearance; heritage and environmental impact; work, leisure and other uses; jobs, transport, education and viability.
+The report then notes that the Mayor must judge the application against the development plan and *'material considerations'***.** This places housing alongside all other aspects of the development in the *'planning balance'*.**[^9i]**  
 
-Housing is taken as a single category, with no distinction of type.  Two-bed, three-bed or family housing is not mentioned at all.  Nor is student housing, or the introducion of co-living -  it is all rolled into 'housing' which is deemed to be a benefit regardless of whom it is for (para 397).
+Housing is taken as a single category, without distinctions of type.  Two-bed, three-bed or family housing is not mentioned at all.  Nor is student housing, or the introducion of co-living -  it is all rolled into 'housing' which is deemed to be a benefit regardless of whom it is for (para 397).
 
 When affordable housing is addressed it is in the context of viability.  After noting BL's previous offer of 35% affordable housing, the report accepts their assessment that 3% affordable housing is the maximum viable amount. The report then advises the Mayor that because of the GLA and Southwark's *'considerable scrutiny'* of BL's assessment their agreement with BL should itself be given *'considerable weight'.*  The Mayor is not advised to give any weight of any kind to what the consequences of reducing the affordable housing from 35% to 3% would be.
 
-The report then notes that a grant has been awarded to BL which would increase the affordable housing to around 9% across the whole scheme and that this is a material consideration and *'weighs in favour of the application',* 
+The report then notes that a grant has been awarded to BL which would increase the affordable housing to around 9% across the whole scheme and that this is a material consideration and *'weighs in favour of the application',* albeit noting that the lower level from 35% reduces its public benefit(para 393)*.*
 
-So it appears that while the initial reduction is not a 'material consideration' to be taken into account by the mayor when making his decision on the application, the increase from 3% to 35%, by virtue of public funding is.  The GLA report follows through on this line of reasoning, to describe the housing provided 
-
-
+The GLA report follows through on this line of reasoning, to describe the housing provided 'including affordable housing' as a 'significant public benefit', repeating that it *'weighs in favour of the application'* (para 397)So it appears that, while GLA can't deny that 9% is less than 35%, they nonethess think that getting 9%  outweighes 'in the balance' losing 24%.  they adopt this line because they are convinced by the viability assessment  is still of greater benefit than the fact that to be taken into account by the mayor when making his decision on the application, the increase from 3% to 35%, by virtue of public funding is.  
 
 
 
@@ -199,7 +197,9 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^9] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 385
 
-[^9i] The development plan comprises the Southwark Plan 2022 and the London Plan 202 ([GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 47).  A material consideration is described on the  [government's planning webpages](https://www.gov.uk/guidance/determining-a-planning-application) as '*one which is relevant to making the planning decision in question'*; more helpfully, it continues, that material considerations are *'concerned with land use in the public interest, so that the protection of purely private interests such as the impact of a development on the value of a neighbouring property or loss of private rights to light could not be material considerations'.*
+[^9i] These other elements include design and appearance; heritage and environmental impact; work, leisure and other uses; jobs, transport, education and viability. 
+
+The development plan comprises the Southwark Plan 2022 and the London Plan 202 ([GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 47).  A material consideration is described on the  [government's planning webpages](https://www.gov.uk/guidance/determining-a-planning-application) as '*one which is relevant to making the planning decision in question'*; more helpfully, it continues, that material considerations are *'concerned with land use in the public interest, so that the protection of purely private interests such as the impact of a development on the value of a neighbouring property or loss of private rights to light could not be material considerations'.*
 
 [^9ii] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
 

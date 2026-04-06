@@ -29,7 +29,7 @@ The scheme has been divided into 13 zones, ten of which will have housing.   BL 
 
 Residential floorspace has also been increased by over 40% and makes up a similar percentage of the total. This, though, this will only result in a relatively small increase of about 189 units of housing, with most of the extra floorspace being used to accommodate a second staircase, as required by new building-safety regulations, post the Grenfellfire **[^8].**
 
-These floorspace increases will be accommodated by making the development much taller and denser.  The residential blocks will rise by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys. 
+These floorspace increases will be accommodated by making the development much taller and denser.  The residential blocks will increase by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys. 
 
 **[IMAGE** -Increase in heights]
 

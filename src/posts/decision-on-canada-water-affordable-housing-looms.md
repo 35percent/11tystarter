@@ -161,7 +161,7 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^8] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
 
-[^9] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 385]
+[^9] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 385
 
 [^8i] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
 

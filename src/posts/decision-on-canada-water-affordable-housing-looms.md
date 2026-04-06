@@ -3,7 +3,7 @@ title: Canada Water's huge loss of affordable housing
 description: Mayor agrees to cut affordable housing to 9%
 date: 2026-03-14T12:04:04.204Z
 ---
-London Mayor Sadiq Khan has approved a reduction of affordable housing from 35% to 9% on the Canada Water development.  Developer British Land (BL) was granted planning permission to build 2,000 - 4,000 homes, plus other uses and amenities on the giant site, by Southwark Council in 2019/2020.  This permission required 25% social rented and 10% intermediate housing, with a further possible 5%, depending on the viability of the scheme [**^1**].  
+London Mayor Sadiq Khan has approved the reduction of affordable housing from 35% to 9% on the Canada Water development.  Developer British Land (BL) was granted planning permission to build 2,000 - 4,000 homes, plus other uses and amenities on the giant site, by Southwark Council in 2019/2020.  This permission required 25% social rented and 10% intermediate housing, with a further possible 5%, depending on the viability of the scheme [**^1**].  
 
 At the beginning of last year BL made a s73 application to Southwark, to reduce the affordable housing requirement to 3% (while also increasing the height and density of the scheme).  In December 2025, BL referred the s73 application to the Mayor in December 2025, for his determination, taking the decision out of Southwark's hands.  The application was heard and approved by Deputy Mayor Jules Pipe (acting on the Mayor's behalf) [on 27 March](https://webcasts.london.gov.uk/Mayoral/Event/Index/389f7074-88e3-46b0-ae1c-6c4032abfddd), after representations from GLA officers, Southwark Council, objectors and British Land.
 
@@ -31,7 +31,7 @@ These floorspace increases will be accommodated by making the development much t
 
 **[IMAGE** -Increase in heights]
 
-### The GLA's 'balanced' approach 
+### The GLA's 'balanced' approach
 
 The Mayor's approval of BL's s73 application barely acknowledges that there has been a huge reduction in affordable housing.  He based his decision on a [GLA (Greater London Authority) Report ](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf) which recommended approval of BL's application.  This said '*The Section 73 application relates to amendments to the Canada Water Masterplan permitted under the Hybrid Planning Permission (HPP). The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission.* \[REF GLA para 385]
 

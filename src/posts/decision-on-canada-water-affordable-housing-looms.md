@@ -49,7 +49,11 @@ The report then notes that a grant has been awarded to BL which would increase t
 
 The GLA report follows through on this line of reasoning, to describe the housing provided *'including affordable housing'* as a *'significant public benefit'*, repeating that it *'weighs in favour of the application'* (para 397).  So it appears that, while GLA can't deny that 9% is less than 35%, they nonethess think that getting 9%  outweighes *'in the balance'* losing 24%.  The GLA adopt this line because they are convinced by the viability assessment that only 9% is possible.  
 
+### Local councillors and Southwark Council think differently.
 
+Several objectors appeared to speak against BL's s73 application making the very points about the impact of the loss of affordable and family housing on the local community and the wider borough, which seemed to elude the GLA.  
+
+Southwark Council also objected to the application, saying that they had come to different conclusion about the application, after putting it into the planning balance and had they been allowed to deteremine the application,  it would have been rejected. Southwark said they would have done this on the grounds that there would be harm to strategically important views of London, from this schemes height and size, which, with the reduction in affordale housing no longer outweighed the benefits..   
 
 
 

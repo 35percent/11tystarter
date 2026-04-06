@@ -43,23 +43,25 @@ The report then notes that the Mayor must judge the application against the deve
 
 Housing is taken as a single category, without distinctions of type.  Two-bed, three-bed or family housing is not mentioned at all.  Nor is student housing, or the introducion of co-living -  it is all rolled into 'housing', regardless of who the the housing is for.  BL's application is commended because *'it will optimise the potential of the site to bring forward much-needed quality housing on a stalled site.........which should be given substantial weight'.* Who these homes would house is given no consideration(para 391)*.*
 
-When affordable housing is addressed it is in the context of viability.  After noting BL's previous offer of 35% affordable housing, the report accepts their assessment that 3% affordable housing is the maximum viable amount. The report then advises the Mayor that because of the GLA and Southwark's *'considerable scrutiny'* of BL's assessment their agreement with BL should itself be given *'considerable weight'.*  The Mayor is not advised to give any weight of any kind to what the consequences of reducing the affordable housing from 35% to 3% would be.
+Having earlier *'acknowledged that the reduced quantum of affordale housing...reduces materially the extent of public benefit'* \[para 211], the GLA next addresses affordable housing in the context of viability.  They note BL's previous offer of 35% affordable housing, but then accept their assessment that 3% affordable housing is now the maximum viable amount. The report then advises the Mayor that because of the GLA and Southwark's *'considerable scrutiny'* of BL's assessment their agreement with BL should itself be given *'considerable weight'.* 
 
-The report then notes that a grant has been awarded to BL which would increase the affordable housing to around 9% across the whole scheme and that this is a material consideration and *'weighs in favour of the application',* albeit noting that the lower level from 35% reduces its public benefit(para 393)*.*
+The report then notes that a grant has been awarded to BL which would increase the affordable housing to around 9% across the whole scheme and that this too is a material consideration and *'weighs in favour of the application',* albeit noting that the lower level from 35% reduces its public benefit(para 393)*.*
 
 The GLA report follows through on this line of reasoning, to describe the housing provided *'including affordable housing'* as a *'significant public benefit'*, repeating that it *'weighs in favour of the application'* (para 397).  So it appears that, while GLA can't deny that 9% is less than 35%, they nonethess think that getting 9%  outweighes *'in the balance'* losing 24%.  The GLA adopt this line because they are convinced by the viability assessment that only 9% is possible.  
 
 ### Local councillors and Southwark Council think differently.
 
-Several objectors appeared to speak against BL's s73 application, making the very points about the impact of the loss of affordable and family housing on the local community and the wider borough, which seemed to elude the GLA.  Local councillors, Cllrs Kath Whittam, Stephanie Cryan and Bethan Roberts spoke powerfully and drawing from their constituent's local experience.  They welcomed the social rented housing on Robert's Close, but otherwise lamented the lack of amenities provided so far from phase one of the scheme; theymreminded the Deputy Mayor of the the crying need for family and affordable housing. Local resident, Michael Robertson spoke of the local cultural impact of the development.  Jed Holloway, of Southwark Law Centre, and Jerry Flynn challanged the relative weight the GLA had given to BL's viability assessment, against that for the harm caused the lack of ffordable housing. 
+Several objectors appeared to speak against BL's s73 application, making the very points about the impact of the loss of affordable and family housing on the local community and the wider borough, which seemed to elude the GLA.  Local councillors, Cllrs Kath Whittam, Stephanie Cryan and Bethan Roberts spoke powerfully, drawing from their constituent's experiences. They welcomed the social rented housing on Robert's Close, but otherwise lamented the lack of amenities provided so far from phase one of the scheme; they reminded the Deputy Mayor of the the crying need for family and affordable housing. Local resident, Michael Robertson spoke of the local cultural impact of the development.  Jed Holloway, of Southwark Law Centre, and Jerry Flynn challanged the relative weight the GLA had given to BL's viability assessment, against that for the harm caused the lack of ffordable housing. 
 
-Southwark Council also objected to the application.  They had approved the original application, after judging that harm  caused to strategically important views of London caused by the scheme's size and height, was outweighed by the benefits of its affordable housing.  Now that the scheme had grown bigger and that the affordable housing smaller, they had come to different conclusion and that, on planning balance the apploication should be rejected.  
+Southwark Council also objected to the application.  They had approved the original application, after judging that harm  caused to strategically important views of London caused by the scheme's size and height, was outweighed by the benefits of its affordable housing.  Now that the scheme had grown bigger and that the affordable housing smaller, they had come to different conclusion and that, on planning balance the apploication should be rejected.
+
+The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'* (para 390).
 
 
 
-By contrast two long paragraphs detail how 
 
-Housing as such and affordable housing is described as providing *'significant public benefit'*,  along with workspace
+
+
 
  *221 Notwithstanding this, GLA officers consider that the reduced quantum of affordable housing (compared to the HPP) reduces materially the extent of public benefits delivered by the proposals, to be weighed in the balance with all of the other benefits and dis-benefits arising from the application, as set out in the conclusion to this report.*
 
@@ -168,6 +170,8 @@ GLA notes 35% consented while only 11% viable
 ### What we say - taken out of Southwark's hands....
 
 As well as being allowed to reduce affordable housing, restrict family housing and add unconventional housing,
+
+The Mayor is not reminded, or advised, to give any weight of any kind to what the consequences of reducing the affordable housing from 35% to 3% would be.
 
 This is an outrageous attempt by a big property developer to avoid their planning obligations.  BL have taken advantage of the present poor economic conditions to warp the Canada Water development so badly, that it would serve only their need to make as much money as possible.  Not only will they be relieved of providing anything beyond the bare minimum of afforable housing, they will be given a free-hand as to what  what other types of housing it will provide - preponderantly one-bed, more studios, more student, introduce co-living, less family housing.
 

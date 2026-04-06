@@ -51,29 +51,23 @@ The GLA report follows through on this line of reasoning, to describe the housin
 
 The GLA adopt this line because they are convinced by the viability assessment that only 9% is possible. This, even if it is true, has no bearing on how much harm the loss of affordable housing will cause.  It appears that as far as the GLA is concerned, if it cannot be built, not having it can do no harm and much of the Stage 3 report just rationalises this position. 
 
-### Local councillors and Southwark Council think differently.
+### Local councillors and Southwark Council think differently....
 
-Several objectors appeared to speak against BL's s73 application, making the very points about the impact of the loss of affordable and family housing on the local community and the wider borough, which seemed to elude the GLA.  Local councillors, Cllrs Kath Whittam, Stephanie Cryan and Bethan Roberts spoke powerfully, drawing from their constituent's experiences. They welcomed the social rented housing on Robert's Close, but otherwise lamented the lack of amenities provided so far from phase one of the scheme; they reminded the Deputy Mayor of the the crying need for family and affordable housing. Local resident, Michael Robertson spoke of the local cultural impact of the development.  Jed Holloway, of Southwark Law Centre, and Jerry Flynn challanged the relative weight the GLA had given to BL's viability assessment, against that for the harm caused the lack of ffordable housing. 
+Several objectors appeared to speak against BL's s73 application, making the very points about the impact of the loss of affordable and family housing on the local community and the wider borough, which seemed to elude the GLA. 
 
-Southwark Council also objected to the application.  They had approved the original application, after judging that harm  caused to strategically important views of London caused by the scheme's size and height, was outweighed by the benefits of its affordable housing.  Now that the scheme had grown bigger and that the affordable housing smaller, they had come to different conclusion and that, on planning balance the apploication should be rejected.
+Local councillors, Cllrs Kath Whittam, Stephanie Cryan and Bethan Roberts spoke powerfully, drawing from their constituent's experiences. They welcomed the social rented housing on Robert's Close, but otherwise lamented the lack of amenities provided so far from phase one of the scheme; they reminded the Deputy Mayor of the crying need for family and affordable housing. Local resident, Michael Robertson spoke of the local cultural impact of the development.  Jed Holloway, of Southwark Law Centre, and Jerry Flynn challenged the great weight the GLA had given to BL's viability assessment, against the neglible weight given for the harm caused the lack of affordable housing. 
 
-The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'* (para 390).
+Southwark Council also objected to the application.  They had approved the original application, after judging that the harm caused to strategically important views of London caused by the scheme's size and height, was outweighed by the benefits of its affordable housing.  Now that the scheme had grown bigger and that the affordable housing smaller, they had come to different conclusion and that, on planning balance the apploication should be rejected.
 
+The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'* (para 390) - despite any lack of affordable housing.
 
-
-
-
-
-
- *221 Notwithstanding this, GLA officers consider that the reduced quantum of affordable housing (compared to the HPP) reduces materially the extent of public benefits delivered by the proposals, to be weighed in the balance with all of the other benefits and dis-benefits arising from the application, as set out in the conclusion to this report.*
+\--------------------------------------------------------------------------------------------------------------------------
 
 GLA's balancing act does not include is any consideration of how the application's reduction in affordable housing will impact on the homelessness in the borough \[REF; homelessness strategy], or how it will hamper the Council's ability to relieve its own housing waiting list \[REF; now standing ar 23,000 households].  Indeed the words 'homlessness' does not appear anywhere in the report and 'family housing' appears only once, as part of an objection to the application.
 
 It is a strickly bureaucratic exercise.  The lose of affordable and family housing is acknowledged by the GLA \[PARA 393] as reducing the 'extent of public benefit deliered by the proposals' but this evidently but does not carry enough weight in the planning balance, to warrent rejection of the scheme; 
 
 The fact that most of the other benefits that were being being delivered are still being delivered and that the significant detrimental change is the loss of affordable housing is not the GLA's perspective.  it's  view the schemes
-
-
 
 391.
 

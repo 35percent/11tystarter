@@ -21,7 +21,7 @@ While BL have been given plenty of latitude in choosing what to build, their aff
 
 Not knowing precisley how many homes will be built, of what type and size, and how many habitable rooms there will be, means we cannot say exactly how many we have lost by the reduction of the affordable housing percentage reduction **[^6]**.   We can, though, make a rough estimate by comparing the 233 social rented homes we have been left with, to what was claimed in the original 2019 planning committee report.  This estimated that Canada Water would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Making an estimate using this maximum number results in about 1,400 affordable homes, of which 1,000 would be social rent and 400 intermediate housing.
 
-So very roughly, taking 233 from these amounts, we are losing between 467 and 1,177 affordable homes, or between 267 and 767 social rented homes, if we are just counting these.
+So very roughly, taking 233 from these amounts, we are losing between 467 and 1,177 affordable homes, or between 267 and 767 social rented homes, if we are counting just these.
 
 ### More floorspace, but not many more homes
 

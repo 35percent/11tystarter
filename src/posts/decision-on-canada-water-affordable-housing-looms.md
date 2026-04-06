@@ -37,7 +37,7 @@ These floorspace increases will be accommodated by making the development much t
 
 ### The GLA's 'balanced' approach
 
-The Mayor's approval of BL's s73 application relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), which barely acknowledges that there has been a huge reduction in affordable housing and an accompanying loss of family housing.  It's sole comment is *221 Notwithstanding this, GLA officers consider that the reduced quantum of affordable housing (compared to the HPP) reduces materially the extent of public benefits delivered by the proposals, to be weighed in the balance with all of the other benefits and dis-benefits arising from the application, as set out in the conclusion to this report.*
+The Mayor's approval of BL's s73 application relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf).  This  It's sole comment is *221 Notwithstanding this, GLA officers consider that the reduced quantum of affordable housing (compared to the HPP) reduces materially the extent of public benefits delivered by the proposals, to be weighed in the balance with all of the other benefits and dis-benefits arising from the application, as set out in the conclusion to this report.*
 
 Remarkably the report also says '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission.* [^9].
 
@@ -120,6 +120,8 @@ Berkeley Homes, Aylesham and Bermondsey Place, Phase 2&3
 ### Important views, height, affordable housing and planning balance
 
 Loss of family houisng does not even get a mention in the consideration of planning balance.
+
+which barely acknowledges that there has been a huge reduction in affordable housing and an accompanying loss of family housing.
 
 The first GLA report on BL's application devote a lot of space to discussing how the new development interferes with 'important' views, and how this can be avoided and mitigated, which would be a secondary consideration to many minds.  However, it is significant in assessing the so-called planning balance, where harms have to be weighed against benefits, in deciding whether to approve an application.  The consented scheme had the advantage of a relatively high, albeit minimum amount of policy compliant affordable housing, which was judged by Southwark and GLA to outweigh the harm to views.  The scheme BL now propose, while it has some design changes, is much bigger, with a much bigger impact on views, and with neglible affordable housing, has lost that advantage, in the decision-making balance. 
 

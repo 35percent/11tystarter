@@ -27,7 +27,7 @@ So very roughly, taking 233 from these amounts, we are losing between 467 and 1,
 
 The scheme has been divided into 13 zones, ten of which will have housing.   BL have been permitted to increase both the total floorspace for the whole scheme, and the individual floorspace limit for seven of the ten housing zones, so that the cumulative floorspace for all the zones exceeds that of the limit for the whole scheme, even after the increase in the total.  Seperate from the increases in floorspace a zonal cap on specific land usage, that is a limit to the type of buildings allowed in each zone, has been removed. By these arrangements BL will be allowed '.. *flexibility in the quantum of development that comes forward... in each Zone'*, though they will not be allowed to build more than the scheme's total floorspace limit **[^7].**
 
-Residential floorspace has also been increased by over 40% and makes up a similar percentage of the total \[CHECK]. This, though, this will only result in a relatively small increase of about 189 units of housing, with most of the extra floorspace being used to accommodate a second staircase, as required by new building-safety regulations, post Grenfell. **[^8]**
+Residential floorspace has also been increased by over 40% and makes up a similar percentage of the total. This, though, this will only result in a relatively small increase of about 189 units of housing, with most of the extra floorspace being used to accommodate a second staircase, as required by new building-safety regulations, post the Grenfellfire **[^8].**
 
 These floorspace increases will be accommodated by making the development much taller and denser.  The residential blocks will rise by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys. 
 
@@ -93,12 +93,6 @@ level (c.9% across the whole scheme).*
 
 BL justify these drastic changes by referring to the cost of installing second staircases, thus losing saleable floorspace, and wider adverse economic conditions **^x.**
 
-Bl has also had the twelve zonal limits to how much land can be devoted to each different land-use, removed, so as *'to provide greater flexibility and enable the Development to adapt to future market demands'* **^x.**
-
-### How much family houisng have we lost
-
-### No family housing
-
 ### Not over yet - Reserved Matters Applications
 
 What BL wanted all along - BNPP Review of Affordable Housing and Viability Statement Dec 2018
@@ -163,7 +157,7 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^7] [GLA Stage 3](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
 
-[^8] [GLA Stage 3](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), report para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%).  The requirement for a second staircase in tall buildings was an eventual outcome of the Grenfell Tower fire, 2017.
+[^8] [GLA Stage 3](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), report para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
 
 [^8i] [GLA Stage 3](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), report para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
 

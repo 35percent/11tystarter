@@ -39,11 +39,15 @@ These floorspace increases will be accommodated by making the development much t
 
 The Mayor's approval of BL's s73 application relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf).  This weighs up the pros and cons of the aplication, and the report's conclusion begins by saying that '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission.* [^9]. 
 
-It then notes that the Mayor must judge the application against the development plan (ie the London Plan) and what are known as *'material considerations'* **[^8i].**  This places affordable housing and family housing alongside all other aspects of the development, such as design and appearance, heritage and environmental impact; housing provision; work, leisure and other uses; jobs, transport, education and viability, 
+It then notes that the Mayor must judge the application against the development plan (ie the London Plan) and what are known as *'material considerations'* **[^8i].**  This places affordable housing and family housing alongside all other aspects of the development, such as design and appearance; heritage and environmental impact; housing provision; work, leisure and other uses; jobs, transport, education and viability.
+
+Housing as such and affordable housing is described as providing *'significant public benefit'*,  along with workspace
 
  *221 Notwithstanding this, GLA officers consider that the reduced quantum of affordable housing (compared to the HPP) reduces materially the extent of public benefits delivered by the proposals, to be weighed in the balance with all of the other benefits and dis-benefits arising from the application, as set out in the conclusion to this report.*
 
+GLA's balancing act does not include is any consideration of how the application's reduction in affordable housing will impact on the homelessness in the borough \[REF; homelessness strategy], or how it will hamper the Council's ability to relieve its own housing waiting list \[REF; now standing ar 23,000 households].  Indeed the words 'homlessness' does not appear anywhere in the report and 'family housing' appears only once, as part of an objection to the application.
 
+It is a strickly bureaucratic exercise and targer fixated. 
 
 
 

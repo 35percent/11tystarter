@@ -51,9 +51,9 @@ The GLA report follows through on this line of reasoning, to describe the housin
 
 ### Local councillors and Southwark Council think differently.
 
-Several objectors appeared to speak against BL's s73 application making the very points about the impact of the loss of affordable and family housing on the local community and the wider borough, which seemed to elude the GLA.  
+Several objectors appeared to speak against BL's s73 application, making the very points about the impact of the loss of affordable and family housing on the local community and the wider borough, which seemed to elude the GLA.  Local councillors, Cllrs Kath Whittam, Stephanie Cryan and Bethan Roberts spoke powerfully and drawing from their constituent's local experience.  They welcomed the social rented housing on Robert's Close, but otherwise lamented the lack of amenities provided so far from phase one of the scheme; theymreminded the Deputy Mayor of the the crying need for family and affordable housing. Local resident, Michael Robertson spoke of the local cultural impact of the development.  Jed Holloway, of Southwark Law Centre, and Jerry Flynn challanged the relative weight the GLA had given to BL's viability assessment, against that for the harm caused the lack of ffordable housing. 
 
-Southwark Council also objected to the application, saying that they had come to different conclusion about the application, after putting it into the planning balance and had they been allowed to deteremine the application,  it would have been rejected. Southwark said they would have done this on the grounds that there would be harm to strategically important views of London, from this schemes height and size, which, with the reduction in affordale housing no longer outweighed the benefits..   
+Southwark Council also objected to the application.  They had approved the original application, after judging that harm  caused to strategically important views of London caused by the scheme's size and height, was outweighed by the benefits of its affordable housing.  Now that the scheme had grown bigger and that the affordable housing smaller, they had come to different conclusion and that, on planning balance the apploication should be rejected.  
 
 
 

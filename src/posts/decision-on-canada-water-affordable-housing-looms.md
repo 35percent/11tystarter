@@ -23,6 +23,8 @@ Not knowing precisley how many homes will be built, of what type and size, and h
 
 So very roughly, taking 233 from these amounts, we are losing between 467 and 1,177 affordable homes, or between 267 and 767 social rented homes, if we are counting just these.
 
+[**IMAGE** - Table of affordable housing losses]
+
 ### More floorspace, but not many more homes
 
 The scheme has been divided into 13 zones, ten of which will have housing.   BL have been permitted to increase both the total floorspace for the whole scheme, and the individual floorspace limit for seven of the ten housing zones, so that the cumulative floorspace for all the zones exceeds that of the limit for the whole scheme, even after the increase in the total.  Seperate from the increases in floorspace a zonal cap on specific land usage, that is a limit to the type of buildings allowed in each zone, has been removed. By these arrangements BL will be allowed '.. *flexibility in the quantum of development that comes forward... in each Zone'*, though they will not be allowed to build more than the scheme's total floorspace limit **[^7].**

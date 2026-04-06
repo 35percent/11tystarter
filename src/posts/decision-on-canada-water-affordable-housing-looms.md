@@ -37,9 +37,25 @@ These floorspace increases will be accommodated by making the development much t
 
 ### The GLA's 'balanced' approach
 
-The Mayor's approval of BL's s73 application relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf).  This weighs up the pros and cons of the application's proposed changes, but, despite the development's large increase in floorspace, height and density and big cuts to affordable housing, begins its conclusion by saying that '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission'* **[^9]**.
+The Mayor's approval of BL's s73 application relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf).  This weighs up the pros and cons of the application's proposed changes, but, despite the development's big cuts to affordable housing, as well as the large increase in floorspace, height and density, the report begins its conclusion by saying that '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission'* **[^9]**.
 
-It then notes that the Mayor must judge the application against the development plan and *'material considerations'* **[^9i].**  This places affordable housing and family housing alongside all other aspects of the development, such as design and appearance; heritage and environmental impact; housing provision; work, leisure and other uses; jobs, transport, education and viability.
+The report then notes that the Mayor must judge the application against the development plan and *'material considerations'* **[^9i].**  This places housing alongside all other aspects of the development, such as design and appearance; heritage and environmental impact; work, leisure and other uses; jobs, transport, education and viability.
+
+Housing is taken as a single category, with no distinction of type.  Two-bed, three-bed or family housing is not mentioned at all.  Nor is student housing, or the introducion of co-living -  it is all rolled into 'housing' which is deemed to be a benefit regardless of whom it is for (para 397).
+
+When affordable housing is addressed it is in the context of viability.  After noting BL's previous offer of 35% affordable housing, the report accepts their assessment that 3% affordable housing is the maximum viable amount. The report then advises the Mayor that because of the GLA and Southwark's *'considerable scrutiny'* of BL's assessment their agreement with BL should itself be given *'considerable weight'.*  The Mayor is not advised to give any weight of any kind to what the consequences of reducing the affordable housing from 35% to 3% would be.
+
+The report then notes that a grant has been awarded to BL which would increase the affordable housing to around 9% across the whole scheme and that this is a material consideration and *'weighs in favour of the application',* 
+
+So it appears that while the initial reduction is not a 'material consideration' to be taken into account by the mayor when making his decision on the application, the increase from 3% to 35%, by virtue of public funding is.  The GLA report follows through on this line of reasoning, to describe the housing provided 
+
+
+
+
+
+
+
+By contrast two long paragraphs detail how 
 
 Housing as such and affordable housing is described as providing *'significant public benefit'*,  along with workspace
 

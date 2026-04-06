@@ -157,7 +157,7 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^5] The figures are given in various parts of the GLA Stage 3 report [](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf)para 2ii - 150 units from next tranche of 1,000 homes; para 10 - 79 social rent form Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
 
-[^6] The amount of affordable housing due is calculated using habitable rooms.  This gives a more accurate percentage figure, but results in fewer affordable homes than a calculation based on units, reduced by the weight of larger family homes.
+[^6] The amount of affordable housing due is calculated using habitable rooms.  This gives a more accurate percentage figure, but results in fewer affordable homes than a calculation based on units, because they have more habitable rooms per unit.
 
 [^7] [GLA Stage 3](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
 

@@ -61,26 +61,6 @@ Southwark Council also objected to the application.  They had approved the origi
 
 The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'*- despite any lack of affordable housing **[^16]**.
 
-\--------------------------------------------------------------------------------------------------------------------------
-
-GLA's balancing act does not include is any consideration of how the application's reduction in affordable housing will impact on the homelessness in the borough \[REF; homelessness strategy], or how it will hamper the Council's ability to relieve its own housing waiting list \[REF; now standing ar 23,000 households].  Indeed the words 'homlessness' does not appear anywhere in the report and 'family housing' appears only once, as part of an objection to the application.
-
-It is a strickly bureaucratic exercise.  The lose of affordable and family housing is acknowledged by the GLA \[PARA 393] as reducing the 'extent of public benefit deliered by the proposals' but this evidently but does not carry enough weight in the planning balance, to warrent rejection of the scheme; 
-
-The fact that most of the other benefits that were being being delivered are still being delivered and that the significant detrimental change is the loss of affordable housing is not the GLA's perspective.  it's  view the schemes
-
-391.
-
-Instead the GLA adopts a 'glass-half full' approach - if there is any affordable housing at all that has to be welcomed and any reduction from what was previously agreed is justified by changes in economic circumstances, that in turn damage the viability of the sCheme and just have to be accepted.
-
-But it is up to the Mayor how much weight to give viability assessments, when reaching his decision on any application.  The GLA report presented to the Mayor dutifully notes this \[REF para 208] **[^9iii]**, only to then go on to say that they, and Southwark Council,agree with BL about the viability of the scheme*,* and *'they have given it considerable scrutiny and that it is this scrutiny that should be considerable weight by the decision-maker'* rather than any loss of affordable housing \[REF para 209].
-
-This positive approach is given strength, according to the GLA, by a Government Policy Note 'Support for housebuilding in London' and the Mayor's 'Support for Housebuilding' LPG (London Plan Guidance), published the very previous day.  Both these documents outline a co-ordinated reduction in the affordable housing requirement, from 35% to 20%, under the so-called fast-track route for planning permission*, designed to* 'unstall'* stalled schemes, just like BL's Canada Water scheme (even though it does not qualify for the new fast-track route, because it does not provide 20% affordable housing, as the GLA admit)  \[REF para 192].
-
-(*while leaving the door open to any other developer who wants to deliver less to continue to do so, by producing viability assessments).
-
-While noting this newly-minted policy support for their position the GLA ignores another pending policy direction, following from the Support for Housebuilding package, which says '*Where developers submit a Section 73 application that seeks to reduce affordable housing provision based on a new viability assessment, the decision-maker should have regard to the harm that such a reduction may cause and give this appropriate weight in the overall planning balance, alongside the wider merits of the scheme'.* [REF [Proposed reforms to the National Planning Policy Framework and other changes to the planning system December 2025](https://assets.publishing.service.gov.uk/media/697b6bc6aacd0dc9777b4fd2/December_2025_NPPF_Consultation.pdf) PG 29]. This remains under consultation, and was not published the day before the hearing, so was safely ignored.
-
 ### The viability trump card
 
 Behind everything lies viability, which overshadows the whole decision making process. All the changes (adding non-conventional housing to overcome the fall in demand for conventional housing) and reductions in the housing provision are motivated by improving viability
@@ -113,6 +93,28 @@ The answer is yes to the first two questions. I’m afraid that I’m unable to 
 * If this is so, what would the profit hurdle be in cash terms, according to the S73 Illustrative Scheme Base appraisal, appended to the S106 agreement?
 
 **[SCREENSHOT** -DRAFT S106 SHOWING GRANT]
+
+
+
+\--------------------------------------------------------------------------------------------------------------------------
+
+GLA's balancing act does not include is any consideration of how the application's reduction in affordable housing will impact on the homelessness in the borough \[REF; homelessness strategy], or how it will hamper the Council's ability to relieve its own housing waiting list \[REF; now standing ar 23,000 households].  Indeed the words 'homlessness' does not appear anywhere in the report and 'family housing' appears only once, as part of an objection to the application.
+
+It is a strickly bureaucratic exercise.  The lose of affordable and family housing is acknowledged by the GLA \[PARA 393] as reducing the 'extent of public benefit deliered by the proposals' but this evidently but does not carry enough weight in the planning balance, to warrent rejection of the scheme; 
+
+The fact that most of the other benefits that were being being delivered are still being delivered and that the significant detrimental change is the loss of affordable housing is not the GLA's perspective.  it's  view the schemes
+
+391.
+
+Instead the GLA adopts a 'glass-half full' approach - if there is any affordable housing at all that has to be welcomed and any reduction from what was previously agreed is justified by changes in economic circumstances, that in turn damage the viability of the sCheme and just have to be accepted.
+
+But it is up to the Mayor how much weight to give viability assessments, when reaching his decision on any application.  The GLA report presented to the Mayor dutifully notes this \[REF para 208] **[^9iii]**, only to then go on to say that they, and Southwark Council,agree with BL about the viability of the scheme*,* and *'they have given it considerable scrutiny and that it is this scrutiny that should be considerable weight by the decision-maker'* rather than any loss of affordable housing \[REF para 209].
+
+This positive approach is given strength, according to the GLA, by a Government Policy Note 'Support for housebuilding in London' and the Mayor's 'Support for Housebuilding' LPG (London Plan Guidance), published the very previous day.  Both these documents outline a co-ordinated reduction in the affordable housing requirement, from 35% to 20%, under the so-called fast-track route for planning permission*, designed to* 'unstall'* stalled schemes, just like BL's Canada Water scheme (even though it does not qualify for the new fast-track route, because it does not provide 20% affordable housing, as the GLA admit)  \[REF para 192].
+
+(*while leaving the door open to any other developer who wants to deliver less to continue to do so, by producing viability assessments).
+
+While noting this newly-minted policy support for their position the GLA ignores another pending policy direction, following from the Support for Housebuilding package, which says '*Where developers submit a Section 73 application that seeks to reduce affordable housing provision based on a new viability assessment, the decision-maker should have regard to the harm that such a reduction may cause and give this appropriate weight in the overall planning balance, alongside the wider merits of the scheme'.* [REF [Proposed reforms to the National Planning Policy Framework and other changes to the planning system December 2025](https://assets.publishing.service.gov.uk/media/697b6bc6aacd0dc9777b4fd2/December_2025_NPPF_Consultation.pdf) PG 29]. This remains under consultation, and was not published the day before the hearing, so was safely ignored.
 
 ### How the reduction has been dressed up
 

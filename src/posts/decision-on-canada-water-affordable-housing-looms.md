@@ -59,7 +59,7 @@ Local councillors, Cllrs Kath Whittam, Stephanie Cryan and Bethan Roberts spoke 
 
 Southwark Council also objected to the application.  They had approved the original application, after judging that the harm caused to strategically important views of London caused by the scheme's size and height, was outweighed by the benefits of its affordable housing.  Now that the scheme had grown bigger and that the affordable housing smaller, they had come to different conclusion and said that, on planning balance, Southwark planning officers would have recommended that the apploication should be rejected.
 
-The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'* **[^16] para 390)** - despite any lack of affordable housing.
+The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'*- despite any lack of affordable housing **[^16]**.
 
 \--------------------------------------------------------------------------------------------------------------------------
 

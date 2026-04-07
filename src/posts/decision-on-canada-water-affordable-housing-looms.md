@@ -63,7 +63,7 @@ The GLA had also considered the harm to London's views, but maintained that, tho
 
 ### The viability trump card
 
-The changes made by BL in the Canada Water development scheme, such as adding non-conventional housing (to overcome the fall in demand for conventional housing) and reducing the affordable housing provision, are mainly made to improve the viability of the scheme **[^17]**.
+The changes made by BL in the Canada Water development scheme, such as adding non-conventional housing (to overcome the fall in demand for conventional housing) and reducing the affordable housing provision, are mainly made to support the viability of the scheme **[^17]**.
 
 But viability assessments are based on assumptions, many of which are debatable, and are just snapshots when big schemes can last decades.  The viability ssessment scheme.  BL in 2019 agreed to deliver 35% affordable housing, even though the viability assessment of the time said only 11% was viable \[REF].  Now their tune has changed - 3% is all that is viable and they are only comitting to 9% after the hefty gift of a grant of £xxxm \[REF- GLA Stage 3, 2ii]. BL reasons......
 
@@ -229,7 +229,7 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^16] Para 390
 
-[^17] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 1.7.  
+[^17] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 1.6, 1.7.  
 
 [^9iii] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
 

@@ -45,9 +45,9 @@ Housing is also taken as a single category, without distinctions of type.  Two-b
 
 Having first acknowledged that the reduction in affordable housing *'...reduces materially the extent of public benefit'* , the GLA next addresses affordable housing in the context of viability.  The GLA note BL's original  offer of 35% affordable housing, but then accept their assessment that 3% affordable housing is now the maximum viable amount. The GLA then advises the Mayor that their *'considerable scrutiny'* of BL's assessment , should itself be given *'considerable weight'.*  They do not advise him about how much weight to give any harm caused by the affordable housing reduction **[^13]** .
 
-The report then notes that a grant has been awarded to BL, which would increase the affordable housing to around 9% across the whole scheme.  This is also considereda material consideration that *'weighs in favour of the application',* while also noting that the lower level from 35% reduces its public benefit (para 393)*.*
+The report then notes that a grant has been awarded to BL, which would increase the affordable housing to around 9% across the whole scheme.  This is also considereda material consideration that *'weighs in favour of the application',* while also noting that the lower level from 35% reduces its public benefit **[^14]***.*
 
-The GLA report follows through on this line of reasoning, to describe the housing provided *'including affordable housing'* as a *'significant public benefit'*, repeating that it *'weighs in favour of the application',* without considering whether the reduction in affordable housing, from 35% to 3% (or 9%), should not also be taken into account, but weighing against the application (para 397).  So it appears that while the  GLA doesn't  deny that 9% is less than 35%, they nonethess think that *'in the balance'* getting 9% outweighes losing 24%.  
+The GLA report follows through on this line of reasoning, to describe the housing provided *'including affordable housing'* as a *'significant public benefit'*, repeating that it *'weighs in favour of the application',* without considering whether the reduction in affordable housing, from 35% to 3% (or 9%), should not also be taken into account, but weighing against the application **[^15]**.  So it appears that while the  GLA doesn't  deny that 9% is less than 35%, they nonethess think that *'in the balance'* getting 9% outweighes losing 24%.  
 
 It may be that the GLA adopt this line because they are convinced by the viability assessment that only 9% is possible. This, though, even if it is true, has no bearing on how much harm the loss of affordable housing will cause.  It appears that as far as the GLA is concerned, if it cannot be built, not having it can do no harm.
 
@@ -213,7 +213,11 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^12] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 391
 
-[^13]  Para 211, 392
+[^13] Para 211, 392
+
+[^14] Para 393
+
+[^15] Para 397
 
 [^9iii] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
 

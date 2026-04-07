@@ -165,6 +165,8 @@ GLA notes 35% consented while only 11% viable
 
 ### What we say - taken out of Southwark's hands....
 
+GLA bent itself not just backwards, but in every direction to accommodate BL.  List concessions.... Only resisted on profit hurdle - 15% IRR, not 17.5% IRR asked for, although have conceded IRR not GDV as measure.
+
 As well as being allowed to reduce affordable housing, restrict family housing and add unconventional housing,
 
 The Mayor is not reminded, or advised, to give any weight of any kind to what the consequences of reducing the affordable housing from 35% to 3% would be.

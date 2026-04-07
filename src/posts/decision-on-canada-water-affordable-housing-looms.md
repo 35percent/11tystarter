@@ -19,7 +19,15 @@ In addition, the mix of dwelling size has been further restricted to favour smal
 
 While BL have been given plenty of latitude in choosing what to build, their affordable housing obligations have been precisely limited.  The new permission requires just **233** social rented homes - the 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **[^6]**.  The small possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.
 
-Not knowing precisley how many homes will be built, of what type and size, and how many habitable rooms there will be, means we cannot say exactly how many we have lost by the reduction of the affordable housing percentage **[^7]**.   We can, though, make a rough estimate, by comparing the 233 social rented homes we have been left with, to what was claimed in the original 2019 planning committee report.  This estimated that Canada Water would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Making an estimate using this maximum number results in about 1,400 affordable homes, of which 1,000 would be social rent and 400 intermediate housing.
+Not knowing precisley how many homes will be built, of what type and size, and how many habitable rooms there will be, means we cannot say exactly how many we have lost by the reduction of the affordable housing percentage **[^7]**.  We can though compare  the 233 social rented homes we have been left with, to what was claimed in the original 2019 planning committee report.  This estimated that Canada Water would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Making an estimate using this maximum number results in about 1,400 affordable homes, of which 1,000 would be social rent and 400 intermediate housing **[^7i]**
+
+We can also use BL's own figures.  Based on around a total of 3,000 homes, BL said which say that *'If a viable route to 35% affordable homes were identified, this would represent a total of 900 social rent homes and 400 intermediate homes.....'* **[^7ii].** Deducting the 233 social rented homes from these numbers gives various losses, depending on the total number of homes built - 
+
+
+
+
+
+
 
 So very roughly, taking 233 from these amounts, we are losing between 467 and 1,177 affordable homes, or between 267 and 767 social rented homes, if we are counting just these.
 
@@ -63,7 +71,7 @@ The GLA had also considered the harm to London's views, but maintained that, tho
 
 ### The viability trump card
 
-The changes made by BL in the Canada Water development scheme, such as adding non-conventional housing (to overcome the fall in demand for conventional housing) and reducing the afforddable housing provision, are mainly made to  improve the viability of the scheme.
+The changes made by BL in the Canada Water development scheme, such as adding non-conventional housing (to overcome the fall in demand for conventional housing) and reducing the affordable housing provision, are mainly made to improve the viability of the scheme [^17].
 
 But viability assessments are based on assumptions, many of which are debatable, and are just snapshots when big schemes can last decades.  The viability ssessment scheme.  BL in 2019 agreed to deliver 35% affordable housing, even though the viability assessment of the time said only 11% was viable \[REF].  Now their tune has changed - 3% is all that is viable and they are only comitting to 9% after the hefty gift of a grant of £xxxm \[REF- GLA Stage 3, 2ii]. BL reasons......
 
@@ -205,6 +213,10 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^7] The amount of affordable housing due is calculated using habitable rooms.  This gives a more accurate percentage figure, but results in fewer affordable homes than a calculation based on units, because they have more habitable rooms per unit.
 
+[^7i] [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
+
+[^7ii] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 2.10
+
 [^8] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
 
 [^9] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
@@ -222,6 +234,8 @@ BL pitched unconventional housing as being affordable housing in their original 
 [^15] Para 397
 
 [^16] Para 390
+
+[^17] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 1.7.  This states that viabililty improvement measures were designed to 
 
 [^9iii] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
 

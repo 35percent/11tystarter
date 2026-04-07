@@ -55,11 +55,11 @@ It may be that the GLA adopt this line because they are convinced by the viabili
 
 Several objectors appeared to speak against BL's s73 application, making the very points about the impact of the loss of affordable and family housing on the local community and the wider borough, which seemed to elude the GLA. 
 
-Local councillors, Cllrs Kath Whittam, Stephanie Cryan and Bethan Roberts spoke powerfully, drawing from their constituent's experiences. They welcomed the social rented housing on Robert's Close, but otherwise lamented the lack of amenities provided so far from phase one of the scheme; they reminded the Deputy Mayor of the crying need for family and affordable housing. Local resident, Michael Robertson spoke of the local cultural impact of the development.  Jed Holloway, of Southwark Law Centre, and Jerry Flynn, of the 35% Campaign, challenged the great weight the GLA had given to BL's viability assessment, against the neglible weight given for the harm caused the lack of affordable housing. 
+Local councillors, Cllrs Kath Whittam, Stephanie Cryan and Bethan Roberts spoke powerfully, drawing from their constituent's experiences. They welcomed the social rented housing on Robert's Close, but otherwise lamented the lack of amenities provided so far from phase one of the scheme; they reminded the Deputy Mayor of the crying need for family and affordable housing. Local resident, Michael Robertson spoke of the local cultural impact of the development.  Jed Holloway, of Southwark Law Centre, and Jerry Flynn, of the 35% Campaign, challenged the great weight the GLA had given to BL's viability assessment, against the neglible weight given for the harm caused through the lack of affordable housing. 
 
-Southwark Council also objected to the application.  They had approved the original application, after judging that the harm caused to strategically important views of London caused by the scheme's size and height, was outweighed by the benefits of its affordable housing.  Now that the scheme had grown bigger and that the affordable housing smaller, they had come to different conclusion and that, on planning balance the apploication should be rejected.
+Southwark Council also objected to the application.  They had approved the original application, after judging that the harm caused to strategically important views of London caused by the scheme's size and height, was outweighed by the benefits of its affordable housing.  Now that the scheme had grown bigger and that the affordable housing smaller, they had come to different conclusion and said that, on planning balance, Southwark planning officers would have recommended that the apploication should be rejected.
 
-The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'* (para 390) - despite any lack of affordable housing.
+The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'* **[^16] para 390)** - despite any lack of affordable housing.
 
 \--------------------------------------------------------------------------------------------------------------------------
 
@@ -218,6 +218,8 @@ BL pitched unconventional housing as being affordable housing in their original 
 [^14] Para 393
 
 [^15] Para 397
+
+[^16] Para 390
 
 [^9iii] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
 

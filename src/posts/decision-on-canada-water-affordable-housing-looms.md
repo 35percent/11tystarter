@@ -163,9 +163,7 @@ It would be easy to forget that the docklands were public land. Taken over by th
 
 ### Viability
 
-BL have submitted several documents 
-
-GLA notes 35% consented while only 11% viable
+What BL always wanted - BNPP Nov 2019.
 
 ### What we say - taken out of Southwark's hands....
 

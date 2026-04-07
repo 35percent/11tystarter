@@ -63,9 +63,9 @@ The GLA had also considered the harm to London's views, but maintained that, tho
 
 ### The viability trump card
 
-The changes made by BL in the Canada Water development scheme, such as adding non-conventional housing (to overcome the fall in demand for conventional housing) and reducing the affordable housing provision, are mainly made to support the viability of the scheme **[^17]**.
+The changes made by BL in the Canada Water development scheme, including the increase in height and density, adding non-conventional housing, and reducing the affordable housing provision, are being made to support the viability of the scheme **[^17]**.
 
-But viability assessments are based on assumptions, many of which are debatable, and are just snapshots when big schemes can last decades.  The viability ssessment scheme.  BL in 2019 agreed to deliver 35% affordable housing, even though the viability assessment of the time said only 11% was viable \[REF].  Now their tune has changed - 3% is all that is viable and they are only comitting to 9% after the hefty gift of a grant of £xxxm \[REF- GLA Stage 3, 2ii]. BL reasons......
+But assessments for viability are based on many arguable assumptions, at best, and in the case of big schemes like Canada Water, are just snapshots of developments that will take years to complete. Canada Water, is due for completion by 2033, but is already years behind schedule, having secured planning approval in 2020 **[^18]**. until can.  The viability ssessment scheme.  BL in 2019 agreed to deliver 35% affordable housing, even though the viability assessment of the time said only 11% was viable \[REF].  Now their tune has changed - 3% is all that is viable and they are only comitting to 9% after the hefty gift of a grant of £xxxm \[REF- GLA Stage 3, 2ii]. BL reasons......
 
 It must be remembered as well that an 'unviable' scheme is not an necessarily an unprofitable scheme.  The developer themselves set the level of profit that turns an unviable scheme into a viable one.  The GLA say that  they unable to say, in cash terms how much this might be  \[REF].  In percentage terms it will be 15% IRR, (Internal Rate of Return), a conveniently obscure measure of profit, favoured by developers.  The draft financial viability assessment attached to the approved permission gives the scheme £445.37m at 7.56% IRR, which by the roughest of estimates indicates that the treshold for viability, and for any more affordable housing will be nearly £1bn.
 
@@ -229,7 +229,9 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^16] Para 390
 
-[^17] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 1.6, 1.7.  
+[^17] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 1.6, 1.7.
+
+[^18] The s106 agreement sealing planning permission was signed in May 2020, after planning committee approval in Sept 2019.  Planning Statement Addendum, January 2025, DP9, 7.1.2, for completion date of 2033.  [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), para 196,18/AP/1604, 25 & 30 Sept 2019 for completion of detailed plots of Phase 1.
 
 [^9iii] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
 

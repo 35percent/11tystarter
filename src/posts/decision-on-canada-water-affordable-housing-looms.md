@@ -43,13 +43,13 @@ The report then notes that the Mayor must judge the application against the deve
 
 Housing is also taken as a single category, without distinctions of type.  Two-bed, three-bed or family housing are not mentioned at all in the conclusion and planning balance section.  Nor is student housing, or the introducion of co-living; it is all rolled into *'housing'*, regardless of who the the housing is for.  BL's application is commended because *'it will optimise the potential of the site to bring forward much-needed quality housing on a stalled site.........which should be given substantial weight'* **[^12]***.* Who these homes would house is given no consideration*.*
 
-Having earlier acknowledged that the reduction in affordable housing *'...reduces materially the extent of public benefit'* \[para 211], the GLA next addresses affordable housing in the context of viability.  They note BL's original  offer of 35% affordable housing, but then accept their assessment that 3% affordable housing is now the maximum viable amount. The GLA then advises the Mayor that their *'considerable scrutiny'* of BL's assessment , should itself be given *'considerable weight'.*  They do not advise him about how much weight to give any harm caused by the affordable housing reduction.
+Having first acknowledged that the reduction in affordable housing *'...reduces materially the extent of public benefit'* \[para 211], the GLA next addresses affordable housing in the context of viability.  The GLA note BL's original  offer of 35% affordable housing, but then accept their assessment that 3% affordable housing is now the maximum viable amount. The GLA then advises the Mayor that their *'considerable scrutiny'* of BL's assessment , should itself be given *'considerable weight'.*  They do not advise him about how much weight to give any harm caused by the affordable housing reduction.
 
-The report then notes that a grant has been awarded to BL, which would increase the affordable housing to around 9% across the whole scheme, and that this too is a material consideration and *'weighs in favour of the application',* albeit noting that the lower level from 35% reduces its public benefit(para 393)*.*
+The report then notes that a grant has been awarded to BL, which would increase the affordable housing to around 9% across the whole scheme.  This is also considereda material consideration that *'weighs in favour of the application',* while also noting that the lower level from 35% reduces its public benefit (para 393)*.*
 
-The GLA report follows through on this line of reasoning, to describe the housing provided *'including affordable housing'* as a *'significant public benefit'*, repeating that it *'weighs in favour of the application',* without considering whether the reduction in affordable housing, from 35% to 3% (or 9%), should not also be taken into account, but weighing against the application (para 397).  So it appears that, while the  GLA can't deny that 9% is less than 35%, they nonethess think that getting 9% outweighes *'in the balance'* losing 24%.  
+The GLA report follows through on this line of reasoning, to describe the housing provided *'including affordable housing'* as a *'significant public benefit'*, repeating that it *'weighs in favour of the application',* without considering whether the reduction in affordable housing, from 35% to 3% (or 9%), should not also be taken into account, but weighing against the application (para 397).  So it appears that while the  GLA doesn't  deny that 9% is less than 35%, they nonethess think that *'in the balance'* getting 9% outweighes losing 24%.  
 
-It may be that the GLA adopt this line because they are convinced by the viability assessment that only 9% is possible. This, even if it is true, has no bearing on how much harm the loss of affordable housing will cause.  It appears that as far as the GLA is concerned, if it cannot be built, not having it can do no harm and much of the Stage 3 report just rationalises this position. 
+It may be that the GLA adopt this line because they are convinced by the viability assessment that only 9% is possible. This, though, even if it is true, has no bearing on how much harm the loss of affordable housing will cause.  It appears that as far as the GLA is concerned, if it cannot be built, not having it can do no harm.
 
 ### Local councillors and Southwark Council think differently....
 
@@ -179,31 +179,39 @@ In any event BL obviously believe that they stand a better chance of getting app
 
 Zonal density cap will be removed. 
 
+\--------------------------------------------------------------------------------------------------------------------
+
+**Footnotes**
+
+Unless stated otherwise all references are to [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)  (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
+
 [^1] [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
 
-[^2] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf) - para 2i. (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
+[^2] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf) para 2i. (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
 
-[^3] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf) para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum co-living floorspace, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
+[^3] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum co-living floorspace, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
 
 BL pitched unconventional housing as being affordable housing in their original application, in a list including 'Southwark target rent', but also eight other different 'affordable' tenures, including 'Retirement rent', 'Shared accommodation' and 'Retired shared-equity' - Quod, Financial Viability Assesssment, Clarification Note 3, Fig 1, Nov 2018).
 
-[^4] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 183, 207.
+[^4] Para 183, 207.
 
-[^5] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 6 bullet 2, 2; [Canada Water Draft S106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf), Annex 2;  [Southwark Plan 2022](https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark%20Plan%202022%20reduced%201.pdf), Policy P2, New family homes, 1.1
+[^5] Para 6 bullet 2, 2; [Canada Water Draft S106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf), Annex 2;  [Southwark Plan 2022](https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark%20Plan%202022%20reduced%201.pdf), Policy P2, New family homes, 1.1
 
 [^6] The figures are given in various parts of the [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf) [](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf)para 2ii - 150 units from next tranche of 1,000 homes; para 10, bullet nine - 79 social rent from Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase. 
 
 [^7] The amount of affordable housing due is calculated using habitable rooms.  This gives a more accurate percentage figure, but results in fewer affordable homes than a calculation based on units, because they have more habitable rooms per unit.
 
-[^8] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
+[^8] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
 
-[^9] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
+[^9] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
 
-[^10] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 385
+[^10] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 385
 
 [^11]  The development plan comprises the Southwark Plan 2022 and the London Plan 202 ([GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 47).  A material consideration is described on the  [government's planning webpages](https://www.gov.uk/guidance/determining-a-planning-application) as '*one which is relevant to making the planning decision in question'*; more helpfully, it continues, that material considerations are *'concerned with land use in the public interest, so that the protection of purely private interests such as the impact of a development on the value of a neighbouring property or loss of private rights to light could not be material considerations'.*  Other aspects taken into account in the planning balance, besides housing, include design and appearance; heritage and environmental impact; work, leisure and other uses; jobs, transport, education and viability.
 
-[^12] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 391
+[^12] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 391
+
+[^13]  Para 211
 
 [^9iii] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
 

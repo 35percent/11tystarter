@@ -29,7 +29,7 @@ So very roughly, taking 233 from these amounts, we are losing between 467 and 1,
 
 The scheme has been divided into 13 zones, ten of which will have housing.   BL have been permitted to increase both the individual floorspaces for seven of the zones plus the total floorspace limit. The cumulative floorspace for all the zones also now exceeds that of the limit for the whole scheme, though BL will not be allowed to build more than the limit for the whole scheme.  Seperate from the increases in floorspace, the zonal caps on specific land usage, ie the limits to the types of buildings allowed in each zone, has been removed. By these arrangements BL will be allowed '.. *flexibility in the quantum of development that comes forward... in each Zone'* **[^7].**
 
-Residential floorspace has also been increased by over 40% and makes up a similar percentage of the total. This, though, this will only result in a relatively small increase of about 189 units of housing, with most of the extra floorspace being used to accommodate a second staircase, as required by new building-safety regulations, post the Grenfellfire **[^8].**
+Residential floorspace has also been increased by over 40% and makes up a similar percentage of the total floorspace. This, though, will only result in a relatively small increase in housing, of about 189 units.  Most of the extra floorspace is being used to accommodate a second staircase, as required by new building-safety regulations, post the Grenfell fire **[^8].**
 
 These floorspace increases will be accommodated by making the development much taller and denser.  The residential blocks will increase by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys. 
 

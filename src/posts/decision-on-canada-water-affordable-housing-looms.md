@@ -13,7 +13,7 @@ Working out just how many affordable homes have been lost by the Mayor's decisio
 
 BL's amended application also goes beyond reducing the number of affordable homes, by also adding to the types of housing that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation.  Co-living is a new type of shared-living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for nearly 20% of the total residential floorspace **[^3].**  Assisted living accommodation and key worker housing is also allowed**[^4]**.
 
-In addition, the mix of dwelling size has been further restricted to favour smaller homes.  There will be no obligation on BL to build either two-bed or three bed homes, despite the Southwark Plan requirements of at least 60% of the former and 20% of the latter.  The stipulation that no more than 10% of market housing are studio flats remains (although this is already double the Southwark Plan limit).  Otherwise, the Southwark Plan requirements are only applied to the affordable housing, of which there is so little, it effectively guarantees that there will very little family housing of any kind. **[^5]**.
+In addition, the mix of dwelling size has been further restricted to favour smaller homes.  There will be no obligation on BL to build either two-bed or three bed homes, despite the Southwark Plan requirements of at least 60% of the former and 20% of the latter.  The stipulation that no more than 10% of market housing are studio flats remains (although this is already double the Southwark Plan limit).  Otherwise, the Southwark Plan requirements are only applied to the affordable housing, of which there is so little it effectively guarantees that there will very little family housing of any kind. **[^5]**.
 
 [**IMAGE** - Table of family housing losses]
 
@@ -27,21 +27,21 @@ We can also use BL's own figures.  Based on a total of around 3,000 homes, BL sa
 
 ### More floorspace, but not many more homes
 
-The scheme has been divided into 13 zones, ten of which will have housing.   BL have been permitted to increase both the individual floorspaces for seven of the zones plus the total floorspace limit. The cumulative floorspace for all the zones also now exceeds that of the limit for the whole scheme, though BL will not be allowed to build more than the limit for the whole scheme.  Seperate from the increases in floorspace, the zonal caps on specific land usage, ie the limits to the types of buildings allowed in each zone, has been removed. By these arrangements BL will be allowed '.. *flexibility in the quantum of development that comes forward... in each Zone'* **[^8].**
+The devlopment, which is divided into 13 zones, has also increased in size.  Ten of the zones will have housing and BL have been permitted to increase the individual floorspaces for seven of these.  The cumulative floorspace for all the zones now exceeds that of the limit for the whole scheme (which has also been increase) though BL will not be allowed to build beyond the limit for the whole scheme.  Seperate from the increases in floorspace, the zonal caps on specific land usage, ie the limits to the types of buildings allowed in each zone, has been removed. By these arrangements BL are afforded '.. *flexibility in the quantum of development that comes forward... in each Zone'* **[^8].**
 
-Residential floorspace has also been increased by over 40% and makes up a similar percentage of the total floorspace. This, though, will only result in a relatively small increase in housing, of about 189 units.  Most of the extra floorspace is being used to accommodate a second staircase, as required by new building-safety regulations, post the Grenfell fire **[^9].**
+The solely residential floorspace has also been increased by over 40% and this makes up a similar percentage of the total floorspace. There will, though, be only result in a relatively small increase in housing, of about 189 units.  Most of the extra floorspace is being used to accommodate a second staircase, as required by new building-safety regulations, post the Grenfell fire **[^9].**
 
-These floorspace increases will be accommodated by making the development much taller and denser.  The residential blocks will increase by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys. 
+The floorspace increases will result in a much much taller and denser development.  The residential blocks will increase by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys. 
 
 **[IMAGE** -Increase in heights]
 
 ### The GLA's 'balanced' approach
 
-The Mayor's approval of BL's s73 application relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf).  This weighs up the pros and cons of the application's proposed changes.  Despite the development's big cuts to affordable housing, as well as the large increase in floorspace, height and density, the report surprisingly begins its conclusion by saying that '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission'* **[^10]**.
+The Mayor's approval of BL's s73 application, including the reduction in affordable housing, relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf).  This weighs up the pros and cons of the application's proposed changes.  Despite the big cuts to affordable housing, and the large increases in floorspace, height and density, the report surprisingly begins its conclusion by saying that '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission'* **[^10]**.
 
-The report then notes that the Mayor must judge the application against the development plan and *'material considerations'***.** This places housing alongside all other aspects of the development in the *'planning balance',* withoutany priority or exceptional weight **[^11]**  
+The report then notes that the Mayor must judge the application against the development plan and *'material considerations'.*   This places housing alongside all other aspects of the development in the *'planning balance',* withoutany priority or exceptional weight **[^11]**  
 
-Housing is also taken as a single category, without distinctions of type.  Two-bed, three-bed or family housing are not mentioned at all in the conclusion and planning balance section.  Nor is student housing, or the introducion of co-living; it is all rolled into *'housing'*, regardless of who the the housing is for.  BL's application is commended because *'it will optimise the potential of the site to bring forward much-needed quality housing on a stalled site.........which should be given substantial weight'* **[^12]***.* Who these homes would house is given no consideration*.*
+Housing is also taken as a single category, without distinctions of type.  Two-bed, three-bed or family housing are not mentioned at all in the conclusion and planning balance section.  Nor is student housing, or the introducion of co-living; it is all rolled into *'housing'*, regardless of who the the housing is for.  BL's application is commended because *'it will optimise the potential of the site to bring forward much-needed quality housing on a stalled site.........which should be given substantial weight'* **[^12]***. *Who these homes would house is given no consideration*.*
 
 Having first acknowledged that the reduction in affordable housing *'...reduces materially the extent of public benefit'* , the GLA next addresses affordable housing in the context of viability.  The GLA note BL's original  offer of 35% affordable housing, but then accept their assessment that 3% affordable housing is now the maximum viable amount. The GLA then advises the Mayor that their *'considerable scrutiny'* of BL's assessment , should itself be given *'considerable weight'.*  They do not advise him about how much weight to give any harm caused by the affordable housing reduction **[^13]**.
 
@@ -95,8 +95,6 @@ The answer is yes to the first two questions. I’m afraid that I’m unable to 
 * If this is so, what would the profit hurdle be in cash terms, according to the S73 Illustrative Scheme Base appraisal, appended to the S106 agreement?
 
 **[SCREENSHOT** -DRAFT S106 SHOWING GRANT]
-
-
 
 \--------------------------------------------------------------------------------------------------------------------------
 

@@ -37,9 +37,11 @@ The floorspace increases will result in a much much taller and denser developmen
 
 ### The GLA's 'balanced' approach
 
-The Mayor's approval of BL's s73 application, including the reduction in affordable housing, relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), after it weighs up the pros and cons of the proposed changes.  The report surprisingly begins its conclusion by saying that '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission'*, despite the big cuts to affordable housing, and the large increases in floorspace, height and density **[^10].**
+The Mayor's approval of BL's s73 application, including the reduction in affordable housing, relies on the recommendation of the [GLA Stage 3 Report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), after it weighs up the pros and cons of the proposed changes - the so-called *'planning balance'*.  
 
-The report then notes that the Mayor must judge the application against the development plan and *'material considerations'.*   This places housing alongside all other aspects of the development in the *'planning balance',* without any priority and without giving housing any exceptional weight **[^11].**  
+The report surprisingly begins its conclusion by saying that '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission'*, despite the big cuts to affordable housing, and the large increases in floorspace, height and density **[^10].**
+
+The report then notes that the Mayor must judge the application against the development plan and *'material considerations'.*  This places housing alongside all other aspects of the development in the planning balance*,* without any priority and without giving housing any exceptional weight **[^11].**  
 
 Housing is also taken as a single category, without distinctions of type.  Two-bed, three-bed or family housing are not mentioned at all in the conclusion and planning balance section.  Nor is student housing, or the introducion of co-living; it is all rolled into *'housing'*, regardless of who the the housing is for.  BL's application is commended because *'it will optimise the potential of the site to bring forward much-needed quality housing on a stalled site.........which should be given substantial weight'* **[^12]**. *Who these homes would house is given no consideration*.*
 

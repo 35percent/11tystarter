@@ -223,7 +223,7 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^13] Para 211, 392
 
-[^14] Para 393
+[^14] Para 393.  The Mayor has made two grant awards for affordable housing, one of £7.55m, and a second of £43.75m.  Southwark Council has also made a £35m contribution towards the leisure centre.  Total contributions amount to £86.3m.  See [Canada Water Draft S106 DoV - Annex 3 Baseline Viability Appraisal](https://data.london.gov.uk/download/2z18q/d9l/Canada%20Water%20Draft%20%20S106%20DoV%20-%20Annex%203%20Baseline%20Viability%20Appraisal.pdf).  The BL representative at the application hearing gave an approximate construction cost of £500,000 per housing unit, which would mean that about two-thirds of the construction costs of the remaining 154 affordable homes are met from the public purse.  The construction cost for the Leisure Centre, plus 'Grown Fees' is £9,700,000 (Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, pg 54, Financial Management Report 22. 
 
 [^15] Para 397
 

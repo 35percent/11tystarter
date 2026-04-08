@@ -49,9 +49,9 @@ Having first acknowledged that the cut to affordable housing *'...reduces materi
 
 The report then notes that a grant has been awarded to BL, which would increase the affordable housing to around 9% across the whole scheme.  This is also considered a material consideration that *'weighs in favour of the application',* while also noting that the lower level from 35% reduces its public benefit **[^14]**.
 
-The GLA report follows through on this line of reasoning, to describe the housing provided *'including affordable housing'* as a *'significant public benefit'*, repeating that it *'weighs in favour of the application',* without considering whether the reduction in affordable housing, from 35% to 3% (or 9%), should not also be taken into account, but weighing against the application **[^15]**.  So it appears that, while the  GLA doesn't deny that 9% is less than 35%, they nonethess think that *'in the balance'* getting 9% outweighes losing 24%.  
+The GLA report follows through on this line of reasoning, to describe the housing provided *'including affordable housing'* as a *'significant public benefit'*, repeating that it *'weighs in favour of the application',* without considering whether the reduction in affordable housing, from 35% to 3% (or 9%), should not also be taken into account, as weight against the application **[^15]**.  So it appears that, while the  GLA doesn't deny that 9% is less than 35%, they nonethess think that *'in the balance'* getting 9% outweighs losing 24%.  
 
-It may be that the GLA adopt this line because they are convinced by the viability assessment that only 9% is possible. This, though, even if it is true, has no bearing on how much harm the loss of affordable housing will cause.  It appears that as far as the GLA is concerned, if it cannot be built, not having it can do no harm.
+It may be that the GLA adopt this line because they are convinced by the viability assessment that only 9% is possible. This, though, even if true, has no bearing on how much harm the loss of affordable housing will cause.  It appears that as far as the GLA is concerned, if it cannot be built, not having it can do no harm.
 
 ### Local councillors and Southwark Council think differently....
 

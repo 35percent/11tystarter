@@ -31,8 +31,6 @@ While the affordable housing has plummetted, the size, height and density of the
 
 The residential floorspace has also been increased by over 40% and this makes up a similar percentage of the total floorspace. Most of the extra floorspace is being used to accommodate a second staircase, as required by new building-safety regulations, post Grenfell, so there will only be a relatively small increase in housing, of about 189 units **[^9].**  The residential blocks will increase by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys. 
 
-**[IMAGE** -Increase in heights]
-
 ![](img/canada_water_increase_in_floors_gla_stage_1_25ap0242.png)
 
 ### Local councillors and Southwark Council think differently....

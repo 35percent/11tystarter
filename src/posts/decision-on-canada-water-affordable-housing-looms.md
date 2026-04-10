@@ -15,7 +15,7 @@ BL's amended application also goes beyond reducing the number of affordable home
 
 In addition, the mix of dwelling size has been further restricted to favour smaller homes, punishing family housing (three-bed plus).  In their original permission BL had already been allowed four 'family housing free' zones **[^4i]**. This restriction has been extended across the entire development for market houisng - there will be no obligation on BL to build market two-bed plus or three-bed plus homes, despite the Southwark Plan requiring at least 60% of the former and 20% of the latter.  The stipulation that no more than 10% of market housing are studio flats remains (although this is already double the Southwark Plan limit).  Otherwise, the family housing requirements are only applied to the affordable housing, of which there is so little it effectively guarantees that there will very little of any kind. **[^5]**.
 
-[**IMAGE** - Table of family housing losses]
+[**IMAGE** - 
 
 While BL have been given plenty of latitude in choosing what to build, their affordable housing obligations have been precisely limited.  The new permission requires just **233** social rented homes - the 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **[^6]**.  The small possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.
 
@@ -27,7 +27,7 @@ We can also use BL's own figures.  Based on a total of around 3,000 homes, BL sa
 
 ### More floorspace, but not many more homes
 
-While the affordale housing has plummetted, the size, height and density of the development has increased.  The scheme is divided into 13 zones, ten of the zones will have housing and BL have been permitted to increase the individual floorspaces for seven of these.  The cumulative floorspace for all the zones now exceeds that of the limit for the whole scheme (which has also increased) though BL will not be allowed to build beyond the limit for the whole scheme.  Seperate from the increases in floorspace, the zonal caps on specific land usage, ie the limits to the types of buildings allowed in each zone, has been removed. By these arrangements BL are afforded '.. *flexibility in the quantum of development that comes forward... in each Zone'* **[^8].**
+While the affordable housing has plummetted, the size, height and density of the development has increased.  The scheme is divided into 13 zones, ten of the zones will have housing and BL have been permitted to increase the individual floorspaces for seven of these.  The cumulative floorspace for all the zones now exceeds that of the limit for the whole scheme (which has also increased) though BL will not be allowed to build beyond the limit for the whole scheme.  Seperate from the increases in floorspace, the zonal caps on specific land usage, ie the limits to the types of buildings allowed in each zone, has been removed. By these arrangements BL are afforded '.. *flexibility in the quantum of development that comes forward... in each Zone'* **[^8].**
 
 The residential floorspace has also been increased by over 40% and this makes up a similar percentage of the total floorspace. Most of the extra floorspace is being used to accommodate a second staircase, as required by new building-safety regulations, post Grenfell, so there will only be a relatively small increase in housing, of about 189 units **[^9].**  The residential blocks will increase by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys. 
 
@@ -110,6 +110,8 @@ Unless stated otherwise all references are to [GLA Stage 3 report](https://data.
 BL pitched unconventional housing as being affordable housing in their original application, in a list including 'Southwark target rent', but also eight other different 'affordable' tenures, including 'Retirement rent', 'Shared accommodation' and 'Retired shared-equity' - Quod, Financial Viability Assesssment, Clarification Note 3, Fig 1, Nov 2018).
 
 [^4] Para 183, 207.
+
+**[^4i]** There was no requirement in the 2019/20 permission for three-bed plus housing in Zones B, C, D and F, with the requirement holding only for Zones E, G, H, J and L.  See Canada Water 18/AP/1604, s106, Annex 15. The amended application restricting family houisng to affordale tenures will apply to all zones.  See [Canada Water Draft S106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf), Annex 2.
 
 [^5] Para 6 bullet 2, 2; [Canada Water Draft S106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf), Annex 2;  [Southwark Plan 2022](https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark%20Plan%202022%20reduced%201.pdf), Policy P2, New family homes, 1.1
 

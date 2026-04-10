@@ -43,15 +43,17 @@ Southwark Council also objected to the application.  They had approved the origi
 
 The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'*- despite the drop in affordable housing **[^16]**.
 
-### What we say
+### What we say...BL give the game away
 
-The Canada Water scheme is probably the borough's biggest ever development scheme and Southwark Council gave British Land planning permission in large part because it promised hundreds of affordable and family homes. That promise has now been broken in cynical fashion.
+The Canada Water scheme is probably the borough's biggest ever development scheme and Southwark Council gave British Land planning permission in large part because it promised hundreds of affordable and family homes. BL have now broken that promise in cynical fashion.
 
 BL's justification for going back on its word is twofold - part site-specific and part relating to the wider economic headwinds - but concluding with the usual developer complaint that what was promised is no longer 'viable'.  The site itself is constrained, BL say, because it must not impinge on important London views, limiting building heights and size; they also have a lot of upfront infrastruture costs, without the prospect of any immediate returns.  We say that this may all be true, but it was equally true back in 2019, when BL nonetheless felt able to promise 35% affordable housing (when it needed to get planning permission).
 
-BL contend, though, that what might have been possible in 2019 is no longer possible now, again on two grounds - that building saferty regulations are much more onerous and that the economic situation is unprecentedly bad.   
+What might have been possible in 2019 is no longer possible now, BL respond - building saferty regulations are so much more onerous and the economic situation is worse than it has ever been.   
 
-Much of these new safety regulations, and the second staircase in particular came about because of a sector wide failure to build homes that were safe for people to live in, demonstrated by the calamitous Grenfell fire.  It is a measure of BL's true commitment to building places that are  ['the most sustainable to work, live and visit'](https://www.britishland.com/about-us/) that they are not only complain about new regulations, but use them as an excuse to build less affordable housing.
+Again, maybe true, but new safety regulations, and the second staircase requirement in particular, came about because of a sector wide failure to build homes that were safe for people to live in, demonstrated by the calamitous Grenfell fire.  We would add that it is a measure of BL's true commitment to building places that are  'the most sustainable to work, live and visit' (as [their website boasts](https://www.britishland.com/about-us/)) that they are not only complain about new regulations, but use them as an excuse to build less affordable housing.
+
+BNPP Nov 2019.
 
 Above all else building large schemes of this type, over many years, weathering different circumstances, is supposed to be BL's business 
 

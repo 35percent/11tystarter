@@ -9,13 +9,15 @@ At the beginning of last year BL made a s73 application to Southwark, to reduce 
 
 ### How many affordable (and family) homes have we lost?
 
-Working out just how many affordable and family homes have been lost by the Mayor's decision is not straightforward, because, in the first place, we do not know how many homes will be built - the overall size of the development can be anything from 2,000 to 4,184 residential units **[^2]**.
+Working out just how many affordable and family homes have been lost by the Mayor's decision is not straightforward, because we do not know how many homes will be built - the overall size of the development can be anything from 2,000 to 4,184 residential units **[^2]**.
 
 BL's amended application also goes beyond reducing the number of affordable homes, by also adding to the types of housing that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation.  Co-living is a new type of shared-living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for nearly 20% of the total residential floorspace **[^3].**  Assisted living accommodation and key worker housing is also allowed**[^4]**.
 
-In addition, the mix of dwelling size has been further restricted to favour smaller homes, punishing family housing (three-bed plus).  In their original permission BL had already been allowed four 'family housing free' zones **[^4i]**. This restriction has been extended across the entire development for market houisng - there will be no obligation on BL to build market two-bed plus or three-bed plus homes, despite the Southwark Plan requiring at least 60% of the former and 20% of the latter.  The stipulation that no more than 10% of market housing are studio flats remains (although this is already double the Southwark Plan limit).  Otherwise, the family housing requirements are only applied to the affordable housing, of which there is so little it effectively guarantees that there will very little of any kind. **[^5]**.
+In addition, the mix of dwelling size has been further restricted to favour smaller homes, punishing family housing (three-bed plus).  In their original permission BL had already been allowed four 'family housing free' zones **[^4i]**. This restriction has been extended across the entire development for market housing - there will be no obligation on BL to build market two-bed plus or three-bed plus homes, despite the Southwark Plan requiring at least 60% of the former and 20% of the latter.  The stipulation that no more than 10% of market housing are studio flats remains (although this is already double the Southwark Plan limit).  Otherwise, the family housing requirements are only applied to the affordable housing, of which there is so little it effectively guarantees that there will very little of any kind. **[^5]**.
 
-[**IMAGE** - 
+![](img/family_housing_image_100426.png)
+
+
 
 While BL have been given plenty of latitude in choosing what to build, their affordable housing obligations have been precisely limited.  The new permission requires just **233** social rented homes - the 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **[^6]**.  The small possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.
 
@@ -45,7 +47,7 @@ Southwark Council also objected to the application.  They had approved the origi
 
 The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'*- despite the drop in affordable housing **[^16]**.
 
-### What we say  
+### What we say
 
 The Canada Water scheme is probably the borough's biggest ever development scheme and Southwark Council gave it planning permission in large part because it promised hundreds of affordable and family homes. That promise has now been broken in cynical fashion by British Land.
 

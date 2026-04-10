@@ -129,18 +129,6 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^9] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
 
-[^10] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 385
-
-[^11]  The development plan comprises the Southwark Plan 2022 and the London Plan 202 ([GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 47).  A material consideration is described on the  [government's planning webpages](https://www.gov.uk/guidance/determining-a-planning-application) as '*one which is relevant to making the planning decision in question'*; more helpfully, it continues, that material considerations are *'concerned with land use in the public interest, so that the protection of purely private interests such as the impact of a development on the value of a neighbouring property or loss of private rights to light could not be material considerations'.*  Other aspects taken into account in the planning balance, besides housing, include design and appearance; heritage and environmental impact; work, leisure and other uses; jobs, transport, education and viability.
-
-[^12] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 391
-
-[^13] Para 211, 392
-
-[^14] Para 393.  The Mayor has made two grant awards for affordable housing, one of £7.55m, and a second of £43.75m.  Southwark Council has also made a £35m contribution towards the leisure centre.  Total contributions amount to £86.3m.  See [Canada Water Draft S106 DoV - Annex 3 Baseline Viability Appraisal](https://data.london.gov.uk/download/2z18q/d9l/Canada%20Water%20Draft%20%20S106%20DoV%20-%20Annex%203%20Baseline%20Viability%20Appraisal.pdf).  The BL representative at the application hearing gave an approximate construction cost of £500,000 per housing unit, which would mean that about two-thirds of the construction costs of the remaining 154 affordable homes are met from the public purse.  The construction cost for the Leisure Centre, plus 'Grown Fees' is £9,700,000 (Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, pg 54, Financial Management Report 22. 
-
-[^15] Para 397
-
 [^16] Para 390
 
 [^17] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 1.6, 1.7.

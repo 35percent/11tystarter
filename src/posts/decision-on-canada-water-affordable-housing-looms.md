@@ -23,8 +23,6 @@ Not knowing precisley how many homes will be built, of what type and size, and h
 
 We can also use BL's own figures.  Based on a total of around 3,000 homes, BL said which say that *'If a viable route to 35% affordable homes were identified, this would represent a total of 900 social rent homes and 400 intermediate homes.....'* **[^7ii].** Deducting the 233 social rented homes from the promised social rent numbers gives various losses, depending on the total number of homes built - 267 lost, if 2,000 homes in total built; 667 lost, if 3,000 homes built, 767 lost if 4,000 built **[^7iii]**.  The actual loss will probably be at the higher end of the scale, given that BL are likely to build to the maximum number of homes allowed.
 
-[**IMAGE** - Table of affordable housing losses]
-
 ![](img/table_loss_of_affordable_housing_100426.png)
 
 ### More floorspace, but not many more homes
@@ -34,6 +32,8 @@ While the affordable housing has plummetted, the size, height and density of the
 The residential floorspace has also been increased by over 40% and this makes up a similar percentage of the total floorspace. Most of the extra floorspace is being used to accommodate a second staircase, as required by new building-safety regulations, post Grenfell, so there will only be a relatively small increase in housing, of about 189 units **[^9].**  The residential blocks will increase by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys. 
 
 **[IMAGE** -Increase in heights]
+
+![](img/canada_water_increase_in_floors_gla_stage_1_25ap0242.png)
 
 ### Local councillors and Southwark Council think differently....
 

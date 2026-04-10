@@ -59,7 +59,7 @@ Local councillors, Cllrs Kath Whittam, Stephanie Cryan and Bethan Roberts spoke 
 
 Southwark Council also objected to the application.  They had approved the original application, after judging that the harm caused to strategically important views of London caused by the scheme's size and height, was outweighed by the benefits of its affordable housing.  Now that the scheme had grown bigger and that the affordable housing smaller, they had come to different conclusion and said that, on planning balance, Southwark planning officers would have recommended that the apploication should be rejected.
 
-The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'*- despite any lack of affordable housing **[^16]**.  
+The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'*- despite the drop in affordable housing **[^16]**.  
 
 ### The viability trump card
 
@@ -67,7 +67,7 @@ The changes made by BL in the Canada Water development scheme, including the inc
 
 But assessments for viability are based on many arguable assumptions, at best, and in the case of big schemes like Canada Water, are just snapshots of developments that will take years to complete. Canada Water is due for completion by 2033, but Phase 1, a fraction of the whole and due by 2023, is only just completing **[^18]**, making the 2033 finish date optimistic. 
 
-And while BL say now that only 3% affordable housing is viable, in 2020 it promised 35%, even though supposedly only 11% was viable **[^19]**.  After a hefty grant of £xxx from the Mayor BL have committed to around 9%, across the whole scheme, to be delivered as 150 social rented homes in the next 1,000 new homes, which equates to 20% of that tranche of housing **[^20]** \[REF- GLA Stage 3, 2ii]. BL contend reasons......
+And while BL say now that only 3% affordable housing is viable, in 2020 it promised 35%, even though supposedly only 11% was viable **[^19]**.  After a hefty grant of £43.75m from the Mayor BL have committed to around 9%, across the whole scheme, to be delivered as 150 social rented homes in the next 1,000 new homes, which equates to 20% of that tranche of housing **[^20]** \[REF- GLA Stage 3, 2ii]. BL contend reasons......
 
 It must be remembered as well that an 'unviable' scheme is not an necessarily an unprofitable scheme.  The developer themselves set the level of profit that turns an unviable scheme into a viable one.  The GLA say that  they unable to say, in cash terms how much this might be  \[REF].  In percentage terms it will be 15% IRR, (Internal Rate of Return), a conveniently obscure measure of profit, favoured by developers.  The draft financial viability assessment attached to the approved permission gives the scheme £445.37m at 7.56% IRR, which by the roughest of estimates indicates that the treshold for viability, and for any more affordable housing will be nearly £1bn.
 

@@ -45,14 +45,6 @@ Southwark Council also objected to the application.  They had approved the origi
 
 The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'*- despite the drop in affordable housing **[^16]**.  
 
-### Not over yet - Reserved Matters Applications
-
-What BL wanted all along - BNPP Review of Affordable Housing and Viability Statement Dec 2018
-
-Strong opposition - Cllrs Whittam, Cryan and Roberts, local resident, Michael Robertson, 35% Campaign.
-
-### What's been delivered so far - Phase 1
-
 ### Less affordable housing for us, more profit for BL
 
 Despite the adverse/challanging economic conditions that make BL think that this is a good time to reduce affordable housing, BL not only wants to maintain it's profit but, rather like Oliver Twist, is asking for 'more' (and without any 'please!').  Buried in the the many viability documents supporting their application, BL assert a claim for a profit threshold equal to 17.5% IRR**^x**.  This would be be the amount needed to make the scheme viable and the profit hurdle that will have to be cleared before BL are liable to provide any more affordable housing, in the event of viability reviews. BL do not say how much 17.5% IRR would be in cash, but in its assessment for a scheme with 3% affordable housing (which is what it is asking the Mayor to approve) it equates a 10.54% IRR of 10.54% with **£991.61m**. Southwark's appraiser, BNPParibas gives a figure of **£1.052bn** for 11.05% IRR and **£1.06bn** for 11.13%.  by a very rough calculation this would make a 17.5% IRR equate to **£1.4bn-£1.6bn**.  

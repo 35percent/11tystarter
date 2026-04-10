@@ -43,7 +43,7 @@ Southwark Council also objected to the application.  They had approved the origi
 
 The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'*- despite the drop in affordable housing **[^16]**.
 
-### What we say...BL give the game away
+### What we say...BL give the game away and the Mayor is gamed...
 
 The Canada Water scheme is probably the borough's biggest ever development scheme and Southwark Council gave British Land planning permission in large part because it promised hundreds of affordable and family homes. BL have now broken that promise in cynical fashion.
 
@@ -61,7 +61,7 @@ The real fault lies with the Mayor for foolishly accepting that the circumstance
 
 This is of a piece with their off_hand dismissal of family housing because there is noNo demand for family housing SCHMAA
 
-### Our next blog will look at how the Mayor made his decision....
+### Our next blog will look at how the Mayor made his foolish decision....
 
 \--------------------------------------------------------------------------------------------------------------------
 

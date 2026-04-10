@@ -17,8 +17,6 @@ In addition, the mix of dwelling size has been further restricted to favour smal
 
 ![](img/family_housing_image_100426.png)
 
-
-
 While BL have been given plenty of latitude in choosing what to build, their affordable housing obligations have been precisely limited.  The new permission requires just **233** social rented homes - the 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **[^6]**.  The small possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.
 
 Not knowing precisley how many homes will be built, of what type and size, and how many habitable rooms there will be, means we cannot say exactly how many we have lost by the reduction of the affordable housing percentage **[^7]**.  We can, though, compare the 233 social rented homes we have been left with, to what was claimed in the original 2019 planning committee report.  This estimated that Canada Water would provide around 700 affordable homes, if the scheme was only built to its minimum limit of 2,000 units.  500 of these would have been social rented and 200 intermediate.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Making an estimate using this maximum number results in about 1,400 affordable homes, of which 1,000 would be social rent and 400 intermediate housing **[^7i]**
@@ -49,11 +47,11 @@ The GLA had also considered the harm to London's views, but maintained that, tho
 
 ### What we say
 
-The Canada Water scheme is probably the borough's biggest ever development scheme and Southwark Council gave it planning permission in large part because it promised hundreds of affordable and family homes. That promise has now been broken in cynical fashion by British Land.
+The Canada Water scheme is probably the borough's biggest ever development scheme and Southwark Council gave British Land planning permission in large part because it promised hundreds of affordable and family homes. That promise has now been broken in cynical fashion.
 
-BL's justification for going back on its word is twofold - part site-specific and part relating to the wider economic headwinds - but concluding with the usual developer complaint that what was promised is no longer 'viable'.  The site itself is constrained, BL say, by the need not to impinge on important London views, limiting building heights and size.  There is also a lot of upfront costs to be met, putting in extensive infrastructure, without any  not generate any immediate returns.  This may all be true, but it was equally true back in 2019, when BL felt able to promise 35% affordable housing, when it needed to get planning permission.
+BL's justification for going back on its word is twofold - part site-specific and part relating to the wider economic headwinds - but concluding with the usual developer complaint that what was promised is no longer 'viable'.  The site itself is constrained, BL say, because it must not impinge on important London views, limiting building heights and size; they also say tha there is also a lot of upfront infrastruture costs to be met, without any immediate returns.  We say that this may all be true, but it was equally true back in 2019, when BL nonetheless felt able to promise 35% affordable housing when it needed to get planning permission.
 
-BL contend though, that what might have been possible in 2019 is no longer possible, again on two grounds - that building saferty regulations are much more onerousthat the economic situation is  things have changed 
+BL contend though, that what might have been possible in 2019 is no longer possible now, again on two grounds - that building saferty regulations are much more onerousthat the economic situation is  things have changed 
 
 Much of these safety regulations and the second staircase in particular came about because of a sector wide failure to build homes that were safe for people to live in, demonstrated by the calamitous Grenfell fire.  It is breathtakingly obtuse on BL's part, not just to be complaining about them, but use them as an excuse to buid less affordable housing.
 

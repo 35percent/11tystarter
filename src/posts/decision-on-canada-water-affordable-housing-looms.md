@@ -35,7 +35,7 @@ The residential floorspace has also been increased by over 40% and this makes up
 
 ### Local councillors and Southwark Council think differently....
 
-Several objectors appeared to speak against BL's s73 application, making the very points about the impact of the loss of affordable and family housing on the local community and the wider borough, which seemed to elude the GLA. 
+Several objectors appeared to speak against BL's s73 application.  The common theme was how Canada Water represented a opportunity to address local needs that would be lost, if the Mayor approved BL's application. 
 
 Local councillors, Cllrs Kath Whittam, Stephanie Cryan and Bethan Roberts spoke powerfully, drawing from their constituent's experiences. They welcomed the social rented housing on Robert's Close, but otherwise lamented the lack of amenities provided so far from phase one of the scheme; they reminded the Deputy Mayor of the crying need for family and affordable housing. Local resident, Michael Robertson spoke of the local cultural impact of the development.  Jed Holloway, of Southwark Law Centre, and Jerry Flynn, of the 35% Campaign, challenged the great weight the GLA had given to BL's viability assessment, against the neglible weight given for the harm caused through the lack of affordable housing. 
 

@@ -1,5 +1,5 @@
 ---
-title: Canad Water - How the decision was made
+title: CanadaWater - How the decision was made
 description: Mayor puts viability above affordablility
 date: 2026-04-10T14:26:27.762Z
 ---
@@ -20,16 +20,6 @@ The report then notes that a grant has been awarded to BL, which would increase 
 The GLA report follows through on this line of reasoning, to describe the housing provided *'including affordable housing'* as a *'significant public benefit'*, repeating that it *'weighs in favour of the application',* without considering whether the reduction in affordable housing, from 35% to 3% (or 9%), should not also be taken into account, as weight against the application **[^15]**.  So it appears that, while the  GLA doesn't deny that 9% is less than 35%, they nonethess think that *'in the balance'* getting 9% outweighs losing 24%.  
 
 It may be that the GLA adopt this line because they are convinced by the viability assessment that only 9% is possible. This, though, even if true, has no bearing on how much harm the loss of affordable housing will cause.  It appears that as far as the GLA is concerned, if it cannot be built, not having it can do no harm.
-
-### Local councillors and Southwark Council think differently....
-
-Several objectors appeared to speak against BL's s73 application, making the very points about the impact of the loss of affordable and family housing on the local community and the wider borough, which seemed to elude the GLA. 
-
-Local councillors, Cllrs Kath Whittam, Stephanie Cryan and Bethan Roberts spoke powerfully, drawing from their constituent's experiences. They welcomed the social rented housing on Robert's Close, but otherwise lamented the lack of amenities provided so far from phase one of the scheme; they reminded the Deputy Mayor of the crying need for family and affordable housing. Local resident, Michael Robertson spoke of the local cultural impact of the development.  Jed Holloway, of Southwark Law Centre, and Jerry Flynn, of the 35% Campaign, challenged the great weight the GLA had given to BL's viability assessment, against the neglible weight given for the harm caused through the lack of affordable housing. 
-
-Southwark Council also objected to the application.  They had approved the original application, after judging that the harm caused to strategically important views of London caused by the scheme's size and height, was outweighed by the benefits of its affordable housing.  Now that the scheme had grown bigger and that the affordable housing smaller, they had come to different conclusion and said that, on planning balance, Southwark planning officers would have recommended that the apploication should be rejected.
-
-The GLA had also considered the harm to London's views, but maintained that, though they gave this harm *'considerable importance and weight'* the public benefits of the scheme *'...would clearly and convincingly outweigh the heritage harm'*- despite the drop in affordable housing **[^16]**.  
 
 ### The viability trump card
 

@@ -47,7 +47,7 @@ The GLA had also considered the harm to London's views, but maintained that, tho
 
 ### What we say  
 
-The Canda Water scheme is the borough's biggest development scheme and Southwark Council gave it planning permission on because it promised hundreds of affordable and family homes.  
+The Canada Water scheme is the borough's biggest development scheme and Southwark Council gave it planning permission on because it promised hundreds of affordable and family homes.  
 
 No demand for family housing SCHMAA
 

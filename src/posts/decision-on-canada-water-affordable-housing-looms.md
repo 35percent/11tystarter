@@ -57,6 +57,8 @@ BNPP Nov 2019.
 
 Above all else building large schemes of this type, over many years, weathering different circumstances, is supposed to be BL's business 
 
+The real fault lies with the Mayor for foolishly accepting that the circumstances of the moment, however they might appear, justify reducing the amount of affordable houisng when 93% of Southwark households are eligible for affordable housing, even if they might not absolutley  depend on it.  IMAGE bar chart
+
 This is of a piece with their off_hand dismissal of family housing because there is noNo demand for family housing SCHMAA
 
 ### Our next blog will look at how the Mayor made his decision....

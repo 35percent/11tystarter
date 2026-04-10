@@ -47,9 +47,17 @@ The GLA had also considered the harm to London's views, but maintained that, tho
 
 ### What we say  
 
-The Canada Water scheme is the borough's biggest development scheme and Southwark Council gave it planning permission on because it promised hundreds of affordable and family homes.  
+The Canada Water scheme is probably the borough's biggest ever development scheme and Southwark Council gave it planning permission in large part because it promised hundreds of affordable and family homes. That promise has now been broken in cynical fashion by British Land.
 
-No demand for family housing SCHMAA
+BL's justification for going back on its word is twofold - part site-specific and part relating to the wider economic headwinds - but concluding with the usual developer complaint that what was promised is no longer 'viable'.  The site itself is constrained, BL say, by the need not to impinge on important London views, limiting heights and sizes.  There is also a lot of upfront costs to be met, putting in extensive infrastructure which does not generate any immediate returns.  This may all be true, but it was equally true back in 2019, but BL felt able to promise 35% affordable housing, when it needed to get planning permission.
+
+BL contend though, that what might have been possible in 2019 is no longer possible, again on two grounds - that building saferty regulations are much more onerousthat the economic situation is  things have changed 
+
+Much of these safety regulations and the second staircase in particular came about because of a sector wide failure to build homes that were safe for people to live in, demonstrated by the calamitous Grenfell fire.  It is breathtakingly dense on 
+
+Ogghand dismissal of family housing because there is noNo demand for family housing SCHMAA
+
+### Our next blog will look at how the Mayor made his decision....
 
 \--------------------------------------------------------------------------------------------------------------------
 

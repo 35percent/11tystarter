@@ -49,9 +49,11 @@ The Canada Water scheme is probably the borough's biggest ever development schem
 
 BL's justification for going back on its word is twofold - part site-specific and part relating to the wider economic headwinds - but concluding with the usual developer complaint that what was promised is no longer 'viable'.  The site itself is constrained, BL say, because it must not impinge on important London views, limiting building heights and size; they also have a lot of upfront infrastruture costs, without the prospect of any immediate returns.  We say that this may all be true, but it was equally true back in 2019, when BL nonetheless felt able to promise 35% affordable housing (when it needed to get planning permission).
 
-BL contend though, that what might have been possible in 2019 is no longer possible now, again on two grounds - that building saferty regulations are much more onerous and that the economic situation is unprecentedly bad.   
+BL contend, though, that what might have been possible in 2019 is no longer possible now, again on two grounds - that building saferty regulations are much more onerous and that the economic situation is unprecentedly bad.   
 
-Much of these safety regulations and the second staircase in particular came about because of a sector wide failure to build homes that were safe for people to live in, demonstrated by the calamitous Grenfell fire.  It is breathtakingly obtuse on BL's part, not just to be complaining about them, but use them as an excuse to buid less affordable housing.
+Much of these new safety regulations, and the second staircase in particular came about because of a sector wide failure to build homes that were safe for people to live in, demonstrated by the calamitous Grenfell fire.  It is a measure of BL's true commitment to building places that are  ['the most sustainable to work, live and visit'](https://www.britishland.com/about-us/) that they are not only complain about new regulations, but use them as an excuse to build less affordable housing.
+
+Above all else building large schemes of this type, over many years, weathering different circumstances, is supposed to be BL's business 
 
 This is of a piece with their off_hand dismissal of family housing because there is noNo demand for family housing SCHMAA
 

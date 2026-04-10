@@ -53,7 +53,7 @@ BL's justification for going back on its word is twofold - part site-specific an
 
 BL contend though, that what might have been possible in 2019 is no longer possible, again on two grounds - that building saferty regulations are much more onerousthat the economic situation is  things have changed 
 
-Much of these safety regulations and the second staircase in particular came about because of a sector wide failure to build homes that were safe for people to live in, demonstrated by the calamitous Grenfell fire.  It is breathtakingly dense on 
+Much of these safety regulations and the second staircase in particular came about because of a sector wide failure to build homes that were safe for people to live in, demonstrated by the calamitous Grenfell fire.  It is breathtakingly obtuse on BL's part, not just to be complaining about them, but use them as an excuse to buid less affordable housing.
 
 Ogghand dismissal of family housing because there is noNo demand for family housing SCHMAA
 

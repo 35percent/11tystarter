@@ -7,7 +7,7 @@ London Mayor Sadiq Khan has approved the reduction of affordable housing on the 
 
 At the beginning of last year BL made a s73 application to Southwark, to reduce the affordable housing requirement to 3% (while also increasing the height and density of the scheme).  In November 2025, [BL referred the s73 application to the Mayor](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing) in December 2025, for his determination, taking the decision out of Southwark's hands.  The application was heard and approved by Deputy Mayor Jules Pipe (acting on the Mayor's behalf) [on 27 March](https://webcasts.london.gov.uk/Mayoral/Event/Index/389f7074-88e3-46b0-ae1c-6c4032abfddd), after representations from GLA officers, Southwark Council, objectors and British Land.
 
-### How many affordable (and family) homes have we lost?
+### How many family homes have we lost?
 
 Working out just how many affordable and family homes have been lost by the Mayor's decision is not straightforward, because we do not know how many homes will be built - the overall size of the development can be anything from 2,000 to 4,184 residential units **[^2]**.
 
@@ -16,6 +16,8 @@ BL's amended application also goes beyond reducing the number of affordable home
 In addition, the mix of dwelling size has been further restricted to favour smaller homes, punishing family housing (three-bed plus).  In their original permission BL had already been allowed four 'family housing free' zones **[^4i]**. This restriction has been extended across the entire development for market housing - there will be no obligation on BL to build market two-bed plus or three-bed plus homes, despite the Southwark Plan requiring at least 60% of the former and 20% of the latter.  The stipulation that no more than 10% of market housing are studio flats remains (although this is already double the Southwark Plan limit).  Otherwise, the family housing requirements are only applied to the affordable housing, of which there is so little it effectively guarantees that there will very little family housing either. **[^5]**.
 
 ![](img/family_housing_image_100426.png)
+
+### How many affordable homes have we lost?
 
 While BL have been given plenty of latitude in choosing what to build, their affordable housing obligations have been precisely limited.  The new permission requires just **233** social rented homes - the 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **[^6]**.  The small possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.
 

@@ -15,7 +15,11 @@ Working out just how many affordable and family homes have been lost by the Mayo
 
 BL's amended application also goes beyond reducing the number of affordable homes, by also adding to the types of housing that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation.  Co-living is a new type of shared-living accommodation, similar to student housing, but aimed at professional singles and couples. If built to the maximum allowed by the amended permission student and co-living accommodation will account for nearly 20% of the total residential floorspace **[^3].**  Assisted living accommodation and key worker housing is also allowed**[^4]**.
 
-In addition, the mix of dwelling size has been further restricted to favour smaller homes, punishing family housing (three-bed plus).  In their original permission BL had already been allowed four 'family housing free' zones **[^5]**. This restriction has been extended across the entire development for market housing - there will be no obligation on BL to build market two-bed plus or three-bed plus homes, despite the Southwark Plan requiring at least 60% of the former and 20% of the latter.  The stipulation that no more than 10% of market housing are studio flats remains (although this is already double the Southwark Plan limit).  Otherwise, the family housing requirements are only applied to the affordable housing, of which there is so little it effectively guarantees that there will very little family housing either. **[^6]**.
+In addition, the mix of dwelling size has been further restricted to favour smaller homes, punishing family housing (three-bed plus).  In their original permission BL had already been allowed four 'family housing free' zones **[^5]**. This restriction has been extended across the entire development for market housing - there will be no obligation on BL to build market two-bed plus or three-bed plus homes, despite the Southwark Plan requiring at least 60% of the former and 20% of the latter.  
+
+This is of a piece with their off_hand dismissal of family housing because there is noNo demand for family housing SCHMAA
+
+The stipulation that no more than 10% of market housing are studio flats remains (although this is already double the Southwark Plan limit).  Otherwise, the family housing requirements are only applied to the affordable housing, of which there is so little it effectively guarantees that there will very little family housing either. **[^6]**.
 
 ![](img/family_housing_image_100426.png)
 
@@ -57,9 +61,9 @@ BL's justification for going back on its word is twofold - part site-specific an
 
 But BL say that this is no longer possible- building safety regulations are so much more onerous and the economic situation is worse than it has ever been **[^15]**.  Again, this may be true, but new safety regulations, and the second staircase requirement in particular, came about because of a sector wide failure to build homes that were safe for people to live in, demonstrated by the calamitous Grenfell fire. It is a measure of BL's true commitment to building places that are  *'the most sustainable to work, live and visit'* (as [their website boasts](https://www.britishland.com/about-us/)) that they are not only complaining about new regulations, but use them as a ready reason to build less affordable housing.
 
-And in fact BL has never really wanted to commit to delivering either 35%, or any a fixed amount of affordable housing.  BNP Paribas' review of an early BL viability appraisal says *'..the Applicant's preferred strategy for the outline phases is to determine the level of affordable housing in the basis of a phased review mechanism'*.  This was BL's position under the more favourable economic circumstances of 2019,  and predating the introduction of new building safety regulations **[^16]**.
+And in fact BL has never really wanted to commit to delivering either 35%, or any a fixed amount of affordable housing.  BNP Paribas' review of an early BL viability appraisal says *'..the Applicant's preferred strategy for the outline phases is to determine the level of affordable housing in the basis of a phased review mechanism'*.  This was BL's position in 2019, despite more favourable economic circumstances and predating the introduction of new building safety regulations **[^16]**.
 
-BNPP note that *'This could result in the outline parts of the scheme providing no affordable housing at all'*.  Southwark evidently took heed and only gave the original planning permission on the promise of 35% affordable housing.  Now though in 2026, BL have their *'preferred strategy'* in place and the only affordable housing that will come beyond 9% depends on viability reviews, of which BNPP warn the Council about *'..their lack of ability to negotiate the level of affordable housing at the review stages, as the review structure is likely to be formulaic'* **[^17]**.   
+BNPP's comment on BL's aproach was that *'This could result in the outline parts of the scheme providing no affordable housing at all.*  BNPP further warned  the Council that *'..their lack of ability to negotiate the level of affordable housing at the review stages, as the review structure is likely to be formulaic'.*  Southwark evidently took heed of BNPP'S advice and only gave the original planning permission on the promise of 35% affordable housing.  Now though in 2026, after the Mayior's decision, BL have their *'preferred strategy'* in place and the only affordable housing that will come beyond 9% depends on viability reviews.  **[^17]**.   
 
 
 
@@ -69,9 +73,7 @@ Above all else building large schemes of this type, over many years, weathering 
 
 The real fault lies with the Mayor for foolishly accepting that the circumstances of the moment, however they might appear, justify reducing the amount of affordable houisng when 93% of Southwark households are eligible for affordable housing, even if they might not absolutley  depend on it.  IMAGE bar chart
 
-This is of a piece with their off_hand dismissal of family housing because there is noNo demand for family housing SCHMAA
 
-### Our next blog will look at how the Mayor made his foolish decision....
 
 \--------------------------------------------------------------------------------------------------------------------
 
@@ -113,4 +115,4 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^16] The second staircase requirement was introduced for London in Feb 2023.  The new[ Gateway 1 building regulation](https://www.gov.uk/guidance/fire-safety-and-high-rise-residential-buildings-from-1-august-2021) was introduced in August 2021.  [Gateways 2 and 3](https://brodies.com/insights/construction-and-engineering/everything-you-need-to-know-about-the-new-building-safety-gateway-regime/#:~:text=On%201%20October%202023%2C%20the,some%20clarity%20on%20those%20issues.) came into force on Oct 2023.
 
-[^17] One advantage of BL's preferred strategy for Soutwark in 2019 would have been that 100% of any additional housing, after viability was achieved, would have been affordable.  This became 60% in the actual planning permission and will remain 60% in the amended permission, with 40% going to BL.
+[^17] One advantage of BL's preferred strategy for Southwark in 2019 would have been that 100% of any surplus, after viability was reached would have gone towards additional affordable housing.  This became 60% (after 16% GDV profit) in the actual planning permission and will remain 60% in the amended permission (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing. See Canada Water Masterplan, s106 Agreement, Sch 11. Pt 4, 2. Delivery Review, using ref 18/AP/ 1604 via [Southwark Council's planning register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning).

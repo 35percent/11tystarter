@@ -69,9 +69,11 @@ BNPP's comment on BL's 2019 aproach was that *'This could result in the outline 
 
 ### ...but stengthen their grip...   
 
-Apart from leaving Southwark (and the Mayor) with little negotiating power, the formulaic nature of the reviews strictly limit the possibility of additional affordable and family housing.  Firstly, the reviews will only cover the residential element of the development, which is just 40% by floorspace, so any uplift in the value and profit of the non-residential part of the development will not be captured...will not count.  Secondly, the amount of additional affordable housing is capped at 40% - just 5% more than the minimum required by the Southwark Plan, and 10% below both the Mayor's and Southwark's strategic affordable housing target \[REF]
+There is little hope that we will see much improvement from the reviews.  Apart from leaving Southwark (and the Mayor) with little negotiating power, their formulaic nature strictly limit the possibility of additional affordable and family housing.  Firstly, the reviews will only cover the residential element of the development, which is less than half the floorspace, so any uplift in the value and profit of the non-residential part of the development will not be captured.  Secondly, the amount of additional affordable housing is capped at 40% - just 5% more than the minimum required by the Southwark Plan, and 10% below both the Mayor's and Southwark's strategic affordable housing target **[^18].**
 
-The one advantage of BL's 2019 preferred strategy, that there would be no fixed proporion of affordable housing, was the offer that 100% of any surplus, after viability was reached, would go towards additional affordable housing.  But this advantage was lost and the reduced to 60% (after 16% GDV profit) by the time the original planning permission was awarded and remains 60% in the amended permission, but with a higher profit measure that looks as if  (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing.
+The one advantage to Southwark of BL's 2019 preferred strategy was the offer that 100% of any surplus would go towards additional affordable housing, after viability was reached.  But this benefit was lost and the amount reduced to 60% (after 16% GDV profit) by the time the original planning permission was awarded.  It remains 60% in the amended permission, but with a higher profit hurdle, before it can be claimed; instead of 16% GDV, it will be 15% IRR, which looks lower, but because it is a different measure (IRR instead of GDV) is **likely to require a profit of over £1bn**, before a single extra affordable home is gained **[^18i].**
+
+It is also very  that BL will build any affordable housing without the incentive of public funding.  They are already receiving £51.3m for the 233 homes pledged - an average of £220k and will no doubt want as least as much for anything in addition to this **[^19]**
 
 While the amount of surplus that go towards 
 
@@ -79,7 +81,7 @@ There is also a 40% cap on the amount of affordable housing, so no matter how mu
 
 ### The Mayor has made a bad decision
 
-The real fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify reducing the amount of affordable and family housing for an multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^18]**.  The Mayor has also left Southwark with little realistic chance of reaping the benefit of any economic improvement, because of teh terms of the  in the getting the benefits of 
+The real fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify reducing the amount of affordable and family housing for an multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^20]**.  The Mayor has also left Southwark with little realistic chance of reaping the benefit of any economic improvement, because of teh terms of the  in the getting the benefits of 
 
 and leaving us in practical terms with very lillte chance of improving
 
@@ -131,6 +133,12 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^17] One advantage of BL's preferred strategy for Southwark in 2019 would have been that 100% of any surplus, after viability was reached would have gone towards additional affordable housing.  This became 60% (after 16% GDV profit) in the actual planning permission and will remain 60% in the amended permission (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing. See Canada Water Masterplan, s106 Agreement, Sch 11. Pt 4, 2. Delivery Review, using ref 18/AP/ 1604 via [Southwark Council's planning register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning).  
 
-[^18] See Planning Statement Addendum, January 2025, DP9, 7.1.2, for completion date of 2033.
+[^18] REF NEEDED
+
+ **[^18i]** The Base Viability Assessment that is appended to the draft s106 agreement, with c9% affordable housing, gives a profit of£445.37m, measured as 7.47% GDV or 7.56% IRR.  A BNPP assessment gives profits of £1.061bn (16.14% GDV; 11.13% IRR), for a scheme with c3% affordable housing and £1.062bn (16.17%;11.17%IRR) for one with c6% affordable housing. 
+
+[^19] Para 393. The Mayor has made two grant awards for affordable housing, one of £7.55m, and a second of £43.75m. Southwark Council has also made a £35m contribution towards the leisure centre. Total contributions amount to £86.3m. See Canada Water Draft S106 DoV - Annex 3 Baseline Viability Appraisal. The BL representative at the application hearing gave an approximate construction cost of £500,000 per housing unit, which would mean that about two-thirds of the construction costs of the remaining 154 affordable homes are met from the public purse. The construction cost for the Leisure Centre, plus 'Grown Fees' is £9,700,000 (Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, pg 54, Financial Management Report 22.
+
+[^20] See Planning Statement Addendum, January 2025, DP9, 7.1.2, for completion date of 2033.
 
 The development was approved by planning committee in Sept 2019. The s106 agreement, sealing the planning permission, was signed in May 2020.  The scheme was implemented in Oct 2020. See Housing Statement Addendum and Financial Viability Assessment, Jan 2025 QUOD, 3.2, 3.5.  and Planning committee report, para 196,18/AP/1604, 25 & 30 Sept 2019 for anticipated completion of detailed plots of Phase 1.

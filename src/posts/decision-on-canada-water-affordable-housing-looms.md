@@ -59,21 +59,19 @@ The Canada Water scheme is probably the borough's biggest ever development schem
 
 BL's justification for going back on its word is twofold - part site-specific and part relating to the wider economic headwinds - but concluding with the usual developer complaint that what was promised is no longer 'viable'.  The site itself is constrained, BL say, because it must not impinge on important London views, limiting building heights and size; they also have a lot of upfront infrastruture costs, without the prospect of any immediate returns.  This may all be true, but it was equally true back in 2019, when BL nonetheless felt able to promise 35% affordable housing (when it needed to get planning permission).  
 
-But BL say what was possible in 2019 is not possiblenow, because building safety regulations are so much more onerous and the economic situation is worse than it has ever been **[^15]**.  Again, this may be true, but new safety regulations, and the second staircase requirement in particular, came about because of a sector wide failure to build homes that were safe for people to live in, demonstrated by the calamitous Grenfell fire. It is a measure of BL's true commitment to building places that are  *'the most sustainable to work, live and visit'* (as [their website boasts](https://www.britishland.com/about-us/)) that they are not only complaining about new regulations, but use them as a ready reason to build less affordable housing.
+But BL say what was possible in 2019 is not possible now, because building safety regulations are so much more onerous and the economic situation is worse than it has ever been **[^15]**.  Again, this may be true, but new safety regulations, and the second staircase requirement in particular, came about because of a sector wide failure to build homes that were safe for people to live in, demonstrated by the calamitous Grenfell fire. It is a measure of BL's true commitment to building places that are  *'the most sustainable to work, live and visit'* (as [their website boasts](https://www.britishland.com/about-us/)) that they are not only complaining about new regulations, but use them as a ready reason to build less affordable housing.
 
 ### ...BL give the game away...
 
-And in fact BL has never really wanted to commit to delivering either 35%, or any a fixed amount of affordable housing.  BNP Paribas' review of an early BL viability appraisal says *'..the Applicant's preferred strategy for the outline phases is to determine the level of affordable housing in the basis of a phased review mechanism'*.  This was BL's position in 2019, despite more favourable economic circumstances and predating the introduction of new building safety regulations **[^16]**.
+And in fact BL has never really wanted to commit to delivering either 35%, or any a fixed amount of affordable housing.  BNP Paribas' review of an early BL viability appraisal says *'..the Applicant's preferred strategy for the outline phases is to determine the level of affordable housing on the basis of a phased review mechanism'*.  This was BL's position in 2019, predating the introduction of new building safety regulations and despite the more favourable economic circumstances of the time **[^16]**.
 
-BNPP's comment on BL's aproach was that *'This could result in the outline parts of the scheme providing no affordable housing at all.*  BNPP further warned  the Council that *'..their lack of ability to negotiate the level of affordable housing at the review stages, as the review structure is likely to be formulaic'.*  Southwark evidently took heed of BNPP'S advice and only gave the original planning permission on the promise of 35% affordable housing.  Now though in 2026, after the Mayor's decision, BL have their *'preferred strategy'* in place and the only affordable housing that will come beyond 9% depends on viability reviews.  **[^17]**.   
+BNPP's comment on BL's 2019 aproach was that *'This could result in the outline parts of the scheme providing no affordable housing at all.*  BNPP further warned the Council that *'..their lack of ability to negotiate the level of affordable housing at the review stages, as the review structure is likely to be formulaic'.*  Southwark evidently took heed of BNPP'S advice and only gave the original planning permission on the promise of 35% affordable housing.  Now though in 2026, after the Mayor's decision, BL have their *'preferred strategy'* in place and the only affordable housing that will come beyond 9% depends on viability reviews.  **[^17]**.   
+
+But the real fault lies with the Mayor for  accepting that the circumstances of the moment, however bad they might appear, justify reducing the amount of affordable housing for a scheme , over many years, weathering different circumstances, is supposed to be BL's business
 
 
 
-
-
-Above all else building large schemes of this type, over many years, weathering different circumstances, is supposed to be BL's business 
-
-The real fault lies with the Mayor for foolishly accepting that the circumstances of the moment, however they might appear, justify reducing the amount of affordable houisng when 93% of Southwark households are eligible for affordable housing, even if they might not absolutley  depend on it.  IMAGE bar chart
+when 93% of Southwark households are eligible for affordable housing, even if they might not absolutley  depend on it.  IMAGE bar chart
 
 
 
@@ -105,7 +103,7 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^10] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 2.10
 
-[^11] We have faithfully reproduced what was claimed at the time, notwithstanding that there is an obvious discrepancy between the increase in social rent of 400 units, in the total rise from 2,000 to 3,000 total units, while there is only a rise of 100 social rent units in the rise from 3,000 to 4,000 total units.
+[^11] We have faithfully recorded what was claimed at the time, notwithstanding that there is an obvious discrepancy between the increase in social rent of 400 units, in the total rise from 2,000 to 3,000 total units, while there is only a rise of 100 social rent units in the rise from 3,000 to 4,000 total units.
 
 [^12] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
 

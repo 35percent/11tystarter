@@ -71,7 +71,7 @@ BNPP's comment on BL's 2019 aproach was that *'This could result in the outline 
 
 Apart from being formulaic and leaving Southwark (and the Mayor) with little negotiating power, there are furher limits to the possibility of additional affordable and family housing.  The reviews will only cover the residential element of the development, which is just 40% by floorspace, so any 
 
-The one advantage of BL's 2019 preferred strategy, that there would be no fixed proporion of affordable housing, was the offer that 100% of any surplus, after viability was reached, would have gone towards additional affordable housing.  But this advantage was lost and the reduced to 60% (after 16% GDV profit) by the time the original planning permission was awarded and remains 60% in the amended permission, but with a higher profit measure that looks as if  (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing.
+The one advantage of BL's 2019 preferred strategy, that there would be no fixed proporion of affordable housing, was the offer that 100% of any surplus, after viability was reached, would go towards additional affordable housing.  But this advantage was lost and the reduced to 60% (after 16% GDV profit) by the time the original planning permission was awarded and remains 60% in the amended permission, but with a higher profit measure that looks as if  (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing.
 
 There is also a 40% cap on the amount of affordable housing, so no matter how much money BL will mkae it 
 

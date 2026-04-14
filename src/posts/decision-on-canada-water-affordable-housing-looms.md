@@ -53,9 +53,13 @@ The Canada Water scheme is probably the borough's biggest ever development schem
 
 BL's justification for going back on its word is twofold - part site-specific and part relating to the wider economic headwinds - but concluding with the usual developer complaint that what was promised is no longer 'viable'.  The site itself is constrained, BL say, because it must not impinge on important London views, limiting building heights and size; they also have a lot of upfront infrastruture costs, without the prospect of any immediate returns.  This may all be true, but it was equally true back in 2019, when BL nonetheless felt able to promise 35% affordable housing (when it needed to get planning permission).  Now
 
-But BL say that this is no longer possible- building saferty regulations are so much more onerous and the economic situation is worse than it has ever been.  Again, this may be true, but new safety regulations, and the second staircase requirement in particular, came about because of a sector wide failure to build homes that were safe for people to live in, demonstrated by the calamitous Grenfell fire. It is a measure of BL's true commitment to building places that are  *'the most sustainable to work, live and visit'* (as [their website boasts](https://www.britishland.com/about-us/)) that they are not only complaining about new regulations, but use them as an excuse to build less affordable housing.
+But BL say that this is no longer possible- building safety regulations are so much more onerous and the economic situation is worse than it has ever been.  Again, this may be true, but new safety regulations, and the second staircase requirement in particular, came about because of a sector wide failure to build homes that were safe for people to live in, demonstrated by the calamitous Grenfell fire. It is a measure of BL's true commitment to building places that are  *'the most sustainable to work, live and visit'* (as [their website boasts](https://www.britishland.com/about-us/)) that they are not only complaining about new regulations, but use them as an excuse to build less affordable housing.
 
+In fact, BL has never really wanted to commit to delivering either 35%,  or any a fixed amount of affordable housing.  BNP Paribas' review of an early BL viability appraisal says '..the Applicant's preferred strategy for the outline phases is to determine the level of affordable housing in the basis of a phased review mechanism'.  This was in 2019, predating most of the current headwinds the building industry 
 
+BNPP note that 'This could result in the outline parts of the scheme providing no affordable housing at all'.  Southwark evidently took heed and only gave planning permission on the promise of 35% affordable housing.
+
+Now though in 2026, BNP have acheived their 'preferred strategy', by taking advantage of  
 
 BNPP Nov 2019.
 

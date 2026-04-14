@@ -85,23 +85,25 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 **[^5]** There was no requirement in the 2019/20 permission for three-bed plus housing in Zones B, C, D and F, with the requirement holding only for Zones E, G, H, J and L.  See Canada Water 18/AP/1604, s106, Annex 15. The amended application restricting family housing to affordale tenures will apply to all zones.  See [Canada Water Draft S106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf), Annex 2.
 
-[^5] Para 6 bullet 2, 2; [](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf) [Southwark Plan 2022](https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark%20Plan%202022%20reduced%201.pdf), Policy P2, New family homes, 1.1
+[^6] Para 6 bullet 2, 2; [](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf) [Southwark Plan 2022](https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark%20Plan%202022%20reduced%201.pdf), Policy P2, New family homes, 1.1
 
-[^6] The figures are given in various parts of the [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf) [](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf)para 2ii - 150 units from next tranche of 1,000 homes; para 10, bullet nine - 79 social rent from Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase. 
+[^7] The figures are given in various parts of the [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf) [](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf)para 2ii - 150 units from next tranche of 1,000 homes; para 10, bullet nine - 79 social rent from Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase. 
 
-[^7] The amount of affordable housing due is calculated using habitable rooms.  This gives a more accurate percentage figure, but results in fewer affordable homes than a calculation based on units, because they have more habitable rooms per unit.
+[^8] The amount of affordable housing due is calculated using habitable rooms.  This gives a more accurate percentage figure, but results in fewer affordable homes than a calculation based on units, because they have more habitable rooms per unit.
 
-[^7i] [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
+[^9] [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
 
-[^7ii] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 2.10
+[^10] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 2.10
 
-[^7iii] We have faithfully reproduced what was claimed at the time, notwithstanding that there is an obvious discrepancy between the increase in social rent of 400 units, in the total rise from 2,000 to 3,000 total units, while there is only a rise of 100 social rent units in the rise from 3,000 to 4,000 total units.
+[^11] We have faithfully reproduced what was claimed at the time, notwithstanding that there is an obvious discrepancy between the increase in social rent of 400 units, in the total rise from 2,000 to 3,000 total units, while there is only a rise of 100 social rent units in the rise from 3,000 to 4,000 total units.
 
-[^8] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
+[^12] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
 
-[^9] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
+[^13] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
 
-[^16] Para 390
+[^14] Para 390
+
+\----------------------------------------------------------------------------------------------------------------
 
 [^17] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 1.6, 1.7.
 

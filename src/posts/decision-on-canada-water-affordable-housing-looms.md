@@ -57,11 +57,9 @@ BL's justification for going back on its word is twofold - part site-specific an
 
 But BL say that this is no longer possible- building safety regulations are so much more onerous and the economic situation is worse than it has ever been **[^15]**.  Again, this may be true, but new safety regulations, and the second staircase requirement in particular, came about because of a sector wide failure to build homes that were safe for people to live in, demonstrated by the calamitous Grenfell fire. It is a measure of BL's true commitment to building places that are  *'the most sustainable to work, live and visit'* (as [their website boasts](https://www.britishland.com/about-us/)) that they are not only complaining about new regulations, but use them as a ready reason to build less affordable housing.
 
-And in fact, BL has never really wanted to commit to delivering either 35%, or any a fixed amount of affordable housing.  BNP Paribas' review of an early BL viability appraisal says '..the Applicant's preferred strategy for the outline phases is to determine the level of affordable housing in the basis of a phased review mechanism'.  This was BL's position under the more favourable economic circumstances of 2019,  and predating the introduction of new building safety regulations.
+And in fact BL has never really wanted to commit to delivering either 35%, or any a fixed amount of affordable housing.  BNP Paribas' review of an early BL viability appraisal says *'..the Applicant's preferred strategy for the outline phases is to determine the level of affordable housing in the basis of a phased review mechanism'*.  This was BL's position under the more favourable economic circumstances of 2019,  and predating the introduction of new building safety regulations **[^16]**.
 
-BNPP note that 'This could result in the outline parts of the scheme providing no affordable housing at all'.  Southwark evidently took heed and only gave planning permission on the promise of 35% affordable housing.
-
-Now though in 2026, BNP have acheived their 'preferred strategy', by taking advantage of  
+BNPP note that *'This could result in the outline parts of the scheme providing no affordable housing at all'*.  Southwark evidently took heed and only gave planning permission on the promise of 35% affordable housing.  Now though in 2026, BL have their *'preferred strategy'* in place - the only affordable housing we will get beyond 9%, depends on viability reviews,   
 
 BNPP Nov 2019.
 
@@ -110,3 +108,5 @@ BL pitched unconventional housing as being affordable housing in their original 
 [^14] Para 390
 
 [^15] The industry perspective can be found here - [London’s Homebuilding Crisis: Why Has Building in London Stalled?](<https://www.montagu-evans.co.uk/research/londons-homebuilding-crisis-why-has-building-in-london-stalled/#:~:text=1)%20Viability%20is%20severely%20challenged,headroom%20into%20estimates%20and%20prices.>).
+
+[^16] The second staircase requirement was introduced for London in Feb 2023.  The new[ Gateway 1 building regulation](https://www.gov.uk/guidance/fire-safety-and-high-rise-residential-buildings-from-1-august-2021) was introduced in August 2021.  [Gateways 2 and 3](https://brodies.com/insights/construction-and-engineering/everything-you-need-to-know-about-the-new-building-safety-gateway-regime/#:~:text=On%201%20October%202023%2C%20the,some%20clarity%20on%20those%20issues.) came into force on Oct 2023

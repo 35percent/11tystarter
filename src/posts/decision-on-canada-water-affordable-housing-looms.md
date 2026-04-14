@@ -63,15 +63,17 @@ But BL say what was possible in 2019 is not possible now, because building safet
 
 ### ...BL give the game away...
 
-And in fact BL has never really wanted to commit to delivering either 35%, or any a fixed amount of affordable housing.  BNP Paribas' review of an early BL viability appraisal says *'..the Applicant's preferred strategy for the outline phases is to determine the level of affordable housing on the basis of a phased review mechanism'*.  This was BL's position in 2019, predating the introduction of new building safety regulations and despite the more favourable economic circumstances of the time **[^16]**.
+And in fact BL has never really wanted to commit to delivering either 35%, or any a fixed amount of affordable housing.  BNP Paribas' appraisal of an early BL viability review says *'..the Applicant's preferred strategy for the outline phases is to determine the level of affordable housing on the basis of a phased review mechanism'*.  This was BL's position in 2019, predating the introduction of new building safety regulations and despite the more favourable economic circumstances of the time **[^16]**.
 
 BNPP's comment on BL's 2019 aproach was that *'This could result in the outline parts of the scheme providing no affordable housing at all'.*  BNPP further warned the Council that *'..their lack of ability to negotiate the level of affordable housing at the review stages, as the review structure is likely to be formulaic'.*  Southwark evidently took heed of BNPP'S advice and only gave the original planning permission on the promise of 35% affordable housing.  Now though in 2026, after the Mayor's decision, BL have their *'preferred strategy'* in place and the only affordable housing that will come beyond 9% depends on viability reviews.  **[^17]**.
 
 ### ...but stengthen their grip...   
 
-Apart from being formulaic and leaving Southwark (and the Mayor) with little negotiating power, there are furher limits to the possibility of additional affordable and family housing.  The reviews will only cover the residential element of the development, which is just 40% by floorspace, so any 
+Apart from leaving Southwark (and the Mayor) with little negotiating power, the formulaic nature of the reviews strictly limit the possibility of additional affordable and family housing.  Firstly, the reviews will only cover the residential element of the development, which is just 40% by floorspace, so any uplift in the value and profit of the non-residential part of the development will not be captured...will not count.  Secondly, the amount of additional affordable housing is capped at 40% - just 5% more than the minimum required by the Southwark Plan, and 10% below both the Mayor's and Southwark's strategic affordable housing target \[REF]
 
 The one advantage of BL's 2019 preferred strategy, that there would be no fixed proporion of affordable housing, was the offer that 100% of any surplus, after viability was reached, would go towards additional affordable housing.  But this advantage was lost and the reduced to 60% (after 16% GDV profit) by the time the original planning permission was awarded and remains 60% in the amended permission, but with a higher profit measure that looks as if  (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing.
+
+While the amount of surplus that go towards 
 
 There is also a 40% cap on the amount of affordable housing, so no matter how much money BL will mkae it 
 

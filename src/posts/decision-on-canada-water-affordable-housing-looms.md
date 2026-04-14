@@ -71,13 +71,17 @@ BNPP's comment on BL's 2019 aproach was that *'This could result in the outline 
 
 Apart from being formulaic and leaving Southwark (and the Mayor) with little negotiating power, the review conditions limit the possibility of additional affordable and family housing.  The reviews will only cover the residential element of the development, which is just 40% by floorspace, so any 
 
-The one advantage of BL's 2019 preferred strategy, of no fixed proporion of affordable housing, was the offer that 100% of any surplus, after viability was reached, would have gone towards additional affordable housing.  This was reduced to 60% (after 16% GDV profit) by the time the original planning permission was awarded and remains 60% in the amended permission, but with a higher profit measure that looks as if  (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing.
+The one advantage of BL's 2019 preferred strategy, that there would be no fixed proporion of affordable housing, was the offer that 100% of any surplus, after viability was reached, would have gone towards additional affordable housing.  But this advantage was lost and the reduced to 60% (after 16% GDV profit) by the time the original planning permission was awarded and remains 60% in the amended permission, but with a higher profit measure that looks as if  (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing.
+
+There is also a 40% cap on the amount of affordable housing, so no matter how much money BL will mkae it 
 
 ### The Mayor has made a bad decision
 
 The real fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify reducing the amount of affordable and family housing for an multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^18]**.  The Mayor has also left Southwark with little realistic chance of reaping the benefit of any economic improvement, because of teh terms of the  in the getting the benefits of 
 
-and leaving us in practical terms with very lillte chance of improving  
+and leaving us in practical terms with very lillte chance of improving
+
+40% cap makes a complete nonsence of the 50% strategic target (London Plan and Southwark Plan)  
 
 when 93% of Southwark households are eligible for affordable housing, even if they might not absolutley  depend on it.  IMAGE bar chart
 

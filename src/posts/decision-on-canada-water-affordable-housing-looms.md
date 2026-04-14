@@ -65,15 +65,23 @@ But BL say what was possible in 2019 is not possible now, because building safet
 
 And in fact BL has never really wanted to commit to delivering either 35%, or any a fixed amount of affordable housing.  BNP Paribas' review of an early BL viability appraisal says *'..the Applicant's preferred strategy for the outline phases is to determine the level of affordable housing on the basis of a phased review mechanism'*.  This was BL's position in 2019, predating the introduction of new building safety regulations and despite the more favourable economic circumstances of the time **[^16]**.
 
-BNPP's comment on BL's 2019 aproach was that *'This could result in the outline parts of the scheme providing no affordable housing at all.*  BNPP further warned the Council that *'..their lack of ability to negotiate the level of affordable housing at the review stages, as the review structure is likely to be formulaic'.*  Southwark evidently took heed of BNPP'S advice and only gave the original planning permission on the promise of 35% affordable housing.  Now though in 2026, after the Mayor's decision, BL have their *'preferred strategy'* in place and the only affordable housing that will come beyond 9% depends on viability reviews.  **[^17]**.   
+BNPP's comment on BL's 2019 aproach was that *'This could result in the outline parts of the scheme providing no affordable housing at all'.*  BNPP further warned the Council that *'..their lack of ability to negotiate the level of affordable housing at the review stages, as the review structure is likely to be formulaic'.*  Southwark evidently took heed of BNPP'S advice and only gave the original planning permission on the promise of 35% affordable housing.  Now though in 2026, after the Mayor's decision, BL have their *'preferred strategy'* in place and the only affordable housing that will come beyond 9% depends on viability reviews.  **[^17]**.
 
-But the real fault lies with the Mayor for  accepting that the circumstances of the moment, however bad they might appear, justify reducing the amount of affordable housing for a scheme , over many years, weathering different circumstances, is supposed to be BL's business
+### ...but stengthen their grip...   
 
+Apart from being formulaic and leaving Southwark (and the Mayor) with little negotiating power, the review conditions limit the possibility of additional affordable and family housing.  The reviews will only cover the residential element of the development, which is just 40% by floorspace, so any 
 
+The one advantage of BL's 2019 preferred strategy, of no fixed proporion of affordable housing, was the offer that 100% of any surplus, after viability was reached, would have gone towards additional affordable housing.  This was reduced to 60% (after 16% GDV profit) by the time the original planning permission was awarded and remains 60% in the amended permission, but with a higher profit measure that looks as if  (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing.
+
+### The Mayor has made a bad decision
+
+The real fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify reducing the amount of affordable and family housing for an multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^18]**.  The Mayor has also left Southwark with little realistic chance of reaping the benefit of any economic improvement, because of teh terms of the  in the getting the benefits of 
+
+and leaving us in practical terms with very lillte chance of improving  
 
 when 93% of Southwark households are eligible for affordable housing, even if they might not absolutley  depend on it.  IMAGE bar chart
 
-
+Canada Water is due for completion by 2033, but Phase 1, a fraction of the whole and due by 2023, is only just completing, making the 2033 finish date optimistic. 
 
 \--------------------------------------------------------------------------------------------------------------------
 
@@ -115,4 +123,8 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^16] The second staircase requirement was introduced for London in Feb 2023.  The new[ Gateway 1 building regulation](https://www.gov.uk/guidance/fire-safety-and-high-rise-residential-buildings-from-1-august-2021) was introduced in August 2021.  [Gateways 2 and 3](https://brodies.com/insights/construction-and-engineering/everything-you-need-to-know-about-the-new-building-safety-gateway-regime/#:~:text=On%201%20October%202023%2C%20the,some%20clarity%20on%20those%20issues.) came into force on Oct 2023.
 
-[^17] One advantage of BL's preferred strategy for Southwark in 2019 would have been that 100% of any surplus, after viability was reached would have gone towards additional affordable housing.  This became 60% (after 16% GDV profit) in the actual planning permission and will remain 60% in the amended permission (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing. See Canada Water Masterplan, s106 Agreement, Sch 11. Pt 4, 2. Delivery Review, using ref 18/AP/ 1604 via [Southwark Council's planning register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning).
+[^17] One advantage of BL's preferred strategy for Southwark in 2019 would have been that 100% of any surplus, after viability was reached would have gone towards additional affordable housing.  This became 60% (after 16% GDV profit) in the actual planning permission and will remain 60% in the amended permission (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing. See Canada Water Masterplan, s106 Agreement, Sch 11. Pt 4, 2. Delivery Review, using ref 18/AP/ 1604 via [Southwark Council's planning register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning).  
+
+[^18] See Planning Statement Addendum, January 2025, DP9, 7.1.2, for completion date of 2033.
+
+The development was approved by planning committee in Sept 2019. The s106 agreement, sealing the planning permission, was signed in May 2020.  The scheme was implemented in Oct 2020. See Housing Statement Addendum and Financial Viability Assessment, Jan 2025 QUOD, 3.2, 3.5.  and Planning committee report, para 196,18/AP/1604, 25 & 30 Sept 2019 for anticipated completion of detailed plots of Phase 1.

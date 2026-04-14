@@ -102,35 +102,3 @@ BL pitched unconventional housing as being affordable housing in their original 
 [^13] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
 
 [^14] Para 390
-
-\----------------------------------------------------------------------------------------------------------------
-
-[^17] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 1.6, 1.7.
-
-[^18] After the development was approved by planning committee in Sept 2019, the s106 agreement, sealing planning permission, was signed in May 2020; implementation of the development was in Oct 2020.  See Housing Statement Addendum and Financial Viability Assessment, Jan 2025 QUOD, 3.2, 3.5.  See Planning Statement Addendum, January 2025, DP9, 7.1.2, for completion date of 2033 and [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), para 196,18/AP/1604, 25 & 30 Sept 2019 for anticipated completion of detailed plots of Phase 1.
-
- [^19] Para 2ii
-
-[^20] In fact the amount of affordable housing is only 17% of the next tranche of 1,000 homes, when calculated by habitable room, but the GLA counts it as 20% because it is all delivered as social rented, rather than in the policy compliant mix of 70:30 social rent;intermediate housing.  The GLA arrives at the 17%-20% equivalence by comparing the development value of a policy compliant affordable housing offer with that where all the afforable houisng is social rent. The  
-
-[^9iii] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf), para 208.  Paragraph 59 of the NPPF states: *“The weight to be given to a viability assessment is a matter for the decision maker, having regard to all the circumstances in the case, including whether the plan and the viability evidence underpinning it is up to date, and any change in site circumstances since the plan was brought into force. All viability assessments, including any undertaken at the plan-making stage, should reflect the recommended approach in the National Planning Practice Guidance, including standardised inputs, and should be made publicly available.”*
-
-\------------------------------------------------------------------------------------------------------------------
-
-^x REF Housing Statement Addendum Sept 2025.  All planning documents for the application can be found via Southwark Council's [Planning Register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning), by entering the planning reference number 24/AP/0242.  The reference for the original planning permission documents is 18/AP/1640
-
-^x GLA Stage 1 report, 24/AP/0242, 15 Sept 2025, paras 10, 32
-
-^x Planning Statement Addendum Sept 2025, 1.6, 1.7.
-
-^x  Calculated from GLA Stage 1 report , 24/AP/0242, 15 Sept 2025, paras 8, 11.  Total development floorspace cap increased from 656,200sq.m. to 766,148sq.m. Residential floorspace cap increased from 331,500sq.m. to 472,600sq.m.  Introduction of Co-Living (Sui Generis) accommodation. Increase in the hotel land use cap from 7,500sq.m. to 16,500sq.m. Increase in the extent of basement footprint for Zone D and Zone H. 
-
-^x Planning Statement Addendum, Jan 2025, 2.1.8
-
-^x IRR is the 'Internal Rate of Return', an alternative to using a percentage of the Gross Development Value (GDV) to measure profit, which takes account of cash flow.  REF - 4.1 ETC
-
-^x 16% GDV REF
-
-<https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing>
-
-<https://data.london.gov.uk/dataset/canada-water-masterplan-hearing-documents-2z18q/>

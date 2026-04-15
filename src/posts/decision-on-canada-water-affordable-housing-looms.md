@@ -13,7 +13,9 @@ Working out just how many affordable and family homes have been lost by the Mayo
 
 BL's amended application also goes beyond reducing the number of affordable homes, by also adding to the types of housing that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation.  Co-living is a new type of shared-living accommodation, similar to student housing, but aimed at professional singles and couples. If the maximum allowed amount of student and co-living accommodation is built it will account for nearly 20% of the total residential floorspace **[^3].**  Assisted living accommodation and key worker housing is also permitted**[^4]**.
 
-In addition, the mix of dwelling size has been further restricted to favour smaller homes, punishing family housing (three-bed plus).  In their original permission BL had already been allowed four 'family housing free' zones **[^5]**. This restriction has been extended across the entire development for market housing - there will be no obligation on BL to build market two-bed plus or three-bed plus homes, despite the Southwark Plan requiring at least 60% of the former and 20% of the latter.  
+In addition, the mix of dwelling size has been further restricted to favour smaller homes, punishing family housing (three-bed plus).  The original permission already allowed BL four 'family housing free' zones, with no obligation to build three, four or five bedrooms in Zones B,C,D,F  **[^5]**. The amended permission goes further, requiring no family housing across the entire site, other than as a proportion of affordable housing (of which there will be very little, as we show, below).
+
+is has been extended across the entire development for market housing - despite the Southwark Plan requiring at least 60% of the former and 20% of the latter.  
 
 This is of a piece with their off_hand dismissal of family housing because there is noNo demand for family housing SCHMAA
 

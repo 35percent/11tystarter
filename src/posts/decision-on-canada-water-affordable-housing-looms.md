@@ -79,7 +79,7 @@ It is also very  that BL will build any affordable housing without the incentive
 
 ### The Mayor has made a bad decision
 
-BL have taken full advantage of the current adverse economic condicitions to push much of th cost onto the shoulders  The real fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify reducing the amount of affordable and family housing for an multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^20]**.  The Mayor has also left Southwark with little realistic chance of reaping the benefit of any economic improvement, because of teh terms of the  in the getting the benefits of 
+BL have taken full advantage of the current adverse economic condicitions to push back   th cost onto the shoulders  The real fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify reducing the amount of affordable and family housing for an multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^20]**.  The Mayor has also left Southwark with little realistic chance of reaping the benefit of any economic improvement, because of teh terms of the  in the getting the benefits of 
 
 and leaving us in practical terms with very lillte chance of improving
 

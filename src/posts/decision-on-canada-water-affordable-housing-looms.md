@@ -31,8 +31,6 @@ We can also use BL's own figures.  Based on a total of around 3,000 homes, BL sa
 
 Deducting the 233 social rented homes under the new permission from the promised social rent numbers gives various losses, depending on the total number of homes built - 267 lost, if 2,000 homes in total built; 667 lost, if 3,000 homes built, 767 lost if 4,000 built **[^12]**.  The actual loss will probably be at the higher end of the scale, given that BL are likely to build to the maximum number of homes allowed.
 
-
-
 ![](img/table_loss_of_affordable_housing_100426.png)
 
 ### More floorspace, but not many more homes
@@ -91,8 +89,6 @@ All this means Southwark Council must not give up the fight.  BL's amendment is 
 
 \[IMAGE 93% bar chart]
 
-
-
 \--------------------------------------------------------------------------------------------------------------------
 
 **Footnotes**
@@ -129,7 +125,7 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 
 [^12] We have reported what was claimed at the time, notwithstanding that there is an obvious discrepancy between the increase in social rent of 400 units, in the total rise from 2,000 to 3,000 total units, while there is only a rise of 100 social rent units in the rise from 3,000 to 4,000 total units.
 
-[^13] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
+[^13] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf) The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm (Para 25); zonal total exceeds scheme total (Para 26); removal of zonal use limits (Para 183).
 
 [^14] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
 

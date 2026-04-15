@@ -77,13 +77,9 @@ Thirdly, Southwark will only get 60% of any surplus for additional affordable ho
 
 It is also very  that BL will build any affordable housing without the incentive of public funding.  They are already receiving £51.3m for the 233 homes pledged - an average of £220k and will no doubt want as least as much for anything in addition to this **[^19]**
 
-While the amount of surplus that go towards 
-
-There is also a 40% cap on the amount of affordable housing, so no matter how much money BL will mkae it 
-
 ### The Mayor has made a bad decision
 
-BL have taken full advantage of the current adverse ecom=nomic condicitions to push much of teh cost onto the shoulders  The real fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify reducing the amount of affordable and family housing for an multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^20]**.  The Mayor has also left Southwark with little realistic chance of reaping the benefit of any economic improvement, because of teh terms of the  in the getting the benefits of 
+BL have taken full advantage of the current adverse economic condicitions to push much of th cost onto the shoulders  The real fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify reducing the amount of affordable and family housing for an multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^20]**.  The Mayor has also left Southwark with little realistic chance of reaping the benefit of any economic improvement, because of teh terms of the  in the getting the benefits of 
 
 and leaving us in practical terms with very lillte chance of improving
 

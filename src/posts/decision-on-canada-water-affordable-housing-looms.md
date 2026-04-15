@@ -83,13 +83,13 @@ It is also very unlikely that BL will build any additional affordable housing wi
 
 It is not surprising that BL have responded to the current bad economic conditions and the costs of new safety regulations, by building bigger and higher, and shedding affordable and family housing.  The fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify these reductions. Canada Water is a multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^20]**.  Any reduction in affordable housing, if needed at all, should be short term.  That is the aim of the Mayor's 'emergency measures', which have just cut the affordable housing requirement to 20% for two years.  This is supposed to unlock 'stalled schemes', like Canada Water, but if it does so, the price will be a permanent loss of affordable and family housing 
 
-BL are also able to get a greater cut to 9% by taking full advantage of viability assessments.  These not only reduce affordable housing, but have left Southwark with little realistic chance of reaping the benefit of any economic improvement.
+BL are also able to get a greater cut to 9% by taking full advantage of viability assessments.  These not only reduce affordable housing, but have left Southwark with little realistic chance of reaping the benefit of any economic improvement, by way of viability reviews.
 
-This does not mean that Southwark should give up the fight.  BL's amendment is to the outline part of a hybrid planning permission and there will now be several more detailed planning applications, with the first including the 150 or so social rented homes that BL have committed to.  Southwark Council must make it clear that this is not enough and that it expects the 35% affordable housing BL promised back in 2019.  
+The impact of these losses is made stark by the fact that 93% of Southwark households are eligible for affordable housing, or put another way, only 7% can fully afford the free-market housing which makes up nearly everyting BL will be building on Canada Water.
 
-affordable 
+All this means Southwark Council must not give up the fight.  BL's amendment is to the outline part of a hybrid planning permission and there will now be several more detailed planning applications, with the first including the 150 or so social rented homes that BL have committed to.  Southwark Council must make it clear that this is not enough and that it expects the 35% affordable housing BL promised back in 2019.  
 
-when 93% of Southwark households are eligible for affordable housing, even if they might not absolutley  depend on it.  IMAGE bar chart
+\[IMAGE 93% bar chart]
 
 
 

@@ -13,9 +13,9 @@ Working out just how many affordable and family homes have been lost by the Mayo
 
 BL's amended application also goes beyond reducing the number of affordable homes, by also adding to the types of housing that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation.  Co-living is a new type of shared-living accommodation, similar to student housing, but aimed at professional singles and couples. If the maximum allowed amount of student and co-living accommodation is built it will account for nearly 20% of the total residential floorspace **[^3].**  Assisted living accommodation and key worker housing is also permitted**[^4]**.
 
-In addition, the mix of dwelling size has been further restricted to favour smaller homes, punishing family housing (three-bed plus).  The original permission already allowed BL four 'family housing free' zones, with no obligation to build three, four or five bedrooms in Zones B,C,D,F  **[^5]**. The amended permission goes further, requiring no family housing across the entire site, other than as a proportion of affordable housing (of which there will be very little, as we show, below).
+In addition, the mix of dwelling size has been further restricted to favour smaller homes, punishing family housing (three-bed plus).  The original permission already allowed BL four 'family housing free' zones, with no obligation to build three, four or five bedrooms in Zones B,C,D,F  . The amended permission goes further, requiring no family housing across the entire site, other than as a proportion of affordable housing (of which there will be very little, as we show, below)**[^5]**.
 
-is has been extended across the entire development for market housing - despite the Southwark Plan requiring at least 60% of the former and 20% of the latter.  
+BL justify this in a dismissive short sentence - is has been extended across the entire development for market housing - despite the Southwark Plan requiring at least 60% of the former and 20% of the latter.  
 
 This is of a piece with their off_hand dismissal of family housing because there is noNo demand for family housing SCHMAA
 
@@ -111,7 +111,7 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^4] Para 183, 207.
 
-**[^5]** There was no requirement in the 2019/20 permission for three-bed plus housing in Zones B, C, D and F, with the requirement holding only for Zones E, G, H, J and L.  See Canada Water 18/AP/1604, s106, Annex 15. The amended application restricting family housing to affordale tenures will apply to all zones.  See [Canada Water Draft S106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf), Annex 2.
+**[^5]** the development is divided into thirteen development zones, nine of which have housing; see Canada Water 18/AP/1604, s106, Annex 15. The amended application restricting family housing to affordale tenures will apply to all zones; see [Canada Water Draft S106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf), Annex 2.
 
 [^6] Para 6 bullet 2, 2; [](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf) [Southwark Plan 2022](https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark%20Plan%202022%20reduced%201.pdf), Policy P2, New family homes, 1.1
 

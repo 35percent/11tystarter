@@ -67,7 +67,7 @@ BNPP said that BL's approach *'....could result in the outline parts of the sche
 
 \[SCREENSHOT - BNPP Quote]
 
-### ...but stengthen their grip...
+### ...but strengthen their grip...
 
 There is little hope that we will see much improvement in affordable housing from these reviews.  Apart from leaving Southwark (and the Mayor) with little negotiating power, their formulaic nature, as BNPP warned, strictly limits the possibility of additional affordable and family housing.  
 

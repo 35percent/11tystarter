@@ -17,7 +17,7 @@ In addition, the mix of dwelling size has been further restricted to favour smal
 
 This major departure from Southwark's planning policy (which requires at least 20% family homes) is dismissed in a half-sentence by the GLA, who say it is justified because BL *'has identified insufficient demand'* **[^5i].**
 
-Any balance in the mix of dwelling sizes is also tipped firmly towards smaller housing by BL retaining the original permission for 10% studio flats; all these must be free-market, but will, nonetheless, also be twice the Southwark Plan limit of 5% [**^6]**.
+Any balance in the mix of dwelling sizes is also tipped firmly towards smaller housing by BL retaining the original permission for 10% studio flats; all these must be free-market, but will, nonetheless, also be twice the Southwark Plan limit of 5% \[\*\*^6]\*\*.
 
 ![](img/family_housing_image_100426.png)
 
@@ -75,11 +75,15 @@ First, the reviews will only cover the residential element of the development, w
 
 Thirdly, Southwark will only get 60% of any surplus for additional affordable housing, with 40% remaining with BL. Fourth, there will be no surplus until BL hit their profit target.  The target under the original planning permission was 16% GDV (Gross Development Value), now amended to 15% IRR (Internal Rate of Return). This looks lower at first glance, but a close look at the figures shows that this is probably not so, and that **BL will make at least £1bn in profit** before they are required to provide for a single extra affordable home **[^18i].**
 
-It is also very  that BL will build any affordable housing without the incentive of public funding.  They are already receiving £51.3m for the 233 homes pledged - an average of £220k and will no doubt want as least as much for anything in addition to this **[^19]**
+It is also very unlikely that BL will build any additional affordable housing without the incentive of public funding.  They are already receiving £51.3m for the 233 homes pledged - an average of £220k per home - and will no doubt want as least as much for anything more **[^19].**
 
-### The Mayor has made a bad decision
+### The Mayor has made the wrong decision
 
-BL have taken full advantage of the current adverse economic condicitions to push back   th cost onto the shoulders  The real fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify reducing the amount of affordable and family housing for an multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^20]**.  The Mayor has also left Southwark with little realistic chance of reaping the benefit of any economic improvement, because of teh terms of the  in the getting the benefits of 
+It is not surprising that BL have responded to the current bad economic conditions and the costs of new safety regulations, by building bigger and higher, and shedding affordable and family housing.  The fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify these reductions. Canada Water is a multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^20]**.  Any reduction in affordable housing, if needed at all, should be short term.  That supposedly is the aim of the Mayor's 'emergency measures', which have cut the affordable housing requirement to 20%, but are time limited to two years.  , but the benefit to BL will be permanent as will the loss of affordable housing The concessions he has made to BL are permanent 
+
+BL are able to get a greater cut to 9% by taking full advantage of viability assessments.  These not only reduce affordable housing, but also leave Southwark with little realistic chance of reaping the benefit of any economic improvement, because of the their terms.
+
+The am
 
 and leaving us in practical terms with very lillte chance of improving
 

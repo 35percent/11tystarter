@@ -69,11 +69,11 @@ BNPP said that BL's approach *'....could result in the outline parts of the sche
 
 ### ...but stengthen their grip...
 
-There is little hope that we will see much improvement in afforable housing from these reviews.  Apart from leaving Southwark (and the Mayor) with little negotiating power,their formulaic nature, as BNPP warned, strictly limits the possibility of additional affordable and family housing.  
+There is little hope that we will see much improvement in affordable housing from these reviews.  Apart from leaving Southwark (and the Mayor) with little negotiating power,their formulaic nature, as BNPP warned, strictly limits the possibility of additional affordable and family housing.  
 
 Firstly, the reviews will only cover the residential element of the development, which is less than half the floorspace, so any uplift in the value and profit of the non-residential part of the development will not be captured.  Secondly, the amount of additional affordable housing is capped at 40% - just 5% more than the minimum required by the Southwark Plan, and 10% below both the Mayor's and Southwark's strategic affordable housing target **[^18].**
 
-There was one advantage to Southwark of BL's 2018 preferred strategy, which was the offer that 100% of any surplus would go towards additional affordable housing, after viability was reached.  But this benefit was lost and the amount reduced to 60% (after a profit target was met) by the time the original planning permission was awarded in 2019/20.  It remains 60% in the amended permission, but with a higher profit target, before it can be claimed; instead of 16% GDV, it will be 15% IRR, which looks lower, but because it is a different measure (IRR instead of GDV) is **likely to require a profit of over £1bn**, before a single extra affordable home is gained **[^18i].**
+There was one advantage of BL's 2018 preferred strategy to Southwark, that 100% of any surplus would go towards additional affordable housing, after viability was reached.  But this benefit was lost by the time the original planning permission was awarded and the proportion of the surplus going towards affordable housing was reduced to 60%.  It remains 60% in the amended permission, but with a different viability measure.  The original profit hurdle for a vaible development was 16%  or profit hurdle; the original , before it can be claimed; instead of 16% GDV, it will be 15% IRR, which looks lower, but because it is a different measure (IRR instead of GDV) is **likely to require a profit of over £1bn**, before a single extra affordable home is gained **[^18i].**
 
 It is also very  that BL will build any affordable housing without the incentive of public funding.  They are already receiving £51.3m for the 233 homes pledged - an average of £220k and will no doubt want as least as much for anything in addition to this **[^19]**
 
@@ -141,7 +141,7 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 
 [^17] One advantage of BL's preferred strategy for Southwark in 2019 would have been that 100% of any surplus, after viability was reached would have gone towards additional affordable housing.  This became 60% (after 16% GDV profit) in the actual planning permission and will remain 60% in the amended permission (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing. See Canada Water Masterplan, s106 Agreement, Sch 11. Pt 4, 2. Delivery Review, using ref 18/AP/ 1604 via [Southwark Council's planning register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning).  
 
-[^18] REF NEEDED
+[^18] REF NEEDED.  The one concession the GLA refused to make - BL wanted 17.5% IRR. See frat HoTs
 
  **[^18i]** The Base Viability Assessment that is appended to the draft s106 agreement, with c9% affordable housing, gives a profit of£445.37m, measured as 7.47% GDV or 7.56% IRR.  A BNPP assessment gives profits of £1.061bn (16.14% GDV; 11.13% IRR), for a scheme with c3% affordable housing and £1.062bn (16.17%;11.17%IRR) for one with c6% affordable housing. 
 

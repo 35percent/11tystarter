@@ -101,9 +101,9 @@ Unless stated otherwise all references are to [GLA Stage 3 report](https://data.
 
 [^1] [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
 
-[^2] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf) para 2i. (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026).
+[^2] [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf) para 2i. 
 
-[^3] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 29.  Total residential 472,000sqm, including co-living up 50,000sqm maximum co-living floorspace, according to footnote.  Maximum student floorspace also 50,000sqm, giving total co-living/student floorspace of 100,000sm divided into total residential 472,000sqm, giving 19.12%.
+[^3] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 29.  Total residential 472,000sqm, including co-living up to 50,000sqm maximum floorspace, according to footnote.  Maximum student floorspace of 50,300sqm, giving total co-living/student floorspace of 100,300sm divided by total residential floorspace of 472,000sqm, giving 21.25%.
 
 BL pitched unconventional housing as being affordable housing in their original application, in a list including 'Southwark target rent', but also eight other different 'affordable' tenures, including 'Retirement rent', 'Shared accommodation' and 'Retired shared-equity' - Quod, Financial Viability Assesssment, Clarification Note 3, Fig 1, Nov 2018).
 

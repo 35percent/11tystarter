@@ -69,11 +69,11 @@ BNPP said that BL's approach *'....could result in the outline parts of the sche
 
 ### ...but stengthen their grip...
 
-There is little hope that we will see much improvement in affordable housing from these reviews.  Apart from leaving Southwark (and the Mayor) with little negotiating power,their formulaic nature, as BNPP warned, strictly limits the possibility of additional affordable and family housing.  
+There is little hope that we will see much improvement in affordable housing from these reviews.  Apart from leaving Southwark (and the Mayor) with little negotiating power, their formulaic nature, as BNPP warned, strictly limits the possibility of additional affordable and family housing.  
 
-Firstly, the reviews will only cover the residential element of the development, which is less than half the floorspace, so any uplift in the value and profit of the non-residential part of the development will not be captured.  Secondly, the amount of additional affordable housing is capped at 40% - just 5% more than the minimum required by the Southwark Plan, and 10% below both the Mayor's and Southwark's strategic affordable housing target **[^18].**
+First, the reviews will only cover the residential element of the development, which is less than half the floorspace, so any uplift in the value and profit of the non-residential part of the development will not be captured.  Secondly, the amount of additional affordable housing is capped at 40% - just 5% more than the minimum required by the Southwark Plan, and 10% below both the Mayor's and Southwark's strategic affordable housing target **[^18].**
 
- It remains 60% in the amended permission, but with a different viability measure.  The original profit hurdle for a vaible development was 16%  or profit hurdle; the original , before it can be claimed; instead of 16% GDV, it will be 15% IRR, which looks lower, but because it is a different measure (IRR instead of GDV) is **likely to require a profit of over £1bn**, before a single extra affordable home is gained **[^18i].**
+Thirdly, Southwark will only get 60% of any surplus for additional affordable housing, with 40% remaining with BL. Fourth, there will be no surplus until BL hit their profit target.  The target under the original planning permission was 16% GDV (Gross Development Value), now amended to 15% IRR (Internal Rate of Return). This looks lower at first glance, but a close look at the figures shows that this is probably not so, and that **BL will make at least £1bn in profit** before they are required to provide for a single extra affordable home **[^18i].**
 
 It is also very  that BL will build any affordable housing without the incentive of public funding.  They are already receiving £51.3m for the 233 homes pledged - an average of £220k and will no doubt want as least as much for anything in addition to this **[^19]**
 
@@ -83,7 +83,7 @@ There is also a 40% cap on the amount of affordable housing, so no matter how mu
 
 ### The Mayor has made a bad decision
 
-The real fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify reducing the amount of affordable and family housing for an multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^20]**.  The Mayor has also left Southwark with little realistic chance of reaping the benefit of any economic improvement, because of teh terms of the  in the getting the benefits of 
+BL have taken full advantage of the current adverse ecom=nomic condicitions to push much of teh cost onto the shoulders  The real fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify reducing the amount of affordable and family housing for an multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^20]**.  The Mayor has also left Southwark with little realistic chance of reaping the benefit of any economic improvement, because of teh terms of the  in the getting the benefits of 
 
 and leaving us in practical terms with very lillte chance of improving
 

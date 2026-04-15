@@ -17,7 +17,7 @@ In addition, the mix of dwelling size has been further restricted to favour smal
 
 This major departure from Southwark's planning policy (which requires at least 20% family homes) is dismissed in a half-sentence by the GLA, who say it is justified because BL *'has identified insufficient demand'* **[^5i].**
 
-Any balance in the mix of dwelling sizes is also tipped firmly towards smaller housing by BL retaining the original permission for 10% studio flats, all of which must be free-market, but which is nonetheless twice the Southwark Plan limit of 5% [**^6]**.
+Any balance in the mix of dwelling sizes is also tipped firmly towards smaller housing by BL retaining the original permission for 10% studio flats; all these must be free-market, but will, nonetheless, also be twice the Southwark Plan limit of 5% [**^6]**.
 
 ![](img/family_housing_image_100426.png)
 

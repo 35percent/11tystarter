@@ -73,7 +73,7 @@ There is little hope that we will see much improvement in affordable housing fro
 
 Firstly, the reviews will only cover the residential element of the development, which is less than half the floorspace, so any uplift in the value and profit of the non-residential part of the development will not be captured.  Secondly, the amount of additional affordable housing is capped at 40% - just 5% more than the minimum required by the Southwark Plan, and 10% below both the Mayor's and Southwark's strategic affordable housing target **[^18].**
 
-There was one advantage of BL's 2018 preferred strategy to Southwark, that 100% of any surplus would go towards additional affordable housing, after viability was reached.  But this benefit was lost by the time the original planning permission was awarded and the proportion of the surplus going towards affordable housing was reduced to 60%.  It remains 60% in the amended permission, but with a different viability measure.  The original profit hurdle for a vaible development was 16%  or profit hurdle; the original , before it can be claimed; instead of 16% GDV, it will be 15% IRR, which looks lower, but because it is a different measure (IRR instead of GDV) is **likely to require a profit of over £1bn**, before a single extra affordable home is gained **[^18i].**
+ It remains 60% in the amended permission, but with a different viability measure.  The original profit hurdle for a vaible development was 16%  or profit hurdle; the original , before it can be claimed; instead of 16% GDV, it will be 15% IRR, which looks lower, but because it is a different measure (IRR instead of GDV) is **likely to require a profit of over £1bn**, before a single extra affordable home is gained **[^18i].**
 
 It is also very  that BL will build any affordable housing without the incentive of public funding.  They are already receiving £51.3m for the 233 homes pledged - an average of £220k and will no doubt want as least as much for anything in addition to this **[^19]**
 
@@ -143,7 +143,11 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 
 [^18] REF NEEDED.  
 
- **[^18i]** The Base Viability Assessment that is appended to the draft s106 agreement, with c9% affordable housing, gives a profit of£445.37m, measured as 7.47% GDV or 7.56% IRR.  A BNPP assessment gives profits of £1.061bn (16.14% GDV; 11.13% IRR), for a scheme with c3% affordable housing and £1.062bn (16.17%;11.17%IRR) for one with c6% affordable housing. The one concession the GLA refused to make - BL wanted 17.5% IRR. See draft HoTs.
+ **[^18i]** The Base Viability Assessment that is appended to the draft s106 agreement, with c9% affordable housing, gives a profit of£445.37m, measured as 7.47% GDV or 7.56% IRR.  A BNPP assessment gives profits of £1.061bn (16.14% GDV; 11.13% IRR), for a scheme with c3% affordable housing and £1.062bn (16.17%;11.17%IRR) for one with c6% affordable housing.
+
+There was one advantage of BL's 2018 preferred strategy to Southwark, that 100% of any surplus would go towards additional affordable housing, after viability was reached.  But this benefit was lost by the time the original planning permission was awarded and the proportion of the surplus going towards affordable housing was reduced to 60%.
+
+The one concession the GLA refused to make - BL wanted 17.5% IRR. See draft HoTs.
 
 [^19] Para 393. The Mayor has made two grant awards for affordable housing, one of £7.55m, and a second of £43.75m. Southwark Council has also made a £35m contribution towards the leisure centre. Total contributions amount to £86.3m. See Canada Water Draft S106 DoV - Annex 3 Baseline Viability Appraisal. The BL representative at the application hearing gave an approximate construction cost of £500,000 per housing unit, which would mean that about two-thirds of the construction costs of the remaining 154 affordable homes are met from the public purse. The construction cost for the Leisure Centre, plus 'Grown Fees' is £9,700,000 (Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, pg 54, Financial Management Report 22.
 

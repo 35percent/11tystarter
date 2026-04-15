@@ -109,7 +109,7 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^4] Para 183, 207.
 
-**[^5]** The development is divided into thirteen development zones, nine of which have housing; see Canada Water 18/AP/1604, s106, Annex 15. The amended application restricting family housing to affordale tenures will apply to all zones; see [Canada Water Draft S106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf), Annex 2.
+**[^5]** The development is divided into thirteen development zones, ten of which have housing (including completed Zone K); see Canada Water 18/AP/1604, s106, Annex 15. The amended application restricting family housing to affordale tenures will apply to all zones; see [Canada Water Draft S106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf), Annex 2.
 
 [^5i] See the Southwark Plan 2022, P2 New family homes, 2.1.2 for the family homes requirement and GLA Stage 3 report Para 27, for family housing demand.
 

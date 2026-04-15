@@ -13,11 +13,11 @@ Working out just how many affordable and family homes have been lost by the Mayo
 
 BL's amended application also goes beyond reducing the number of affordable homes, by also adding to the types of housing that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation.  Co-living is a new type of shared-living accommodation, similar to student housing, but aimed at professional singles and couples. If the maximum allowed amount of student and co-living accommodation is built it will account for nearly 20% of the total residential floorspace **[^3].**  Assisted living accommodation and key worker housing is also permitted**[^4]**.
 
-In addition, the mix of dwelling size has been further restricted to favour smaller homes, punishing family housing (three-bed plus).  The original permission already allowed BL four 'family housing free' zones, with no obligation to build three, four or five bedrooms in Zones B,C,D,F. The amended permission goes further, requiring no family housing across the entire site, other than as a proportion of affordable housing (of which there will be very little, as we show below)**[^5]**.
+In addition, the mix of dwelling size has been further restricted to favour smaller homes, to the detriment of family housing (three-bed plus).  The original permission already allowed BL four 'family housing free' zones, with no obligation to build three, four or five bedrooms in Zones B,C,D,F. The amended permission goes further, requiring no family housing across the entire site, other than as a proportion of affordable housing (of which there will be very little, as we show below)**[^5]**.
 
-This major departure from Southwark's planning policy (which requires at least 20% family homes of three or more bedrooms) is dismissed in a half-sentence by the GLA, who say it is justified because BL *'has identified insufficient demand'* **[^5i]**
+This major departure from Southwark's planning policy (which requires at least 20% family homes) is dismissed in a half-sentence by the GLA, who say it is justified because BL *'has identified insufficient demand'* **[^5i]**
 
-This is of a piece with their off_hand dismissal of family housing because there is noNo demand for family housing SCHMAA
+
 
 The stipulation that no more than 10% of market housing are studio flats remains (although this is already double the Southwark Plan limit).  Otherwise, the family housing requirements are only applied to the affordable housing, of which there is so little it effectively guarantees that there will very little family housing either. **[^6]**.
 
@@ -115,11 +115,9 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 [^5i] See the Southwark Plan 2022, P2 New family homes, 2.1.2 for the family homes requirement and GLA Stage 3 report Para 27, for family housing demand.
 
-Contrary to the GLA and BL's opinion there is a high demand for family housing in the borough, as the Southwark Plan explains, drawing on the Strategic Housing Market Assessment - '*The SHMA shows that the highest need in social rented and homes of up to 50% of a low market rent is two, three and four bedroom units for which there is a shortfall of 659 units'.* (P2, New family homes, Reasons 1.)
+Contrary to the GLA and BL's opinion there is a high need for family housing in the borough, as the Southwark Plan, drawing on the Strategic Housing Market Assessment, explains - '*The SHMA shows that the highest need in social rented and homes of up to 50% of a low market rent is two, three and four bedroom units for which there is a shortfall of 659 units'.* (P2, New family homes, Reasons 1.)
 
-The GLA and BL are obviously solely concerned with market housing, where the lack of demand may be related to to a new 3-bed Canada Water home costing £1.48m ([The Founding, Canada Water](https://thefounding.co.uk/welcome-to-the-founding?gad_source=1&gad_campaignid=23463173207&gbraid=0AAAAApx85E5F26x6zql0fxu7YhsEHM3pI&gclid=EAIaIQobChMI6v69l9bvkwMVZ4BQBh0-PBBREAAYASAEEgJMr_D_BwE), accessed 15 April 2026).
-
-
+But the GLA and BL are obviously solely concerned with market housing, where the lack of demand may be because the price of a new 3-bed Canada Water home is £1.48m ([The Founding, Canada Water](https://thefounding.co.uk/welcome-to-the-founding?gad_source=1&gad_campaignid=23463173207&gbraid=0AAAAApx85E5F26x6zql0fxu7YhsEHM3pI&gclid=EAIaIQobChMI6v69l9bvkwMVZ4BQBh0-PBBREAAYASAEEgJMr_D_BwE), accessed 15 April 2026).
 
 [^6] Para 6 bullet 2, 2; [](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf) [Southwark Plan 2022](https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark%20Plan%202022%20reduced%201.pdf), Policy P2, New family homes, 1.1
 

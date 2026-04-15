@@ -127,13 +127,13 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 
 [^13] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf) The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm (Para 25); zonal total exceeds scheme total (Para 26); removal of zonal use limits (Para 183).
 
-[^14] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
+[^14] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
 
 [^15] Para 390
 
 [^16] The industry perspective can be found here - [London’s Homebuilding Crisis: Why Has Building in London Stalled?](<https://www.montagu-evans.co.uk/research/londons-homebuilding-crisis-why-has-building-in-london-stalled/#:~:text=1)%20Viability%20is%20severely%20challenged,headroom%20into%20estimates%20and%20prices.>).
 
-[^17] The second staircase requirement was introduced for London in Feb 2023.  The new[ Gateway 1 building regulation](https://www.gov.uk/guidance/fire-safety-and-high-rise-residential-buildings-from-1-august-2021) was introduced in August 2021.  [Gateways 2 and 3](https://brodies.com/insights/construction-and-engineering/everything-you-need-to-know-about-the-new-building-safety-gateway-regime/#:~:text=On%201%20October%202023%2C%20the,some%20clarity%20on%20those%20issues.) came into force on Oct 2023.
+[^17] The second staircase requirement was introduced for [London in Feb 2023](https://www.thefpa.co.uk/fire-and-risk-management-journal/news/second-staircases-mandated-in-new-london-high-rises).  The new[ Gateway 1 building regulation](https://www.gov.uk/guidance/fire-safety-and-high-rise-residential-buildings-from-1-august-2021) was introduced in August 2021.  [Gateways 2 and 3](https://brodies.com/insights/construction-and-engineering/everything-you-need-to-know-about-the-new-building-safety-gateway-regime/#:~:text=On%201%20October%202023%2C%20the,some%20clarity%20on%20those%20issues.) came into force on Oct 2023.
 
 [^18] One advantage of BL's preferred strategy for Southwark in 2019 would have been that 100% of any surplus, after viability was reached would have gone towards additional affordable housing.  This became 60% (after 16% GDV profit) in the actual planning permission and will remain 60% in the amended permission (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing. See Canada Water Masterplan, s106 Agreement, Sch 11. Pt 4, 2. Delivery Review, using ref 18/AP/ 1604 via [Southwark Council's planning register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning).  
 

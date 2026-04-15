@@ -25,7 +25,7 @@ Any balance in the mix of dwelling sizes is also tipped firmly towards smaller h
 
 While BL have been given plenty of latitude in choosing what kind of residential housing they can build, their affordable housing obligations have been precisely limited.  The new permission requires just **233** social rented homes - the 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L **[^7]**.  The small possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.
 
-Not knowing precisley how many homes will be built, of what type and size, and how many habitable rooms there will be, means we cannot say exactly how many we have lost by the reduction of the affordable housing percentage **[^8]**.  We do know that the original 2019 planning committee report estimated that Canada Water would provide around 700 affordable homes (500 social rent, 200 intermediate) if the scheme was built to its minimum limit of 2,000 units.  It further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*  Making an estimate using this maximum number results in about 1,400 affordable homes, of which 1,000 would be social rent and 400 intermediate housing **[^9]**
+Not knowing precisley how many homes will be built, of what type and size, and how many habitable rooms there will be, means we cannot say exactly how many we have lost by the reduction of the affordable housing percentage **[^8]**.  We do know that the original 2019 planning committee report estimated that Canada Water would provide around 700 affordable homes (500 social rent, 200 intermediate) if the scheme was built to its minimum limit of 2,000 units.   Making an estimate using this maximum number results in about 1,400 affordable homes, of which 1,000 would be social rent and 400 intermediate housing **[^9]**
 
 We can also use BL's own figures.  Based on a total of around 3,000 homes, BL said that *'If a viable route to 35% affordable homes were identified, this would represent a total of 900 social rent homes and 400 intermediate homes.....'* **[^10].** 
 
@@ -123,7 +123,7 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 
 [^8] The amount of affordable housing due is calculated using habitable rooms.  This gives a more accurate percentage figure, but results in fewer affordable homes than a calculation based on units, because they have more habitable rooms per unit.
 
-[^9] [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
+[^9] The report further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.* [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
 
 [^10] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 2.10
 

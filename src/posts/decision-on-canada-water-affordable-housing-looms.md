@@ -31,6 +31,8 @@ We can also use BL's own figures.  Based on a total of around 3,000 homes, BL sa
 
 Deducting the 233 social rented homes under the new permission from the promised social rent numbers gives various losses, depending on the total number of homes built - 267 lost, if 2,000 homes in total built; 667 lost, if 3,000 homes built, 767 lost if 4,000 built **[^11]**.  The actual loss will probably be at the higher end of the scale, given that BL are likely to build to the maximum number of homes allowed.
 
+
+
 ![](img/table_loss_of_affordable_housing_100426.png)
 
 ### More floorspace, but not many more homes
@@ -79,19 +81,17 @@ It is also very unlikely that BL will build any additional affordable housing wi
 
 ### The Mayor has made the wrong decision
 
-It is not surprising that BL have responded to the current bad economic conditions and the costs of new safety regulations, by building bigger and higher, and shedding affordable and family housing.  The fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify these reductions. Canada Water is a multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^20]**.  Any reduction in affordable housing, if needed at all, should be short term.  That supposedly is the aim of the Mayor's 'emergency measures', which have cut the affordable housing requirement to 20%, but are time limited to two years.  , but the benefit to BL will be permanent as will the loss of affordable housing The concessions he has made to BL are permanent 
+It is not surprising that BL have responded to the current bad economic conditions and the costs of new safety regulations, by building bigger and higher, and shedding affordable and family housing.  The fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify these reductions. Canada Water is a multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^20]**.  Any reduction in affordable housing, if needed at all, should be short term.  That is the aim of the Mayor's 'emergency measures', which have just cut the affordable housing requirement to 20% for two years.  This is supposed to unlock 'stalled schemes', like Canada Water, but if it does so, the price will be a permanent loss of affordable and family housing 
 
-BL are able to get a greater cut to 9% by taking full advantage of viability assessments.  These not only reduce affordable housing, but also leave Southwark with little realistic chance of reaping the benefit of any economic improvement, because of the their terms.
+BL are also able to get a greater cut to 9% by taking full advantage of viability assessments.  These not only reduce affordable housing, but have left Southwark with little realistic chance of reaping the benefit of any economic improvement.
 
-The am
+This does not mean that Southwark should give up the fight.  BL's amendment is to the outline part of a hybrid planning permission and there will now be several more detailed planning applications, with the first including the 150 or so social rented homes that BL have committed to.  Southwark Council must make it clear that this is not enough and that it expects the 35% affordable housing BL promised back in 2019.  
 
-and leaving us in practical terms with very lillte chance of improving
-
-40% cap makes a complete nonsence of the 50% strategic target (London Plan and Southwark Plan)  
+affordable 
 
 when 93% of Southwark households are eligible for affordable housing, even if they might not absolutley  depend on it.  IMAGE bar chart
 
-Canada Water is due for completion by 2033, but Phase 1, a fraction of the whole and due by 2023, is only just completing, making the 2033 finish date optimistic. 
+
 
 \--------------------------------------------------------------------------------------------------------------------
 

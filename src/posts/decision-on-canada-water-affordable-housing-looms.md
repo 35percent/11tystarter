@@ -111,39 +111,39 @@ BL pitched unconventional housing as being affordable housing in their original 
 
 **[^5]** The development is divided into thirteen development zones, ten of which have housing (including completed Zone K); see Canada Water 18/AP/1604, s106, Annex 15. The amended application restricting family housing to affordale tenures will apply to all zones; see [Canada Water Draft S106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf), Annex 2.
 
-[^5i] See the Southwark Plan 2022, P2 New family homes, 2.1.2 for the family homes requirement and GLA Stage 3 report Para 27, for family housing demand.
+[^6] See the Southwark Plan 2022, P2 New family homes, 2.1.2 for the family homes requirement and GLA Stage 3 report Para 27, for family housing demand.
 
 Contrary to the GLA and BL's opinion there is a high need for family housing in the borough, as the Southwark Plan, drawing on the Strategic Housing Market Assessment, explains - '*The SHMA shows that the highest need in social rented and homes of up to 50% of a low market rent is two, three and four bedroom units for which there is a shortfall of 659 units'.* (P2, New family homes, Reasons 1.)
 
 But the GLA and BL are obviously solely concerned with market housing, and here the lack of demand for family homes could be explained by its ultra-high cost - £1.48m for a new 3-bed, with 'Skyline view' ([The Founding, Canada Water](https://thefounding.co.uk/welcome-to-the-founding?gad_source=1&gad_campaignid=23463173207&gbraid=0AAAAApx85E5F26x6zql0fxu7YhsEHM3pI&gclid=EAIaIQobChMI6v69l9bvkwMVZ4BQBh0-PBBREAAYASAEEgJMr_D_BwE), accessed 15 April 2026).
 
-[^6] See [Canada Water Draft S106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf), Annex 2 for amount of studio flats. See [Southwark Plan 2022](https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark%20Plan%202022%20reduced%201.pdf), Policy P2, New family homes, 1.7 for studio flat maximum.
+[^7] See [Canada Water Draft S106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf), Annex 2 for amount of studio flats. See [Southwark Plan 2022](https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark%20Plan%202022%20reduced%201.pdf), Policy P2, New family homes, 1.7 for studio flat maximum.
 
-[^7] The figures are given in various parts of the [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf) [](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf)para 2ii - 150 units from next tranche of 1,000 homes; para 10, bullet nine - 79 social rent from Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase. 
+[^8] The figures are given in various parts of the [GLA Stage 3 report](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf) [](file:///C:/Users/grego/Documents/D-Drive%20201017/Copy%20of%20Regeneration/Southwark/Canada%20Water/s73_25AP0242/GLA/Canada_Water_Stage_3_report.docx_200326.pdf)para 2ii - 150 units from next tranche of 1,000 homes; para 10, bullet nine - 79 social rent from Plot K; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase. 
 
-[^8] The amount of affordable housing due is calculated using habitable rooms.  This gives a more accurate percentage figure, but results in fewer affordable homes than a calculation based on units, because they have more habitable rooms per unit.
+[^9] The amount of affordable housing due is calculated using habitable rooms.  This gives a more accurate percentage figure, but results in fewer affordable homes than a calculation based on units, because they have more habitable rooms per unit.
 
-[^9] The report further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.* [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
+[^10] The report further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.* [Planning committee report](https://moderngov.southwark.gov.uk/documents/s84680/Report%20Land%20bounded%20by%20Lower%20Road%20Redriff%20Road%20Quebec%20Way%20and%20Surrey.pdf), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019
 
-[^10] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 2.10
+[^11] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 2.10
 
-[^11] We have faithfully recorded what was claimed at the time, notwithstanding that there is an obvious discrepancy between the increase in social rent of 400 units, in the total rise from 2,000 to 3,000 total units, while there is only a rise of 100 social rent units in the rise from 3,000 to 4,000 total units.
+[^12] We have faithfully recorded what was claimed at the time, notwithstanding that there is an obvious discrepancy between the increase in social rent of 400 units, in the total rise from 2,000 to 3,000 total units, while there is only a rise of 100 social rent units in the rise from 3,000 to 4,000 total units.
 
-[^12] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
+[^13] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26; 183.  The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%).  The cumulative zonal total is 837,400sqm.
 
-[^13] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
+[^14] [](https://data.london.gov.uk/download/2z18q/995/Canada%20Water%20Stage%203%20report.docx.pdf)Para 25, 26.  The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
 
-[^14] Para 390
+[^15] Para 390
 
-[^15] The industry perspective can be found here - [London’s Homebuilding Crisis: Why Has Building in London Stalled?](<https://www.montagu-evans.co.uk/research/londons-homebuilding-crisis-why-has-building-in-london-stalled/#:~:text=1)%20Viability%20is%20severely%20challenged,headroom%20into%20estimates%20and%20prices.>).
+[^16] The industry perspective can be found here - [London’s Homebuilding Crisis: Why Has Building in London Stalled?](<https://www.montagu-evans.co.uk/research/londons-homebuilding-crisis-why-has-building-in-london-stalled/#:~:text=1)%20Viability%20is%20severely%20challenged,headroom%20into%20estimates%20and%20prices.>).
 
-[^16] The second staircase requirement was introduced for London in Feb 2023.  The new[ Gateway 1 building regulation](https://www.gov.uk/guidance/fire-safety-and-high-rise-residential-buildings-from-1-august-2021) was introduced in August 2021.  [Gateways 2 and 3](https://brodies.com/insights/construction-and-engineering/everything-you-need-to-know-about-the-new-building-safety-gateway-regime/#:~:text=On%201%20October%202023%2C%20the,some%20clarity%20on%20those%20issues.) came into force on Oct 2023.
+[^17] The second staircase requirement was introduced for London in Feb 2023.  The new[ Gateway 1 building regulation](https://www.gov.uk/guidance/fire-safety-and-high-rise-residential-buildings-from-1-august-2021) was introduced in August 2021.  [Gateways 2 and 3](https://brodies.com/insights/construction-and-engineering/everything-you-need-to-know-about-the-new-building-safety-gateway-regime/#:~:text=On%201%20October%202023%2C%20the,some%20clarity%20on%20those%20issues.) came into force on Oct 2023.
 
-[^17] One advantage of BL's preferred strategy for Southwark in 2019 would have been that 100% of any surplus, after viability was reached would have gone towards additional affordable housing.  This became 60% (after 16% GDV profit) in the actual planning permission and will remain 60% in the amended permission (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing. See Canada Water Masterplan, s106 Agreement, Sch 11. Pt 4, 2. Delivery Review, using ref 18/AP/ 1604 via [Southwark Council's planning register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning).  
+[^18] One advantage of BL's preferred strategy for Southwark in 2019 would have been that 100% of any surplus, after viability was reached would have gone towards additional affordable housing.  This became 60% (after 16% GDV profit) in the actual planning permission and will remain 60% in the amended permission (15% IRR profit), with 40% going to BL.  There is also a cap of 40% affordable housing. See Canada Water Masterplan, s106 Agreement, Sch 11. Pt 4, 2. Delivery Review, using ref 18/AP/ 1604 via [Southwark Council's planning register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning).  
 
-[^18] REF NEEDED.  
+[^19] REF NEEDED.  
 
- **[^18i]** The Base Viability Assessment that is appended to the draft s106 agreement, with c9% affordable housing, gives a profit of£445.37m, measured as 7.47% GDV or 7.56% IRR.  A BNPP assessment gives profits of £1.061bn (16.14% GDV; 11.13% IRR), for a scheme with c3% affordable housing and £1.062bn (16.17%;11.17%IRR) for one with c6% affordable housing.
+ **[^20]** The Base Viability Assessment that is appended to the draft s106 agreement, with c9% affordable housing, gives a profit of£445.37m, measured as 7.47% GDV or 7.56% IRR.  A BNPP assessment gives profits of £1.061bn (16.14% GDV; 11.13% IRR), for a scheme with c3% affordable housing and £1.062bn (16.17%;11.17%IRR) for one with c6% affordable housing.
 
 There was one advantage of BL's 2018 preferred strategy to Southwark, that 100% of any surplus would go towards additional affordable housing, after viability was reached.  But this benefit was lost by the time the original planning permission was awarded and the proportion of the surplus going towards affordable housing was reduced to 60%.
 

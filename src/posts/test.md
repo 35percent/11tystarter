@@ -64,3 +64,5 @@ BNPP said that BL's approach *'....could result in the outline parts of the sche
 ### ...but strengthen their grip...
 
 There is little hope that we will see much improvement in affordable housing from these reviews. Apart from leaving Southwark (and the Mayor) with little negotiating power, their formulaic nature, as BNPP warned, strictly limits the possibility of additional affordable and family housing.
+
+First, the reviews will only cover the residential element of the development, which is less than half the floorspace, so any uplift in the value and profit of the non-residential part of the development will not be captured. Secondly, the amount of additional affordable housing is capped at 40% - just 5% more than the minimum required by the Southwark Plan, and 10% below both the Mayor's and Southwark's strategic affordable housing target **[^19]**.

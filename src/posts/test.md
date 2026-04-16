@@ -131,7 +131,7 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 
 [^13] We have reported what was claimed at the time, notwithstanding that there is an obvious discrepancy between the increase in social rent of 400 units, in the total rise from 2,000 to 3,000 total units, while there is only a rise of 100 social rent units in the rise from 3,000 to 4,000 total units.
 
-[^14] The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%). The cumulative zonal total is 837,400sqm (Para 25); zonal total exceeds scheme total (Para 26); removal of zonal use limits (Para 183).
+[^14] The total floorspace limit is increased from 656,200sqm to 766,148sqm (16.75%). The cumulative zonal total is 837,400sqm; the zonal total exceeds scheme total (Para 25); removal of zonal use limits (Para 183).
 
 [^15] B3 increases by 3 storeys (to 45 storeys); C1 by one and 13 storeys (to 35) ; D2 by 8 storeys (to 49); D6 by 5 storeys (to 12); F1 by 12 storeys (to 46); F2 by 6 storeys (to 38); F3 by 3 storeys (to 12); G1 by 8 storeys (35); J by 4 storeys (across a multi-block of 6,15,10 storeys); H3 by 1 floor (to 8).  Building A1 remains at 35 storeys.  [GLA Stage 3 report](<https://data.london.gov.uk/download/2z18q/995/Canada Water Stage 3 report.docx.pdf>) Para 24 image and Housing Statement Addendum and Financial Viability Assessment, January 2025 QUOD, Appendix A, pg 43, 25/AP/0242,
 

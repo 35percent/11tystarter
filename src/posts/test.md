@@ -116,3 +116,5 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 [^10] The report further says that 'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'. [Planning committee report](<https://moderngov.southwark.gov.uk/documents/s84680/Report Land bounded by Lower Road Redriff Road Quebec Way and Surrey.pdf>), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019.
 
 [^11] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 2.10.
+
+[^12] We have reported what was claimed at the time, notwithstanding that there is an obvious discrepancy between the increase in social rent of 400 units, in the total rise from 2,000 to 3,000 total units, while there is only a rise of 100 social rent units in the rise from 3,000 to 4,000 total units.

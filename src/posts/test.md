@@ -7,6 +7,8 @@ London Mayor Sadiq Khan has approved the reduction of affordable housing on the 
 
 Southwark Council had granted the original planning permission to BL in 2019/20, for 2,000 to 4,000 new homes, plus other uses and amenities. This permission required 35% affordable housing (25% social rented and 10% intermediate housing), which might have risen to 40%, with additional intermediate housing, if there were viability improvements **[^1].** At the beginning of last year BL made a s73 application to Southwark, to reduce the affordable housing requirement to 3% (while also increasing the height and density of the scheme). In November 2025, [BL referred the s73 application to the Mayor](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing), taking the decision out of Southwark's hands.
 
+![](img/image_composite_160426.png)
+
 ### How many family homes have we lost?
 
 Working out just how many affordable and family homes have been lost by the Mayor's decision is not straightforward, because we do not know how many homes will be built - the overall size of the development can be anything from 2,000 to 4,184 residential units **[^2]**.

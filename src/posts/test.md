@@ -10,3 +10,5 @@ Southwark Council had granted the original planning permission to BL in 2019/20,
 ### How many family homes have we lost?
 
 Working out just how many affordable and family homes have been lost by the Mayor's decision is not straightforward, because we do not know how many homes will be built - the overall size of the development can be anything from 2,000 to 4,184 residential units **[^2]**.
+
+BL's amended application also goes beyond reducing the number of affordable homes, by also adding to the types of housing that can be provided. Homes can either be 'conventional', as in self-contained homes, or 'non-conventional', with co-living housing joining the already permitted student accommodation. Co-living is a new type of shared-living accommodation, similar to student housing, but aimed at professional singles and couples. If the maximum allowed amount of student and co-living accommodation is built it will account for nearly 20% of the total residential floorspace **[^3]**. Assisted living accommodation and key worker housing is also permitted **[^4]**.

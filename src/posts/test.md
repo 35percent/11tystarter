@@ -113,7 +113,7 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 
 [^9] The amount of affordable housing due is calculated using habitable rooms. This gives a more accurate percentage figure, but results in fewer affordable homes than a calculation based on units, because they have more habitable rooms per unit than market housing.
 
-[^10] The report further says that 'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'. [Planning committee report](<https://moderngov.southwark.gov.uk/documents/s84680/Report Land bounded by Lower Road Redriff Road Quebec Way and Surrey.pdf>), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019.
+[^10] The report further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.* [Planning committee report](<https://moderngov.southwark.gov.uk/documents/s84680/Report Land bounded by Lower Road Redriff Road Quebec Way and Surrey.pdf>), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019.
 
 [^11] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 2.10.
 
@@ -127,4 +127,4 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 
 [^16] The industry perspective can be found here - [London’s Homebuilding Crisis: Why Has Building in London Stalled?](<https://www.montagu-evans.co.uk/research/londons-homebuilding-crisis-why-has-building-in-london-stalled/#:~:text=1)%20Viability%20is%20severely%20challenged,headroom%20into%20estimates%20and%20prices.>).
 
-[^17] See BNPPariba's Canada Water Masterplan: Review of Viability and Affordable Housing Oveview, Dec 2018 for quotes. The second staircase requirement was introduced for [London in Feb 2023](https://www.thefpa.co.uk/fire-and-risk-management-journal/news/second-staircases-mandated-in-new-london-high-rises). The new Gateway 1 building regulation was introduced in August 2021. Gateways 2 and 3 came into force on Oct 2023.
+[^17] The second staircase requirement was introduced for [London in Feb 2023](https://www.thefpa.co.uk/fire-and-risk-management-journal/news/second-staircases-mandated-in-new-london-high-rises). The new [Gateway 1 building regulation](https://www.gov.uk/guidance/fire-safety-and-high-rise-residential-buildings-from-1-august-2021) was introduced in August 2021. [Gateways 2 and 3](https://brodies.com/insights/construction-and-engineering/everything-you-need-to-know-about-the-new-building-safety-gateway-regime/#:~:text=On%201%20October%202023%2C%20the,some%20clarity%20on%20those%20issues.) came into force on Oct 2023.

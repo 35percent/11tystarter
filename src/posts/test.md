@@ -104,3 +104,7 @@ BL pitched unconventional housing as being affordable housing in their original 
 [^6] See the Southwark Plan 2022, P2 New family homes,1.2. for the family homes requirement and GLA Stage 3 report Para 27, for lack of demand for family housing.
 
 Contrary to the GLA and BL's opinion there is a high need for family housing in the borough, as the Southwark Plan, drawing on the Strategic Housing Market Assessment, explains - *'The SHMA shows that the highest need in social rented and homes of up to 50% of a low market rent is two, three and four bedroom units for which there is a shortfall of 659 units'.* (P2, New family homes, Reasons 1.)
+
+But the GLA and BL are obviously solely concerned with market housing, and here the lack of demand for family homes could be explained by its ultra-high cost - £1.48m for a new 3-bed, with 'Skyline view' [(The Founding, Canada Water](https://thefounding.co.uk/welcome-to-the-founding?gad_source=1&gad_campaignid=23463173207&gbraid=0AAAAApx85E5F26x6zql0fxu7YhsEHM3pI&gclid=EAIaIQobChMI6v69l9bvkwMVZ4BQBh0-PBBREAAYASAEEgJMr_D_BwE), accessed 15 April 2026).
+
+[^7] See [Canada Water Draft S106 Deed of Variation](<https://data.london.gov.uk/download/2z18q/d8w/Canada Water Draft S106 DoV.pdf>), Annex 2 for amount of studio flats. See [Southwark Plan 2022](<https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark Plan 2022 reduced 1.pdf>), Policy P2, New family homes, 1.7 for studio flat maximum.

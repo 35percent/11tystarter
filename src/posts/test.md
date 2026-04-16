@@ -33,7 +33,6 @@ Deducting the 233 social rented homes under the new permission from the promised
 
 While the affordable housing has plummeted, the size, height and density of the development has increased. The scheme is divided into 13 zones, ten of the zones will have housing and BL have been permitted to increase the individual floorspaces for seven of these. The cumulative floorspace for all the zones now exceeds that of the limit for the whole scheme (which has also increased), though BL will not be allowed to build beyond the whole scheme limit. Separate from the increases in floorspace, the zonal caps on specific land usage, ie the limits to the types of buildings allowed in each zone, has been removed. By these arrangements BL are afforded '.. flexibility in the quantum of development that comes forward... in each Zone' **[^13]**.
 
-
 The residential floorspace has also been increased by over 40% and this makes up a similar percentage of the total floorspace. Most of the extra floorspace is being used to accommodate a second staircase, as required by new building-safety regulations, post Grenfell, so there will only be a relatively small increase in housing, of about 189 units **[^14]**. The residential blocks will increase by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys.
 
 ### Local councillors and Southwark Council object

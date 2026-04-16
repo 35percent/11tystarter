@@ -96,3 +96,5 @@ Unless stated otherwise all references are to [GLA Stage 3 report](<https://data
 [^3] Para 29. Total residential 472,000sqm, including co-living up to 50,000sqm maximum floorspace, according to footnote. Maximum student floorspace of 50,300sqm, giving total co-living/student floorspace of 100,300sm divided by total residential floorspace of 472,000sqm, giving 21.25%.
 
 BL pitched unconventional housing as being affordable housing in their original application, in a list including 'Southwark target rent', but also eight other different 'affordable' tenures, including 'Retirement rent', 'Shared accommodation' and 'Retired shared-equity' - Quod, Financial Viability Assessment, Clarification Note 3, Fig 1, Nov 2018).
+
+[^4] Para 183, 207.

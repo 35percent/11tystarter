@@ -1,6 +1,6 @@
 ---
-title: TEST
-description: Test for saving
+title: Canada Water's huge loss of affordable housing
+description: "Mayor approves British Land amendment "
 date: 2026-04-16T07:07:41.894Z
 ---
 London Mayor Sadiq Khan has approved the reduction of affordable housing on the giant Canada Water development, cutting it from 35% to 9%. Reviews of the viability of the scheme hold out the possibility of additional affordable housing, but with no guarantees. The application for the reduction, from developer British Land (BL), was approved by Deputy Mayor Jules Pipe (acting on the Mayor's behalf) on [27 March](https://webcasts.london.gov.uk/Mayoral/Event/Index/389f7074-88e3-46b0-ae1c-6c4032abfddd), after he heard representations from GLA and Southwark Council officers, objectors and British Land.

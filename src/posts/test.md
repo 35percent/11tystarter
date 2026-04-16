@@ -82,3 +82,5 @@ The impact of these losses is made stark by the fact that 93% of Southwark house
 All this means Southwark Council must not give up the fight. BL's amendment is to the outline part of a hybrid planning permission and there will now be several more detailed planning applications, with the first including the 150 or so social rented homes that BL have committed to. Southwark Council must make it clear that this is not enough and that it expects the 35% affordable housing BL promised back in 2019. 
 
 \[IMAGE 93% bar chart]
+
+\---------------------------------------------------------------------------------------------------------------------

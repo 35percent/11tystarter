@@ -19,7 +19,7 @@ This major departure from Southwark's planning policy (which requires at least 2
 
 Any balance in the mix of dwelling sizes is also tipped firmly towards smaller housing by BL retaining the original permission for 10% studio flats; all these must be free-market, but will, nonetheless, also be twice the Southwark Plan limit of 5% **[^7]**.
 
-![]()
+![](img/family_housing_image_100426.png)
 
 ### How many affordable homes have we lost?
 

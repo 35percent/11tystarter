@@ -17,7 +17,7 @@ BL's amended application also goes beyond reducing the number of affordable home
 
 In addition, the mix of dwelling size has been further restricted to favour smaller homes, to the detriment of family housing (three-bed plus). The original permission already allowed BL four 'family housing free' zones, with no obligation to build three, four or five bedrooms in Zones B,C,D,F. The amended permission goes further, requiring no family housing across the entire site, other than as a proportion of affordable housing (of which there will be very little, as we show below) **[^6]**.
 
-This major departure from Southwark's planning policy (which requires at least 20% family homes) is dismissed in a half-sentence by the GLA, who say it is justified because BL 'has identified insufficient demand' **[^7]**.
+This major departure from Southwark's planning policy (which requires at least 20% family homes) is dismissed in a half-sentence by the GLA, who say it is justified because BL *'has identified insufficient demand'* **[^7]**.
 
 Any balance in the mix of dwelling sizes is also tipped firmly towards smaller housing by BL retaining the original permission for 10% studio flats; all these must be free-market, but will, nonetheless, also be twice the Southwark Plan limit of 5% **[^8]**.
 

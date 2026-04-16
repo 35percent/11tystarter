@@ -57,4 +57,10 @@ But BL say what was possible in 2019 is not possible now, because building safet
 
 And in fact BL have never really wanted to commit to delivering either 35%, or any a fixed amount of affordable housing. Real estate consultant BNP Paribas appraised BL's viability reviews on behalf of Southwark Council, and said of a 2018 version that *'..the Applicant's preferred strategy for the outline phases is to determine the level of affordable housing on the basis of a phased review mechanism'*. So in fact BL's position now, in 2026, is much as it was in 2018, before the introduction of new building safety regulations and despite the more favourable economic circumstances of that time **[^17]**.
 
-BNPP said that BL's approach *'....could result in the outline parts of the scheme providing no affordable housing at all'* and caution the Council about *'..their lack of ability to negotiate the level of affordable housing at the review stages, as the review structure is likely to be formulaic'*. Southwark evidently took heed of BNPP's advice and only gave the original planning permission on the promise of 35% affordable housing. Now though in 2026, after the Mayor's decision, BL have their 2018 'preferred strategy' back in place and the only affordable housing that will come beyond 9% depends on viability reviews. [^18].
+BNPP said that BL's approach *'....could result in the outline parts of the scheme providing no affordable housing at all'* and caution the Council about *'..their lack of ability to negotiate the level of affordable housing at the review stages, as the review structure is likely to be formulaic'*. Southwark evidently took heed of BNPP's advice and only gave the original planning permission on the promise of 35% affordable housing. Now though in 2026, after the Mayor's decision, BL have their 2018 'preferred strategy' back in place and the only affordable housing that will come beyond 9% depends on viability reviews **[^18]**.
+
+\[SCREENSHOT - BNPP Quote]
+
+### ...but strengthen their grip...
+
+There is little hope that we will see much improvement in affordable housing from these reviews. Apart from leaving Southwark (and the Mayor) with little negotiating power, their formulaic nature, as BNPP warned, strictly limits the possibility of additional affordable and family housing.

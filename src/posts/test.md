@@ -131,9 +131,9 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 
 [^13] The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%). The cumulative zonal total is 837,400sqm (Para 25); zonal total exceeds scheme total (Para 26); removal of zonal use limits (Para 183).
 
-[^14] Para 26. The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
+[^14]  Building increases, with new storey heights in brackets - B3 increases by 3 floors (45); C1 by one and 13 floors (35) ; D2 by 8 floors (49); D6 by 5 floors (12); F1 by 12 floors (46); F2 by 6 floors (38); F3 by 3 floors (12); G1 by 8 floors (35); J by 4 floors (multi-block 6,15,10); H3 by 1 floor (8).  Building A1 remains at 35 storeys.  [GLA Stage 3 report](<https://data.london.gov.uk/download/2z18q/995/Canada Water Stage 3 report.docx.pdf>) Para 24 image and Housing Statement Addendum and Financial Viability Assessment, January 2025 QUOD, Appendix A, pg 43, 25/AP/0242,
 
-**\[15]** Building increases, with new storey heights in brackets - B3 increases by 3 floors (45); C1 by one and 13 floors (35) ; D2 by 8 floors (49); D6 by 5 floors (12); F1 by 12 floors (46); F2 by 6 floors (38); F3 by 3 floors (12); G1 by 8 floors (35); J by 4 floors (multi-block 6,15,10); H3 by 1 floor (8).  Building A1 remains at 35 storeys.  [GLA Stage 3 report](<https://data.london.gov.uk/download/2z18q/995/Canada Water Stage 3 report.docx.pdf>) Para 24 image and Housing Statement Addendum and Financial Viability Assessment, January 2025 QUOD, Appendix A, pg 43, 25/AP/0242,
+**\[15]** Para 26. The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%).
 
 [^16] Para 390.
 

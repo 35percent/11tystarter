@@ -97,7 +97,7 @@ All this means Southwark Council must not give up the fight for more affordable 
 
 **Footnotes**
 
-Unless stated otherwise all references are to [GLA Stage 3 report](<https://data.london.gov.uk/download/2z18q/995/Canada Water Stage 3 report.docx.pdf>) (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026). Most of the planning documents can be found via [Southwark's Planning Register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning), using the planning reference numbers.
+Unless stated otherwise all paragraph references are to [GLA Stage 3 report](<https://data.london.gov.uk/download/2z18q/995/Canada Water Stage 3 report.docx.pdf>) (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026). Most of the planning documents can be found via [Southwark's Planning Register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning), using the planning reference numbers.
 
 [^1] Para 210. 
 
@@ -147,7 +147,7 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 
 [^21] [Southwark Plan 2022](<https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark Plan 2022 reduced 1.pdf>), Strategic targets, Providing quality social rented and intermediate homes, bullet 3. [London Plan 2021](https://www.london.gov.uk/programmes-strategies/planning/london-plan/the-london-plan-2021-online/chapter-4-housing) Policy H4 Delivering affordable housing. 
 
-[^22] The [Base Viability Appraisal](https://data.london.gov.uk/download/2z18q/d9l/Canada%20Water%20Draft%20%20S106%20DoV%20-%20Annex%203%20Baseline%20Viability%20Appraisal.pdf) annexed to the draft [s106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf). This gives a profit of £445.37m, (7.47% GDV; 7.56% IRR) with c9% affordable housing. A BNPP assessment gives profits of £1.061bn (16.14% GDV; 11.13% IRR), for a scheme with c3% affordable housing and £1.062bn (16.17%;11.17%IRR) for one with c6% affordable housing; see BNP Paribas Canada Water Masterplan: Review of Housing Statement Addendum and Financial Viability Assessment, Sept 2025 25/AP/0242.
+[^22] Para 203, 204 for profit targets.  For projected profit see The [Base Viability Appraisal](https://data.london.gov.uk/download/2z18q/d9l/Canada%20Water%20Draft%20%20S106%20DoV%20-%20Annex%203%20Baseline%20Viability%20Appraisal.pdf) annexed to the draft [s106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf). This gives a profit of £445.37m, (7.47% GDV; 7.56% IRR) with c9% affordable housing. A BNPP assessment gives profits of £1.061bn (16.14% GDV; 11.13% IRR), for a scheme with c3% affordable housing and £1.062bn (16.17%;11.17%IRR) for one with c6% affordable housing; see BNP Paribas Canada Water Masterplan: Review of Housing Statement Addendum and Financial Viability Assessment, Sept 2025 25/AP/0242.
 
 It should be noted that BL wanted a profit target of 17.5% IRR, but it seems that the GLA insisted on 15%. See Canada Water Masterplan, Section 73 Application, 25/AP/2402, Draft Heads of Terms, Housing 3rd bullet. Also [GLA Stage 3 report](<https://data.london.gov.uk/download/2z18q/995/Canada Water Stage 3 report.docx.pdf>) para 204.
 

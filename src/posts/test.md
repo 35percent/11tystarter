@@ -39,6 +39,8 @@ While the affordable housing has plummeted, the size, height and density of the 
 
 The residential floorspace has also been increased by over 40% and this makes up a similar percentage of the total floorspace. Most of the extra floorspace is being used to accommodate a second staircase, as required by new building-safety regulations, post Grenfell, so there will only be a relatively small increase in housing, of about 189 units **[^14]**. The residential blocks will increase by between one and thirteen storeys, with six blocks growing to between 37 and 39 storeys.
 
+![](img/canada_water_increase_in_floors_gla_stage_1_25ap0242.png)
+
 ### Local councillors and Southwark Council object
 
 Several objectors appeared to speak against BL's s73 application. The common theme was how Canada Water represented a opportunity to address local needs that would be lost, if the Mayor approved BL's application.

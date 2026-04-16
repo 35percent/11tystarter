@@ -139,7 +139,7 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 
 [^18] BNPP Paribas Canada Water Masterplan: Review of Viability and Afforable Housing Overview, Dec 2018, 18/AP/1604.  One advantage of BL's preferred strategy for Southwark in 2018 would have been that 100% of any surplus would have gone towards additional affordable housing. This became 60% in the eventual planning permission and remains 60% in the amended permission, with 40% going to BL.
 
-[^19] [Southwark Plan 2022](<https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark Plan 2022 reduced 1.pdf>), Strategic targets, Providing quality social rented and intermediate homes, bullet 3. 
+[^19] [Southwark Plan 2022](<https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark Plan 2022 reduced 1.pdf>), Strategic targets, Providing quality social rented and intermediate homes, bullet 3. [London Plan 2021](https://www.london.gov.uk/programmes-strategies/planning/london-plan/the-london-plan-2021-online/chapter-4-housing) Policy H4 Delivering affordable housing. 
 
 [^20] The Base Viability Assessment that is appended to the draft s106 agreement, with c9% affordable housing, gives a profit of£445.37m, measured as 7.47% GDV or 7.56% IRR. A BNPP assessment gives profits of £1.061bn (16.14% GDV; 11.13% IRR), for a scheme with c3% affordable housing and £1.062bn (16.17%;11.17%IRR) for one with c6% affordable housing.
 

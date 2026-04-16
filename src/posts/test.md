@@ -143,7 +143,7 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 
 [^20] The [Base Viability Assessment](https://data.london.gov.uk/download/2z18q/d9l/Canada%20Water%20Draft%20%20S106%20DoV%20-%20Annex%203%20Baseline%20Viability%20Appraisal.pdf) appended to the draft [s106 Deed of Variation](https://data.london.gov.uk/download/2z18q/d8w/Canada%20Water%20Draft%20S106%20DoV.pdf), with c9% affordable housing, gives a profit of £445.37m, measured as 7.47% GDV or 7.56% IRR. A BNPP assessment gives profits of £1.061bn (16.14% GDV; 11.13% IRR), for a scheme with c3% affordable housing and £1.062bn (16.17%;11.17%IRR) for one with c6% affordable housing; see BNPP Sept 2025 25/AP/0242.
 
-It should be noted that the GLA sems to have insisted on refused to make - BL wanted 17.5% IRR. See draft HoTs.
+It should be noted that BL wanted a profit target of 17.5% IRR, but it seems that the GLA insisted on 15%. . See draft HoTs.
 
 [^19] Para 393. The Mayor has made two grant awards for affordable housing, one of £7.55m, and a second of £43.75m. Southwark Council has also made a £35m contribution towards the leisure centre. Total contributions amount to £86.3m. See Canada Water Draft S106 DoV - Annex 3 Baseline Viability Appraisal. The BL representative at the application hearing gave an approximate construction cost of £500,000 per housing unit, which would mean that about two-thirds of the construction costs of the remaining 154 affordable homes are met from the public purse. The construction cost for the Leisure Centre, plus 'Grown Fees' is £9,700,000 (Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, pg 54, Financial Management Report 22.
 

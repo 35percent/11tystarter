@@ -98,3 +98,5 @@ Unless stated otherwise all references are to [GLA Stage 3 report](<https://data
 BL pitched unconventional housing as being affordable housing in their original application, in a list including 'Southwark target rent', but also eight other different 'affordable' tenures, including 'Retirement rent', 'Shared accommodation' and 'Retired shared-equity' - Quod, Financial Viability Assessment, Clarification Note 3, Fig 1, Nov 2018).
 
 [^4] Para 183, 207.
+
+[^5] The development is divided into thirteen development zones, ten of which have housing (including completed Zone K); see Canada Water 18/AP/1604, s106, Annex 15. The amended application restricting family housing to affordable tenures will apply to all zones; see [Canada Water Draft s106 Deed of Variation](<https://data.london.gov.uk/download/2z18q/d8w/Canada Water Draft S106 DoV.pdf>), Annex 2.

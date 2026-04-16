@@ -65,7 +65,7 @@ And in fact BL have never really wanted to commit to delivering either 35%, or a
 
 BNPP said that BL's approach *'....could result in the outline parts of the scheme providing no affordable housing at all'* and caution the Council about *'..their lack of ability to negotiate the level of affordable housing at the review stages, as the review structure is likely to be formulaic'*. Southwark evidently took heed of BNPP's advice and only gave the original planning permission on the promise of 35% affordable housing. Now though in 2026, after the Mayor's decision, BL have their 2018 'preferred strategy' back in place and the only affordable housing that will come beyond 9% depends on viability reviews **[^18]**.
 
-\[SCREENSHOT - BNPP Quote]
+![](img/bnpp_fva_appraisal_dec_2018.png)
 
 ### ...but strengthen their grip...
 

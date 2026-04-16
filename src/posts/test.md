@@ -3,4 +3,5 @@ title: TEST
 description: Test for saving
 date: 2026-04-16T07:07:41.894Z
 ---
-Will this work?
+London Mayor Sadiq Khan has approved the reduction of affordable housing on the giant Canada Water development, cutting it from 35% to 9%. Reviews of the viability of the scheme hold out the possibility of additional affordable housing, but with no guarantees. The application for the reduction, from developer British Land (BL), was approved by Deputy Mayor Jules Pipe (acting on the Mayor's behalf) on 27 March, after he heard representations from GLA and Southwark Council officers, objectors and British Land.
+Southwark Council had granted the original planning permission to BL in 2019/20, for 2,000 to 4,000 new homes, plus other uses and amenities. This permission required 35% affordable housing (25% social rented and 10% intermediate housing), which might have risen to 40%, with additional intermediate housing, if there were viability improvements [^1]. At the beginning of last year BL made a s73 application to Southwark, to reduce the affordable housing requirement to 3% (while also increasing the height and density of the scheme). In November 2025, BL referred the s73 application to the Mayor, taking the decision out of Southwark's hands.

@@ -78,3 +78,7 @@ It is not surprising that BL have responded to the current bad economic conditio
 BL are also able to get a greater cut to 9% by taking full advantage of viability assessments. These not only reduce affordable housing, but have left Southwark with little realistic chance of reaping the benefit of any economic improvement, by way of viability reviews.
 
 The impact of these losses is made stark by the fact that 93% of Southwark households are eligible for affordable housing, or put another way, only 7% can fully afford the free-market housing which makes up nearly everything BL will be building on Canada Water.
+
+All this means Southwark Council must not give up the fight. BL's amendment is to the outline part of a hybrid planning permission and there will now be several more detailed planning applications, with the first including the 150 or so social rented homes that BL have committed to. Southwark Council must make it clear that this is not enough and that it expects the 35% affordable housing BL promised back in 2019. 
+
+\[IMAGE 93% bar chart]

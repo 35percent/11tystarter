@@ -119,7 +119,7 @@ Contrary to the GLA and BL's opinion there is a high need for family housing in 
 
 But the GLA and BL are obviously solely concerned with market housing, and here the lack of demand for family homes could be explained by its ultra-high cost - £1.48m for a new 3-bed, with 'Skyline view' [(The Founding, Canada Water](https://thefounding.co.uk/welcome-to-the-founding?gad_source=1&gad_campaignid=23463173207&gbraid=0AAAAApx85E5F26x6zql0fxu7YhsEHM3pI&gclid=EAIaIQobChMI6v69l9bvkwMVZ4BQBh0-PBBREAAYASAEEgJMr_D_BwE), accessed 15 April 2026).
 
-[^8] See [Canada Water Draft S106 Deed of Variation](<https://data.london.gov.uk/download/2z18q/d8w/Canada Water Draft S106 DoV.pdf>), Annex 2 for amount of studio flats. See [Southwark Plan 2022](<https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark Plan 2022 reduced 1.pdf>), Policy P2, New family homes, 1.7 for studio flat maximum.
+[^8] See [Canada Water Draft S106 Deed of Variation](<https://data.london.gov.uk/download/2z18q/d8w/Canada Water Draft S106 DoV.pdf>), 25/AP/0242, Annex 2 for amount of studio flats. See [Southwark Plan 2022](<https://www.southwark.gov.uk/sites/default/files/2024-09/Southwark Plan 2022 reduced 1.pdf>), Policy P2, New family homes, 1.7 for studio flat maximum.
 
 [^9] The figures are given in various parts of the [GLA Stage 3 report](<https://data.london.gov.uk/download/2z18q/995/Canada Water Stage 3 report.docx.pdf>) para 2ii - 150 units from next tranche of 1,000 homes; para 10, bullet nine - 79 social rent from Plot K1; para 200 - four social rented units, which were to have been eight intermediate units; para 199 - Zone L to be next phase.
 

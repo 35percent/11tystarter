@@ -118,3 +118,13 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 [^11] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 2.10.
 
 [^12] We have reported what was claimed at the time, notwithstanding that there is an obvious discrepancy between the increase in social rent of 400 units, in the total rise from 2,000 to 3,000 total units, while there is only a rise of 100 social rent units in the rise from 3,000 to 4,000 total units.
+
+[^13] The total floorspace limit is increased from 656,200sqm to 766,148sqm (16,75%). The cumulative zonal total is 837,400sqm (Para 25); zonal total exceeds scheme total (Para 26); removal of zonal use limits (Para 183).
+
+[^14] Para 26. The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%). 
+
+[^15] Para 390.
+
+[^16] The industry perspective can be found here - [London’s Homebuilding Crisis: Why Has Building in London Stalled?](<https://www.montagu-evans.co.uk/research/londons-homebuilding-crisis-why-has-building-in-london-stalled/#:~:text=1)%20Viability%20is%20severely%20challenged,headroom%20into%20estimates%20and%20prices.>).
+
+[^17] See BNPPariba's Canada Water Masterplan: Review of Viability and Affordable Housing Oveview, Dec 2018 for quotes. The second staircase requirement was introduced for [London in Feb 2023](https://www.thefpa.co.uk/fire-and-risk-management-journal/news/second-staircases-mandated-in-new-london-high-rises). The new Gateway 1 building regulation was introduced in August 2021. Gateways 2 and 3 came into force on Oct 2023.

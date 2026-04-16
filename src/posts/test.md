@@ -18,3 +18,7 @@ In addition, the mix of dwelling size has been further restricted to favour smal
 This major departure from Southwark's planning policy (which requires at least 20% family homes) is dismissed in a half-sentence by the GLA, who say it is justified because BL 'has identified insufficient demand' **[^6]**.
 
 Any balance in the mix of dwelling sizes is also tipped firmly towards smaller housing by BL retaining the original permission for 10% studio flats; all these must be free-market, but will, nonetheless, also be twice the Southwark Plan limit of 5% **[^7]**.
+
+### How many affordable homes have we lost?
+
+While BL have been given plenty of latitude in choosing what kind of residential housing they can build, their affordable housing obligations have been precisely limited. The new permission requires **just 233 social rented homes** - the 79 already built on Plot K1 (Roberts Close), four units not delivered on Plot A1 and 150 promised as part of the next tranche of 1,000 homes, to be built on Zone L [^8]. The small possibility of further affordable housing of any kind will then depend on viabilility reviews, mid-way through and at the end of the scheme.

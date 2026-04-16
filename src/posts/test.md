@@ -5,7 +5,7 @@ date: 2026-04-16T07:07:41.894Z
 ---
 London Mayor Sadiq Khan has approved the reduction of affordable housing on the giant Canada Water development, cutting it from 35% to 9%. Reviews of the viability of the scheme hold out the possibility of additional affordable housing, but with no guarantees **[^1]**. The application for the reduction, from developer British Land (BL), was approved by Deputy Mayor Jules Pipe (acting on the Mayor's behalf) on [27 March](https://webcasts.london.gov.uk/Mayoral/Event/Index/389f7074-88e3-46b0-ae1c-6c4032abfddd), after he heard representations from GLA and Southwark Council officers, objectors and British Land.
 
-Southwark Council had granted the original planning permission to BL in 2019/20, for 2,000 to 4,000 new homes, plus other uses and amenities. This permission required 35% affordable housing (25% social rented and 10% intermediate housing), which might have risen to 40%, with additional intermediate housing, if there were viability improvements **[^2].** At the beginning of last year BL made a s73 application to Southwark, to reduce the affordable housing requirement to 3% (while also increasing the height and density of the scheme). In November 2025, [BL referred the s73 application to the Mayor](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing), taking the decision out of Southwark's hands.
+Southwark Council had granted the original planning permission to BL in 2019/20, for 2,000 to 4,000 new homes, plus other uses and amenities. This permission required 35% affordable housing (25% social rented and 10% intermediate housing), which might have risen to 40%, with additional intermediate housing, if there were viability improvements**.** At the beginning of last year BL made a s73 application to Southwark, to reduce the affordable housing requirement to 3% (while also increasing the height and density of the scheme). In November 2025, [BL referred the s73 application to the Mayor](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing), taking the decision out of Southwark's hands  **[^2]**.
 
 ![](img/image_composite_160426.png)
 
@@ -99,9 +99,9 @@ All this means Southwark Council must not give up the fight for more affordable 
 
 Unless stated otherwise all references are to [GLA Stage 3 report](<https://data.london.gov.uk/download/2z18q/995/Canada Water Stage 3 report.docx.pdf>) (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026). Most of the planning documents can be found via [Southwark's Planning Register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning), using the planning reference numbers.
 
-[^1] Para 210
+[^1] Para 210. 
 
-[^2] [Planning committee report](<https://moderngov.southwark.gov.uk/documents/s84680/Report Land bounded by Lower Road Redriff Road Quebec Way and Surrey.pdf>), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019.
+[^2] For original permission details see [Planning committee report](<https://moderngov.southwark.gov.uk/documents/s84680/Report Land bounded by Lower Road Redriff Road Quebec Way and Surrey.pdf>), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019.  For proposed 3% affordble housing figure see [GLA Stage 3 report](<https://data.london.gov.uk/download/2z18q/995/Canada Water Stage 3 report.docx.pdf>), para 196-198
 
 [^3] [](<https://data.london.gov.uk/download/2z18q/995/Canada Water Stage 3 report.docx.pdf>)Para 2i.
 

@@ -86,3 +86,7 @@ All this means Southwark Council must not give up the fight. BL's amendment is t
 \---------------------------------------------------------------------------------------------------------------------
 
 **Footnotes**
+
+Unless stated otherwise all references are to [GLA Stage 3 report](<https://data.london.gov.uk/download/2z18q/995/Canada Water Stage 3 report.docx.pdf>) (GLA/2025/1006/S3, Southwark ref 25/AP/0242, 27 March 2026). Most of the planning documents can be found via [Southwark's Planning Register](https://www.southwark.gov.uk/planning-environment-and-building-control/planning/view-planning-register-and-comment-planning), using the planning reference numbers.
+
+[^1] [Planning committee report](<https://moderngov.southwark.gov.uk/documents/s84680/Report Land bounded by Lower Road Redriff Road Quebec Way and Surrey.pdf>), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019

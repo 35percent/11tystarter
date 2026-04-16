@@ -29,7 +29,7 @@ While BL have been given plenty of latitude in choosing what kind of residential
 
 Not knowing precisely how many homes will be built, of what type and size, and how many habitable rooms there will be, means we cannot say exactly how many we have lost by the reduction of the affordable housing percentage **[^10]**. We do know that the original 2019 planning committee report estimated that Canada Water would provide around 700 affordable homes (500 social rent, 200 intermediate) if the scheme was built to its minimum limit of 2,000 units. Making an estimate using the maximum number of 4,000 units results in about 1,400 affordable homes, of which 1,000 would be social rent and 400 intermediate housing **[^11]**.
 
-We can also use BL's own figures. Based on a total of around 3,000 homes, BL said that 'If a viable route to 35% affordable homes were identified, this would represent a total of 900 social rent homes and 400 intermediate homes.....' **[^12]**.
+We can also use BL's own figures. Based on a total of around 3,000 homes, BL said that *'If a viable route to 35% affordable homes were identified, this would represent a total of 900 social rent homes and 400 intermediate homes.....'* **[^12]**.
 
 Deducting the 233 social rented homes under the new permission from the promised social rent numbers gives various losses, depending on the total number of homes built - 267 lost, if 2,000 homes in total built; 667 lost, if 3,000 homes built, 767 lost if 4,000 built **[^13].** The actual loss will probably be at the higher end of the scale, given that BL are likely to build to the maximum number of homes allowed.
 
@@ -127,7 +127,7 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 
 [^11] [Planning committee report](<https://moderngov.southwark.gov.uk/documents/s84680/Report Land bounded by Lower Road Redriff Road Quebec Way and Surrey.pdf>), Chapter 9, Housing and Viability, pg 5, 18/AP/1604, 25 & 30 Sept 2019.  The report further says that *'Increases in housing delivery up to around 3,995 new homes would lead to a proportionate increase in affordable homes'.*
 
-[^12] Housing Statement Addendum and Financial Viability Assessment January 2025 QUOD, para 2.10.
+[^12] Quod, Housing Statement Addendum and Financial Viability Assessment, January 2025, para 2.10.
 
 [^13] We have reported what was claimed at the time, notwithstanding that there is an obvious discrepancy between the increase in social rent of 400 units, in the total rise from 2,000 to 3,000 total units, while there is only a rise of 100 social rent units in the rise from 3,000 to 4,000 total units.
 

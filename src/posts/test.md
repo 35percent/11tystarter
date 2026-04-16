@@ -134,3 +134,7 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 [^19] REF NEEDED.
 
 [^20] The Base Viability Assessment that is appended to the draft s106 agreement, with c9% affordable housing, gives a profit of£445.37m, measured as 7.47% GDV or 7.56% IRR. A BNPP assessment gives profits of £1.061bn (16.14% GDV; 11.13% IRR), for a scheme with c3% affordable housing and £1.062bn (16.17%;11.17%IRR) for one with c6% affordable housing.
+
+There was one advantage of BL's 2018 preferred strategy to Southwark, that 100% of any surplus would go towards additional affordable housing, after viability was reached. But this benefit was lost by the time the original planning permission was awarded and the proportion of the surplus going towards affordable housing was reduced to 60%.
+
+The one concession the GLA refused to make - BL wanted 17.5% IRR. See draft HoTs.

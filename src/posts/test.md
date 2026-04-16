@@ -84,3 +84,5 @@ All this means Southwark Council must not give up the fight. BL's amendment is t
 \[IMAGE 93% bar chart]
 
 \---------------------------------------------------------------------------------------------------------------------
+
+**Footnotes**

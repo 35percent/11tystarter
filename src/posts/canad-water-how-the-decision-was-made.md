@@ -1,5 +1,5 @@
 ---
-title: CanadaWater - How the decision was made
+title: Canada Water - How the decision was made
 description: Mayor puts viability above affordablility
 date: 2026-04-10T14:26:27.762Z
 ---

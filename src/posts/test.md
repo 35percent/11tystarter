@@ -75,7 +75,7 @@ BNPP said then that BL's approach *'....could result in the outline parts of the
 
 There is little hope that we will see much improvement in affordable housing from these reviews. Apart from leaving Southwark (and the Mayor) with little negotiating power, their formulaic nature, as BNPP warned, strictly limits the possibility of additional affordable and family housing.
 
-First, the reviews will only cover the residential element of the development, which leaves the 40% or so less than half the floorspace, so any uplift in the value and profit of the approximately 40% non-residential part of the scheme will not be captured. Secondly, the amount of additional affordable housing is capped at 40% - just 5% more than the minimum required by the Southwark Plan, and 10% below both the Mayor's and Southwark's strategic affordable housing target **[^21]**.
+First, the reviews will only cover the residential element of the development, so any uplift in the value and profit of the approximately 40% non-residential part of the scheme will not be captured. Secondly, the amount of additional affordable housing is capped at 40% - just 5% more than the minimum required by the Southwark Plan, and 10% below both the Mayor's and Southwark's strategic affordable housing target **[^21]**.
 
 Thirdly, Southwark will only get 60% of any surplus for additional affordable housing, with 40% remaining with BL. Fourth, there will be no surplus until BL hit their profit target. The target under the original planning permission was 16% GDV (Gross Development Value), now amended to 15% IRR (Internal Rate of Return). This looks lower at first glance, but a close look at the figures shows that this is probably not so, and that BL will make **at least £1bn in profit** before they are required to provide for a single extra affordable home **[^22]**.
 
@@ -135,7 +135,7 @@ But the GLA and BL are obviously solely concerned with market housing, and here 
 
 [^15] B3 increases by 3 storeys (to 45 storeys); C1 by one and 13 storeys (to 35) ; D2 by 8 storeys (to 49); D6 by 5 storeys (to 12); F1 by 12 storeys (to 46); F2 by 6 storeys (to 38); F3 by 3 storeys (to 12); G1 by 8 storeys (35); J by 4 storeys (across a multi-block of 6,15,10 storeys); H3 by 1 floor (to 8).  Building A1 remains at 35 storeys.  [GLA Stage 3 report](<https://data.london.gov.uk/download/2z18q/995/Canada Water Stage 3 report.docx.pdf>) Para 24 image and Housing Statement Addendum and Financial Viability Assessment, January 2025 QUOD, Appendix A, pg 43, 25/AP/0242,
 
-\[16]Para 26. The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%).  The total floorspace cap is increased to 766,148sqm, making residential 62% of total, if both built to the maximum floorspace allowed.
+\[16] Para 26. The residential floorspace limit is increased from 331,500sqm to 472,600sqm (42.56%).  The total floorspace cap is increased to 766,148sqm, making residential 62% of total, if both built to the maximum floorspace allowed.
 
 [^17] Para 390.
 

@@ -85,7 +85,7 @@ It is also very unlikely that BL will build any additional affordable housing wi
 
 It is not surprising that BL have responded to the current bad economic conditions and the costs of new safety regulations, by building bigger and higher, and shedding affordable and family housing. The fault lies with the Mayor for accepting that the circumstances of the moment, however bad they are, justify these reductions. Canada Water is a multi-phase scheme that is not due to be completed, optimistically, until 2033 **[^24]**.  Any reduction in affordable housing, if needed at all, should be short term. That is the aim of the [Mayor's 'emergency measures'](https://www.london.gov.uk/media/112374/download?attachment), which have just cut the affordable housing requirement to 20% for two years. This is supposed to unlock 'stalled schemes', like Canada Water, but if it does so, the price will be a permanent loss of affordable and family housing **[^25]**.
 
-BL are also able to get an even greater affordable housing cut, to 9%, by taking full advantage of viability assessments. These have also left Southwark with little realistic chance of reaping the benefit of any economic improvement by way of viability reviews.
+BL are also able to get an even greater affordable housing cut, to 9%, by taking full advantage of viability assessments. These have also left Southwark with little realistic chance of reaping the benefit of any economic improvement, by way of viability reviews.
 
 The impact of these losses is made stark by the fact that 93% of Southwark households are eligible for affordable housing, or, put another way, only 7% of households can fully afford free-market housing, which is just about all we are getting from BL on Canada Water **[^26]**.
 

@@ -35,7 +35,7 @@ Deducting the 233 social rented homes under the new permission from the promised
 
 ![](img/table_loss_of_affordable_housing_100426.png)
 
-### More floorspace, 64 extra floors, but not many more homes
+### More floorspace, 64 extra storeys, but not many more homes
 
 While the affordable housing has plummeted, the size, height and density of the development has increased. The scheme is divided into 13 zones, ten of the zones will have housing and BL have been permitted to increase the individual floorspaces for seven of these. The cumulative floorspace for all the zones now exceeds that of the limit for the whole scheme (which has also increased), though BL will not be allowed to build beyond the whole scheme limit. Separate from the increases in floorspace, the zonal caps on specific land usage, ie the limits to the types of buildings allowed in each zone, has been removed. By these arrangements BL are afforded *'.. flexibility in the quantum of development that comes forward... in each Zone'* **[^14]**.
 

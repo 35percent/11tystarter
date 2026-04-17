@@ -89,7 +89,7 @@ BL are also able to get an even greater affordable housing cut, to 9%, by taking
 
 The impact of these losses is made stark by the fact that 93% of Southwark households are eligible for affordable housing, or, put another way, only 7% of households can fully afford free-market housing, which is just about all we are getting from BL on Canada Water **[^26]**.
 
-All this means Southwark Council must not give up the fight for more affordable and family housing.  BL's amendment is to the outline part of a hybrid planning permission and there will now be several more detailed planning applications, with the first including the 150 or so social rented homes still promised by BL.  Southwark Council must make it clear that this is not enough and that it expects the 35% affordable housing BL promised back in 2019. 
+All this means Southwark Council must not give up the fight for more affordable and family housing.  BL's amendment is to the outline part of a hybrid planning permission and there will now be several more detailed planning applications, with the first including the remaining 150 or so social rented homes.  Southwark Council must make it clear that this is not enough and that it expects the 35% affordable housing BL promised back in 2019. 
 
 ![](img/fig_2_housing_affordability_in_southwark_2018_southwark_plan_2022.png)
 

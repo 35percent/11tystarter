@@ -57,7 +57,7 @@ The GLA had also considered the harm to London's views, giving it *'considerable
 
 ### What we say...
 
-Southwark Council gave British Land planning permission for what is probably its biggest ever development in large part because it promised to provide hundreds of affordable and family homes. BL have now broken that promise in cynical fashion.
+Southwark Council gave British Land planning permission for what is its biggest ever development in large part because it promised to provide hundreds of affordable and family homes. BL have now broken that promise in cynical fashion.
 
 BL's justification for going back on its word is twofold - part site-specific and part relating to the wider economic headwinds, concluding with the usual developer complaint that what was promised is no longer 'viable'. The site itself is constrained, BL say, because it must not impinge on important London views, limiting building heights and size; they also have a lot of upfront infrastructure costs, without the prospect of any immediate returns. This may all be true, but it was equally true back in 2019, when BL nonetheless felt able to promise 35% affordable housing (when it needed to get planning permission). 
 

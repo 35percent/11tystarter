@@ -1,13 +1,14 @@
 ---
-title: Canada Water's huge loss of affordable housing
-description: "Mayor approves British Land amendment "
-date: 2026-04-16T07:07:41.894Z
+title: "Canada Water's huge loss of affordable housing"
+description: "Mayor approves British Land amendment"
+date: 2026-04-16
+image: img/cwateraerial.jpeg
 ---
 London Mayor Sadiq Khan has approved the reduction of affordable housing on the giant Canada Water development, cutting it from 35% to 9%. Reviews of the viability of the scheme hold out the possibility of additional affordable housing, but with no guarantees **[^1]**. The application for the reduction, from developer British Land (BL), was approved by Deputy Mayor Jules Pipe (acting on the Mayor's behalf) on [27 March](https://webcasts.london.gov.uk/Mayoral/Event/Index/389f7074-88e3-46b0-ae1c-6c4032abfddd), after he heard representations from GLA and Southwark Council officers, objectors and British Land.
 
 Southwark Council had granted the original planning permission to BL in 2019/20, for 2,000 to 4,000 new homes, plus other uses and amenities. This permission required 35% affordable housing (25% social rented and 10% intermediate housing), which might have risen to 40%, with additional intermediate housing, if there were viability improvements**.** At the beginning of last year BL made a s73 application to Southwark, to reduce the affordable housing requirement to 3% (while also increasing the height and density of the scheme). In November 2025, [BL referred the s73 application to the Mayor](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/canada-water-masterplan-public-hearing), taking the decision out of Southwark's hands **[^2]**.
 
-![](img/image_composite_160426.png)
+![canada water image](https://35percent.org/img/image_composite_160426.png)
 
 ### How many family homes have we lost?
 
@@ -21,7 +22,7 @@ This major departure from Southwark's planning policy (which requires at least 2
 
 Any balance in the mix of dwelling sizes is also tipped firmly towards smaller housing by BL retaining the original permission for 10% studio flats; all these must be free-market, but will, nonetheless, also be twice the Southwark Plan limit of 5% **[^8]**.
 
-![](img/family_housing_image_100426.png)
+![](https://35percent.org/img/family_housing_image_100426.png)
 
 ### How many affordable homes have we lost?
 
@@ -33,7 +34,7 @@ We can also use BL's own figures. Based on a total of around 3,000 homes, BL sai
 
 Deducting the 233 social rented homes under the new permission from the promised social rent numbers gives various losses, depending on the total number of homes built - 267 lost, if 2,000 homes in total built; 667 lost, if 3,000 homes built, 767 lost if 4,000 built **[^13].** The actual loss will probably be at the higher end of the scale, given that BL are likely to build to the maximum number of homes allowed.
 
-![](img/table_loss_of_affordable_housing_100426.png)
+![](https://35percent.org/img/table_loss_of_affordable_housing_100426.png)
 
 ### More floorspace, 64 extra storeys, but not many more homes
 
@@ -43,7 +44,7 @@ These changes come in the shape of an extraordinary total of 64 extra storeys, a
 
 The residential floorspace itself makes up about 60% of the total floorspace.  Most of the gain in floorspace is being used to accommodate a second staircase, as required by new building-safety regulations, post Grenfell, so there will only be a relatively small increase in housing, of about 189 units **[^16]**.
 
-![](img/canada_water_increase_in_floors_gla_stage_1_25ap0242.png)
+![](https://35percent.org/img/canada_water_increase_in_floors_gla_stage_1_25ap0242.png)
 
 ### Local councillors and Southwark Council object
 
@@ -69,7 +70,7 @@ And in fact BL have never really wanted to commit to delivering either 35%, or a
 
 BNPP said then that BL's approach *'....could result in the outline parts of the scheme providing no affordable housing at all'* and cautioned the Council about *'..their lack of ability to negotiate the level of affordable housing at the review stages, as the review structure is likely to be formulaic'*. Southwark evidently took heed of BNPP's advice and only gave the original planning permission on the promise of 35% affordable housing. Now, though, in 2026, after the Mayor's decision, BL have their 2018 'preferred strategy' back in place and the only increase in affordable housing beyond 9% depends upon viability reviews **[^20]**.
 
-![](img/bnpp_fva_appraisal_dec_2018.png)
+![](https://35percent.org/img/bnpp_fva_appraisal_dec_2018.png)
 
 ### ...but strengthen their grip...
 
@@ -91,7 +92,7 @@ The impact of these losses is made stark by the fact that 93% of Southwark house
 
 All this means Southwark Council must not give up the fight for more affordable and family housing.  BL's amendment is to the outline part of a hybrid planning permission and there will now be several more detailed planning applications, with the first including the remaining 150 or so social rented homes.  Southwark Council must make it clear that this is not enough and that it expects the 35% affordable housing BL promised back in 2019. 
 
-![](img/fig_2_housing_affordability_in_southwark_2018_southwark_plan_2022.png)
+![](https://35percent.org/img/fig_2_housing_affordability_in_southwark_2018_southwark_plan_2022.png)
 
 \---------------------------------------------------------------------------------------------------------------------
 

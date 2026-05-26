@@ -57,7 +57,13 @@ Before decision - [](https://www.youtube.com/watch?v=SUTKtOObbec&t=1s)<https://w
 
 Moving chains - <https://www.linkedin.com/posts/britain-remade_moving-chains-are-good-for-everyone-activity-7462416219225366528-W8Vq>
 
+Homes for All - <https://www.axethehousingact.org.uk/news/peckham-is-not-for-sale-landmark-victory-as-aylesham-centre-application-refused/>
+
 ### Beware Viability!
+
+Hypnotised by viability
+
+More profit, less affordable housing
 
 Viability is not definitive; based on values and assumptions; long-term predictions that will ultimately bear little relationship to reality. NAO report.  Peter Apps article
 

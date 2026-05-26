@@ -55,7 +55,7 @@ Southwark Council - <https://www.southwark.gov.uk/news/2026/aylesham-centre-plan
 
 Before decision - [](https://www.youtube.com/watch?v=SUTKtOObbec&t=1s)<https://www.youtube.com/watch?v=SUTKtOObbec&t=1s>
 
-Moving chains - <https://www.linkedin.com/posts/britain-remade_moving-chains-are-good-for-everyone-activity-7462416219225366528-W8Vq>
+Moving chains - <https://www.linkedin.com/posts/britain-remade_moving-chains-are-good-for-everyone-activity-7462416219225366528-W8Vq> - version of trickle down. The inherent insult of expecting people at the lower end of the income scale to wait until eveyone else has been satisfactorily housed before they get the chance of a decent home seems to pass them by.
 
 Homes for All - <https://www.axethehousingact.org.uk/news/peckham-is-not-for-sale-landmark-victory-as-aylesham-centre-application-refused/>
 

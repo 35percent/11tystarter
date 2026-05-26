@@ -37,6 +37,8 @@ Looking For Growth - <https://www.instagram.com/reel/DYjUDVWsX3I/?utm_source=ig_
 
 Southwark News
 
+My London - <https://www.mylondon.news/news/south-london-news/great-day-peckham-aylesham-centre-33973144>
+
 GB News <https://www.gbnews.com/money/peckahm-home-development-berkeley-group-block>
 
 FT <https://www.ft.com/content/8ef649f8-0fea-47fb-8044-e08e3176956c?syn-25a6b1a6=1>
@@ -49,7 +51,11 @@ MSN - <https://www.msn.com/en-gb/money/other/london-housebuilder-warns-capital-i
 
 Southwark Labour -     <https://www.instagram.com/p/DYpAbj3iIqm/?img_index=5>
 
+Southwark Council - <https://www.southwark.gov.uk/news/2026/aylesham-centre-plans-are-dismissed-statement-southwark-council>
+
 Before decision - [](https://www.youtube.com/watch?v=SUTKtOObbec&t=1s)<https://www.youtube.com/watch?v=SUTKtOObbec&t=1s>
+
+Moving chains - <https://www.linkedin.com/posts/britain-remade_moving-chains-are-good-for-everyone-activity-7462416219225366528-W8Vq>
 
 ### Beware Viability!
 

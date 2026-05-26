@@ -10,3 +10,5 @@ This followed Southwark Council advising Berkeley that their scheme that was unl
 Peckham Heritage  - [Rye Lane Peckham Conservation Area](https://peckhamheritage.org.uk/rye-lane-peckham-conservation-area/)
 
 Peter Apps - <https://www.thedeveloper.live/reportage/reportage/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing>
+
+NAO - <https://www.nao.org.uk/reports/improving-local-areas-through-developer-funding/#downloads>

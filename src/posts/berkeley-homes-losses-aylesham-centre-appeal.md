@@ -7,7 +7,7 @@ Berkeley Homes planning application for the redevelopment of Peckham's Aylesham 
 
 Berkeley's appeal followed a [reduction in their affordable housing offer from 35% to 12%](https://www.southwark.gov.uk/news/2024/statement-berkeley-homes-affordable-housing-offer-aylesham-centre), prompting Southwark to advise them in May 2025 that the development no longer provided enough public benefit, in the shape of affordable housing, to outweigh the harm it would do to the local heritage.  Southwark's planning committee duly [rejected the application](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/) and [set the grounds for a defence](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) of its position last July.
 
-
+Mr Shrigley also rejected [an application for costs](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/d4/fd/d4fd49f3-7007-422f-95c7-326390ab564d/1226_appellant_costs_application_final.pdf), made by Berkeleys, against Southwark 
 
 
 

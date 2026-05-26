@@ -13,6 +13,8 @@ Mr Shrigley also rejected [an application for costs](https://gat04-live-1517c8a4
 
 Three issues decided the appeal -  
 
+Lack of family housing
+
 ### How the decision was won
 
 While Berkeley lost its appeal as the result of a formal hearing, in which ACA played 

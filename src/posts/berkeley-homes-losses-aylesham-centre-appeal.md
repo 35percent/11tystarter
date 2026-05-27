@@ -67,6 +67,8 @@ Homes for All - <https://www.axethehousingact.org.uk/news/peckham-is-not-for-sal
 
 ### Beware Viability!
 
+Appellant PoE Viability -[ https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer*public/b5/38/b5384991-e74b-41aa-b85f-40c3b8e88076/cd0809_appellant*-_viability_proof_of_evidence_of_pascal_levine.pdf](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/b5/38/b5384991-e74b-41aa-b85f-40c3b8e88076/cd0809_appellant_-_viability_proof_of_evidence_of_pascal_levine.pdf)
+
 Hypnotised by viability
 
 More profit, less affordable housing

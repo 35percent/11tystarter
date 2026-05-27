@@ -15,6 +15,8 @@ Aylesham Gateley Home - <https://gateleyhamer-pi.com/en-gb/aylesham-centre/>
 
 ACA Statement of Case - <https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/81/87/8187ca13-3c38-4ad7-8ab3-65f781049fb3/cd-0803_aylesham_community_action_group_soc.pdf>
 
+
+
 Three issues decided the appeal -  
 
 Lack of family housing
@@ -79,7 +81,7 @@ Appellant PoE Viability -[ https://gat04-live-1517c8a4486c41609369c68f30c8-aa810
 
 Rebuttal Letter, 3 April 2025 - <https://planning.southwark.gov.uk/online-applications/files/4C6414DBD6D6EAC466718853DEC7683F/pdf/24_AP_2074-APPLICANT_S_REBUTTAL_TO_GLA_AND_BPS_COMMENTS-4043393.pdf>
 
-
+Appellant Rebuttal PoE Levine - [https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer*public/ef/c8/efc896be-4692-4658-8fdc-c8aca658a9ab/825_appellant*-_rebuttal_proof_on_viability_with_appendices.pdf](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/ef/c8/efc896be-4692-4658-8fdc-c8aca658a9ab/825_appellant_-_rebuttal_proof_on_viability_with_appendices.pdf)
 
 ### What next?
 
@@ -101,7 +103,7 @@ On the other hand, defenders of free-market housing are are taking their cue fro
 
 SHELTER correctly identifies this as 'trickle down' housing, where those at the bottom end of the market depend upon wealthier households moving into new properties, freeing up their own homes for others.  SHELTER point out that relying on market supply, whether it be the viability-vulnerable cross-subsidy model, or trickle down has been part of the problem and not a solution now.
 
- SHELTER -
+ SHELTER - Build Up, Not Trickle Down
 
 [https://assets.ctfassets.net/6sxvmndnpn0s/4q9RRsKTaXtRTN3FADtIzR/0fba0d15f051f030f27231359bd5d387/Build*Up_Not_Trickle_Down*-_The_Case_for_Need-Led_Housing_Policy.pdf](https://assets.ctfassets.net/6sxvmndnpn0s/4q9RRsKTaXtRTN3FADtIzR/0fba0d15f051f030f27231359bd5d387/Build_Up_Not_Trickle_Down_-_The_Case_for_Need-Led_Housing_Policy.pdf)
 

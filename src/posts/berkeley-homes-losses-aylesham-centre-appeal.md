@@ -65,11 +65,13 @@ Moving chains - <https://www.linkedin.com/posts/britain-remade_moving-chains-are
 
 Homes for All - <https://www.axethehousingact.org.uk/news/peckham-is-not-for-sale-landmark-victory-as-aylesham-centre-application-refused/>
 
-### Beware Viability!
+### Viability Alert!
 
 Appellant PoE Viability -[ https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer*public/b5/38/b5384991-e74b-41aa-b85f-40c3b8e88076/cd0809_appellant*-_viability_proof_of_evidence_of_pascal_levine.pdf](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/b5/38/b5384991-e74b-41aa-b85f-40c3b8e88076/cd0809_appellant_-_viability_proof_of_evidence_of_pascal_levine.pdf)
 
-While Southwark and Berkeley agreed that the scheme is not viable with 35% affordable housing, they did not agree about the size of the deficit or profit.  As Berkeley noted in their evidence to the hearingSouthwark calculated the deficit at  £41m, while Berkeley settled on £67m
+Rebuttal Letter, 3 April 2025 - <https://planning.southwark.gov.uk/online-applications/files/4C6414DBD6D6EAC466718853DEC7683F/pdf/24_AP_2074-APPLICANT_S_REBUTTAL_TO_GLA_AND_BPS_COMMENTS-4043393.pdf>
+
+While Southwark and Berkeley agreed that the scheme is not viable with 35% affordable housing, they did not agree about the size of the deficit or profit.  As Berkeley noted in their evidence to the hearing Southwark calculated the deficit at  £41m, while Berkeley settled on £67m \[Appellant PoE, Viability, 5.3].  Berkeley also noted that while there was a viability deficit, it would still make a profit, though *'not one at the level agreed*'. \[Appellant PoE Viability2.15].  In fact the profit would be £39,348,927, or 7% GDV (Gross Development Value) , but not meeting the agreed profit target of 19.75% GDV \[Rebuttal letter, 3 April 2025 Table 3&4]
 
 l deficit of £67 million according to my appraisal and £41 million according to the Council’s own figure
 

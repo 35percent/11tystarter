@@ -99,6 +99,12 @@ The view that the cross-subsidy model, where building public housing depends upo
 
 On the other hand, defenders of free-market housing are are taking their cue from the government's 'build, build, build' mantra.  They are promoting the idea that it does not matter whether affordable housing is built or not, because building any housing, as long as there is enough of it, will, by the magic of the market, produce more affordable housing.  This will happen through the 'moving chain' or 'filter' effect.  A entertaining video explanation, seemingly aimed at 5-year olds, can be found[ here](https://www.linkedin.com/posts/britain-remade_moving-chains-are-good-for-everyone-activity-7462416219225366528-W8Vq).  More seriously, it seems to be an idea that the GLA also subscribes to, though it has not found its way into any of the Mayor's policies -   [https://cdn-wp.datapress.cloud/london/20231201135941/The-affordability-impacts-of-new-housing-supply-GLA-Housing-Research-Note.pdf ](https://cdn-wp.datapress.cloud/london/20231201135941/The-affordability-impacts-of-new-housing-supply-GLA-Housing-Research-Note.pdf)
 
+SHELTER correctly identifies this as 'trickle down' housing, where those at the bottom end of the market depend upon wealthier households moving into new properties, freeing up their own homes for others.  SHELTER point out that relying on market supply, whether it be the viability-vulnerable cross-subsidy model, or trickle down has been part of the problem and not a solution now.
+
+ SHELTER -
+
+[https://assets.ctfassets.net/6sxvmndnpn0s/4q9RRsKTaXtRTN3FADtIzR/0fba0d15f051f030f27231359bd5d387/Build*Up_Not_Trickle_Down*-_The_Case_for_Need-Led_Housing_Policy.pdf](https://assets.ctfassets.net/6sxvmndnpn0s/4q9RRsKTaXtRTN3FADtIzR/0fba0d15f051f030f27231359bd5d387/Build_Up_Not_Trickle_Down_-_The_Case_for_Need-Led_Housing_Policy.pdf)
+
 
 
 this which allows how useless the present system cross-subsidy is for providing affordable housing is;  this depends on cross-subsidy 

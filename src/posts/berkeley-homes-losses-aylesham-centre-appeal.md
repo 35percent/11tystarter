@@ -13,7 +13,7 @@ Mr Shrigley also rejected [an application for costs](https://gat04-live-1517c8a4
 
 Aylesham Gateley Home - <https://gateleyhamer-pi.com/en-gb/aylesham-centre/>
 
-Appellant Statement of Case - <https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/81/87/8187ca13-3c38-4ad7-8ab3-65f781049fb3/cd-0803_aylesham_community_action_group_soc.pdf>
+ACA Statement of Case - <https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/81/87/8187ca13-3c38-4ad7-8ab3-65f781049fb3/cd-0803_aylesham_community_action_group_soc.pdf>
 
 Three issues decided the appeal -  
 

@@ -73,9 +73,7 @@ Rebuttal Letter, 3 April 2025 - <https://planning.southwark.gov.uk/online-applic
 
 While Southwark and Berkeley agreed that the scheme is not viable with 35% affordable housing, they did not agree about the size of the deficit or profit.  As Berkeley noted in their evidence to the hearing Southwark calculated the deficit at  £41m, while Berkeley settled on £67m \[Appellant PoE, Viability, 5.3].  Berkeley also noted that while there was a viability deficit, it would still make a profit, though *'not one at the level agreed*'. \[Appellant PoE Viability2.15].  In fact the profit would be £39,348,927, or 7% GDV (Gross Development Value) , but not meeting the agreed profit target of 19.75% GDV \[Rebuttal letter, 3 April 2025 Table 3&4]
 
-l deficit of £67 million according to my appraisal and £41 million according to the Council’s own figure
 
-<!--EndFragment--> 
 
 Hypnotised by viability
 

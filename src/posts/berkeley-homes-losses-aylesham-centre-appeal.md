@@ -83,7 +83,7 @@ NAO - <https://www.nao.org.uk/reports/improving-local-areas-through-developer-fu
 
 ### What we say....
 
-While the Aylesham decision is hugely welcome and a testament to dedicated campaign it is troubling that the Inspector pretty much accepted Berkeley Homes entire viability argument.  The grip of viability on planning decision making also meant that Southwark Council felt obliged to broadly agree with Berkeley, that the scheme was not viable with 35% affordable housing (the amount required by the local plan). ACA, as the Rule 6 party, raised  and the Council Rule argued that 
+While the Aylesham decision is hugely welcome and a testament to dedicated campaign we must recognise that the Inspector pretty much accepted Berkeley Homes entire viability argument.  The grip of viability on planning decision making also meant that Southwark Council felt obliged to broadly agree with Berkeley, that the scheme was not viable with 35% affordable housing (the amount required by the local plan). ACA, as the Rule 6 party, raised  and the Council Rule argued that 
 
 The reaction to the Aylesham decision has exposed how useless the present system cross-subsidy is for providing affordable housing is;  this depends on cross-subsidy 
 

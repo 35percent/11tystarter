@@ -3,7 +3,7 @@ title: Berkeley Homes losses Aylesham Centre appeal
 description: "Inspector cites harm to local heritage as "
 date: 2026-05-26T08:28:18.254Z
 ---
-As has been [widely reported](https://southwarknews.co.uk/area/peckham/aylesham-centre-redevelopment-rejected-it-would-have-changed-peckhams-skyline-forever-and-given-12-per-cent-affordable-housing/), [^x] Berkeley Homes planning application for the redevelopment of Peckham's Aylesham Centre has been rejected by a government inspector.  The Inspector, Matthew Shrigley, was appointed by the Secretary of State for housing, to hear Berkeley's appeal against a 'non-determination' of the application by Southwark Council.  His [decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) comes after a ten day hearing, held last October and November.  Southwark Council and local campaign group Aylesham Community Action (ACA) both appeared at the hearing opposing Berkeley's scheme.
+As has been [widely reported](https://southwarknews.co.uk/area/peckham/aylesham-centre-redevelopment-rejected-it-would-have-changed-peckhams-skyline-forever-and-given-12-per-cent-affordable-housing/), [^x] Berkeley Homes planning application for the redevelopment of Peckham's Aylesham Centre has been rejected by a government inspector.  The Inspector, Matthew Shrigley, was appointed by the Secretary of State for housing, to hear Berkeley's appeal against a 'non-determination' of the application by Southwark Council.  His [decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) comes after a ten day inquiry, held last October and November.  Southwark Council and local campaign group Aylesham Community Action (ACA) both appeared at the inquiry opposing Berkeley's scheme.
 
 Berkeley's appeal followed a [reduction in their affordable housing offer from 35% to 12%](https://www.southwark.gov.uk/news/2024/statement-berkeley-homes-affordable-housing-offer-aylesham-centre), prompting Southwark to advise them in May 2025 that the development no longer provided enough public benefit, in the shape of affordable housing, to outweigh the harm it would do to the local heritage.  Southwark's planning committee duly [rejected the application](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/) and [set the grounds for a defence](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) of its position last July.
 
@@ -68,6 +68,12 @@ Homes for All - <https://www.axethehousingact.org.uk/news/peckham-is-not-for-sal
 ### Beware Viability!
 
 Appellant PoE Viability -[ https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer*public/b5/38/b5384991-e74b-41aa-b85f-40c3b8e88076/cd0809_appellant*-_viability_proof_of_evidence_of_pascal_levine.pdf](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/b5/38/b5384991-e74b-41aa-b85f-40c3b8e88076/cd0809_appellant_-_viability_proof_of_evidence_of_pascal_levine.pdf)
+
+While Southwark and Berkeley agreed that the scheme is not viable with 35% affordable housing, they did not agree about the size of the deficit or profit.  As Berkeley noted in their evidence to the hearingSouthwark calculated the deficit at  £41m, while Berkeley settled on £67m
+
+l deficit of £67 million according to my appraisal and £41 million according to the Council’s own figure
+
+<!--EndFragment--> 
 
 Hypnotised by viability
 

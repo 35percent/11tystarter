@@ -67,19 +67,17 @@ Homes for All - <https://www.axethehousingact.org.uk/news/peckham-is-not-for-sal
 
 ### Viability Alert!
 
+The Inspector did not find against Berkeley about the viability of the scheme. He agreed that a viable scheme could only provide 0% affordable housing and noted that this was not contested by Southwark or the Rule 6 party \[REF].
+
+While Southwark and Berkeley agreed that the amended scheme is not viable with 12% affordable housing, they did not agree about the size of the deficit or profit.  As Berkeley noted in their evidence to the hearing Southwark calculated the deficit at  £41m, while Berkeley settled on £67m \[Appellant PoE, Viability, 5.3].  Berkeley also noted that while there was a viability deficit, it would still make a profit, though *'not one at the level agreed*'. \[Appellant PoE Viability2.15].  In fact the profit would be £39,348,927, or 7% GDV (Gross Development Value), but would not meeting the agreed profit target of 19.75% GDV \[Rebuttal letter, 3 April 2025 Table 3&4].
+
+These differences serve to show that viability conclusions are not definitive.  They are based on contested values and long term assumptions that may not prove to be true.  The point is re-inforced by the sensitivity table at the end of the viability assessment for the amended scheme (with 12% affordable housing).  This gives losses/profits ranging from -£73.14m to +£145.12m, depending upon the relative movement of costs versus revenue, over the course of the development.
+
 Appellant PoE Viability -[ https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer*public/b5/38/b5384991-e74b-41aa-b85f-40c3b8e88076/cd0809_appellant*-_viability_proof_of_evidence_of_pascal_levine.pdf](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/b5/38/b5384991-e74b-41aa-b85f-40c3b8e88076/cd0809_appellant_-_viability_proof_of_evidence_of_pascal_levine.pdf)
 
 Rebuttal Letter, 3 April 2025 - <https://planning.southwark.gov.uk/online-applications/files/4C6414DBD6D6EAC466718853DEC7683F/pdf/24_AP_2074-APPLICANT_S_REBUTTAL_TO_GLA_AND_BPS_COMMENTS-4043393.pdf>
 
-While Southwark and Berkeley agreed that the scheme is not viable with 35% affordable housing, they did not agree about the size of the deficit or profit.  As Berkeley noted in their evidence to the hearing Southwark calculated the deficit at  £41m, while Berkeley settled on £67m \[Appellant PoE, Viability, 5.3].  Berkeley also noted that while there was a viability deficit, it would still make a profit, though *'not one at the level agreed*'. \[Appellant PoE Viability2.15].  In fact the profit would be £39,348,927, or 7% GDV (Gross Development Value) , but not meeting the agreed profit target of 19.75% GDV \[Rebuttal letter, 3 April 2025 Table 3&4]
 
-
-
-Hypnotised by viability
-
-More profit, less affordable housing
-
-Viability is not definitive; based on values and assumptions; long-term predictions that will ultimately bear little relationship to reality. NAO report.  Peter Apps article
 
 ### What next?
 

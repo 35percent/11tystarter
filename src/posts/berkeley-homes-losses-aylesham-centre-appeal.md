@@ -65,11 +65,13 @@ Moving chains - <https://www.linkedin.com/posts/britain-remade_moving-chains-are
 
 Homes for All - <https://www.axethehousingact.org.uk/news/peckham-is-not-for-sale-landmark-victory-as-aylesham-centre-application-refused/>
 
+Miatta Fahnbullah
+
 ### Viability Alert!
 
 The Inspector did not find against Berkeley about the viability of the scheme. He agreed that a viable scheme could only provide 0% affordable housing and noted that this was not contested by Southwark or the Rule 6 party \[REF].
 
-While Southwark and Berkeley agreed that the amended scheme is not viable with 12% affordable housing, they did not agree about the size of the deficit or profit.  As Berkeley noted in their evidence to the hearing Southwark calculated the deficit at  £41m, while Berkeley settled on £67m \[Appellant PoE, Viability, 5.3].  Berkeley also noted that while there was a viability deficit, it would still make a profit, though *'not one at the level agreed*'. \[Appellant PoE Viability2.15].  In fact the profit would be £39,348,927, or 7% GDV (Gross Development Value), but would not meeting the agreed profit target of 19.75% GDV \[Rebuttal letter, 3 April 2025 Table 3&4].
+But while Southwark and Berkeley agreed that the amended scheme is not viable with 12% affordable housing, they did not agree about the size of the deficit or profit.  As Berkeley noted in their evidence to the hearing Southwark calculated the deficit at  £41m, while Berkeley settled on £67m \[Appellant PoE, Viability, 5.3].  Berkeley also noted that while there was a viability deficit, it would still make a profit, though *'not one at the level agreed*'. \[Appellant PoE Viability2.15].  In fact the profit would be £39,348,927, or 7% GDV (Gross Development Value), but would not meeting the agreed profit target of 19.75% GDV \[Rebuttal letter, 3 April 2025 Table 3&4].
 
 These differences serve to show that viability conclusions are not definitive.  They are based on contested values and long term assumptions that may not prove to be true.  The point is re-inforced by the sensitivity table at the end of the viability assessment for the amended scheme (with 12% affordable housing).  This gives losses/profits ranging from -£73.14m to +£145.12m, depending upon the relative movement of costs versus revenue, over the course of the development.
 
@@ -89,9 +91,17 @@ NAO - <https://www.nao.org.uk/reports/improving-local-areas-through-developer-fu
 
 ### What we say....
 
-While the Aylesham decision is hugely welcome and a testament to dedicated campaign we must recognise that the Inspector pretty much accepted Berkeley Homes entire viability argument.  The grip of viability on planning decision making also meant that Southwark Council felt obliged to broadly agree with Berkeley, that the scheme was not viable with 35% affordable housing (the amount required by the local plan). ACA, as the Rule 6 party, raised  and the Council Rule argued that 
+While the Aylesham decision is hugely welcome and a testament to a dedicated campaign, we must recognise that the Inspector accepted Berkeley Homes entire viability argument.  The grip of viability on planning decision making also meant that Southwark Council felt obliged to broadly agree with Berkeley, that the scheme was not viable with 35% affordable housing (the amount required by the local plan). ACA, as the Rule 6 party, also felt unable to contest the viability assessment head-on, and instead raised these points......
 
-The reaction to the Aylesham decision has exposed how useless the present system cross-subsidy is for providing affordable housing is;  this depends on cross-subsidy 
+The reaction to the Aylesham decision has exposed the chasm there is between those who only have to hear that a scheme is 'unviable' to insist that affordable housing must be dropped, without much further thought, and those who think that a system that allows development just for the sake of developer profit, without regard for who can afford to live in any new homes, is an irrational, unfair and unjust system.  35% Campaign is in the latter camp.
+
+The view that the cross-subsidy model, where building public housing depends upon building private housing, is broken is now becoming a pretty widespread.  SHELTER, Peter Apps report
+
+Defenders of free-market housing are also coming to the same realisation.  They are taking their cue from the government's 'build, build, build' mantra, and promoting the idea that it does not matter whether affordable housing is built or not, because just building any    housing, as long as there is enough of it will, by the magic of the market, produce more affordable housing, through a 'moving chain' or 'filter' effect.  A entertaining video explanation, seemingly aimed at 5-year olds, can be found[ here](https://www.linkedin.com/posts/britain-remade_moving-chains-are-good-for-everyone-activity-7462416219225366528-W8Vq).  More seriously, it seems to be an idea that the GLA also subscribes to, though it has not found its way into any of the Mayor's policies -     
+
+
+
+this which allows how useless the present system cross-subsidy is for providing affordable housing is;  this depends on cross-subsidy 
 
 ### Footnotes
 

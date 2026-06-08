@@ -33,3 +33,7 @@ ACA then address the ‘half-a-loaf is better than no loaf’ argument by pointi
 ACA also take up a point many critics of the decision have landed on - that Southwark Council agreed with Berkeley that a scheme which included   affordable housing was not viable.
 
 This is true - Southwark did agree with this position. But, in common with all planning authorities, it does not conduct its own viability assessments of planning applications, for the Aylesham or anywhere else.  Instead, it appraises the financial assessments that developers provide, which are *‘undertaken in the context of specific choices made by a developer, beyond the control of a Council and the local community’*, as ACA pointed out \[our emphasis [REF].
+
+And one of the *‘specific choices’* made by Berkeley was to take on a site with a Morrisons supermarket, which has to be re-provided in any redevelopment, both as a requirement of the local plan and as a lease obligation.
+
+Notwithstanding this unavoidable cost Berkeley offered 35% affordable housing, only to later specify the supermarket replacement cost (which they knew about all along) as the one site-specific reason for reducing the affordable housing offer to 12% (5.20).

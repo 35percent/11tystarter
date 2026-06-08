@@ -64,4 +64,8 @@ ACA comment that increasing profit this way, thus making the scheme less viable,
 
  The ACA evidence also addresses the £60m cost of finance, again suggesting alternative debt arrangements to aid the viability of the scheme.
 
-ACA finally make some tentative suggestions as to how build costs might be reduced and conclude with their own indicative appraisal, showing how the development could be made viable.
+ACA finally make some tentative suggestions as to how build costs might be reduced and conclude with their own indicative appraisal, showing how the development could be made viable. 
+
+### Berkeley replies….
+
+Berkeley replied to ACA’s arguments in a rebuttal statement.  They take issue with ACA for taking *‘a second bite of the cherry’*, having already acknowledged that the scheme had be through the full viability process.  They state that the level of affordable housing had been *‘rigourously tested in an extremely challenging economic climate’* on an *‘objective basis’* as required by the National Planning Policy Framework (NPPF) and according to professional standards.

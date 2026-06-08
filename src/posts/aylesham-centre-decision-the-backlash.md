@@ -12,3 +12,7 @@ One other key issue was the dire lack of affordable housing in Berkeley’s prop
 Affordable housing depends on a scheme’s viability and it is worth replaying  the [evidence presented](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/44/30/44309f2d-ff89-4c64-9544-ceaf2277ce99/aca_-_george_venning_affordable_housing_proof_of_evidence_including_summary.pdf) at the Planning Inquiry by ACA's expert witness, because it demonstrates that viability is not set in stone, contrary to what many believe, but is a variable, determined by assumptions, projections and judgement.
 
 ACA’s viability evidence also demonstrates the serious thought and effort they put into the Inquiry, something that is absent from much of the commentary that followed the Inquiry decision.
+
+### The housing picture in Peckham
+
+The ACA evidence sets the scene by describing Peckham and Southwark’s particular need for affordable housing.  Using middle-value homes as a measure, they show that market housing is more expensive in Southwark, when matched against income, than in most other parts of the UK.  A middle-priced home in England has a value just over eight times a median income, whereas in Southwark it is well over twelve times median income.  Put another way, a middle-income earner has to pay proportionately more to buy a home in Southwark than they would have to pay most anywhere else.

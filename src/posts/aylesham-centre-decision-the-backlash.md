@@ -21,3 +21,5 @@ Unsurprisingly, this is reflected in relatively low levels of owner-occupation -
 The remaining 24% of Peckham households are in private accommodation, where they are likely to be paying at least 41% of their gross income on housing costs.
 
 ACA accurately  conclude that *‘The role played by affordable housing is, accordingly, far greater here than elsewhere’.*
+
+### ACA – new homes yes, gentrification no

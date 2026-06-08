@@ -30,9 +30,9 @@ ACA then address the ‘half-a-loaf is better than no loaf’ argument by pointi
 
 ### The viability of the Aylesham development
 
-ACA also take up a point many critics of the decision have landed on - that Southwark Council agreed with Berkeley that a scheme which included   affordable housing was not viable.
+ACA also take up a point many critics of the decision have landed on - that Southwark Council agreed with Berkeley that a scheme which included affordable housing was not viable.
 
-This is true - Southwark did agree with this position. But, in common with all planning authorities, it does not conduct its own viability assessments of planning applications, for the Aylesham or anywhere else.  Instead, it appraises the financial assessments that developers provide, which are *‘undertaken in the context of specific choices made by a developer, beyond the control of a Council and the local community’*, as ACA pointed out \[our emphasis [REF].
+This is true - Southwark did agree with this position. But, in common with all planning authorities, it does not conduct its own viability assessments of planning applications, for the Aylesham or anywhere else.  Instead, it appraises the financial assessments that developers provide, which are *‘undertaken in the context of specific choices made by a developer, beyond the control of a Council and the local community’*, as ACA pointed out.  
 
 And one of the *‘specific choices’* made by Berkeley was to take on a site with a Morrisons supermarket, which has to be re-provided in any redevelopment, both as a requirement of the local plan and as a lease obligation.
 
@@ -46,7 +46,7 @@ ACA tackle aspects of the viability of the scheme in the same deliberate, critic
 
 The first of these was that Berkeley’s assessment that the scheme’s profit would be £67m short of their target seemed to be at odds with their assertion, made at the July planning meeting, that the scheme was deliverable. 
 
-ACA add that small changes to viability inputs on such a large scheme can transform outcomes; ACCA suggest that these, taken with Berkeley's evident eagerness to proceed, could at least mean the scheme was viable.  
+ACA add that small changes to viability inputs on such a large scheme can transform outcomes; ACA suggest that these, taken with Berkeley's evident eagerness to proceed, could at least mean the scheme was viable.  
 
 The second factor is that the assessment generates a higher return for the landowner than normally permitted by viability guidance, once the value of the new Morrisons store is taken into account.  ACA believe that the options for reducing this critical cost, including its expensive basement parking, had not been fully explored. 
 
@@ -56,9 +56,7 @@ Finally, ACA lament the loss of the Community Land Trust housing, on top of the 
 
 ### Affordable housing falls, profits rise….
 
-ACA’s evidence was accompanied by four appendices, showing how the scheme might be made viable, with an indicative appraisal, viability reviews and relevant extracts from the Southwark planning committee meeting of July 2024 (separate to the October planning inquiry).
-
-Looking just at the residential element of the development, ACA shows profit increasing from £77m, with 35% affordable housing, to £101.58m, with 12%, prompting ACA to say that *‘reducing the public benefit of the scheme by cutting the level of affordable housing from 35% to 12% allows Berkeley to enhance their allowable profit by a third’.*
+ACA’s evidence was accompanied by four appendices, one showing how the scheme might be made viable, with an indicative appraisal.  Looking just at the residential element of the development, ACA shows profit increasing from £77m, with 35% affordable housing, to £101.58m, with 12%, prompting ACA to say that *‘reducing the public benefit of the scheme by cutting the level of affordable housing from 35% to 12% allows Berkeley to enhance their allowable profit by a third’.*
 
 ACA comment that increasing profit this way, thus making the scheme less viable, while reducing affordable housing, ostensibly to make it more viable, is a *‘little perverse’* (NB profit is treated as a cost in viability assessments).  ACA endorse the GLA’s suggestion that the 20% GDV profit Berkeley awards itself be reduced to 17.5%, if viability is the aim.
 
@@ -86,9 +84,9 @@ His final decision, though, turned on whether these and the public benefits, inc
 
 ### What we say....
 
-Much of the criticism of the Aylesham decision is uninformed, with an element of barely concealed snobbery.  The idea that Peckham has a history and a heritage is seen in some quarters as a bit of joke and, anyhow, not something that should be allowed to get it the way of a big developer like Berkeley.  If Berkeley’s new homes are too expensive for local people that’s just too bad – ‘viability’ dictates that affordable housing is no longer on the menu.
+Much of the criticism of the Aylesham decision is uninformed, to put it politely, and bubbles with indignation.  The idea that Peckham has a history and a heritage is seen in some quarters as a bit of joke and, anyhow, not something that should be allowed to get it the way of a big developer like Berkeley.  If Berkeley’s new homes are too expensive for local people that’s just too bad – ‘viability’ dictates that affordable housing is no longer on the menu.
 
-But this is all wrong. Peckham does have history and heritage, and the viability of the development is not immutable, as ACA’s reasoned and researched Inquiry evidence demonstrates.
+But this is all wrong. Peckham does have history and heritage, and the viability of the development is not immutable, as ACA’s reasoned and researched Inquiry evidence demonstrates. [^x]
 
 Berkeley’s homes are too expensive for local people because Berkeley chooses to build them that way, not because of viability.  Berkeley knew well enough, for instance, that the site included Morrison’s supermarket and they also set their own profit levels, key elements of any viability calculation – the people of Peckham and Southwark should not now have to sacrifice their own housing opportunities to make that equation work for them.
 
@@ -98,7 +96,9 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^x]  ACA took part in the Inquiry as a Rule 6, or interested, party.  They [raised £58,571](https://www.crowdjustice.com/case/acapeckham/) to be legally represented by barrister, Hashi Mohamed, of Landmark Chambers and solicitor Jed Holloway, of the Southwark Law Centre. Southwark Council appeared as the local planning authority.  Both the ACA and Southwark Council argued against Berkeley's application for a planning permission. 
 
-This is a selection of reporting and comments on the decision, in no particular order and covering different shades of opinion - [Homes for All](<[Vicky Spratt](https://www.instagram.com/reel/DYmxhQfI4zc/),>),  [Southwark News](https://southwarknews.co.uk/area/peckham/aylesham-centre-redevelopment-rejected-it-would-have-changed-peckhams-skyline-forever-and-given-12-per-cent-affordable-housing/), [My London](https://www.mylondon.news/news/south-london-news/great-day-peckham-aylesham-centre-33973144), [Evening Standard](https://www.standard.co.uk/news/politics/aylesham-centre-peckham-homes-plan-rejected-b1282899.html), [MSN](https://www.msn.com/en-gb/money/other/london-housebuilder-warns-capital-is-now-a-no-go-zone-for-developers/ar-AA23FnQZ?gemSnapshotKey=GM73625AC7-snapshot-1&ocid=social-peregrine&cvid=6a15d5d5660f4b0b94529cbe82cfedac&ei=19), [Architects' Journal](https://www.architectsjournal.co.uk/news/drmms-peckham-regeneration-scheme-refusal-upheld), [East Dulwich Forum](https://www.eastdulwichforum.co.uk/topic/377071-nimbys-got-their-way-aylesham-centre-redevelopment-on-rye-lane-rejected/), [CAPX](https://capx.co/the-nimbys-have-conquered-peckham), [Housing Today](https://www.housingtoday.co.uk/news/planning-inspector-rejects-800-home-berkeley-scheme-over-heritage-harms/5142327.article), 
+This is a selection of reporting and comments on the decision, in no particular order and covering different shades of opinion - [](<[Vicky Spratt](https://www.instagram.com/reel/DYmxhQfI4zc/),>)Inside Houisng
+
+[Homes for All](<[Vicky Spratt](https://www.instagram.com/reel/DYmxhQfI4zc/),>),  [Southwark News](https://southwarknews.co.uk/area/peckham/aylesham-centre-redevelopment-rejected-it-would-have-changed-peckhams-skyline-forever-and-given-12-per-cent-affordable-housing/), [My London](https://www.mylondon.news/news/south-london-news/great-day-peckham-aylesham-centre-33973144), [Evening Standard](https://www.standard.co.uk/news/politics/aylesham-centre-peckham-homes-plan-rejected-b1282899.html), [MSN](https://www.msn.com/en-gb/money/other/london-housebuilder-warns-capital-is-now-a-no-go-zone-for-developers/ar-AA23FnQZ?gemSnapshotKey=GM73625AC7-snapshot-1&ocid=social-peregrine&cvid=6a15d5d5660f4b0b94529cbe82cfedac&ei=19), [Architects' Journal](https://www.architectsjournal.co.uk/news/drmms-peckham-regeneration-scheme-refusal-upheld), [East Dulwich Forum](https://www.eastdulwichforum.co.uk/topic/377071-nimbys-got-their-way-aylesham-centre-redevelopment-on-rye-lane-rejected/), [CAPX](https://capx.co/the-nimbys-have-conquered-peckham), [Housing Today](https://www.housingtoday.co.uk/news/planning-inspector-rejects-800-home-berkeley-scheme-over-heritage-harms/5142327.article), 
 
  [Southwark Council](https://www.southwark.gov.uk/news/2026/aylesham-centre-plans-are-dismissed-statement-southwark-council), [Vicky Spratt](https://www.instagram.com/reel/DYmxhQfI4zc/),, [GB News](https://www.gbnews.com/money/peckahm-home-development-berkeley-group-block), 
 
@@ -111,3 +111,9 @@ There were also articles by the [FT](https://www.ft.com/content/8ef649f8-0fea-47
 [^x]  Mr Mohamed also recommended visiting the Inquiry website.  Unfortunately this is no longer online.  Planning inquiry documents are held by Southwark Council.
 
 [^x]  [Appeal decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) Ref: APP/A5840/W/25/3366760, Aylesham Centre, Rye Lane, London SE15 5EW.  Para 110.
+
+[^x]  For a wider consideration of the impact of viability on the Aylesham, see [“A broken model”: The viability loophole and its impact on affordable housing](https://www.thedeveloper.live/reportage/reportage/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing) by Peter Apps
+
+
+
+https://www.thedeveloper.live/reportage/reportage/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing

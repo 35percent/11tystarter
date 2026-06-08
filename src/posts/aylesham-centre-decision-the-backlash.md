@@ -73,3 +73,5 @@ Berkeley replied to ACA’s arguments in a rebuttal statement.  They take issue 
 Berkeley said that the 20% GDV *‘developer return’* is allowable under the NPPF and is justifiable because development risk is higher than at any other time in the author’s 25 years’ experience in the industry. 
 
 The cost of finance was also calculated according to professional guidance and after a detailed itemised break-down; it was agreed with Southwark Council as were the build costs.  Any savings or cost increases would in any event be picked up by viability review.
+
+Berkeley also justify dropping the Community Land Trust housing, and favouring intermediate homes instead, as the best way of optimising the affordable housing provision.

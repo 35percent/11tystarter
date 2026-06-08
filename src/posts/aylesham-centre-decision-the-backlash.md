@@ -54,4 +54,6 @@ The third factor favouring reducing the weight is simply that *‘something is s
 
 Finally, ACA lament the loss of the Community Land Trust housing, on top of the lost affordable housing.  They observe that the Aylesham is the only site in the local plan that has CLT provision and that the shared-ownership affordable housing preferred by Berkeley no longer acts as a *‘leg-up’* onto the housing market for young, working households.
 
-### Affordable housing falls, profits rise….
+### Affordable housing falls, profits rise…. 
+
+ACA’s evidence was accompanied by four appendices, showing how the scheme might be made viable, with an indicative appraisal, viability reviews and relevant extracts from the Southwark planning committee meeting of July 2024 (separate to the October planning inquiry).

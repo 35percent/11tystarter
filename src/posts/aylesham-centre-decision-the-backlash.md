@@ -94,4 +94,6 @@ But this is all wrong. Peckham does have history and heritage, and the viability
 
 Berkeley’s homes are too expensive for local people because Berkeley chooses to build them that way, not because of viability.  Berkeley knew well enough, for instance, that the site included Morrison’s supermarket and they also set their own profit levels, key elements of any viability calculation – the people of Peckham and Southwark should not now have to sacrifice their own housing opportunities to make that equation work for them.
 
-The
+Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council and by the government Inspector.  Berkeley should take the hint and come back with something that meets the housing and other needs of local people. If they cannot do that and still make a reasonable profit then they are not much use as developers.
+
+#### Footnotes

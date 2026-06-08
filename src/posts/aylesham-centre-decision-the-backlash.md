@@ -48,4 +48,6 @@ The first of these was that Berkeley’s assessment that the scheme’s profit w
 
 ACA add that small changes to viability inputs on such a large scheme can transform outcomes; ACCA suggest that these, taken with Berkeley's evident eagerness to proceed, could at least mean the scheme was viable.  
 
-The second factor is that the assessment generates a higher return for the landowner than normally permitted by viability guidance, once the value of the new Morrisons store is taken into account.  ACA believe that the options for reducing this critical cost, including its expensive basement parking, had not been fully explored.
+The second factor is that the assessment generates a higher return for the landowner than normally permitted by viability guidance, once the value of the new Morrisons store is taken into account.  ACA believe that the options for reducing this critical cost, including its expensive basement parking, had not been fully explored. 
+
+The third factor favouring reducing the weight is simply that ‘something is seriously amiss’ if a central London site such as the Aylesham cannot deliver more than 12% affordable housing.

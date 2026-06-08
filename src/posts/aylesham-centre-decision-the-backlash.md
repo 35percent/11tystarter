@@ -23,3 +23,7 @@ The remaining 24% of Peckham households are in private accommodation, where they
 ACA accurately  conclude that *‘The role played by affordable housing is, accordingly, far greater here than elsewhere’.*
 
 ### ACA – new homes yes, gentrification no
+
+Having spelt out the importance of affordable housing in Peckham, ACA then lays out the shortcomings of Berkeley’s proposals.  They first show how even the local plan requirement of 35% affordable housing over-delivers free-market housing and under-delivers affordable housing, when measured against housing need; anything less than 35% obviously creates a greater imbalance.
+
+ACA then address the ‘half-a-loaf is better than no loaf’ argument by pointing out that the simple loss of affordable housing is not the whole story.  The development would overwhelmingly be comprised of smaller homes, attractive to first-time buyers and investors, but unaffordable to local households - who are therefore likely to displaced by wealthier ones (a visit to Elephant Park, formerly the Heygate estate, shows how this works).

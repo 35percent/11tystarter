@@ -52,4 +52,4 @@ The second factor is that the assessment generates a higher return for the lando
 
 The third factor favouring reducing the weight is simply that *‘something is seriously amiss’* if a central London site such as the Aylesham cannot deliver more than 12% affordable housing.
 
-Finally, ACA lament the loss of the Community Land Trust housing, on top of the lost affordable housing.  They observe that the Aylesham is the only site in the local plan that has CLT provision and that the shared-ownership affordable
+Finally, ACA lament the loss of the Community Land Trust housing, on top of the lost affordable housing.  They observe that the Aylesham is the only site in the local plan that has CLT provision and that the shared-ownership affordable housing preferred by Berkeley no longer acts as a *‘leg-up’* onto the housing market for young, working households.

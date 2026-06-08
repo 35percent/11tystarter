@@ -69,3 +69,5 @@ ACA finally make some tentative suggestions as to how build costs might be reduc
 ### Berkeley replies….
 
 Berkeley replied to ACA’s arguments in a rebuttal statement.  They take issue with ACA for taking *‘a second bite of the cherry’*, having already acknowledged that the scheme had be through the full viability process.  They state that the level of affordable housing had been *‘rigourously tested in an extremely challenging economic climate’* on an *‘objective basis’* as required by the National Planning Policy Framework (NPPF) and according to professional standards.
+
+Berkeley said that the 20% GDV *‘developer return’* is allowable under the NPPF and is justifiable because development risk is higher than at any other time in the author’s 25 years’ experience in the industry.

@@ -44,4 +44,6 @@ ACA note in their evidence that replacing the supermarket will cost £44m, an ex
 
 ACA tackle aspects of the viability of the scheme in the same deliberate, critical fashion.  They acknowledge that when a viability assessment justifies less than 35% affordable housing, the development may be considered policy compliant.  But they add that, as well as viability depending upon *‘specific choices made by a developer’*, the weight given to the assessment is a matter for the Inspector to decide and put three factors to him for reducing that weight.
 
-The first of these was that Berkeley’s assessment that the scheme’s profit would be £67m short of their target seemed to be at odds with their assertion, made at the July planning meeting, that the scheme was deliverable.
+The first of these was that Berkeley’s assessment that the scheme’s profit would be £67m short of their target seemed to be at odds with their assertion, made at the July planning meeting, that the scheme was deliverable. 
+
+ACA add that small changes to viability inputs on such a large scheme can transform outcomes; ACCA suggest that these, taken with Berkeley's evident eagerness to proceed, could at least mean the scheme was viable.

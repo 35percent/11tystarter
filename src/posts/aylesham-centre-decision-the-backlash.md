@@ -39,3 +39,7 @@ And one of the *‘specific choices’* made by Berkeley was to take on a site w
 Notwithstanding this unavoidable cost Berkeley offered 35% affordable housing, only to later specify the supermarket replacement cost (which they knew about all along) as the one site-specific reason for reducing the affordable housing offer to 12% (5.20).
 
 ACA note in their evidence that replacing the supermarket will cost £44m, an exceptional sum when compared to its current value of £13m (5.35).  The supermarket will also come with a very large basement car-park, much larger than that for the Camberwell Morrisons and in an area with a good public transport (PTAL rating?).
+
+### More viability....
+
+ACA tackle aspects of the viability of the scheme in the same deliberate, critical fashion.  They acknowledge that when a viability assessment justifies less than 35% affordable housing, the development may be considered policy compliant.  But they add that, as well as viability depending upon *‘specific choices made by a developer’*, the weight given to the assessment is a matter for the Inspector to decide and put three factors to him for reducing that weight.

@@ -98,7 +98,9 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^x]  ACA took part in the Inquiry as a Rule 6, or interested, party.  They [raised £58,571](https://www.crowdjustice.com/case/acapeckham/) to be legally represented by barrister, Hashi Mohamed, of Landmark Chambers and solicitor Jed Holloway, of the Southwark Law Centre. Southwark Council appeared as the local planning authority.  Both the ACA and Southwark Council argued against Berkeley's application for a planning permission. 
 
-This is a selection of comments on the decision, approving and disapproving, - [My London](https://www.mylondon.news/news/south-london-news/great-day-peckham-aylesham-centre-33973144)  
+This is a selection of reporting and comments on the decision - [Southwark News](https://southwarknews.co.uk/area/peckham/aylesham-centre-redevelopment-rejected-it-would-have-changed-peckhams-skyline-forever-and-given-12-per-cent-affordable-housing/), [My London](https://www.mylondon.news/news/south-london-news/great-day-peckham-aylesham-centre-33973144), [Evening Standard](https://www.standard.co.uk/news/politics/aylesham-centre-peckham-homes-plan-rejected-b1282899.html),  
+
+There were also articles by the [FT](https://www.ft.com/content/8ef649f8-0fea-47fb-8044-e08e3176956c?syn-25a6b1a6=1) and [the Times](https://www.thetimes.com/business/companies-markets/article/berkeley-warns-we-cant-invest-in-london-after-homes-plan-blocked-fdh28f9gf), both behind paywalls
 
 [Looking For Growth](https://www.instagram.com/reel/DYjUDVWsX3I/?utm_source=ig_web_copy_link), 
 

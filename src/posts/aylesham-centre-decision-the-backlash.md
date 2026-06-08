@@ -63,3 +63,5 @@ Looking just at the residential element of the development, ACA shows profit inc
 ACA comment that increasing profit this way, thus making the scheme less viable, while reducing affordable housing, ostensibly to make it more viable, is a *‘little perverse’* (NB profit is treated as a cost in viability assessments).  ACA endorse the GLA’s suggestion that the 20% GDV profit Berkeley awards itself be reduced to 17.5%, if viability is the aim.
 
  The ACA evidence also addresses the £60m cost of finance, again suggesting alternative debt arrangements to aid the viability of the scheme.
+
+ACA finally make some tentative suggestions as to how build costs might be reduced and conclude with their own indicative appraisal, showing how the development could be made viable.

@@ -1,11 +1,11 @@
 ---
-title: Aylesham Centre decision - the backlash
+title: The Aylesham Centre decision - the backlash
 description: Rejection of Berkeley Homes scheme provokes widespread comment
 date: 2026-06-08T14:23:05.986Z
 ---
 The [recent decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) by the government Inspector to reject Berkeley Homes’ proposals for the Aylesham Centre provoked much criticism from pro-development quarters,  with the local Aylesham Community Action Campaign often cast [as NIMBYs](https://capx.co/the-nimbys-have-conquered-peckham), denying people the opportunity of a new home, with misguided heritage concerns.
 
-The Inquiry Inspector did indeed reject the application on heritage grounds. [Hashi Mohamed](https://uk.linkedin.com/in/hashi-mohamed-82b5515b?trk=public_post_feed-actor-name) the ACA’s barrister at the Inquiry has provided a [measured commentary](https://www.linkedin.com/posts/hashi-mohamed-82b5515b_aylesham-appeal-decision-activity-7465631706012598272-9Noz) of the decision,  decrying ‘hysterical rhetoric’ and pointing out that heritage goes beyond buildings, encompassing ‘the people, the culture and history of Peckham’.  He encourages people to read the [full decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf).
+The Inquiry Inspector did indeed reject the application on heritage grounds. [Hashi Mohamed](https://uk.linkedin.com/in/hashi-mohamed-82b5515b?trk=public_post_feed-actor-name) the ACA’s barrister at the Inquiry has provided a [measured commentary](https://www.linkedin.com/posts/hashi-mohamed-82b5515b_aylesham-appeal-decision-activity-7465631706012598272-9Noz) of the decision,  decrying *‘hysterical rhetoric’* and pointing out that heritage goes beyond buildings, encompassing *‘the people, the culture and history of Peckham’*.  He encourages people to read the [full decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf).
 
 One other key issue was the dire lack of affordable housing in Berkeley’s proposals - [just 77 homes out of 867](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/).  Regrettably the Inspector did not think this was a ground for rejecting the application, saying that even if the scheme offered 35% affordable housing he would not have granted the scheme planning permission (which says something about how poor he considered the design) \[LINK].
 
@@ -43,3 +43,5 @@ ACA note in their evidence that replacing the supermarket will cost £44m, an ex
 ### More viability....
 
 ACA tackle aspects of the viability of the scheme in the same deliberate, critical fashion.  They acknowledge that when a viability assessment justifies less than 35% affordable housing, the development may be considered policy compliant.  But they add that, as well as viability depending upon *‘specific choices made by a developer’*, the weight given to the assessment is a matter for the Inspector to decide and put three factors to him for reducing that weight.
+
+The first of these was that Berkeley’s assessment that the scheme’s profit would be £67m short of their target seemed to be at odds with their assertion, made at the July planning meeting, that the scheme was deliverable.

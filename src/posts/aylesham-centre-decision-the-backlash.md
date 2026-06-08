@@ -3,8 +3,6 @@ title: The Aylesham Centre decision - the backlash
 description: Rejection of Berkeley Homes scheme provokes widespread comment
 date: 2026-06-08T14:23:05.986Z
 ---
-
-
 The [recent decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) by the government Inspector to reject Berkeley Homes’ proposals for the Aylesham Centre provoked much criticism from pro-development quarters, with the local [Aylesham Community Action](https://www.ayleshamcommunityaction.co.uk/) (ACA) campaign often cast [as NIMBYs](https://capx.co/the-nimbys-have-conquered-peckham), denying people the opportunity of a new home, because of misguided heritage concerns [^x].
 
 The Inquiry Inspector did indeed reject the application on heritage grounds. [Hashi Mohamed](https://uk.linkedin.com/in/hashi-mohamed-82b5515b?trk=public_post_feed-actor-name) the ACA’s barrister at the Inquiry has provided a [measured commentary](https://www.linkedin.com/posts/hashi-mohamed-82b5515b_aylesham-appeal-decision-activity-7465631706012598272-9Noz) of the decision,  decrying *‘hysterical rhetoric’* and pointing out that heritage goes beyond buildings, encompassing *‘the people, the culture and history of Peckham’*.  He encourages people to read the [full decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) [^x].
@@ -56,7 +54,7 @@ The third factor favouring reducing the weight is simply that *‘something is s
 
 Finally, ACA lament the loss of the Community Land Trust housing, on top of the lost affordable housing.  They observe that the Aylesham is the only site in the local plan that has CLT provision and that the shared-ownership affordable housing preferred by Berkeley no longer acts as a *‘leg-up’* onto the housing market for young, working households.
 
-### Affordable housing falls, profits rise…. 
+### Affordable housing falls, profits rise….
 
 ACA’s evidence was accompanied by four appendices, showing how the scheme might be made viable, with an indicative appraisal, viability reviews and relevant extracts from the Southwark planning committee meeting of July 2024 (separate to the October planning inquiry).
 
@@ -100,7 +98,9 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^x]  ACA took part in the Inquiry as a Rule 6, or interested, party.  They [raised £58,571](https://www.crowdjustice.com/case/acapeckham/) to be legally represented by barrister, Hashi Mohamed, of Landmark Chambers and solicitor Jed Holloway, of the Southwark Law Centre. Southwark Council appeared as the local planning authority.  Both the ACA and Southwark Council argued against Berkeley's application for a planning permission. 
 
+This is a selection of comments on the decision, approving and disapproving, - [My London](https://www.mylondon.news/news/south-london-news/great-day-peckham-aylesham-centre-33973144)  
 
+[Looking For Growth](https://www.instagram.com/reel/DYjUDVWsX3I/?utm_source=ig_web_copy_link), 
 
 [^x]  Mr Mohamed also recommended visiting the Inquiry website.  Unfortunately this is no longer online.  Planning inquiry documents are held by Southwark Council.
 

@@ -74,4 +74,10 @@ Berkeley said that the 20% GDV *‘developer return’* is allowable under the N
 
 The cost of finance was also calculated according to professional guidance and after a detailed itemised break-down; it was agreed with Southwark Council as were the build costs.  Any savings or cost increases would in any event be picked up by viability review.
 
-Berkeley also justify dropping the Community Land Trust housing, and favouring intermediate homes instead, as the best way of optimising the affordable housing provision.
+Berkeley also justify dropping the Community Land Trust, and favouring intermediate homes instead, as the best way of optimising the affordable housing provision.
+
+### The Inspector decides.....
+
+The Inspector’s eighteen-page decision identifies four main issues – the scale of the development and its impact on the townscape, the loss of retail floorspace and how that would affect the vitality of the town centre, the affordable housing provision and the weight of these, alongside the public benefits of the scheme, in his decision-making (5
+
+The

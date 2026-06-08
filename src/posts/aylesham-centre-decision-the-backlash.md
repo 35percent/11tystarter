@@ -51,3 +51,5 @@ ACA add that small changes to viability inputs on such a large scheme can transf
 The second factor is that the assessment generates a higher return for the landowner than normally permitted by viability guidance, once the value of the new Morrisons store is taken into account.  ACA believe that the options for reducing this critical cost, including its expensive basement parking, had not been fully explored. 
 
 The third factor favouring reducing the weight is simply that *‘something is seriously amiss’* if a central London site such as the Aylesham cannot deliver more than 12% affordable housing.
+
+Finally, ACA lament the loss of the Community Land Trust housing, on top of the lost affordable housing.  They observe that the Aylesham is the only site in the local plan that has CLT provision and that the shared-ownership affordable

@@ -37,3 +37,5 @@ This is true - Southwark did agree with this position. But, in common with all p
 And one of the *‘specific choices’* made by Berkeley was to take on a site with a Morrisons supermarket, which has to be re-provided in any redevelopment, both as a requirement of the local plan and as a lease obligation.
 
 Notwithstanding this unavoidable cost Berkeley offered 35% affordable housing, only to later specify the supermarket replacement cost (which they knew about all along) as the one site-specific reason for reducing the affordable housing offer to 12% (5.20).
+
+ACA note in their evidence that replacing the supermarket will cost £44m, an exceptional sum when compared to its current value of £13m (5.35).  The supermarket will also come with a very large basement car-park, much larger than that for the Camberwell Morrisons and in an area with a good public transport (PTAL rating?).

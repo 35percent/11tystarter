@@ -100,6 +100,8 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^x]  ACA took part in the Inquiry as a Rule 6, or interested, party.  They [raised £58,571](https://www.crowdjustice.com/case/acapeckham/) to be legally represented by barrister, Hashi Mohamed, of Landmark Chambers and solicitor Jed Holloway, of the Southwark Law Centre. Southwark Council appeared as the local planning authority.  Both the ACA and Southwark Council argued against Berkeley's application for a planning permission. 
 
+
+
 [^x]  Mr Mohamed also recommended visiting the Inquiry website.  Unfortunately this is no longer online.  Planning inquiry documents are held by Southwark Council.
 
-[^x]  [Appeal decision](https://acp.planninginspectorate.gov.uk/ViewDocument.aspx?fileid=65589336) Ref: APP/A5840/W/25/3366760, Aylesham Centre, Rye Lane, London SE15 5EW.  Para 110.
+[^x]  [Appeal decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) Ref: APP/A5840/W/25/3366760, Aylesham Centre, Rye Lane, London SE15 5EW.  Para 110.

@@ -98,4 +98,4 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 #### Footnotes
 
-[^x] ACA took part in the Inquiry as a Rule 6, or interested, party.  They [raised £58,571](https://www.crowdjustice.com/case/acapeckham/) for legal representation which was provided by barrister, Hashi Mohamed, of Landmark Chambers and solicitor Jed Holloway, of the Southwark Law Centre. Southwark Council appeared as the local planning authority.  Both the ACA and Southwark Council argued against Berkeley's application for a planning permission.
+[^x]  ACA took part in the Inquiry as a Rule 6, or interested, party.  They [raised £58,571](https://www.crowdjustice.com/case/acapeckham/) for legal representation which was provided by barrister, Hashi Mohamed, of Landmark Chambers and solicitor Jed Holloway, of the Southwark Law Centre. Southwark Council appeared as the local planning authority.  Both the ACA and Southwark Council argued against Berkeley's application for a planning permission.

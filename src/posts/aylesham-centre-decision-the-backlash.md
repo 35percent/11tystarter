@@ -50,4 +50,4 @@ ACA add that small changes to viability inputs on such a large scheme can transf
 
 The second factor is that the assessment generates a higher return for the landowner than normally permitted by viability guidance, once the value of the new Morrisons store is taken into account.  ACA believe that the options for reducing this critical cost, including its expensive basement parking, had not been fully explored. 
 
-The third factor favouring reducing the weight is simply that ‘something is seriously amiss’ if a central London site such as the Aylesham cannot deliver more than 12% affordable housing.
+The third factor favouring reducing the weight is simply that *‘something is seriously amiss’* if a central London site such as the Aylesham cannot deliver more than 12% affordable housing.

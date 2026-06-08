@@ -3,6 +3,8 @@ title: The Aylesham Centre decision - the backlash
 description: Rejection of Berkeley Homes scheme provokes widespread comment
 date: 2026-06-08T14:23:05.986Z
 ---
+
+
 The [recent decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) by the government Inspector to reject Berkeley Homes’ proposals for the Aylesham Centre provoked much criticism from pro-development quarters,  with the local Aylesham Community Action Campaign often cast [as NIMBYs](https://capx.co/the-nimbys-have-conquered-peckham), denying people the opportunity of a new home, with misguided heritage concerns.
 
 The Inquiry Inspector did indeed reject the application on heritage grounds. [Hashi Mohamed](https://uk.linkedin.com/in/hashi-mohamed-82b5515b?trk=public_post_feed-actor-name) the ACA’s barrister at the Inquiry has provided a [measured commentary](https://www.linkedin.com/posts/hashi-mohamed-82b5515b_aylesham-appeal-decision-activity-7465631706012598272-9Noz) of the decision,  decrying *‘hysterical rhetoric’* and pointing out that heritage goes beyond buildings, encompassing *‘the people, the culture and history of Peckham’*.  He encourages people to read the [full decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf).
@@ -81,5 +83,7 @@ Berkeley also justify dropping the Community Land Trust, and favouring intermedi
 The Inspector’s eighteen-page decision identifies four main issues – the scale of the development and its impact on the townscape, the loss of retail floorspace and how that would affect the vitality of the town centre, the affordable housing provision and the weight of these, alongside the public benefits of the scheme, in his decision-making (5).
 
 He decided that Berkeley’s scheme would not cause any loss of vitality to the town centre.  While he noted that 93% of households had an income that required social or intermediate housing (68), he nonetheless concluded that the affordable housing was a benefit, even if only 12% of the total (104).
+
+His final decision, though, turned on whether these and the public benefits, including 867 new homes, outweighed the harm caused to the townscape by the scheme. On this he was emphatic, saying ‘… the direct benefits arising from the development comparative to harm to the RLPCA \[Rye Lane and Peckham Conservation Area]….and to the townscape give me insufficient reasons to allow the appeal’.   He adds, for good measure, ‘For clarity, even with 35% affordable housing as initially proposed in the planning application process and accepting a worsening housing land supply position…… I would still have found that the level of harm in this case would not be overridden’.  He therefore rejects Berkeley’s appeal and their proposals for the Aylesham Centre (108, 110, 112).
 
 The

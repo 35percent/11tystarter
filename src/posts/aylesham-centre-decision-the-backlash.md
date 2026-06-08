@@ -92,4 +92,6 @@ Much of the criticism of the Aylesham decision is uninformed, with an element of
 
 But this is all wrong. Peckham does have history and heritage, and the viability of the development is not immutable, as ACA’s reasoned and researched Inquiry evidence demonstrates.
 
+Berkeley’s homes are too expensive for local people because Berkeley chooses to build them that way, not because of viability.  Berkeley knew well enough, for instance, that the site included Morrison’s supermarket and they also set their own profit levels, key elements of any viability calculation – the people of Peckham and Southwark should not now have to sacrifice their own housing opportunities to make that equation work for them.
+
 The

@@ -27,3 +27,9 @@ ACA accurately  conclude that *‘The role played by affordable housing is, acco
 Having spelt out the importance of affordable housing in Peckham, ACA then lays out the shortcomings of Berkeley’s proposals.  They first show how even the local plan requirement of 35% affordable housing over-delivers free-market housing and under-delivers affordable housing, when measured against housing need; anything less than 35% obviously creates a greater imbalance.
 
 ACA then address the ‘half-a-loaf is better than no loaf’ argument by pointing out that the simple loss of affordable housing is not the whole story.  The development would overwhelmingly be comprised of smaller homes, attractive to first-time buyers and investors, but unaffordable to local households - who are therefore likely to displaced by wealthier ones (a visit to Elephant Park, formerly the Heygate estate, shows how this works).
+
+### The viability of the Aylesham development
+
+ACA also take up a point many critics of the decision have landed on - that Southwark Council agreed with Berkeley that a scheme which included   affordable housing was not viable.
+
+This is true - Southwark did agree with this position. But, in common with all planning authorities, it does not conduct its own viability assessments of planning applications, for the Aylesham or anywhere else.  Instead, it appraises the financial assessments that developers provide, which are *‘undertaken in the context of specific choices made by a developer, beyond the control of a Council and the local community’*, as ACA pointed out \[our emphasis [REF].

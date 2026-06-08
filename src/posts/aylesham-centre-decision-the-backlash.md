@@ -86,4 +86,6 @@ He decided that Berkeley’s scheme would not cause any loss of vitality to the 
 
 His final decision, though, turned on whether these and the public benefits, including 867 new homes, outweighed the harm caused to the townscape by the scheme. On this he was emphatic, saying *‘… the direct benefits arising from the development comparative to harm to the RLPCA* \[Rye Lane and Peckham Conservation Area]*….and to the townscape give me insufficient reasons to allow the appeal’*.   He adds, for good measure, *‘For clarity, even with 35% affordable housing as initially proposed in the planning application process and accepting a worsening housing land supply position…… I would still have found that the level of harm in this case would not be overridden’*.  He therefore rejects Berkeley’s appeal and their proposals for the Aylesham Centre (108, 110, 112).
 
+### What we say....
+
 The

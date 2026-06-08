@@ -88,4 +88,8 @@ His final decision, though, turned on whether these and the public benefits, inc
 
 ### What we say....
 
+Much of the criticism of the Aylesham decision is uninformed, with an element of barely concealed snobbery.  The idea that Peckham has a history and a heritage is seen in some quarters as a bit of joke and, anyhow, not something that should be allowed to get it the way of a big developer like Berkeley.  If Berkeley’s new homes are too expensive for local people that’s just too bad – ‘viability’ dictates that affordable housing is no longer on the menu.
+
+But this is all wrong. Peckham does have history and heritage, and the viability of the development is not immutable, as ACA’s reasoned and researched Inquiry evidence demonstrates.
+
 The

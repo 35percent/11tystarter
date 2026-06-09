@@ -112,11 +112,11 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^8]  BVA Associates, PoE, para 5.19-5.58, for a lengthy examination of the cost of replacing Morrisions.
 
-[^9]  BVA Associates , PoE, paras 1.14-1.27.
+[^9]  BVA Associates, PoE, paras 1.14-1.27.
 
 [^10]  BVA Associates, PoE, paras 1.28-1.37
 
-[^11]  BVA Associates , PoE, Appendices, Annexes A and B.  Unfortunately the Appendices are no longer online, but all planning inquiry documents are held by Southwark Council.
+[^11]  BVA Associates, PoE, Appendices, Annexes A and B.  Unfortunately the Appendices are no longer online, but all planning inquiry documents are held by Southwark Council.
 
 [^12]  DS2, on behalf of Berkeley Homes, Rebuttal Proof of Evidence, Viability, Oct 2025, Section 4 Rule 6 Party Viability Evidence. Unfortunately Rebuttal is no longer online, but all planning inquiry documents are held by Southwark Council.
 

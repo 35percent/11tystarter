@@ -3,6 +3,8 @@ title: The Aylesham Centre - the decision, then the backlash
 description: Rejection of Berkeley Homes scheme provokes widespread comment
 date: 2026-06-08T14:23:05.986Z
 ---
+![](img/aylesham_das_cover.png)
+
 The [recent decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) by the government Inspector to reject Berkeley Homes’ proposals for the Aylesham Centre provoked much criticism from pro-development quarters, with the local [Aylesham Community Action](https://www.ayleshamcommunityaction.co.uk/) (ACA) campaign often cast [as NIMBYs](https://capx.co/the-nimbys-have-conquered-peckham), denying people the opportunity of a new home, because of misguided heritage concerns [^1].
 
 The Inquiry Inspector did indeed reject the application on heritage grounds. [Hashi Mohamed](https://uk.linkedin.com/in/hashi-mohamed-82b5515b?trk=public_post_feed-actor-name) the ACA’s barrister at the Inquiry has provided a [measured commentary](https://www.linkedin.com/posts/hashi-mohamed-82b5515b_aylesham-appeal-decision-activity-7465631706012598272-9Noz) of the decision,  decrying *‘hysterical rhetoric’* and pointing out that heritage goes beyond buildings, encompassing *‘the people, the culture and history of Peckham’*.  He encourages people to read the [full decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) [^2].
@@ -21,6 +23,8 @@ Unsurprisingly, this is reflected in relatively low levels of owner-occupation -
 The remaining 24% of Peckham households are in private accommodation, where they are likely to be paying at least 41% of their gross income on housing costs.
 
 ACA accurately  conclude that *‘The role played by affordable housing is, accordingly, far greater here than elsewhere’* [^4].
+
+![](img/aylesham_community_action_demo.png)
 
 ### ACA – new homes yes, gentrification no
 
@@ -66,7 +70,9 @@ ACA comment that increasing profit this way, thus making the scheme less viable,
 
  The ACA evidence also addresses the £60m cost of finance, again suggesting alternative debt arrangements to aid the viability of the scheme.
 
-ACA finally make some tentative suggestions as to how build costs might be reduced and conclude with their own indicative appraisal, showing how the development could be made viable [^12]. 
+ACA finally make some tentative suggestions as to how build costs might be reduced and conclude with their own indicative appraisal, showing how the development could be made viable [^12].
+
+![]()
 
 ### Berkeley replies….
 

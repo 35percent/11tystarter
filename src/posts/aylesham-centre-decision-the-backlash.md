@@ -110,7 +110,7 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^6]  BVA Associates, PoE, paras 1.12-1.15
 
-[^x]  Officer report, 15 July 2025, para 313
+[^x]  [Officer report](https://moderngov.southwark.gov.uk/documents/s127975/24AP2074%20-The%20Aylesham%20Centre%20Rye%20Lane%20London%20SE15%205EW.pdf), 15 July 2025, para 313
 
 [^7]  BVA Associates, PoE, para 1.17
 

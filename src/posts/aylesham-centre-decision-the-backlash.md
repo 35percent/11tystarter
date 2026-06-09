@@ -42,6 +42,8 @@ Notwithstanding this unavoidable cost Berkeley initially offered 35% affordable 
 
 ACA note in their evidence that replacing the supermarket will cost £44m, an exceptional sum when compared to its current value of £13m.  The supermarket will also come with a very large basement car-park, much larger than that for the Camberwell Morrisons and in an area with the highest public transport rating [^9].
 
+![](img/aylesham_or_314_150725_two.png)
+
 ### More viability....
 
 ACA tackle aspects of the viability of the scheme in the same deliberate, critical fashion.  They acknowledge that when a viability assessment justifies less than 35% affordable housing, the development may be considered policy compliant.  But they add that, as well as viability depending upon *‘specific choices made by a developer’*, the weight given to the assessment is a matter for the Inspector to decide and put three factors to him for reducing that weight.

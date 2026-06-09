@@ -102,9 +102,9 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^x]  [Appeal decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) Ref: APP/A5840/W/25/3366760, Para 110; 
 
-{^x]  Rule 6 Party, [Proof of evidence on affordable housing and viability](<I spoke with Jed about the presentation, but he and Caitlin are tied up with the Old Kent Rd EiP this week and next. Did also speak again with couple of Green councillors at an Old Kent Rd meeting and they are keen to hear what we have to say…. >) for planning appeal inquiry relating to development at The Aylesham Centre, Paras 1.4,1.5; 3.0 The Housing Situation in Southwark and Peckham.
+[^x]  Rule 6 Party, [Proof of evidence (PoE) on affordable housing and viability](<I spoke with Jed about the presentation, but he and Caitlin are tied up with the Old Kent Rd EiP this week and next. Did also speak again with couple of Green councillors at an Old Kent Rd meeting and they are keen to hear what we have to say…. >) for planning appeal inquiry relating to development at The Aylesham Centre, Paras 1.4,1.5; 3.0 The Housing Situation in Southwark and Peckham.
 
-
+[^x]  Rule 6 Party, PoE on affordable housing and viability, para 1.9 - '*Built out on that basis, the plan would deliver 1,531 open market homes each year (about 180% of the requirement) and 824 affordable homes (40% of the requirement)'.*
 
 
 

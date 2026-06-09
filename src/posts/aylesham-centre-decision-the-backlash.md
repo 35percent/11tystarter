@@ -102,7 +102,6 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^x]  [Appeal decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) Ref: APP/A5840/W/25/3366760, Para 110.
 
-{^x]  [Proof of evidence on affordable housing and viability for planning appeal inquiry relating to
-development ](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/44/30/44309f2d-ff89-4c64-9544-ceaf2277ce99/aca_-_george_venning_affordable_housing_proof_of_evidence_including_summary.pdf) Para 1.4,1.5
+{^x]  Rule 6 Party, [Proof of evidence on affordable housing and viability](<I spoke with Jed about the presentation, but he and Caitlin are tied up with the Old Kent Rd EiP this week and next. Did also speak again with couple of Green councillors at an Old Kent Rd meeting and they are keen to hear what we have to say…. >) for planning appeal inquiry relating to development at The Aylesham Centre, Paras 1.4,1.5
 
 [^x]  For a wider consideration of the Aylesham Centre scheme, as an example of the impact of viability on major housing developments, see [“A broken model”: The viability loophole and its impact on affordable housing](https://www.thedeveloper.live/reportage/reportage/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing) by Peter Apps.

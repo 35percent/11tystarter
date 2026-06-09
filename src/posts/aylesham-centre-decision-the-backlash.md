@@ -72,7 +72,7 @@ ACA comment that increasing profit this way, thus making the scheme less viable,
 
 ACA finally make some tentative suggestions as to how build costs might be reduced and conclude with their own indicative appraisal, showing how the development could be made viable [^12].
 
-![]()
+![](img/aylesham_centre_clock_tower.png)
 
 ### Berkeley replies….
 

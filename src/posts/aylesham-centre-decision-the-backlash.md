@@ -106,7 +106,7 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^5]  BVA Associates, PoE on affordable housing and viability, para 1.6 -1.9.  Para 1.09 states - '*Built out on that basis, the plan would deliver 1,531 open market homes each year (about 180% of the requirement) and 824 affordable homes (40% of the requirement)'.*
 
-[^6]  BVA Associates , PoE, paras 1.12-1.15
+[^6]  BVA Associates, PoE, paras 1.12-1.15
 
 [^7]  BVA Associates, PoE, para 1.17
 

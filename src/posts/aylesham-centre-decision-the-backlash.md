@@ -20,11 +20,11 @@ The ACA evidence sets the scene by describing Peckham and Southwark’s particul
 Unsurprisingly, this is reflected in relatively low levels of owner-occupation - 30% of housing stock in Southwark, 32% in Peckham, compared to 60% nationally. Correspondingly, the social rent levels are relatively high – 44% of housing in Peckham, compared to 23% across London and 17% nationally.
 The remaining 24% of Peckham households are in private accommodation, where they are likely to be paying at least 41% of their gross income on housing costs.
 
-ACA accurately  conclude that *‘The role played by affordable housing is, accordingly, far greater here than elsewhere’.* [^x]
+ACA accurately  conclude that *‘The role played by affordable housing is, accordingly, far greater here than elsewhere’* [^x].
 
 ### ACA – new homes yes, gentrification no
 
-Having spelt out the importance of affordable housing in Peckham, ACA then lays out the shortcomings of Berkeley’s proposals.  They first show how even the local plan requirement of 35% affordable housing over-delivers free-market housing and under-delivers affordable housing, when measured against housing need; anything less than 35% obviously creates a greater imbalance.
+Having spelt out the importance of affordable housing in Peckham, ACA then lays out the shortcomings of Berkeley’s proposals.  They first show how even the local plan requirement of 35% affordable housing over-delivers free-market housing and under-delivers affordable housing, when measured against housing need; anything less than 35% obviously creates a greater imbalance [^x].
 
 ACA then address the ‘half-a-loaf is better than no loaf’ argument by pointing out that the simple loss of affordable housing is not the whole story.  The development would overwhelmingly be comprised of smaller homes, attractive to first-time buyers and investors, but unaffordable to local households - who are therefore likely to displaced by wealthier ones (a visit to Elephant Park, formerly the Heygate estate, shows how this works).
 
@@ -100,8 +100,18 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^x]  Mr Mohamed also recommended visiting the Inquiry website.  Unfortunately this is no longer online.  Planning inquiry documents are held by Southwark Council.
 
-[^x]  [Appeal decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) Ref: APP/A5840/W/25/3366760, Para 110; 3.0 The Housing Situation in Southwark and Peckham
+[^x]  [Appeal decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) Ref: APP/A5840/W/25/3366760, Para 110; 
 
-{^x]  Rule 6 Party, [Proof of evidence on affordable housing and viability](<I spoke with Jed about the presentation, but he and Caitlin are tied up with the Old Kent Rd EiP this week and next. Did also speak again with couple of Green councillors at an Old Kent Rd meeting and they are keen to hear what we have to say…. >) for planning appeal inquiry relating to development at The Aylesham Centre, Paras 1.4,1.5
+{^x]  Rule 6 Party, [Proof of evidence on affordable housing and viability](<I spoke with Jed about the presentation, but he and Caitlin are tied up with the Old Kent Rd EiP this week and next. Did also speak again with couple of Green councillors at an Old Kent Rd meeting and they are keen to hear what we have to say…. >) for planning appeal inquiry relating to development at The Aylesham Centre, Paras 1.4,1.5; 3.0 The Housing Situation in Southwark and Peckham.
+
+
+
+
+
+
+
+
+
+
 
 [^x]  For a wider consideration of the Aylesham Centre scheme, as an example of the impact of viability on major housing developments, see [“A broken model”: The viability loophole and its impact on affordable housing](https://www.thedeveloper.live/reportage/reportage/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing) by Peter Apps.

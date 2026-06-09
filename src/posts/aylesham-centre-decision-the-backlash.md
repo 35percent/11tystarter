@@ -100,6 +100,6 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^x]  Mr Mohamed also recommended visiting the Inquiry website.  Unfortunately this is no longer online.  Planning inquiry documents are held by Southwark Council.
 
-[^x]  [Appeal decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) Ref: APP/A5840/W/25/3366760, Aylesham Centre, Rye Lane, London SE15 5EW.  Para 110.
+[^x]  [Appeal decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) Ref: APP/A5840/W/25/3366760, Para 110.
 
 [^x]  For a wider consideration of the Aylesham Centre scheme, as an example of the impact of viability on major housing developments, see [“A broken model”: The viability loophole and its impact on affordable housing](https://www.thedeveloper.live/reportage/reportage/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing) by Peter Apps.

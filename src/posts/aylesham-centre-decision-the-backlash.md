@@ -50,9 +50,9 @@ ACA add that small changes to viability inputs on such a large scheme can transf
 
 The second factor is that the assessment generates a higher return for the landowner than normally permitted by viability guidance, once the value of the new Morrisons store is taken into account.  ACA believe that the options for reducing this critical cost, including its expensive basement parking, had not been fully explored. 
 
-The third factor favouring reducing the weight is simply that *‘something is seriously amiss’* if a central London site such as the Aylesham cannot deliver more than 12% affordable housing.
+The third factor favouring reducing the weight is simply that *‘something is seriously amiss’* if a central London site such as the Aylesham cannot deliver more than 12% affordable housing [^9].
 
-Finally, ACA lament the loss of the Community Land Trust housing, on top of the lost affordable housing.  They observe that the Aylesham is the only site in the local plan that has CLT provision and that the shared-ownership affordable housing preferred by Berkeley no longer acts as a *‘leg-up’* onto the housing market for young, working households.
+Finally, ACA lament the loss of the Community Land Trust housing, on top of the lost affordable housing.  They observe that the Aylesham is the only site in the local plan that has CLT provision and that the shared-ownership affordable housing preferred by Berkeley no longer acts as a *‘leg-up’* onto the housing market for young, working households [^10].
 
 ### Affordable housing falls, profits rise….
 
@@ -112,9 +112,9 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^8]  Rule 6 Party, PoE, para 5.19-5.58, for a lengthy examination of the cost of replacing Morrisions.
 
+[^9]  Rule 6 Party, PoE, paras 1.14-1.27.
 
-
-
+[^10]  Rule 6 Party, PoE, paras 1.28-1.37
 
 
 

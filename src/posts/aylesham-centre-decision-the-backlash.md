@@ -114,7 +114,7 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^7]  BVA Associates, PoE, para 1.17
 
-[^8]  BVA Associates, PoE, para 5.19-5.58, for a lengthy examination of the cost of replacing Morrisons.  The Aylesham site has a Public Transport Accessibility Level (PTAL) rating of 6b, [Officer report](https://moderngov.southwark.gov.uk/documents/s127975/24AP2074%20-The%20Aylesham%20Centre%20Rye%20Lane%20London%20SE15%205EW.pdf), 15 July 2025, para 22.
+[^8]  BVA Associates, PoE, para 5.19-5.58, for a detailed examination of the cost of replacing Morrisons.  The Aylesham site has a Public Transport Accessibility Level (PTAL) rating of 6b, [Officer report](https://moderngov.southwark.gov.uk/documents/s127975/24AP2074%20-The%20Aylesham%20Centre%20Rye%20Lane%20London%20SE15%205EW.pdf), 15 July 2025, para 22.
 
 [^9]  BVA Associates, PoE, paras 1.14-1.27.
 

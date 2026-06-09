@@ -32,7 +32,7 @@ ACA then address the *‘half-a-loaf is better than no loaf’* argument by poin
 
 ACA also take up a point many critics of the decision have landed on - that Southwark Council agreed with Berkeley that a scheme which included affordable housing was not viable.
 
-This is true - Southwark did agree with this position. But, in common with all planning authorities, it does not conduct its own viability assessments of planning applications, for the Aylesham or anywhere else.  Instead, it appraises the financial assessments that developers provide, which are *‘undertaken in the context of specific choices made by a developer, beyond the control of a Council and the local community’*, as ACA pointed out.  
+This is true - Southwark did agree with this position. But, in common with all planning authorities, it does not conduct its own viability assessments of planning applications, for the Aylesham or anywhere else.  Instead, it appraises the financial assessments that developers provide, which are *‘undertaken in the context of specific choices made by a developer, beyond the control of a Council and the local community’*, as ACA pointed out [^7].  
 
 And one of the *‘specific choices’* made by Berkeley was to take on a site with a Morrisons supermarket, which has to be re-provided in any redevelopment, both as a requirement of the local plan and as a lease obligation.
 
@@ -107,6 +107,8 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 [^5]  Rule 6 Party, PoE on affordable housing and viability, para 1.6 -1.9.  Para 1.09 states - '*Built out on that basis, the plan would deliver 1,531 open market homes each year (about 180% of the requirement) and 824 affordable homes (40% of the requirement)'.*
 
 [^6]  Rule 6 Party, PoE, paras 1.12-1.15
+
+[^7]  Rule 6 Party, PoE, para 1.17
 
 
 

@@ -26,7 +26,7 @@ ACA accurately  conclude that *‘The role played by affordable housing is, acco
 
 Having spelt out the importance of affordable housing in Peckham, ACA then lays out the shortcomings of Berkeley’s proposals.  They first show how even the local plan requirement of 35% affordable housing over-delivers free-market housing and under-delivers affordable housing, when measured against housing need; anything less than 35% obviously creates a greater imbalance [^x].
 
-ACA then address the ‘half-a-loaf is better than no loaf’ argument by pointing out that the simple loss of affordable housing is not the whole story.  The development would overwhelmingly be comprised of smaller homes, attractive to first-time buyers and investors, but unaffordable to local households - who are therefore likely to displaced by wealthier ones (a visit to Elephant Park, formerly the Heygate estate, shows how this works).
+ACA then address the ‘half-a-loaf is better than no loaf’ argument by pointing out that the simple loss of affordable housing is not the whole story.  The development would overwhelmingly be comprised of smaller homes, attractive to first-time buyers and investors, but unaffordable to local households - who are therefore likely to displaced by wealthier ones (a visit to Elephant Park, formerly the Heygate estate, shows how this works) [^x].
 
 ### The viability of the Aylesham development
 
@@ -104,9 +104,9 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^x]  Rule 6 Party, [Proof of evidence (PoE) on affordable housing and viability](<I spoke with Jed about the presentation, but he and Caitlin are tied up with the Old Kent Rd EiP this week and next. Did also speak again with couple of Green councillors at an Old Kent Rd meeting and they are keen to hear what we have to say…. >) for planning appeal inquiry relating to development at The Aylesham Centre, Paras 1.4,1.5; 3.0 The Housing Situation in Southwark and Peckham.
 
-[^x]  Rule 6 Party, PoE on affordable housing and viability, para 1.9 - '*Built out on that basis, the plan would deliver 1,531 open market homes each year (about 180% of the requirement) and 824 affordable homes (40% of the requirement)'.*
+[^x]  Rule 6 Party, PoE on affordable housing and viability, para 1.6 -1.9.  Para 1.09 states - '*Built out on that basis, the plan would deliver 1,531 open market homes each year (about 180% of the requirement) and 824 affordable homes (40% of the requirement)'.*
 
-
+[^x]  Rule 6 Party, PoE, paras 1.12-1.15
 
 
 

@@ -62,7 +62,7 @@ ACA comment that increasing profit this way, thus making the scheme less viable,
 
  The ACA evidence also addresses the £60m cost of finance, again suggesting alternative debt arrangements to aid the viability of the scheme.
 
-ACA finally make some tentative suggestions as to how build costs might be reduced and conclude with their own indicative appraisal, showing how the development could be made viable. 
+ACA finally make some tentative suggestions as to how build costs might be reduced and conclude with their own indicative appraisal, showing how the development could be made viable [^11]. 
 
 ### Berkeley replies….
 
@@ -72,7 +72,7 @@ Berkeley said that the 20% GDV *‘developer return’* is allowable under the N
 
 The cost of finance was also calculated according to professional guidance and after a detailed itemised break-down; it was agreed with Southwark Council as were the build costs.  Any savings or cost increases would in any event be picked up by viability review.
 
-Berkeley also justify dropping the Community Land Trust, and favouring intermediate homes instead, as the best way of optimising the affordable housing provision.
+Berkeley also justify dropping the Community Land Trust, and favouring intermediate homes instead, as the best way of optimising the affordable housing provision [^12].
 
 ### The Inspector decides......
 
@@ -102,19 +102,21 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^3]  [Appeal decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) Ref: APP/A5840/W/25/3366760, Para 110; 
 
-[^4]  Rule 6 Party, [Proof of evidence (PoE) on affordable housing and viability](<I spoke with Jed about the presentation, but he and Caitlin are tied up with the Old Kent Rd EiP this week and next. Did also speak again with couple of Green councillors at an Old Kent Rd meeting and they are keen to hear what we have to say…. >) for planning appeal inquiry relating to development at The Aylesham Centre, Paras 1.4,1.5; 3.0 The Housing Situation in Southwark and Peckham.
+[^4] BVA Associates, on behalf of ACA, Rule 6 Party, [Proof of evidence (PoE) on affordable housing and viability](<I spoke with Jed about the presentation, but he and Caitlin are tied up with the Old Kent Rd EiP this week and next. Did also speak again with couple of Green councillors at an Old Kent Rd meeting and they are keen to hear what we have to say…. >) for planning appeal inquiry relating to development at The Aylesham Centre, Sept 2026, Paras 1.4,1.5; 3.0 The Housing Situation in Southwark and Peckham.
 
-[^5]  Rule 6 Party, PoE on affordable housing and viability, para 1.6 -1.9.  Para 1.09 states - '*Built out on that basis, the plan would deliver 1,531 open market homes each year (about 180% of the requirement) and 824 affordable homes (40% of the requirement)'.*
+[^5]  BVA Associates, PoE on affordable housing and viability, para 1.6 -1.9.  Para 1.09 states - '*Built out on that basis, the plan would deliver 1,531 open market homes each year (about 180% of the requirement) and 824 affordable homes (40% of the requirement)'.*
 
-[^6]  Rule 6 Party, PoE, paras 1.12-1.15
+[^6]  BVA Associates , PoE, paras 1.12-1.15
 
-[^7]  Rule 6 Party, PoE, para 1.17
+[^7]  BVA Associates, PoE, para 1.17
 
-[^8]  Rule 6 Party, PoE, para 5.19-5.58, for a lengthy examination of the cost of replacing Morrisions.
+[^8]  BVA Associates, PoE, para 5.19-5.58, for a lengthy examination of the cost of replacing Morrisions.
 
-[^9]  Rule 6 Party, PoE, paras 1.14-1.27.
+[^9]  BVA Associates , PoE, paras 1.14-1.27.
 
-[^10]  Rule 6 Party, PoE, paras 1.28-1.37
+[^10]  BVA Associates, PoE, paras 1.28-1.37
+
+[^11]  BVA Associates , PoE, Appendices, Annexes A and B.  Unfortunately the Appendices are no longer online, but all planning inquiry documents are held by Southwark Council.
 
 
 

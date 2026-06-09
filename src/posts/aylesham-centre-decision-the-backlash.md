@@ -34,13 +34,13 @@ ACA also take up a point many critics of the decision have landed on - that Sout
 
 This is true - Southwark did agree that the scheme was unviable.  But 'unviable' does not mean 'unprofitable' and there was disagreement about how much profit the scheme would make, even with a viability deficit.  Berkeley said it would be a £39.4m profit (on a deficit of £67.3m), while Southwark said it would be a much higher £84.4m (on a deficit of £41.4m)[^x].
 
-Also, in common with all planning authorities, it does not conduct its own viability assessments of planning applications, for the Aylesham or anywhere else.  Instead, it appraises the financial assessments that developers provide, which are *‘undertaken in the context of specific choices made by a developer, beyond the control of a Council and the local community’*, as ACA pointed out [^7].  
+Also, in common with all planning authorities, Southwark does not conduct its own viability assessments of planning applications, for the Aylesham or anywhere else.  Instead, it appraises the financial assessments that developers provide, which are *‘undertaken in the context of specific choices made by a developer, beyond the control of a Council and the local community’*, as ACA pointed out [^7].  
 
 And one of the *‘specific choices’* made by Berkeley was to take on a site with a Morrisons supermarket, which has to be re-provided in any redevelopment, both as a requirement of the local plan and as a lease obligation.
 
 Notwithstanding this unavoidable cost Berkeley initially offered 35% affordable housing, only to later specify the supermarket replacement cost (which they knew about all along) as the one site-specific reason for reducing the affordable housing offer to 12%.
 
-ACA note in their evidence that replacing the supermarket will cost £44m, an exceptional sum when compared to its current value of £13m.  The supermarket will also come with a very large basement car-park, much larger than that for the Camberwell Morrisons and in an area with a good public transport (PTAL rating?) [^8].
+ACA note in their evidence that replacing the supermarket will cost £44m, an exceptional sum when compared to its current value of £13m.  The supermarket will also come with a very large basement car-park, much larger than that for the Camberwell Morrisons and in an area with the highest public transport rating [^8].
 
 ### More viability....
 
@@ -114,7 +114,7 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^7]  BVA Associates, PoE, para 1.17
 
-[^8]  BVA Associates, PoE, para 5.19-5.58, for a lengthy examination of the cost of replacing Morrisions.
+[^8]  BVA Associates, PoE, para 5.19-5.58, for a lengthy examination of the cost of replacing Morrisons.  The Aylesham site has a Public Transport Accessibility Level (PTAL) rating of 6b, [Officer report](https://moderngov.southwark.gov.uk/documents/s127975/24AP2074%20-The%20Aylesham%20Centre%20Rye%20Lane%20London%20SE15%205EW.pdf), 15 July 2025, para 22.
 
 [^9]  BVA Associates, PoE, paras 1.14-1.27.
 

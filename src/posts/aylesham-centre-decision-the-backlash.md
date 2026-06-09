@@ -17,7 +17,7 @@ ACA’s viability evidence also demonstrates the serious thought and effort they
 
 The ACA evidence sets the scene by describing Peckham and Southwark’s particular need for affordable housing.  Using middle-value homes as a measure, they show that market housing is more expensive in Southwark, when matched against income, than in most other parts of the UK.  A middle-priced home in England has a value just over eight times a median income, whereas in Southwark it is well over twelve times median income.  Put another way, a middle-income earner has to pay proportionately more to buy a home in Southwark than they would have to pay most anywhere else.
 
-Unsurprisingly, this is reflected in relatively low levels of owner-occupation - 30% of housing stock in Southwark, 32% in Peckham, compared to 60% nationally. Correspondingly, the social rent levels are relatively high – 44% of housing in Peckham, compared to 23% across London and 17% nationally.
+Unsurprisingly, this is reflected in relatively low levels of owner-occupation - less than 30% of housing stock in Southwark, 32% in Peckham, compared to 60% nationally. Correspondingly, the social rent levels are relatively high – 44% of housing in Peckham, compared to 23% across London and 17% nationally.
 The remaining 24% of Peckham households are in private accommodation, where they are likely to be paying at least 41% of their gross income on housing costs.
 
 ACA accurately  conclude that *‘The role played by affordable housing is, accordingly, far greater here than elsewhere’* [^4].

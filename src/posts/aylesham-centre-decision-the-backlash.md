@@ -86,7 +86,7 @@ His final decision, though, turned on whether these and the public benefits, inc
 
 Much of the criticism of the Aylesham decision is uninformed and bristles with indignation.  The idea that Peckham has a history and a heritage is seen in some quarters as a bit of joke and, anyhow, not something that should be allowed to get it the way of a big developer like Berkeley.  If Berkeley’s new homes are too expensive for local people that’s just too bad – ‘viability’ dictates that affordable housing is no longer on the menu.
 
-But this is all wrong. Peckham does have history and heritage, and the viability of the development is not immutable, as ACA’s reasoned and researched Inquiry evidence demonstrates. [^x]
+But this is all wrong. Peckham does have history and heritage, and the viability of the development is not immutable, as ACA’s reasoned and researched Inquiry evidence demonstrates [^16].
 
 Berkeley’s homes are too expensive for local people because Berkeley chooses to build them that way, not because of viability.  Berkeley knew well enough, for instance, that the site included Morrison’s supermarket and they also set their own profit levels, key elements of any viability calculation – the people of Peckham and Southwark should not now have to sacrifice their own housing opportunities to make that equation work for them.
 
@@ -126,4 +126,4 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^15]  Appeal decision, paras 108, 110, 112 
 
-[^x]  For a wider consideration of the Aylesham Centre scheme, as an example of the impact of viability on major housing developments, see [“A broken model”: The viability loophole and its impact on affordable housing](https://www.thedeveloper.live/reportage/reportage/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing) by Peter Apps.
+[^16]  For a wider consideration of the Aylesham Centre scheme, as an example of the impact of viability on major housing developments, see [“A broken model”: The viability loophole and its impact on affordable housing](https://www.thedeveloper.live/reportage/reportage/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing) by Peter Apps.

@@ -1,5 +1,5 @@
 ---
-title: The Aylesham Centre decision - the backlash
+title: The Aylesham Centre - decision, then backlash
 description: Rejection of Berkeley Homes scheme provokes widespread comment
 date: 2026-06-08T14:23:05.986Z
 ---

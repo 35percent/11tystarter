@@ -118,6 +118,6 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^11]  BVA Associates , PoE, Appendices, Annexes A and B.  Unfortunately the Appendices are no longer online, but all planning inquiry documents are held by Southwark Council.
 
-
+[^12]  DS2, on behalf of Berkeley Homes, Rebuttal Proof of Evidence, Viability, Oct 2025, Section 4 Rule 6 Party Viability Evidence. Unfortunately Rebuttal is no longer online, but all planning inquiry documents are held by Southwark Council.
 
 [^x]  For a wider consideration of the Aylesham Centre scheme, as an example of the impact of viability on major housing developments, see [“A broken model”: The viability loophole and its impact on affordable housing](https://www.thedeveloper.live/reportage/reportage/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing) by Peter Apps.

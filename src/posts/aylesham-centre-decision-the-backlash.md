@@ -32,7 +32,7 @@ ACA then address the *‘half-a-loaf is better than no loaf’* argument by poin
 
 ACA also take up a point many critics of the decision have landed on - that Southwark Council agreed with Berkeley that a scheme which included affordable housing was not viable .
 
-This is true - Southwark did agree that the scheme was unviable.  But 'unviable' does not mean 'unprofitable' and there was disagreement about how much profit the scheme would make, even with a viability deficit.  Berkeley said it would be a £39m profit, while Southwark said it would be a much higher £84m [^x].
+This is true - Southwark did agree that the scheme was unviable.  But 'unviable' does not mean 'unprofitable' and there was disagreement about how much profit the scheme would make, even with a viability deficit.  Berkeley said it would be a £39.4m profit (on a deficit of £67.3m), while Southwark said it would be a much higher £84.4m (on a deficit of £41.4m)[^x].
 
 Also, in common with all planning authorities, it does not conduct its own viability assessments of planning applications, for the Aylesham or anywhere else.  Instead, it appraises the financial assessments that developers provide, which are *‘undertaken in the context of specific choices made by a developer, beyond the control of a Council and the local community’*, as ACA pointed out [^7].  
 

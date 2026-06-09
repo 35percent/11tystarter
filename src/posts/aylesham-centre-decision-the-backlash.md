@@ -32,15 +32,15 @@ ACA then address the *‘half-a-loaf is better than no loaf’* argument by poin
 
 ACA also take up a point many critics of the decision have landed on - that Southwark Council agreed with Berkeley that a scheme which included affordable housing was not viable .
 
-This is true - Southwark did agree that the scheme was unviable.  But 'unviable' does not mean 'unprofitable' and there was disagreement about how much profit the scheme would make, even with a viability deficit.  Berkeley said it would be a £39.4m profit (on a deficit of £67.3m), while Southwark said it would be a much higher £84.4m (on a deficit of £41.4m)[^x].
+This is true - Southwark did agree that the scheme was unviable.  But 'unviable' does not mean 'unprofitable' and there was disagreement about how much profit the scheme would make, even with a viability deficit.  Berkeley said it would be a £39.4m profit (on a deficit of £67.3m), while Southwark said it would be a much higher £84.4m (on a deficit of £41.4m)[^7].
 
-Also, in common with all planning authorities, Southwark does not conduct its own viability assessments of planning applications, for the Aylesham or anywhere else.  Instead, it appraises the financial assessments that developers provide, which are *‘undertaken in the context of specific choices made by a developer, beyond the control of a Council and the local community’*, as ACA pointed out [^7].  
+Also, in common with all planning authorities, Southwark does not conduct its own viability assessments of planning applications, for the Aylesham or anywhere else.  Instead, it appraises the financial assessments that developers provide, which are *‘undertaken in the context of specific choices made by a developer, beyond the control of a Council and the local community’*, as ACA pointed out [^8].  
 
 And one of the *‘specific choices’* made by Berkeley was to take on a site with a Morrisons supermarket, which has to be re-provided in any redevelopment, both as a requirement of the local plan and as a lease obligation.
 
 Notwithstanding this unavoidable cost Berkeley initially offered 35% affordable housing, only to later specify the supermarket replacement cost (which they knew about all along) as the one site-specific reason for reducing the affordable housing offer to 12%.
 
-ACA note in their evidence that replacing the supermarket will cost £44m, an exceptional sum when compared to its current value of £13m.  The supermarket will also come with a very large basement car-park, much larger than that for the Camberwell Morrisons and in an area with the highest public transport rating [^8].
+ACA note in their evidence that replacing the supermarket will cost £44m, an exceptional sum when compared to its current value of £13m.  The supermarket will also come with a very large basement car-park, much larger than that for the Camberwell Morrisons and in an area with the highest public transport rating [^9].
 
 ### More viability....
 
@@ -52,9 +52,9 @@ ACA add that small changes to viability inputs on such a large scheme can transf
 
 The second factor is that the assessment generates a higher return for the landowner than normally permitted by viability guidance, once the value of the new Morrisons store is taken into account.  ACA believe that the options for reducing this critical cost, including its expensive basement parking, had not been fully explored. 
 
-The third factor favouring reducing the weight is simply that *‘something is seriously amiss’* if a central London site such as the Aylesham cannot deliver more than 12% affordable housing [^9].
+The third factor favouring reducing the weight is simply that *‘something is seriously amiss’* if a central London site such as the Aylesham cannot deliver more than 12% affordable housing [^10].
 
-Finally, ACA lament the loss of the Community Land Trust housing, on top of the lost affordable housing.  They observe that the Aylesham is the only site in the local plan that has CLT provision and that the shared-ownership affordable housing preferred by Berkeley no longer acts as a *‘leg-up’* onto the housing market for young, working households [^10].
+Finally, ACA lament the loss of the Community Land Trust housing, on top of the lost affordable housing.  They observe that the Aylesham is the only site in the local plan that has CLT provision and that the shared-ownership affordable housing preferred by Berkeley no longer acts as a *‘leg-up’* onto the housing market for young, working households [^11].
 
 ### Affordable housing falls, profits rise….
 
@@ -64,7 +64,7 @@ ACA comment that increasing profit this way, thus making the scheme less viable,
 
  The ACA evidence also addresses the £60m cost of finance, again suggesting alternative debt arrangements to aid the viability of the scheme.
 
-ACA finally make some tentative suggestions as to how build costs might be reduced and conclude with their own indicative appraisal, showing how the development could be made viable [^11]. 
+ACA finally make some tentative suggestions as to how build costs might be reduced and conclude with their own indicative appraisal, showing how the development could be made viable [^12]. 
 
 ### Berkeley replies….
 
@@ -74,21 +74,21 @@ Berkeley said that the 20% GDV *‘developer return’* is allowable under the N
 
 The cost of finance was also calculated according to professional guidance and after a detailed itemised break-down; it was agreed with Southwark Council as were the build costs.  Any savings or cost increases would in any event be picked up by viability review.
 
-Berkeley also justifies dropping the Community Land Trust, and favouring intermediate homes instead, as the best way of optimising the affordable housing provision [^12].
+Berkeley also justifies dropping the Community Land Trust, and favouring intermediate homes instead, as the best way of optimising the affordable housing provision [^13].
 
 ### The Inspector decides....
 
-The Inspector’s eighteen-page decision identifies four main issues – the scale of the development and its impact on the townscape, the loss of retail floorspace and how that would affect the vitality of the town centre, the affordable housing provision and the weight of these, alongside the public benefits of the scheme, in his decision-making [^13].
+The Inspector’s eighteen-page decision identifies four main issues – the scale of the development and its impact on the townscape, the loss of retail floorspace and how that would affect the vitality of the town centre, the affordable housing provision and the weight of these, alongside the public benefits of the scheme, in his decision-making [^14].
 
-He decided that Berkeley’s scheme would not cause any loss of vitality to the town centre.  While he noted that 93% of households had an income that required social or intermediate housing, he nonetheless concluded that the affordable housing was a benefit, even if only 12% of the total [^14].
+He decided that Berkeley’s scheme would not cause any loss of vitality to the town centre.  While he noted that 93% of households had an income that required social or intermediate housing, he nonetheless concluded that the affordable housing was a benefit, even if only 12% of the total [^15].
 
-His final decision, though, turned on whether these and the public benefits, including 867 new homes, outweighed the harm caused to the townscape by the scheme. On this he was emphatic, saying *‘… the direct benefits arising from the development comparative to harm to the RLPCA* \[Rye Lane and Peckham Conservation Area]*….and to the townscape give me insufficient reasons to allow the appeal’*.   He adds, for good measure, *‘For clarity, even with 35% affordable housing as initially proposed in the planning application process and accepting a worsening housing land supply position…… I would still have found that the level of harm in this case would not be overridden’*.  He therefore rejects Berkeley’s appeal and their proposals for the Aylesham Centre [^15].
+His final decision, though, turned on whether these and the public benefits, including 867 new homes, outweighed the harm caused to the townscape by the scheme. On this he was emphatic, saying *‘… the direct benefits arising from the development comparative to harm to the RLPCA* \[Rye Lane and Peckham Conservation Area]*….and to the townscape give me insufficient reasons to allow the appeal’*.   He adds, for good measure, *‘For clarity, even with 35% affordable housing as initially proposed in the planning application process and accepting a worsening housing land supply position…… I would still have found that the level of harm in this case would not be overridden’*.  He therefore rejects Berkeley’s appeal and their proposals for the Aylesham Centre [^16].
 
 ### What we say....
 
 Much of the criticism of the Aylesham decision is uninformed and bristles with indignation.  The idea that Peckham has a history and a heritage is seen in some quarters as a bit of joke and, anyhow, not something that should be allowed to get it the way of a big developer like Berkeley.  If Berkeley’s new homes are too expensive for local people that’s just too bad – ‘viability’ dictates that affordable housing is no longer on the menu.
 
-But this is all wrong. Peckham does have history and heritage, and the viability of the development is not immutable, as ACA’s reasoned and researched Inquiry evidence demonstrates [^16].
+But this is all wrong. Peckham does have history and heritage, and the viability of the development is not immutable, as ACA’s reasoned and researched Inquiry evidence demonstrates [^17].
 
 Berkeley’s homes are too expensive for local people because Berkeley chooses to build them that way, not because of viability.  Berkeley knew well enough, for instance, that the site included Morrison’s supermarket and they also set their own profit levels, key elements of any viability calculation – the people of Peckham and Southwark should not now have to sacrifice their own housing opportunities to make that equation work for them.
 
@@ -110,24 +110,24 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^6]  BVA Associates, PoE, paras 1.12-1.15
 
-[^x]  [Officer report](https://moderngov.southwark.gov.uk/documents/s127975/24AP2074%20-The%20Aylesham%20Centre%20Rye%20Lane%20London%20SE15%205EW.pdf), 15 July 2025, para 313. See also our [previous Aylesham blogpost](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/).
+[^7]  [Officer report](https://moderngov.southwark.gov.uk/documents/s127975/24AP2074%20-The%20Aylesham%20Centre%20Rye%20Lane%20London%20SE15%205EW.pdf), 15 July 2025, para 313. See also our [previous Aylesham blogpost](https://www.35percent.org/posts/aylesham-centre-planning-application-rejected/).
 
-[^7]  BVA Associates, PoE, para 1.17
+[^8]  BVA Associates, PoE, para 1.17
 
-[^8]  BVA Associates, PoE, para 5.19-5.58, for a detailed examination of the cost of replacing Morrisons.  The Aylesham site has a Public Transport Accessibility Level (PTAL) rating of 6b, [Officer report](https://moderngov.southwark.gov.uk/documents/s127975/24AP2074%20-The%20Aylesham%20Centre%20Rye%20Lane%20London%20SE15%205EW.pdf), 15 July 2025, para 22.
+[^9]  BVA Associates, PoE, para 5.19-5.58, for a detailed examination of the cost of replacing Morrisons.  The Aylesham site has a Public Transport Accessibility Level (PTAL) rating of 6b, [Officer report](https://moderngov.southwark.gov.uk/documents/s127975/24AP2074%20-The%20Aylesham%20Centre%20Rye%20Lane%20London%20SE15%205EW.pdf), 15 July 2025, para 22.
 
-[^9]  BVA Associates, PoE, paras 1.16-1.27.
+[^10]  BVA Associates, PoE, paras 1.16-1.27.
 
-[^10]  BVA Associates, PoE, paras 1.28-1.37
+[^11]  BVA Associates, PoE, paras 1.28-1.37
 
-[^11]  BVA Associates, PoE, Appendices, Annexes A and B.  Unfortunately the Appendices are no longer online, but all planning inquiry documents are held by Southwark Council.
+[^12]  BVA Associates, PoE, Appendices, Annexes A and B.  Unfortunately the Appendices are no longer online, but all planning inquiry documents are held by Southwark Council.
 
-[^12]  DS2, on behalf of Berkeley Homes, Rebuttal Proof of Evidence, Viability, Oct 2025, Section 4 Rule 6 Party Viability Evidence. Unfortunately Rebuttal is no longer online, but all planning inquiry documents are held by Southwark Council.
+[^13]  DS2, on behalf of Berkeley Homes, Rebuttal Proof of Evidence, Viability, Oct 2025, Section 4 Rule 6 Party Viability Evidence. Unfortunately Rebuttal is no longer online, but all planning inquiry documents are held by Southwark Council.
 
-[^13]  Appeal decision, para 5
+[^14]  Appeal decision, para 5
 
-[^14]  Appeal decision, paras 68,104
+[^15]  Appeal decision, paras 68,104
 
-[^15]  Appeal decision, paras 108, 110, 112 
+[^16]  Appeal decision, paras 108, 110, 112 
 
-[^16]  For a wider consideration of the Aylesham Centre scheme, as an example of the impact of viability on major housing developments, see [“A broken model”: The viability loophole and its impact on affordable housing](https://www.thedeveloper.live/reportage/reportage/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing) by Peter Apps.
+[^17]  For a wider consideration of the Aylesham Centre scheme, as an example of the impact of viability on major housing developments, see [“A broken model”: The viability loophole and its impact on affordable housing](https://www.thedeveloper.live/reportage/reportage/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing) by Peter Apps.

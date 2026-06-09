@@ -76,11 +76,11 @@ Berkeley also justify dropping the Community Land Trust, and favouring intermedi
 
 ### The Inspector decides......
 
-The Inspector’s eighteen-page decision identifies four main issues – the scale of the development and its impact on the townscape, the loss of retail floorspace and how that would affect the vitality of the town centre, the affordable housing provision and the weight of these, alongside the public benefits of the scheme, in his decision-making (5).
+The Inspector’s eighteen-page decision identifies four main issues – the scale of the development and its impact on the townscape, the loss of retail floorspace and how that would affect the vitality of the town centre, the affordable housing provision and the weight of these, alongside the public benefits of the scheme, in his decision-making [^13].
 
-He decided that Berkeley’s scheme would not cause any loss of vitality to the town centre.  While he noted that 93% of households had an income that required social or intermediate housing (68), he nonetheless concluded that the affordable housing was a benefit, even if only 12% of the total (104).
+He decided that Berkeley’s scheme would not cause any loss of vitality to the town centre.  While he noted that 93% of households had an income that required social or intermediate housing, he nonetheless concluded that the affordable housing was a benefit, even if only 12% of the total [^14].
 
-His final decision, though, turned on whether these and the public benefits, including 867 new homes, outweighed the harm caused to the townscape by the scheme. On this he was emphatic, saying *‘… the direct benefits arising from the development comparative to harm to the RLPCA* \[Rye Lane and Peckham Conservation Area]*….and to the townscape give me insufficient reasons to allow the appeal’*.   He adds, for good measure, *‘For clarity, even with 35% affordable housing as initially proposed in the planning application process and accepting a worsening housing land supply position…… I would still have found that the level of harm in this case would not be overridden’*.  He therefore rejects Berkeley’s appeal and their proposals for the Aylesham Centre (108, 110, 112).
+His final decision, though, turned on whether these and the public benefits, including 867 new homes, outweighed the harm caused to the townscape by the scheme. On this he was emphatic, saying *‘… the direct benefits arising from the development comparative to harm to the RLPCA* \[Rye Lane and Peckham Conservation Area]*….and to the townscape give me insufficient reasons to allow the appeal’*.   He adds, for good measure, *‘For clarity, even with 35% affordable housing as initially proposed in the planning application process and accepting a worsening housing land supply position…… I would still have found that the level of harm in this case would not be overridden’*.  He therefore rejects Berkeley’s appeal and their proposals for the Aylesham Centre [^15].
 
 ### What we say....
 
@@ -119,5 +119,11 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 [^11]  BVA Associates , PoE, Appendices, Annexes A and B.  Unfortunately the Appendices are no longer online, but all planning inquiry documents are held by Southwark Council.
 
 [^12]  DS2, on behalf of Berkeley Homes, Rebuttal Proof of Evidence, Viability, Oct 2025, Section 4 Rule 6 Party Viability Evidence. Unfortunately Rebuttal is no longer online, but all planning inquiry documents are held by Southwark Council.
+
+[^13]  Appeal decision, para 5
+
+[^14]  Appeal decision, paras 68,104
+
+[^15]  Appeal decision, paras 108, 110, 112 
 
 [^x]  For a wider consideration of the Aylesham Centre scheme, as an example of the impact of viability on major housing developments, see [“A broken model”: The viability loophole and its impact on affordable housing](https://www.thedeveloper.live/reportage/reportage/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing) by Peter Apps.

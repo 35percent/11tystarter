@@ -74,7 +74,7 @@ The cost of finance was also calculated according to professional guidance and a
 
 Berkeley also justify dropping the Community Land Trust, and favouring intermediate homes instead, as the best way of optimising the affordable housing provision [^12].
 
-### The Inspector decides......
+### The Inspector decides....
 
 The Inspector’s eighteen-page decision identifies four main issues – the scale of the development and its impact on the townscape, the loss of retail floorspace and how that would affect the vitality of the town centre, the affordable housing provision and the weight of these, alongside the public benefits of the scheme, in his decision-making [^13].
 

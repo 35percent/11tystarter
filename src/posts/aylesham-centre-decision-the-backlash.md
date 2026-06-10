@@ -64,7 +64,7 @@ Finally, ACA lament the loss of the Community Land Trust housing, on top of the 
 
 ### Affordable housing falls, profits rise….
 
-ACA’s evidence also demonstrated how the scheme might be made viable.  Looking just at the housing element of the development, ACA shows profit increasing from £77m, with 35% affordable housing, to £101.6m, with 12% which prompts the comment that *‘reducing the public benefit of the scheme by cutting the level of affordable housing from 35% to 12% allows Berkeley to enhance their allowable profit by a third’.*
+ACA’s evidence also demonstrates how the scheme might be made viable.  Looking just at the housing element of the development, ACA shows profit increasing from £77m, with 35% affordable housing, to £101.6m, with 12% which prompts the comment that *‘reducing the public benefit of the scheme by cutting the level of affordable housing from 35% to 12% allows Berkeley to enhance their allowable profit by a third’.*
 
 ACA also note that increasing profit this way, thus making the scheme less viable, while reducing affordable housing, ostensibly to make it more viable, is a *‘little perverse’* (NB profit is treated as a cost in viability assessments) [^12].  ACA endorse the GLA’s suggestion that the 20% GDV profit Berkeley awards itself be reduced to 17.5%, if viability is the aim.
 

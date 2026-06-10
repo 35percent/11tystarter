@@ -1,9 +1,9 @@
 ---
 title: The Aylesham Centre - the decision, then the backlash
 description: Rejection of Berkeley Homes scheme provokes widespread comment
-date: 2026-06-08T14:23:05.986Z
+date: 2026-06-08
+image: img/aylesham_centre_rejected.png
 ---
-![](img/aylesham_centre_rejected.png)
 
 The [recent decision](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) by the government Inspector to reject Berkeley Homes’ proposals for the Aylesham Centre provoked much criticism from pro-development quarters, with the local [Aylesham Community Action](https://www.ayleshamcommunityaction.co.uk/) (ACA) campaign often cast [as NIMBYs](https://capx.co/the-nimbys-have-conquered-peckham), denying people the opportunity of a new home, because of misguided heritage concerns [^1].
 
@@ -24,7 +24,7 @@ The remaining 24% of Peckham households are in private accommodation, where they
 
 ACA accurately  conclude that *‘The role played by affordable housing is, accordingly, far greater here than elsewhere’* [^4].
 
-![](img/aylesham_community_action_demo.png)
+![](https://35percent.org/img/aylesham_community_action_demo.png)
 
 ### ACA – new homes yes, gentrification no
 
@@ -46,7 +46,7 @@ Notwithstanding this unavoidable cost Berkeley initially offered 35% affordable 
 
 ACA note in their evidence that replacing the supermarket will cost £44m, an exceptional sum when compared to its current value of £13m.  The supermarket will also come with a very large basement car-park, much larger than that for the Camberwell Morrisons and in an area with the highest public transport rating [^9].
 
-![](img/aylesham_or_314_150725_two.png)
+![](https://35percent.org/img/aylesham_or_314_150725_two.png)
 
 ### More viability....
 
@@ -72,7 +72,7 @@ ACA also note that increasing profit this way, thus making the scheme less viabl
 
 ACA finally make some tentative suggestions as to how build costs might be reduced and conclude with their own indicative appraisal, showing how the development could be made viable [^13].
 
-![](img/aylesham_centre_clock_tower.png)
+![](https://35percent.org/img/aylesham_centre_clock_tower.png)
 
 ### Berkeley replies….
 

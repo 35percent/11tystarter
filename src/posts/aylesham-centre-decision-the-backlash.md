@@ -64,13 +64,13 @@ Finally, ACA lament the loss of the Community Land Trust housing, on top of the 
 
 ### Affordable housing falls, profits rise….
 
-ACA’s evidence was accompanied by appendices, one showing how the scheme might be made viable, with an indicative appraisal.  Looking just at the residential element of the development, ACA shows profit increasing from £77m, with 35% affordable housing, to £101.58m, with 12%, prompting ACA to note that *‘reducing the public benefit of the scheme by cutting the level of affordable housing from 35% to 12% allows Berkeley to enhance their allowable profit by a third’.*
+ACA’s evidence also demonstrated how the scheme might be made viable.  Looking just at the housing element of the development, ACA shows profit increasing from £77m, with 35% affordable housing, to £101.6m, with 12% which prompts the comment that *‘reducing the public benefit of the scheme by cutting the level of affordable housing from 35% to 12% allows Berkeley to enhance their allowable profit by a third’.*
 
-ACA comment that increasing profit this way, thus making the scheme less viable, while reducing affordable housing, ostensibly to make it more viable, is a *‘little perverse’* (NB profit is treated as a cost in viability assessments).  ACA endorse the GLA’s suggestion that the 20% GDV profit Berkeley awards itself be reduced to 17.5%, if viability is the aim.
+ACA also note that increasing profit this way, thus making the scheme less viable, while reducing affordable housing, ostensibly to make it more viable, is a *‘little perverse’* (NB profit is treated as a cost in viability assessments) [^12].  ACA endorse the GLA’s suggestion that the 20% GDV profit Berkeley awards itself be reduced to 17.5%, if viability is the aim.
 
  The ACA evidence also addresses the £60m cost of finance, again suggesting alternative debt arrangements to aid the viability of the scheme.
 
-ACA finally make some tentative suggestions as to how build costs might be reduced and conclude with their own indicative appraisal, showing how the development could be made viable [^12].
+ACA finally make some tentative suggestions as to how build costs might be reduced and conclude with their own indicative appraisal, showing how the development could be made viable [^13].
 
 ![](img/aylesham_centre_clock_tower.png)
 
@@ -82,21 +82,21 @@ Berkeley said that the 20% GDV *‘developer return’* is allowable under the N
 
 The cost of finance was also calculated according to professional guidance and after a detailed itemised break-down; it was agreed with Southwark Council as were the build costs.  Any savings or cost increases would in any event be picked up by viability review.
 
-Berkeley also justifies dropping the Community Land Trust, and favouring intermediate homes instead, as the best way of optimising the affordable housing provision [^13].
+Berkeley also justifies dropping the Community Land Trust, and favouring intermediate homes instead, as the best way of optimising the affordable housing provision [^14].
 
 ### The Inspector decides....
 
-The Inspector’s eighteen-page decision identifies four main issues – the scale of the development and its impact on the townscape, the loss of retail floorspace and how that would affect the vitality of the town centre, the affordable housing provision and how much weight give each of these factors, alongside the public benefits of the scheme, in his decision-making [^14].
+The Inspector’s eighteen-page decision identifies four main issues – the scale of the development and its impact on the townscape, the loss of retail floorspace and how that would affect the vitality of the town centre, the affordable housing provision and how much weight give each of these factors, alongside the public benefits of the scheme, in his decision-making [^15].
 
-The Inspector decided that Berkeley’s scheme would not cause any loss of vitality to the town centre.  While he noted that 93% of households had an income that required social or intermediate housing, he nonetheless also concluded that the affordable housing was a benefit, even if only 12% of the total [^15].
+The Inspector decided that Berkeley’s scheme would not cause any loss of vitality to the town centre.  While he noted that 93% of households had an income that required social or intermediate housing, he nonetheless also concluded that the affordable housing was a benefit, even if only 12% of the total [^16].
 
-His final decision, though, turned on whether these factors, along with the other public benefits, including 867 new homes, outweighed the harm caused to the townscape by the scheme. On this he was emphatic, saying *‘… the direct benefits arising from the development comparative to harm to the RLPCA* [[Rye Lane Peckham Conservation Area](https://peckhamheritage.org.uk/wp-content/uploads/2016/12/Rye_Lane_Peckham_C_A_Appraisal_c18Oct2011.pdf)]*….and to the townscape give me insufficient reasons to allow the appeal’*.   He adds, for good measure, *‘For clarity, even with 35% affordable housing as initially proposed in the planning application process and accepting a worsening housing land supply position…… I would still have found that the level of harm in this case would not be overridden’*.  He therefore rejects Berkeley’s appeal and their proposals for the Aylesham Centre [^16].
+His final decision, though, turned on whether these factors, along with the other public benefits, including 867 new homes, outweighed the harm caused to the townscape by the scheme. On this he was emphatic, saying *‘… the direct benefits arising from the development comparative to harm to the RLPCA* [[Rye Lane Peckham Conservation Area](https://peckhamheritage.org.uk/wp-content/uploads/2016/12/Rye_Lane_Peckham_C_A_Appraisal_c18Oct2011.pdf)]*….and to the townscape give me insufficient reasons to allow the appeal’*.   He adds, for good measure, *‘For clarity, even with 35% affordable housing as initially proposed in the planning application process and accepting a worsening housing land supply position…… I would still have found that the level of harm in this case would not be overridden’*.  He therefore rejects Berkeley’s appeal and their proposals for the Aylesham Centre [^17].
 
 ### What we say....
 
 Much of the criticism of the Aylesham decision is uninformed and bristles with indignation.  The idea that Peckham has a history and a heritage is seen in some quarters as a bit of joke and, anyhow, not something that should be allowed to get it the way of a big developer like Berkeley.  If Berkeley’s new homes are too expensive for local people that’s just too bad – ‘viability’ dictates that affordable housing is no longer on the menu.
 
-But this is all wrong. Peckham does have history and heritage, and the viability of the development is not immutable, as ACA’s reasoned and researched Inquiry evidence demonstrates [^17].
+But this is all wrong. Peckham does have history and heritage, and the viability of the development is not immutable, as ACA’s reasoned and researched Inquiry evidence demonstrates [^18].
 
 Berkeley’s homes are too expensive for local people because Berkeley chooses to build them that way, not because of viability.  Berkeley knew well enough, for instance, that the site included Morrison’s supermarket and they also set their own profit levels, key elements of any viability calculation – the people of Peckham and Southwark should not now have to sacrifice their own housing opportunities to make that equation work for them.
 
@@ -128,16 +128,18 @@ Berkeley’s Aylesham proposals have been rejected twice, by Southwark Council a
 
 [^11]  BVA Associates, PoE, paras 1.28-1.37
 
-[^12]  BVA Associates, PoE, Appendices, Annexes A and B.  Unfortunately the Appendices are no longer online, but all planning inquiry documents are held by Southwark Council.
+[^12]  Profit is counted as a cost in the approved method of establishing a scheme's viability.  In this sense it is little different to other costs, including the cost of affordable housing, hence the ACA comment. 
 
-[^13]  DS2, on behalf of Berkeley Homes, Rebuttal Proof of Evidence, Viability, Oct 2025, Section 4 Rule 6 Party Viability Evidence. Unfortunately the rebuttal is no longer online, but all planning inquiry documents are held by Southwark Council.
+[^13]  BVA Associates, PoE, Appendices, Annexes A and B.  Unfortunately the Appendices are no longer online, but all planning inquiry documents are held by Southwark Council.
 
-[^14]  Appeal decision, para 5
+[^14]  DS2, on behalf of Berkeley Homes, Rebuttal Proof of Evidence, Viability, Oct 2025, Section 4 Rule 6 Party Viability Evidence. Unfortunately the rebuttal is no longer online, but all planning inquiry documents are held by Southwark Council.
 
-[^15]  Appeal decision, paras 68,104
+[^15]  Appeal decision, para 5
 
-[^16]  Appeal decision, paras 108, 110, 112 
+[^16]  Appeal decision, paras 68,104
 
-[^17]  Much of the credit for establishing the RLPCA belongs to the [Peckham Society](https://www.peckhamsociety.org.uk/) and [Peckham Vision](https://www.peckhamvision.org/).  [Peckham Heritage](https://peckhamheritage.org.uk/) has also been a force and has recently published ['Peckham's Heritage; Past, Present and Future'](https://peckhamheritage.org.uk/buy-our-book/).
+[^17]  Appeal decision, paras 108, 110, 112 
+
+[^18]  Much of the credit for establishing the RLPCA belongs to the [Peckham Society](https://www.peckhamsociety.org.uk/) and [Peckham Vision](https://www.peckhamvision.org/).  [Peckham Heritage](https://peckhamheritage.org.uk/) has also been a force and has recently published ['Peckham's Heritage; Past, Present and Future'](https://peckhamheritage.org.uk/buy-our-book/).
 
 For a wider consideration of the Aylesham Centre scheme, as an example of the impact of viability on major housing developments, see [“A broken model”: The viability loophole and its impact on affordable housing](https://www.thedeveloper.live/reportage/reportage/a-broken-model-the-viability-loophole-and-its-impact-on-affordable-housing) by Peter Apps.
